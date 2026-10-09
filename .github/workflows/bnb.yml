@@ -62,11 +62,20 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           # Push only the small progress file every 10 minutes so the run can be followed live.
+          # It goes through a separate worktree: never touch the files bnb.py is appending to.
+          git worktree add -q --detach "$RUNNER_TEMP/progress" HEAD
           (
             while sleep 600; do
               [ -f state/progres.md ] || continue
-              git add state/progres.md && git commit -qm "bnb: progrès $(date -u +%H:%MZ)" || continue
-              git pull -q --rebase --autostash origin "${GITHUB_REF_NAME}" && git push -q origin "HEAD:${GITHUB_REF_NAME}" || echo "progress push failed"
+              (
+                cd "$RUNNER_TEMP/progress" &&
+                git fetch -q origin "${GITHUB_REF_NAME}" &&
+                git reset -q --hard FETCH_HEAD &&
+                mkdir -p state && cp "$GITHUB_WORKSPACE/state/progres.md" state/ &&
+                git add state/progres.md &&
+                git commit -qm "bnb: progrès $(date -u +%H:%MZ)" &&
+                git push -q origin "HEAD:${GITHUB_REF_NAME}"
+              ) || echo "progress push failed"
             done
           ) &
           python bnb.py
@@ -80,7 +89,7 @@ jobs:
           git diff --cached --quiet && exit 0
           git commit -m "bnb: ${MODE} $(date -u +%Y-%m-%dT%H:%MZ)"
           for i in 1 2 3 4; do
-            git pull --rebase origin "${GITHUB_REF_NAME}" && git push origin "HEAD:${GITHUB_REF_NAME}" && exit 0
+            git pull --rebase -X theirs origin "${GITHUB_REF_NAME}" && git push origin "HEAD:${GITHUB_REF_NAME}" && exit 0
             sleep $((2 ** i))
           done
           exit 1

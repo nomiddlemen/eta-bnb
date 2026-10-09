@@ -1,4 +1,4 @@
-# Résumé — 2026-10-09 19:40 UTC
+# Résumé — 2026-10-09 19:57 UTC
 
 - Population : 31464
 - Lues (dépôt exploitable) : 24927 (79.2 %)
@@ -105,14 +105,9 @@
 
 ## Motifs « sans dépôt »
 
-- 5492 × 404 sur /references
-- 1 × 18 dépôt(s) inexploitable(s): 2026-00399778:404 [m230-f-p/In
-- 1 × 32 dépôt(s) inexploitable(s): 2026-00374881:404 [m121-f-p/In
-- 1 × 4 dépôt(s) inexploitable(s): 2026-00513558:404 [m02-f-p/Init
-- 1 × 38 dépôt(s) inexploitable(s): 2026-00371565:404 [m02-f-p/Ini
-- 1 × 12 dépôt(s) inexploitable(s): 2026-00402781:404 [m121-f-p/In
-- 1 × 163 dépôt(s) inexploitable(s): 2026-00166235:404 [m02-f-p/In
-- 1 × 9 dépôt(s) inexploitable(s): 2026-00164782:404 [m82-f-p/Init
+- 5532 × reconstruit depuis sans_depot.txt
+- 13 × 404 sur /references
+- 1 × 43 dépôt(s) inexploitable(s): 2026-00206638:404 [m01-f-p/Ini
 
 ## Qualité des données (sur les sociétés lues)
 
@@ -129,6 +124,6 @@
 
 Exercice le plus récent disponible, par année de clôture : 2021: 2, 2022: 4, 2023: 625, 2024: 2906, 2025: 21129, 2026: 261
 
-Schémas : m87-f: 13862, m81-f: 4090, m01-f: 2602, m07-f: 2534, m02-f: 1226, m82-f: 315, m87-a: 110, m04-f: 68, m05-f: 32, m81-a: 25, m08-f: 24, m01-a: 24, m07-a: 15
+Schémas : ?: 14983, m87-f: 4442, m81-f: 1810, m01-f: 1449, m07-f: 1036, m02-f: 842, m82-f: 191, m87-a: 48, m04-f: 44, m05-f: 27, m08-f: 16, m01-a: 15, m81-a: 13, m07-a: 11
 
 Détail ligne à ligne : `state/anomalies.csv`.
