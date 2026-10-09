@@ -1,0 +1,1577 @@
+{
+ "ReferenceNumber": "2026-00458736",
+ "EnterpriseName": "Werkhuizen Haemers",
+ "Address": {
+  "Street": "Hondschotestraat",
+  "Number": "106",
+  "Box": null,
+  "City": "pcd:m8560",
+  "OtherPostalCode": null,
+  "OtherCity": null,
+  "Country": "cty:mBE",
+  "OtherCountry": null
+ },
+ "LegalForm": {
+  "LegalFormCode": "lgf:m014",
+  "LegalForm": null
+ },
+ "JointCommittees": [
+  {
+   "JointCommitteeCode": null,
+   "JointCommittee": "2090"
+  },
+  {
+   "JointCommitteeCode": null,
+   "JointCommittee": "1110"
+  }
+ ],
+ "Rubrics": [
+  {
+   "Code": "21/28",
+   "Value": "775676.98",
+   "Period": "N",
+   "DataType": "met:am1",
+   "TypeAmount": "original"
+  },
+  {
+   "Code": "21",
+   "Value": "1898.24",
+   "Period": "N",
+   "DataType": "met:am1",
+   "TypeAmount": "original"
+  },
+  {
+   "Code": "22/27",
+   "Value": "773778.74",
+   "Period": "N",
+   "DataType": "met:am1",
+   "TypeAmount": "original"
+  },
+  {
+   "Code": "23",
+   "Value": "403942.36",
+   "Period": "N",
+   "DataType": "met:am1",
+   "TypeAmount": "original"
+  },
+  {
+   "Code": "24",
+   "Value": "118254.33",
+   "Period": "N",
+   "DataType": "met:am1",
+   "TypeAmount": "original"
+  },
+  {
+   "Code": "26",
+   "Value": "181198.25",
+   "Period": "N",
+   "DataType": "met:am1",
+   "TypeAmount": "original"
+  },
+  {
+   "Code": "27",
+   "Value": "70383.8",
+   "Period": "N",
+   "DataType": "met:am1",
+   "TypeAmount": "original"
+  },
+  {
+   "Code": "29/58",
+   "Value": "4065167.33",
+   "Period": "N",
+   "DataType": "met:am1",
+   "TypeAmount": "original"
+  },
+  {
+   "Code": "3",
+   "Value": "1483506.07",
+   "Period": "N",
+   "DataType": "met:am1",
+   "TypeAmount": "original"
+  },
+  {
+   "Code": "30/36",
+   "Value": "1483506.07",
+   "Period": "N",
+   "DataType": "met:am1",
+   "TypeAmount": "original"
+  },
+  {
+   "Code": "40/41",
+   "Value": "848341.66",
+   "Period": "N",
+   "DataType": "met:am1",
+   "TypeAmount": "original"
+  },
+  {
+   "Code": "40",
+   "Value": "747751.97",
+   "Period": "N",
+   "DataType": "met:am1",
+   "TypeAmount": "original"
+  },
+  {
+   "Code": "41",
+   "Value": "100589.69",
+   "Period": "N",
+   "DataType": "met:am1",
+   "TypeAmount": "original"
+  },
+  {
+   "Code": "50/53",
+   "Value": "850000",
+   "Period": "N",
+   "DataType": "met:am1",
+   "TypeAmount": "original"
+  },
+  {
+   "Code": "54/58",
+   "Value": "857088.24",
+   "Period": "N",
+   "DataType": "met:am1",
+   "TypeAmount": "original"
+  },
+  {
+   "Code": "490/1",
+   "Value": "26231.36",
+   "Period": "N",
+   "DataType": "met:am1",
+   "TypeAmount": "original"
+  },
+  {
+   "Code": "20/58",
+   "Value": "4840844.31",
+   "Period": "N",
+   "DataType": "met:am1",
+   "TypeAmount": "original"
+  },
+  {
+   "Code": "21/28",
+   "Value": "718089.13",
+   "Period": "NM1",
+   "DataType": "met:am1",
+   "TypeAmount": "original"
+  },
+  {
+   "Code": "21",
+   "Value": "4008.82",
+   "Period": "NM1",
+   "DataType": "met:am1",
+   "TypeAmount": "original"
+  },
+  {
+   "Code": "22/27",
+   "Value": "714080.31",
+   "Period": "NM1",
+   "DataType": "met:am1",
+   "TypeAmount": "original"
+  },
+  {
+   "Code": "23",
+   "Value": "446241.96",
+   "Period": "NM1",
+   "DataType": "met:am1",
+   "TypeAmount": "original"
+  },
+  {
+   "Code": "24",
+   "Value": "78674.11",
+   "Period": "NM1",
+   "DataType": "met:am1",
+   "TypeAmount": "original"
+  },
+  {
+   "Code": "26",
+   "Value": "189164.24",
+   "Period": "NM1",
+   "DataType": "met:am1",
+   "TypeAmount": "original"
+  },
+  {
+   "Code": "27",
+   "Value": "0",
+   "Period": "NM1",
+   "DataType": "met:am1",
+   "TypeAmount": "original"
+  },
+  {
+   "Code": "29/58",
+   "Value": "3670695.96",
+   "Period": "NM1",
+   "DataType": "met:am1",
+   "TypeAmount": "original"
+  },
+  {
+   "Code": "3",
+   "Value": "1401058.75",
+   "Period": "NM1",
+   "DataType": "met:am1",
+   "TypeAmount": "original"
+  },
+  {
+   "Code": "30/36",
+   "Value": "1401058.75",
+   "Period": "NM1",
+   "DataType": "met:am1",
+   "TypeAmount": "original"
+  },
+  {
+   "Code": "40/41",
+   "Value": "1100739.93",
+   "Period": "NM1",
+   "DataType": "met:am1",
+   "TypeAmount": "original"
+  },
+  {
+   "Code": "40",
+   "Value": "972814",
+   "Period": "NM1",
+   "DataType": "met:am1",
+   "TypeAmount": "original"
+  },
+  {
+   "Code": "41",
+   "Value": "127925.93",
+   "Period": "NM1",
+   "DataType": "met:am1",
+   "TypeAmount": "original"
+  },
+  {
+   "Code": "50/53",
+   "Value": "0",
+   "Period": "NM1",
+   "DataType": "met:am1",
+   "TypeAmount": "original"
+  },
+  {
+   "Code": "54/58",
+   "Value": "1142441.39",
+   "Period": "NM1",
+   "DataType": "met:am1",
+   "TypeAmount": "original"
+  },
+  {
+   "Code": "490/1",
+   "Value": "26455.89",
+   "Period": "NM1",
+   "DataType": "met:am1",
+   "TypeAmount": "original"
+  },
+  {
+   "Code": "20/58",
+   "Value": "4388785.09",
+   "Period": "NM1",
+   "DataType": "met:am1",
+   "TypeAmount": "original"
+  },
+  {
+   "Code": "10/15",
+   "Value": "3883602.32",
+   "Period": "NM1",
+   "DataType": "met:am2",
+   "TypeAmount": "original"
+  },
+  {
+   "Code": "10",
+   "Value": "2017570.84",
+   "Period": "NM1",
+   "DataType": "met:am1",
+   "TypeAmount": "original"
+  },
+  {
+   "Code": "100",
+   "Value": "2017570.84",
+   "Period": "NM1",
+   "DataType": "met:am1",
+   "TypeAmount": "original"
+  },
+  {
+   "Code": "10/11",
+   "Value": "2017570.84",
+   "Period": "NM1",
+   "DataType": "met:am1",
+   "TypeAmount": "original"
+  },
+  {
+   "Code": "13",
+   "Value": "1866031.48",
+   "Period": "NM1",
+   "DataType": "met:am1",
+   "TypeAmount": "original"
+  },
+  {
+   "Code": "130/1",
+   "Value": "201757.08",
+   "Period": "NM1",
+   "DataType": "met:am1",
+   "TypeAmount": "original"
+  },
+  {
+   "Code": "130",
+   "Value": "201757.08",
+   "Period": "NM1",
+   "DataType": "met:am1",
+   "TypeAmount": "original"
+  },
+  {
+   "Code": "133",
+   "Value": "1664274.4",
+   "Period": "NM1",
+   "DataType": "met:am1",
+   "TypeAmount": "original"
+  },
+  {
+   "Code": "17/49",
+   "Value": "505182.77",
+   "Period": "NM1",
+   "DataType": "met:am1",
+   "TypeAmount": "original"
+  },
+  {
+   "Code": "42/48",
+   "Value": "505182.77",
+   "Period": "NM1",
+   "DataType": "met:am1",
+   "TypeAmount": "original"
+  },
+  {
+   "Code": "44",
+   "Value": "270984.42",
+   "Period": "NM1",
+   "DataType": "met:am1",
+   "TypeAmount": "original"
+  },
+  {
+   "Code": "440/4",
+   "Value": "270984.42",
+   "Period": "NM1",
+   "DataType": "met:am1",
+   "TypeAmount": "original"
+  },
+  {
+   "Code": "45",
+   "Value": "130970.47",
+   "Period": "NM1",
+   "DataType": "met:am1",
+   "TypeAmount": "original"
+  },
+  {
+   "Code": "450/3",
+   "Value": "22936.42",
+   "Period": "NM1",
+   "DataType": "met:am1",
+   "TypeAmount": "original"
+  },
+  {
+   "Code": "454/9",
+   "Value": "108034.05",
+   "Period": "NM1",
+   "DataType": "met:am1",
+   "TypeAmount": "original"
+  },
+  {
+   "Code": "47/48",
+   "Value": "103227.88",
+   "Period": "NM1",
+   "DataType": "met:am1",
+   "TypeAmount": "original"
+  },
+  {
+   "Code": "492/3",
+   "Value": "0",
+   "Period": "NM1",
+   "DataType": "met:am1",
+   "TypeAmount": "original"
+  },
+  {
+   "Code": "10/49",
+   "Value": "4388785.09",
+   "Period": "NM1",
+   "DataType": "met:am1",
+   "TypeAmount": "original"
+  },
+  {
+   "Code": "10/15",
+   "Value": "4229244.4",
+   "Period": "N",
+   "DataType": "met:am2",
+   "TypeAmount": "original"
+  },
+  {
+   "Code": "10/11",
+   "Value": "2017570.84",
+   "Period": "N",
+   "DataType": "met:am1",
+   "TypeAmount": "original"
+  },
+  {
+   "Code": "10",
+   "Value": "2017570.84",
+   "Period": "N",
+   "DataType": "met:am1",
+   "TypeAmount": "original"
+  },
+  {
+   "Code": "100",
+   "Value": "2017570.84",
+   "Period": "N",
+   "DataType": "met:am1",
+   "TypeAmount": "original"
+  },
+  {
+   "Code": "13",
+   "Value": "2211673.56",
+   "Period": "N",
+   "DataType": "met:am1",
+   "TypeAmount": "original"
+  },
+  {
+   "Code": "130/1",
+   "Value": "201757.08",
+   "Period": "N",
+   "DataType": "met:am1",
+   "TypeAmount": "original"
+  },
+  {
+   "Code": "130",
+   "Value": "201757.08",
+   "Period": "N",
+   "DataType": "met:am1",
+   "TypeAmount": "original"
+  },
+  {
+   "Code": "133",
+   "Value": "2009916.48",
+   "Period": "N",
+   "DataType": "met:am1",
+   "TypeAmount": "original"
+  },
+  {
+   "Code": "17/49",
+   "Value": "611599.91",
+   "Period": "N",
+   "DataType": "met:am1",
+   "TypeAmount": "original"
+  },
+  {
+   "Code": "42/48",
+   "Value": "609870.46",
+   "Period": "N",
+   "DataType": "met:am1",
+   "TypeAmount": "original"
+  },
+  {
+   "Code": "44",
+   "Value": "330552.75",
+   "Period": "N",
+   "DataType": "met:am1",
+   "TypeAmount": "original"
+  },
+  {
+   "Code": "440/4",
+   "Value": "330552.75",
+   "Period": "N",
+   "DataType": "met:am1",
+   "TypeAmount": "original"
+  },
+  {
+   "Code": "45",
+   "Value": "160140.29",
+   "Period": "N",
+   "DataType": "met:am1",
+   "TypeAmount": "original"
+  },
+  {
+   "Code": "450/3",
+   "Value": "46682.47",
+   "Period": "N",
+   "DataType": "met:am1",
+   "TypeAmount": "original"
+  },
+  {
+   "Code": "454/9",
+   "Value": "113457.82",
+   "Period": "N",
+   "DataType": "met:am1",
+   "TypeAmount": "original"
+  },
+  {
+   "Code": "47/48",
+   "Value": "119177.42",
+   "Period": "N",
+   "DataType": "met:am1",
+   "TypeAmount": "original"
+  },
+  {
+   "Code": "492/3",
+   "Value": "1729.45",
+   "Period": "N",
+   "DataType": "met:am1",
+   "TypeAmount": "original"
+  },
+  {
+   "Code": "10/49",
+   "Value": "4840844.31",
+   "Period": "N",
+   "DataType": "met:am1",
+   "TypeAmount": "original"
+  },
+  {
+   "Code": "9900",
+   "Value": "1708064.54",
+   "Period": "N",
+   "DataType": "met:am2",
+   "TypeAmount": "original"
+  },
+  {
+   "Code": "62",
+   "Value": "1035039.36",
+   "Period": "N",
+   "DataType": "met:am2",
+   "TypeAmount": "original"
+  },
+  {
+   "Code": "630",
+   "Value": "171952.5",
+   "Period": "N",
+   "DataType": "met:am1",
+   "TypeAmount": "original"
+  },
+  {
+   "Code": "631/4",
+   "Value": "0",
+   "Period": "N",
+   "DataType": "met:am2",
+   "TypeAmount": "original"
+  },
+  {
+   "Code": "640/8",
+   "Value": "1408.28",
+   "Period": "N",
+   "DataType": "met:am1",
+   "TypeAmount": "original"
+  },
+  {
+   "Code": "9901",
+   "Value": "499664.4",
+   "Period": "N",
+   "DataType": "met:am2",
+   "TypeAmount": "original"
+  },
+  {
+   "Code": "75/76B",
+   "Value": "22090.21",
+   "Period": "N",
+   "DataType": "met:am1",
+   "TypeAmount": "original"
+  },
+  {
+   "Code": "75",
+   "Value": "22090.21",
+   "Period": "N",
+   "DataType": "met:am1",
+   "TypeAmount": "original"
+  },
+  {
+   "Code": "65/66B",
+   "Value": "1206.34",
+   "Period": "N",
+   "DataType": "met:am2",
+   "TypeAmount": "original"
+  },
+  {
+   "Code": "65",
+   "Value": "1206.34",
+   "Period": "N",
+   "DataType": "met:am2",
+   "TypeAmount": "original"
+  },
+  {
+   "Code": "9903",
+   "Value": "520548.27",
+   "Period": "N",
+   "DataType": "met:am2",
+   "TypeAmount": "original"
+  },
+  {
+   "Code": "67/77",
+   "Value": "114906.19",
+   "Period": "N",
+   "DataType": "met:am2",
+   "TypeAmount": "original"
+  },
+  {
+   "Code": "9904",
+   "Value": "405642.08",
+   "Period": "N",
+   "DataType": "met:am2",
+   "TypeAmount": "original"
+  },
+  {
+   "Code": "9900",
+   "Value": "1545587.19",
+   "Period": "NM1",
+   "DataType": "met:am2",
+   "TypeAmount": "original"
+  },
+  {
+   "Code": "62",
+   "Value": "1015083.12",
+   "Period": "NM1",
+   "DataType": "met:am2",
+   "TypeAmount": "original"
+  },
+  {
+   "Code": "630",
+   "Value": "157512.73",
+   "Period": "NM1",
+   "DataType": "met:am1",
+   "TypeAmount": "original"
+  },
+  {
+   "Code": "631/4",
+   "Value": "-3272.18",
+   "Period": "NM1",
+   "DataType": "met:am2",
+   "TypeAmount": "original"
+  },
+  {
+   "Code": "640/8",
+   "Value": "4682.5",
+   "Period": "NM1",
+   "DataType": "met:am1",
+   "TypeAmount": "original"
+  },
+  {
+   "Code": "9901",
+   "Value": "371581.02",
+   "Period": "NM1",
+   "DataType": "met:am2",
+   "TypeAmount": "original"
+  },
+  {
+   "Code": "75/76B",
+   "Value": "21334.42",
+   "Period": "NM1",
+   "DataType": "met:am1",
+   "TypeAmount": "original"
+  },
+  {
+   "Code": "75",
+   "Value": "21334.42",
+   "Period": "NM1",
+   "DataType": "met:am1",
+   "TypeAmount": "original"
+  },
+  {
+   "Code": "65/66B",
+   "Value": "1362.09",
+   "Period": "NM1",
+   "DataType": "met:am2",
+   "TypeAmount": "original"
+  },
+  {
+   "Code": "65",
+   "Value": "1362.09",
+   "Period": "NM1",
+   "DataType": "met:am2",
+   "TypeAmount": "original"
+  },
+  {
+   "Code": "9903",
+   "Value": "391553.35",
+   "Period": "NM1",
+   "DataType": "met:am2",
+   "TypeAmount": "original"
+  },
+  {
+   "Code": "67/77",
+   "Value": "84531.46",
+   "Period": "NM1",
+   "DataType": "met:am2",
+   "TypeAmount": "original"
+  },
+  {
+   "Code": "9904",
+   "Value": "307021.89",
+   "Period": "NM1",
+   "DataType": "met:am2",
+   "TypeAmount": "original"
+  },
+  {
+   "Code": "9906",
+   "Value": "405642.08",
+   "Period": "N",
+   "DataType": "met:am2",
+   "TypeAmount": "original"
+  },
+  {
+   "Code": "9905",
+   "Value": "405642.08",
+   "Period": "N",
+   "DataType": "met:am2",
+   "TypeAmount": "original"
+  },
+  {
+   "Code": "691/2",
+   "Value": "345642.08",
+   "Period": "N",
+   "DataType": "met:am1",
+   "TypeAmount": "original"
+  },
+  {
+   "Code": "6921",
+   "Value": "345642.08",
+   "Period": "N",
+   "DataType": "met:am1",
+   "TypeAmount": "original"
+  },
+  {
+   "Code": "14",
+   "Value": "0",
+   "Period": "N",
+   "DataType": "met:am2",
+   "TypeAmount": "original"
+  },
+  {
+   "Code": "694/7",
+   "Value": "60000",
+   "Period": "N",
+   "DataType": "met:am1",
+   "TypeAmount": "original"
+  },
+  {
+   "Code": "695",
+   "Value": "60000",
+   "Period": "N",
+   "DataType": "met:am1",
+   "TypeAmount": "original"
+  },
+  {
+   "Code": "9906",
+   "Value": "307021.89",
+   "Period": "NM1",
+   "DataType": "met:am2",
+   "TypeAmount": "original"
+  },
+  {
+   "Code": "9905",
+   "Value": "307021.89",
+   "Period": "NM1",
+   "DataType": "met:am2",
+   "TypeAmount": "original"
+  },
+  {
+   "Code": "691/2",
+   "Value": "262021.89",
+   "Period": "NM1",
+   "DataType": "met:am1",
+   "TypeAmount": "original"
+  },
+  {
+   "Code": "6921",
+   "Value": "262021.89",
+   "Period": "NM1",
+   "DataType": "met:am1",
+   "TypeAmount": "original"
+  },
+  {
+   "Code": "14",
+   "Value": "0",
+   "Period": "NM1",
+   "DataType": "met:am2",
+   "TypeAmount": "original"
+  },
+  {
+   "Code": "694/7",
+   "Value": "45000",
+   "Period": "NM1",
+   "DataType": "met:am1",
+   "TypeAmount": "original"
+  },
+  {
+   "Code": "695",
+   "Value": "45000",
+   "Period": "NM1",
+   "DataType": "met:am1",
+   "TypeAmount": "original"
+  },
+  {
+   "Code": "8059P",
+   "Value": "13450.75",
+   "Period": "N",
+   "DataType": "met:am1",
+   "TypeAmount": "original"
+  },
+  {
+   "Code": "8129P",
+   "Value": "9441.93",
+   "Period": "N",
+   "DataType": "met:am1",
+   "TypeAmount": "original"
+  },
+  {
+   "Code": "8059",
+   "Value": "13450.75",
+   "Period": "N",
+   "DataType": "met:am1",
+   "TypeAmount": "original"
+  },
+  {
+   "Code": "8079",
+   "Value": "2110.58",
+   "Period": "N",
+   "DataType": "met:am1",
+   "TypeAmount": "original"
+  },
+  {
+   "Code": "8129",
+   "Value": "11552.51",
+   "Period": "N",
+   "DataType": "met:am1",
+   "TypeAmount": "original"
+  },
+  {
+   "Code": "8199P",
+   "Value": "3489018.03",
+   "Period": "N",
+   "DataType": "met:am1",
+   "TypeAmount": "original"
+  },
+  {
+   "Code": "8329P",
+   "Value": "2774937.72",
+   "Period": "N",
+   "DataType": "met:am1",
+   "TypeAmount": "original"
+  },
+  {
+   "Code": "8169",
+   "Value": "229540.35",
+   "Period": "N",
+   "DataType": "met:am1",
+   "TypeAmount": "original"
+  },
+  {
+   "Code": "8199",
+   "Value": "3718558.38",
+   "Period": "N",
+   "DataType": "met:am1",
+   "TypeAmount": "original"
+  },
+  {
+   "Code": "8279",
+   "Value": "169841.92",
+   "Period": "N",
+   "DataType": "met:am1",
+   "TypeAmount": "original"
+  },
+  {
+   "Code": "8329",
+   "Value": "2944779.64",
+   "Period": "N",
+   "DataType": "met:am1",
+   "TypeAmount": "original"
+  },
+  {
+   "Code": "1001",
+   "Value": "12.5",
+   "Period": "N",
+   "DataType": "met:dec1",
+   "TypeAmount": "original"
+  },
+  {
+   "Code": "1002",
+   "Value": "6",
+   "Period": "N",
+   "DataType": "met:dec1",
+   "TypeAmount": "original"
+  },
+  {
+   "Code": "1003",
+   "Value": "16.7",
+   "Period": "N",
+   "DataType": "met:dec1",
+   "TypeAmount": "original"
+  },
+  {
+   "Code": "1003P",
+   "Value": "16.7",
+   "Period": "N",
+   "DataType": "met:dec1",
+   "TypeAmount": "original"
+  },
+  {
+   "Code": "1011",
+   "Value": "21456",
+   "Period": "N",
+   "DataType": "met:int4",
+   "TypeAmount": "original"
+  },
+  {
+   "Code": "1012",
+   "Value": "7184",
+   "Period": "N",
+   "DataType": "met:int4",
+   "TypeAmount": "original"
+  },
+  {
+   "Code": "1013",
+   "Value": "28640",
+   "Period": "N",
+   "DataType": "met:int4",
+   "TypeAmount": "original"
+  },
+  {
+   "Code": "1013P",
+   "Value": "29410",
+   "Period": "N",
+   "DataType": "met:int4",
+   "TypeAmount": "original"
+  },
+  {
+   "Code": "1021",
+   "Value": "809881.53",
+   "Period": "N",
+   "DataType": "met:am2",
+   "TypeAmount": "original"
+  },
+  {
+   "Code": "1022",
+   "Value": "225157.83",
+   "Period": "N",
+   "DataType": "met:am2",
+   "TypeAmount": "original"
+  },
+  {
+   "Code": "1023",
+   "Value": "1035039.36",
+   "Period": "N",
+   "DataType": "met:am2",
+   "TypeAmount": "original"
+  },
+  {
+   "Code": "1023P",
+   "Value": "1015083.12",
+   "Period": "N",
+   "DataType": "met:am2",
+   "TypeAmount": "original"
+  },
+  {
+   "Code": "1051",
+   "Value": "13",
+   "Period": "N",
+   "DataType": "met:int3",
+   "TypeAmount": "original"
+  },
+  {
+   "Code": "1052",
+   "Value": "6",
+   "Period": "N",
+   "DataType": "met:int3",
+   "TypeAmount": "original"
+  },
+  {
+   "Code": "1053",
+   "Value": "17.2",
+   "Period": "N",
+   "DataType": "met:dec1",
+   "TypeAmount": "original"
+  },
+  {
+   "Code": "1101",
+   "Value": "13",
+   "Period": "N",
+   "DataType": "met:int3",
+   "TypeAmount": "original"
+  },
+  {
+   "Code": "1102",
+   "Value": "6",
+   "Period": "N",
+   "DataType": "met:int3",
+   "TypeAmount": "original"
+  },
+  {
+   "Code": "1103",
+   "Value": "17.2",
+   "Period": "N",
+   "DataType": "met:dec1",
+   "TypeAmount": "original"
+  },
+  {
+   "Code": "1111",
+   "Value": "0",
+   "Period": "N",
+   "DataType": "met:int3",
+   "TypeAmount": "original"
+  },
+  {
+   "Code": "1112",
+   "Value": "0",
+   "Period": "N",
+   "DataType": "met:int3",
+   "TypeAmount": "original"
+  },
+  {
+   "Code": "1113",
+   "Value": "0",
+   "Period": "N",
+   "DataType": "met:dec1",
+   "TypeAmount": "original"
+  },
+  {
+   "Code": "1121",
+   "Value": "0",
+   "Period": "N",
+   "DataType": "met:int3",
+   "TypeAmount": "original"
+  },
+  {
+   "Code": "1122",
+   "Value": "0",
+   "Period": "N",
+   "DataType": "met:int3",
+   "TypeAmount": "original"
+  },
+  {
+   "Code": "1123",
+   "Value": "0",
+   "Period": "N",
+   "DataType": "met:dec1",
+   "TypeAmount": "original"
+  },
+  {
+   "Code": "1131",
+   "Value": "0",
+   "Period": "N",
+   "DataType": "met:int3",
+   "TypeAmount": "original"
+  },
+  {
+   "Code": "1132",
+   "Value": "0",
+   "Period": "N",
+   "DataType": "met:int3",
+   "TypeAmount": "original"
+  },
+  {
+   "Code": "1133",
+   "Value": "0",
+   "Period": "N",
+   "DataType": "met:dec1",
+   "TypeAmount": "original"
+  },
+  {
+   "Code": "1201",
+   "Value": "12",
+   "Period": "N",
+   "DataType": "met:int3",
+   "TypeAmount": "original"
+  },
+  {
+   "Code": "1202",
+   "Value": "3",
+   "Period": "N",
+   "DataType": "met:int3",
+   "TypeAmount": "original"
+  },
+  {
+   "Code": "1203",
+   "Value": "14.2",
+   "Period": "N",
+   "DataType": "met:dec1",
+   "TypeAmount": "original"
+  },
+  {
+   "Code": "12001",
+   "Value": "0",
+   "Period": "N",
+   "DataType": "met:int3",
+   "TypeAmount": "original"
+  },
+  {
+   "Code": "12002",
+   "Value": "0",
+   "Period": "N",
+   "DataType": "met:int3",
+   "TypeAmount": "original"
+  },
+  {
+   "Code": "12003",
+   "Value": "0",
+   "Period": "N",
+   "DataType": "met:dec1",
+   "TypeAmount": "original"
+  },
+  {
+   "Code": "12011",
+   "Value": "12",
+   "Period": "N",
+   "DataType": "met:int3",
+   "TypeAmount": "original"
+  },
+  {
+   "Code": "12012",
+   "Value": "3",
+   "Period": "N",
+   "DataType": "met:int3",
+   "TypeAmount": "original"
+  },
+  {
+   "Code": "12013",
+   "Value": "14.2",
+   "Period": "N",
+   "DataType": "met:dec1",
+   "TypeAmount": "original"
+  },
+  {
+   "Code": "12021",
+   "Value": "0",
+   "Period": "N",
+   "DataType": "met:int3",
+   "TypeAmount": "original"
+  },
+  {
+   "Code": "12022",
+   "Value": "0",
+   "Period": "N",
+   "DataType": "met:int3",
+   "TypeAmount": "original"
+  },
+  {
+   "Code": "12023",
+   "Value": "0",
+   "Period": "N",
+   "DataType": "met:dec1",
+   "TypeAmount": "original"
+  },
+  {
+   "Code": "12031",
+   "Value": "0",
+   "Period": "N",
+   "DataType": "met:int3",
+   "TypeAmount": "original"
+  },
+  {
+   "Code": "12032",
+   "Value": "0",
+   "Period": "N",
+   "DataType": "met:int3",
+   "TypeAmount": "original"
+  },
+  {
+   "Code": "12033",
+   "Value": "0",
+   "Period": "N",
+   "DataType": "met:dec1",
+   "TypeAmount": "original"
+  },
+  {
+   "Code": "1211",
+   "Value": "1",
+   "Period": "N",
+   "DataType": "met:int3",
+   "TypeAmount": "original"
+  },
+  {
+   "Code": "1212",
+   "Value": "3",
+   "Period": "N",
+   "DataType": "met:int3",
+   "TypeAmount": "original"
+  },
+  {
+   "Code": "1213",
+   "Value": "3",
+   "Period": "N",
+   "DataType": "met:dec1",
+   "TypeAmount": "original"
+  },
+  {
+   "Code": "12101",
+   "Value": "0",
+   "Period": "N",
+   "DataType": "met:int3",
+   "TypeAmount": "original"
+  },
+  {
+   "Code": "12102",
+   "Value": "0",
+   "Period": "N",
+   "DataType": "met:int3",
+   "TypeAmount": "original"
+  },
+  {
+   "Code": "12103",
+   "Value": "0",
+   "Period": "N",
+   "DataType": "met:dec1",
+   "TypeAmount": "original"
+  },
+  {
+   "Code": "12111",
+   "Value": "1",
+   "Period": "N",
+   "DataType": "met:int3",
+   "TypeAmount": "original"
+  },
+  {
+   "Code": "12112",
+   "Value": "3",
+   "Period": "N",
+   "DataType": "met:int3",
+   "TypeAmount": "original"
+  },
+  {
+   "Code": "12113",
+   "Value": "3",
+   "Period": "N",
+   "DataType": "met:dec1",
+   "TypeAmount": "original"
+  },
+  {
+   "Code": "12121",
+   "Value": "0",
+   "Period": "N",
+   "DataType": "met:int3",
+   "TypeAmount": "original"
+  },
+  {
+   "Code": "12122",
+   "Value": "0",
+   "Period": "N",
+   "DataType": "met:int3",
+   "TypeAmount": "original"
+  },
+  {
+   "Code": "12123",
+   "Value": "0",
+   "Period": "N",
+   "DataType": "met:dec1",
+   "TypeAmount": "original"
+  },
+  {
+   "Code": "12131",
+   "Value": "0",
+   "Period": "N",
+   "DataType": "met:int3",
+   "TypeAmount": "original"
+  },
+  {
+   "Code": "12132",
+   "Value": "0",
+   "Period": "N",
+   "DataType": "met:int3",
+   "TypeAmount": "original"
+  },
+  {
+   "Code": "12133",
+   "Value": "0",
+   "Period": "N",
+   "DataType": "met:dec1",
+   "TypeAmount": "original"
+  },
+  {
+   "Code": "1301",
+   "Value": "0",
+   "Period": "N",
+   "DataType": "met:int3",
+   "TypeAmount": "original"
+  },
+  {
+   "Code": "1302",
+   "Value": "0",
+   "Period": "N",
+   "DataType": "met:int3",
+   "TypeAmount": "original"
+  },
+  {
+   "Code": "1303",
+   "Value": "0",
+   "Period": "N",
+   "DataType": "met:dec1",
+   "TypeAmount": "original"
+  },
+  {
+   "Code": "1341",
+   "Value": "1",
+   "Period": "N",
+   "DataType": "met:int3",
+   "TypeAmount": "original"
+  },
+  {
+   "Code": "1342",
+   "Value": "1",
+   "Period": "N",
+   "DataType": "met:int3",
+   "TypeAmount": "original"
+  },
+  {
+   "Code": "1343",
+   "Value": "1.4",
+   "Period": "N",
+   "DataType": "met:dec1",
+   "TypeAmount": "original"
+  },
+  {
+   "Code": "1321",
+   "Value": "12",
+   "Period": "N",
+   "DataType": "met:int3",
+   "TypeAmount": "original"
+  },
+  {
+   "Code": "1322",
+   "Value": "5",
+   "Period": "N",
+   "DataType": "met:int3",
+   "TypeAmount": "original"
+  },
+  {
+   "Code": "1323",
+   "Value": "15.8",
+   "Period": "N",
+   "DataType": "met:dec1",
+   "TypeAmount": "original"
+  },
+  {
+   "Code": "1331",
+   "Value": "0",
+   "Period": "N",
+   "DataType": "met:int3",
+   "TypeAmount": "original"
+  },
+  {
+   "Code": "1332",
+   "Value": "0",
+   "Period": "N",
+   "DataType": "met:int3",
+   "TypeAmount": "original"
+  },
+  {
+   "Code": "1333",
+   "Value": "0",
+   "Period": "N",
+   "DataType": "met:dec1",
+   "TypeAmount": "original"
+  },
+  {
+   "Code": "2051",
+   "Value": "1",
+   "Period": "N",
+   "DataType": "met:int3",
+   "TypeAmount": "original"
+  },
+  {
+   "Code": "2052",
+   "Value": "0",
+   "Period": "N",
+   "DataType": "met:int3",
+   "TypeAmount": "original"
+  },
+  {
+   "Code": "2053",
+   "Value": "1",
+   "Period": "N",
+   "DataType": "met:dec1",
+   "TypeAmount": "original"
+  },
+  {
+   "Code": "3051",
+   "Value": "0",
+   "Period": "N",
+   "DataType": "met:int3",
+   "TypeAmount": "original"
+  },
+  {
+   "Code": "3052",
+   "Value": "0",
+   "Period": "N",
+   "DataType": "met:int3",
+   "TypeAmount": "original"
+  },
+  {
+   "Code": "3053",
+   "Value": "0",
+   "Period": "N",
+   "DataType": "met:dec1",
+   "TypeAmount": "original"
+  },
+  {
+   "Code": "5801",
+   "Value": "0",
+   "Period": "N",
+   "DataType": "met:int3",
+   "TypeAmount": "original"
+  },
+  {
+   "Code": "5811",
+   "Value": "0",
+   "Period": "N",
+   "DataType": "met:int3",
+   "TypeAmount": "original"
+  },
+  {
+   "Code": "5802",
+   "Value": "0",
+   "Period": "N",
+   "DataType": "met:int4",
+   "TypeAmount": "original"
+  },
+  {
+   "Code": "5812",
+   "Value": "0",
+   "Period": "N",
+   "DataType": "met:int4",
+   "TypeAmount": "original"
+  },
+  {
+   "Code": "5821",
+   "Value": "0",
+   "Period": "N",
+   "DataType": "met:int3",
+   "TypeAmount": "original"
+  },
+  {
+   "Code": "5831",
+   "Value": "0",
+   "Period": "N",
+   "DataType": "met:int3",
+   "TypeAmount": "original"
+  },
+  {
+   "Code": "5822",
+   "Value": "0",
+   "Period": "N",
+   "DataType": "met:int4",
+   "TypeAmount": "original"
+  },
+  {
+   "Code": "5832",
+   "Value": "0",
+   "Period": "N",
+   "DataType": "met:int4",
+   "TypeAmount": "original"
+  },
+  {
+   "Code": "5841",
+   "Value": "0",
+   "Period": "N",
+   "DataType": "met:int3",
+   "TypeAmount": "original"
+  },
+  {
+   "Code": "5851",
+   "Value": "0",
+   "Period": "N",
+   "DataType": "met:int3",
+   "TypeAmount": "original"
+  },
+  {
+   "Code": "5842",
+   "Value": "0",
+   "Period": "N",
+   "DataType": "met:int4",
+   "TypeAmount": "original"
+  },
+  {
+   "Code": "5852",
+   "Value": "0",
+   "Period": "N",
+   "DataType": "met:int4",
+   "TypeAmount": "original"
+  }
+ ],
+ "Administrators": {
+  "LegalPersons": [
+   {
+    "Entity": {
+     "Name": "AVEM CONSULT BV",
+     "IdentifierKindOfNumber": {
+      "IdentifierKindOfNumberCode": "nmt:m1",
+      "IdentifierKindOfNumber": null
+     },
+     "Identifier": "0741715646",
+     "Address": {
+      "Street": "Driemasten",
+      "Number": "14",
+      "Box": null,
+      "City": "pcd:m8560",
+      "OtherPostalCode": null,
+      "OtherCity": null,
+      "Country": "cty:mBE",
+      "OtherCountry": null,
+      "AddressType": "atc:m001",
+      "OtherAddressType": null
+     }
+    },
+    "Mandates": [
+     {
+      "FunctionMandate": "fct:m13",
+      "OtherFunctionMandate": null,
+      "MandateDates": {
+       "StartDate": "2024-06-10",
+       "EndDate": "2029-06-11"
+      }
+     }
+    ],
+    "Representatives": [
+     {
+      "FirstName": "Mulnard",
+      "LastName": "David",
+      "Profession": null,
+      "Address": {
+       "Street": "Driemasten",
+       "Number": "14",
+       "Box": null,
+       "City": "pcd:m8560",
+       "OtherPostalCode": null,
+       "OtherCity": null,
+       "Country": "cty:mBE",
+       "OtherCountry": null,
+       "AddressType": "atc:m001",
+       "OtherAddressType": null
+      }
+     }
+    ]
+   }
+  ],
+  "NaturalPersons": [
+   {
+    "Person": {
+     "FirstName": "Caroline",
+     "LastName": "Haemers",
+     "Address": {
+      "Street": "Peperstraat",
+      "Number": "14 /0101",
+      "Box": null,
+      "City": "pcd:m8560",
+      "OtherPostalCode": null,
+      "OtherCity": null,
+      "Country": "cty:mBE",
+      "OtherCountry": null,
+      "AddressType": "atc:m001",
+      "OtherAddressType": null
+     }
+    },
+    "Profession": null,
+    "Mandates": [
+     {
+      "FunctionMandate": "fct:m13",
+      "OtherFunctionMandate": null,
+      "MandateDates": {
+       "StartDate": "2024-06-10",
+       "EndDate": "2029-06-11"
+      }
+     }
+    ]
+   }
+  ]
+ },
+ "ParticipatingInterests": [],
+ "Shareholders": {
+  "EntityShareHolders": [],
+  "IndividualShareHolders": []
+ }
+}

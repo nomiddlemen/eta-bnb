@@ -1,0 +1,467 @@
+[
+ {
+  "ReferenceNumber": "2002-46601027",
+  "DepositDate": "2002-08-08",
+  "ExerciseDates": {
+   "startDate": "2000-09-21",
+   "endDate": "2001-12-31"
+  },
+  "ModelType": "m01-f",
+  "DepositType": "Initial",
+  "Language": "NL",
+  "Currency": "BEF",
+  "EnterpriseNumber": "0472929537",
+  "EnterpriseName": "FALSTAFF GENT",
+  "Address": {
+   "Box": null,
+   "City": "Gent",
+   "CountryCode": "BE",
+   "Number": "693",
+   "PostalCode": "9050",
+   "Street": "Brusselsesteenweg"
+  },
+  "LegalForm": "015",
+  "LegalSituation": "053",
+  "FullFillLegalValidation": true,
+  "ActivityCode": "55401",
+  "GeneralAssemblyDate": "2002-06-21",
+  "AccountingDataURL": null,
+  "DataVersion": "Authentic",
+  "ImprovementDate": null,
+  "CorrectedData": null
+ },
+ {
+  "ReferenceNumber": "2013-62700187",
+  "DepositDate": "2013-10-11",
+  "ExerciseDates": {
+   "startDate": "2012-01-01",
+   "endDate": "2012-12-31"
+  },
+  "ModelType": "m01-f",
+  "DepositType": "Initial",
+  "Language": "NL",
+  "Currency": "EUR",
+  "EnterpriseNumber": "0472929537",
+  "EnterpriseName": "FALSTAFF GENT",
+  "Address": {
+   "Box": null,
+   "City": "Gent",
+   "CountryCode": "BE",
+   "Number": "693",
+   "PostalCode": "9050",
+   "Street": "Brusselsesteenweg"
+  },
+  "LegalForm": "015",
+  "LegalSituation": "053",
+  "FullFillLegalValidation": true,
+  "ActivityCode": "56101",
+  "GeneralAssemblyDate": "2013-08-31",
+  "AccountingDataURL": "https://ws.cbso.nbb.be/authentic/deposit/2013-62700187/accountingData",
+  "DataVersion": "Authentic",
+  "ImprovementDate": null,
+  "CorrectedData": null
+ },
+ {
+  "ReferenceNumber": "2005-89403294",
+  "DepositDate": "2005-12-15",
+  "ExerciseDates": {
+   "startDate": "2004-01-01",
+   "endDate": "2004-12-31"
+  },
+  "ModelType": "m01-f",
+  "DepositType": "Initial",
+  "Language": "NL",
+  "Currency": "EUR",
+  "EnterpriseNumber": "0472929537",
+  "EnterpriseName": "FALSTAFF GENT",
+  "Address": {
+   "Box": null,
+   "City": "Gent",
+   "CountryCode": "BE",
+   "Number": "693",
+   "PostalCode": "9050",
+   "Street": "Brusselsesteenweg"
+  },
+  "LegalForm": "015",
+  "LegalSituation": "053",
+  "FullFillLegalValidation": true,
+  "ActivityCode": "55401",
+  "GeneralAssemblyDate": "2005-11-24",
+  "AccountingDataURL": "https://ws.cbso.nbb.be/authentic/deposit/2005-89403294/accountingData",
+  "DataVersion": "Authentic",
+  "ImprovementDate": null,
+  "CorrectedData": null
+ },
+ {
+  "ReferenceNumber": "2016-55500243",
+  "DepositDate": "2016-08-31",
+  "ExerciseDates": {
+   "startDate": "2015-01-01",
+   "endDate": "2015-12-31"
+  },
+  "ModelType": "m01-f",
+  "DepositType": "Initial",
+  "Language": "NL",
+  "Currency": "EUR",
+  "EnterpriseNumber": "0472929537",
+  "EnterpriseName": "FALSTAFF GENT",
+  "Address": {
+   "Box": null,
+   "City": "Gent",
+   "CountryCode": "BE",
+   "Number": "693",
+   "PostalCode": "9050",
+   "Street": "Brusselsesteenweg"
+  },
+  "LegalForm": "015",
+  "LegalSituation": "053",
+  "FullFillLegalValidation": true,
+  "ActivityCode": "56101",
+  "GeneralAssemblyDate": "2016-07-31",
+  "AccountingDataURL": "https://ws.cbso.nbb.be/authentic/deposit/2016-55500243/accountingData",
+  "DataVersion": "Authentic",
+  "ImprovementDate": null,
+  "CorrectedData": null
+ },
+ {
+  "ReferenceNumber": "2007-75400073",
+  "DepositDate": "2007-09-28",
+  "ExerciseDates": {
+   "startDate": "2006-01-01",
+   "endDate": "2006-12-31"
+  },
+  "ModelType": "m01-f",
+  "DepositType": "Initial",
+  "Language": "NL",
+  "Currency": "EUR",
+  "EnterpriseNumber": "0472929537",
+  "EnterpriseName": "FALSTAFF GENT",
+  "Address": {
+   "Box": null,
+   "City": "Gent",
+   "CountryCode": "BE",
+   "Number": "693",
+   "PostalCode": "9050",
+   "Street": "Brusselsesteenweg"
+  },
+  "LegalForm": "015",
+  "LegalSituation": "053",
+  "FullFillLegalValidation": true,
+  "ActivityCode": "55401",
+  "GeneralAssemblyDate": "2007-06-21",
+  "AccountingDataURL": "https://ws.cbso.nbb.be/authentic/deposit/2007-75400073/accountingData",
+  "DataVersion": "Authentic",
+  "ImprovementDate": null,
+  "CorrectedData": null
+ },
+ {
+  "ReferenceNumber": "2004-14500080",
+  "DepositDate": "2004-05-12",
+  "ExerciseDates": {
+   "startDate": "2002-01-01",
+   "endDate": "2002-12-31"
+  },
+  "ModelType": "m01-f",
+  "DepositType": "Initial",
+  "Language": "NL",
+  "Currency": "EUR",
+  "EnterpriseNumber": "0472929537",
+  "EnterpriseName": "FALSTAFF GENT",
+  "Address": {
+   "Box": null,
+   "City": "Gent",
+   "CountryCode": "BE",
+   "Number": "693",
+   "PostalCode": "9050",
+   "Street": "Brusselsesteenweg"
+  },
+  "LegalForm": "015",
+  "LegalSituation": "053",
+  "FullFillLegalValidation": true,
+  "ActivityCode": "55401",
+  "GeneralAssemblyDate": "2004-05-10",
+  "AccountingDataURL": null,
+  "DataVersion": "Authentic",
+  "ImprovementDate": null,
+  "CorrectedData": null
+ },
+ {
+  "ReferenceNumber": "2015-26300265",
+  "DepositDate": "2015-07-02",
+  "ExerciseDates": {
+   "startDate": "2014-01-01",
+   "endDate": "2014-12-31"
+  },
+  "ModelType": "m01-f",
+  "DepositType": "Initial",
+  "Language": "NL",
+  "Currency": "EUR",
+  "EnterpriseNumber": "0472929537",
+  "EnterpriseName": "FALSTAFF GENT",
+  "Address": {
+   "Box": null,
+   "City": "Gent",
+   "CountryCode": "BE",
+   "Number": "693",
+   "PostalCode": "9050",
+   "Street": "Brusselsesteenweg"
+  },
+  "LegalForm": "015",
+  "LegalSituation": "053",
+  "FullFillLegalValidation": true,
+  "ActivityCode": "56101",
+  "GeneralAssemblyDate": "2015-06-21",
+  "AccountingDataURL": "https://ws.cbso.nbb.be/authentic/deposit/2015-26300265/accountingData",
+  "DataVersion": "Authentic",
+  "ImprovementDate": null,
+  "CorrectedData": null
+ },
+ {
+  "ReferenceNumber": "2004-82700816",
+  "DepositDate": "2004-12-01",
+  "ExerciseDates": {
+   "startDate": "2003-01-01",
+   "endDate": "2003-12-31"
+  },
+  "ModelType": "m01-f",
+  "DepositType": "Initial",
+  "Language": "NL",
+  "Currency": "EUR",
+  "EnterpriseNumber": "0472929537",
+  "EnterpriseName": "FALSTAFF GENT",
+  "Address": {
+   "Box": null,
+   "City": "Gent",
+   "CountryCode": "BE",
+   "Number": "693",
+   "PostalCode": "9050",
+   "Street": "Brusselsesteenweg"
+  },
+  "LegalForm": "015",
+  "LegalSituation": "053",
+  "FullFillLegalValidation": true,
+  "ActivityCode": "55401",
+  "GeneralAssemblyDate": "2004-11-25",
+  "AccountingDataURL": null,
+  "DataVersion": "Authentic",
+  "ImprovementDate": null,
+  "CorrectedData": null
+ },
+ {
+  "ReferenceNumber": "2006-79603976",
+  "DepositDate": "2006-09-27",
+  "ExerciseDates": {
+   "startDate": "2005-01-01",
+   "endDate": "2005-12-31"
+  },
+  "ModelType": "m01-f",
+  "DepositType": "Initial",
+  "Language": "NL",
+  "Currency": "EUR",
+  "EnterpriseNumber": "0472929537",
+  "EnterpriseName": "FALSTAFF GENT",
+  "Address": {
+   "Box": null,
+   "City": "Gent",
+   "CountryCode": "BE",
+   "Number": "693",
+   "PostalCode": "9050",
+   "Street": "Brusselsesteenweg"
+  },
+  "LegalForm": "015",
+  "LegalSituation": "053",
+  "FullFillLegalValidation": true,
+  "ActivityCode": "55401",
+  "GeneralAssemblyDate": "2006-06-21",
+  "AccountingDataURL": "https://ws.cbso.nbb.be/authentic/deposit/2006-79603976/accountingData",
+  "DataVersion": "Authentic",
+  "ImprovementDate": null,
+  "CorrectedData": null
+ },
+ {
+  "ReferenceNumber": "2014-54200534",
+  "DepositDate": "2014-08-29",
+  "ExerciseDates": {
+   "startDate": "2013-01-01",
+   "endDate": "2013-12-31"
+  },
+  "ModelType": "m01-f",
+  "DepositType": "Initial",
+  "Language": "NL",
+  "Currency": "EUR",
+  "EnterpriseNumber": "0472929537",
+  "EnterpriseName": "FALSTAFF GENT",
+  "Address": {
+   "Box": null,
+   "City": "Gent",
+   "CountryCode": "BE",
+   "Number": "693",
+   "PostalCode": "9050",
+   "Street": "Brusselsesteenweg"
+  },
+  "LegalForm": "015",
+  "LegalSituation": "053",
+  "FullFillLegalValidation": true,
+  "ActivityCode": "56101",
+  "GeneralAssemblyDate": "2014-07-31",
+  "AccountingDataURL": "https://ws.cbso.nbb.be/authentic/deposit/2014-54200534/accountingData",
+  "DataVersion": "Authentic",
+  "ImprovementDate": null,
+  "CorrectedData": null
+ },
+ {
+  "ReferenceNumber": "2011-40500461",
+  "DepositDate": "2011-08-17",
+  "ExerciseDates": {
+   "startDate": "2010-01-01",
+   "endDate": "2010-12-31"
+  },
+  "ModelType": "m01-f",
+  "DepositType": "Initial",
+  "Language": "NL",
+  "Currency": "EUR",
+  "EnterpriseNumber": "0472929537",
+  "EnterpriseName": "FALSTAFF GENT",
+  "Address": {
+   "Box": null,
+   "City": "Gent",
+   "CountryCode": "BE",
+   "Number": "693",
+   "PostalCode": "9050",
+   "Street": "Brusselsesteenweg"
+  },
+  "LegalForm": "015",
+  "LegalSituation": "053",
+  "FullFillLegalValidation": true,
+  "ActivityCode": "56101",
+  "GeneralAssemblyDate": "2011-06-21",
+  "AccountingDataURL": "https://ws.cbso.nbb.be/authentic/deposit/2011-40500461/accountingData",
+  "DataVersion": "Authentic",
+  "ImprovementDate": null,
+  "CorrectedData": null
+ },
+ {
+  "ReferenceNumber": "2009-00600187",
+  "DepositDate": "2009-01-08",
+  "ExerciseDates": {
+   "startDate": "2007-01-01",
+   "endDate": "2007-12-31"
+  },
+  "ModelType": "m01-f",
+  "DepositType": "Initial",
+  "Language": "NL",
+  "Currency": "EUR",
+  "EnterpriseNumber": "0472929537",
+  "EnterpriseName": "FALSTAFF GENT",
+  "Address": {
+   "Box": null,
+   "City": "Gent",
+   "CountryCode": "BE",
+   "Number": "693",
+   "PostalCode": "9050",
+   "Street": "Brusselsesteenweg"
+  },
+  "LegalForm": "015",
+  "LegalSituation": "053",
+  "FullFillLegalValidation": true,
+  "ActivityCode": "55401",
+  "GeneralAssemblyDate": "2008-06-21",
+  "AccountingDataURL": "https://ws.cbso.nbb.be/authentic/deposit/2009-00600187/accountingData",
+  "DataVersion": "Authentic",
+  "ImprovementDate": null,
+  "CorrectedData": null
+ },
+ {
+  "ReferenceNumber": "2012-54200484",
+  "DepositDate": "2012-08-31",
+  "ExerciseDates": {
+   "startDate": "2011-01-01",
+   "endDate": "2011-12-31"
+  },
+  "ModelType": "m01-f",
+  "DepositType": "Initial",
+  "Language": "NL",
+  "Currency": "EUR",
+  "EnterpriseNumber": "0472929537",
+  "EnterpriseName": "FALSTAFF GENT",
+  "Address": {
+   "Box": null,
+   "City": "Gent",
+   "CountryCode": "BE",
+   "Number": "693",
+   "PostalCode": "9050",
+   "Street": "Brusselsesteenweg"
+  },
+  "LegalForm": "015",
+  "LegalSituation": "053",
+  "FullFillLegalValidation": true,
+  "ActivityCode": "56101",
+  "GeneralAssemblyDate": "2012-08-21",
+  "AccountingDataURL": "https://ws.cbso.nbb.be/authentic/deposit/2012-54200484/accountingData",
+  "DataVersion": "Authentic",
+  "ImprovementDate": null,
+  "CorrectedData": null
+ },
+ {
+  "ReferenceNumber": "2009-89700374",
+  "DepositDate": "2009-12-18",
+  "ExerciseDates": {
+   "startDate": "2008-01-01",
+   "endDate": "2008-12-31"
+  },
+  "ModelType": "m01-f",
+  "DepositType": "Initial",
+  "Language": "NL",
+  "Currency": "EUR",
+  "EnterpriseNumber": "0472929537",
+  "EnterpriseName": "FALSTAFF GENT",
+  "Address": {
+   "Box": null,
+   "City": "Gent",
+   "CountryCode": "BE",
+   "Number": "693",
+   "PostalCode": "9050",
+   "Street": "Brusselsesteenweg"
+  },
+  "LegalForm": "015",
+  "LegalSituation": "053",
+  "FullFillLegalValidation": true,
+  "ActivityCode": "56101",
+  "GeneralAssemblyDate": "2009-06-21",
+  "AccountingDataURL": "https://ws.cbso.nbb.be/authentic/deposit/2009-89700374/accountingData",
+  "DataVersion": "Authentic",
+  "ImprovementDate": null,
+  "CorrectedData": null
+ },
+ {
+  "ReferenceNumber": "2010-48000221",
+  "DepositDate": "2010-08-31",
+  "ExerciseDates": {
+   "startDate": "2009-01-01",
+   "endDate": "2009-12-31"
+  },
+  "ModelType": "m01-f",
+  "DepositType": "Initial",
+  "Language": "NL",
+  "Currency": "EUR",
+  "EnterpriseNumber": "0472929537",
+  "EnterpriseName": "FALSTAFF GENT",
+  "Address": {
+   "Box": null,
+   "City": "Gent",
+   "CountryCode": "BE",
+   "Number": "693",
+   "PostalCode": "9050",
+   "Street": "Brusselsesteenweg"
+  },
+  "LegalForm": "015",
+  "LegalSituation": "053",
+  "FullFillLegalValidation": true,
+  "ActivityCode": "56101",
+  "GeneralAssemblyDate": "2010-06-21",
+  "AccountingDataURL": "https://ws.cbso.nbb.be/authentic/deposit/2010-48000221/accountingData",
+  "DataVersion": "Authentic",
+  "ImprovementDate": null,
+  "CorrectedData": null
+ }
+]

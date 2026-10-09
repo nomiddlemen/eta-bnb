@@ -1,0 +1,33 @@
+[
+ {
+  "ReferenceNumber": "1986-44301616",
+  "DepositDate": "1986-11-28",
+  "ExerciseDates": {
+   "startDate": "1900-01-01",
+   "endDate": "1986-06-30"
+  },
+  "ModelType": "m01-f-p",
+  "DepositType": "Initial",
+  "Language": "FR",
+  "Currency": "BEF",
+  "EnterpriseNumber": "0426661230",
+  "EnterpriseName": "OMNIS",
+  "Address": {
+   "Box": null,
+   "City": "Mons",
+   "CountryCode": "BE",
+   "Number": "1",
+   "PostalCode": "7000",
+   "Street": "Rue des Etampes"
+  },
+  "LegalForm": "014",
+  "LegalSituation": "053",
+  "FullFillLegalValidation": true,
+  "ActivityCode": "72300",
+  "GeneralAssemblyDate": "1986-10-28",
+  "AccountingDataURL": null,
+  "DataVersion": "Authentic",
+  "ImprovementDate": null,
+  "CorrectedData": null
+ }
+]

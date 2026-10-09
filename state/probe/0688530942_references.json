@@ -1,0 +1,219 @@
+[
+ {
+  "ReferenceNumber": "2020-04800425",
+  "DepositDate": "2020-02-07",
+  "ExerciseDates": {
+   "startDate": "2017-10-01",
+   "endDate": "2018-12-31"
+  },
+  "ModelType": "m01-f",
+  "DepositType": "Initial",
+  "Language": "FR",
+  "Currency": "EUR",
+  "EnterpriseNumber": "0688530942",
+  "EnterpriseName": "H&K DESIGN",
+  "Address": {
+   "Box": null,
+   "City": "Liège",
+   "CountryCode": "BE",
+   "Number": "16",
+   "PostalCode": "4000",
+   "Street": "Rue Dony"
+  },
+  "LegalForm": "015",
+  "LegalSituation": "000",
+  "FullFillLegalValidation": true,
+  "ActivityCode": "43310",
+  "GeneralAssemblyDate": "2019-06-30",
+  "AccountingDataURL": "https://ws.cbso.nbb.be/authentic/deposit/2020-04800425/accountingData",
+  "DataVersion": "Authentic",
+  "ImprovementDate": null,
+  "CorrectedData": null
+ },
+ {
+  "ReferenceNumber": "2021-75800178",
+  "DepositDate": "2021-10-29",
+  "ExerciseDates": {
+   "startDate": "2020-01-01",
+   "endDate": "2020-12-31"
+  },
+  "ModelType": "m81-f",
+  "DepositType": "Initial",
+  "Language": "FR",
+  "Currency": "EUR",
+  "EnterpriseNumber": "0688530942",
+  "EnterpriseName": "H&K DESIGN",
+  "Address": {
+   "Box": null,
+   "City": "Liège",
+   "CountryCode": "BE",
+   "Number": "16",
+   "PostalCode": "4000",
+   "Street": "Rue Dony"
+  },
+  "LegalForm": "015",
+  "LegalSituation": "000",
+  "FullFillLegalValidation": true,
+  "ActivityCode": "43310",
+  "GeneralAssemblyDate": "2021-06-23",
+  "AccountingDataURL": "https://ws.cbso.nbb.be/authentic/deposit/2021-75800178/accountingData",
+  "DataVersion": "Authentic",
+  "ImprovementDate": null,
+  "CorrectedData": null
+ },
+ {
+  "ReferenceNumber": "2025-00568602",
+  "DepositDate": "2025-11-12",
+  "ExerciseDates": {
+   "startDate": "2024-01-01",
+   "endDate": "2024-12-31"
+  },
+  "ModelType": "m87-f",
+  "DepositType": "Initial",
+  "Language": "FR",
+  "Currency": "EUR",
+  "EnterpriseNumber": "0688530942",
+  "EnterpriseName": "H&K DESIGN",
+  "Address": {
+   "Box": null,
+   "City": "Liège",
+   "CountryCode": "BE",
+   "Number": "16",
+   "PostalCode": "4000",
+   "Street": "Rue Dony"
+  },
+  "LegalForm": "015",
+  "LegalSituation": "000",
+  "FullFillLegalValidation": true,
+  "ActivityCode": "43310",
+  "GeneralAssemblyDate": "2025-10-07",
+  "AccountingDataURL": "https://ws.cbso.nbb.be/authentic/deposit/2025-00568602/accountingData",
+  "DataVersion": "Authentic",
+  "ImprovementDate": null,
+  "CorrectedData": null
+ },
+ {
+  "ReferenceNumber": "2024-00488832",
+  "DepositDate": "2024-10-01",
+  "ExerciseDates": {
+   "startDate": "2023-01-01",
+   "endDate": "2023-12-31"
+  },
+  "ModelType": "m87-f",
+  "DepositType": "Initial",
+  "Language": "FR",
+  "Currency": "EUR",
+  "EnterpriseNumber": "0688530942",
+  "EnterpriseName": "H&K DESIGN",
+  "Address": {
+   "Box": null,
+   "City": "Liège",
+   "CountryCode": "BE",
+   "Number": "16",
+   "PostalCode": "4000",
+   "Street": "Rue Dony"
+  },
+  "LegalForm": "015",
+  "LegalSituation": "000",
+  "FullFillLegalValidation": true,
+  "ActivityCode": "43310",
+  "GeneralAssemblyDate": "2024-09-22",
+  "AccountingDataURL": "https://ws.cbso.nbb.be/authentic/deposit/2024-00488832/accountingData",
+  "DataVersion": "Authentic",
+  "ImprovementDate": null,
+  "CorrectedData": null
+ },
+ {
+  "ReferenceNumber": "2023-00531405",
+  "DepositDate": "2023-12-12",
+  "ExerciseDates": {
+   "startDate": "2022-01-01",
+   "endDate": "2022-12-31"
+  },
+  "ModelType": "m87-f",
+  "DepositType": "Initial",
+  "Language": "FR",
+  "Currency": "EUR",
+  "EnterpriseNumber": "0688530942",
+  "EnterpriseName": "H&K DESIGN",
+  "Address": {
+   "Box": null,
+   "City": "Liège",
+   "CountryCode": "BE",
+   "Number": "16",
+   "PostalCode": "4000",
+   "Street": "Rue Dony"
+  },
+  "LegalForm": "015",
+  "LegalSituation": "000",
+  "FullFillLegalValidation": true,
+  "ActivityCode": "43310",
+  "GeneralAssemblyDate": "2023-10-05",
+  "AccountingDataURL": "https://ws.cbso.nbb.be/authentic/deposit/2023-00531405/accountingData",
+  "DataVersion": "Authentic",
+  "ImprovementDate": null,
+  "CorrectedData": null
+ },
+ {
+  "ReferenceNumber": "2021-77100071",
+  "DepositDate": "2021-11-10",
+  "ExerciseDates": {
+   "startDate": "2019-01-01",
+   "endDate": "2019-12-31"
+  },
+  "ModelType": "m01-f",
+  "DepositType": "Initial",
+  "Language": "FR",
+  "Currency": "EUR",
+  "EnterpriseNumber": "0688530942",
+  "EnterpriseName": "H&K DESIGN",
+  "Address": {
+   "Box": null,
+   "City": "Liège",
+   "CountryCode": "BE",
+   "Number": "16",
+   "PostalCode": "4000",
+   "Street": "Rue Dony"
+  },
+  "LegalForm": "015",
+  "LegalSituation": "000",
+  "FullFillLegalValidation": true,
+  "ActivityCode": "43310",
+  "GeneralAssemblyDate": "2020-08-06",
+  "AccountingDataURL": "https://ws.cbso.nbb.be/authentic/deposit/2021-77100071/accountingData",
+  "DataVersion": "Authentic",
+  "ImprovementDate": null,
+  "CorrectedData": null
+ },
+ {
+  "ReferenceNumber": "2022-20407470",
+  "DepositDate": "2022-08-31",
+  "ExerciseDates": {
+   "startDate": "2021-01-01",
+   "endDate": "2021-12-31"
+  },
+  "ModelType": "m87-f",
+  "DepositType": "Initial",
+  "Language": "FR",
+  "Currency": "EUR",
+  "EnterpriseNumber": "0688530942",
+  "EnterpriseName": "H&K DESIGN",
+  "Address": {
+   "Box": null,
+   "City": "Liège",
+   "CountryCode": "BE",
+   "Number": "16",
+   "PostalCode": "4000",
+   "Street": "Rue Dony"
+  },
+  "LegalForm": "015",
+  "LegalSituation": "000",
+  "FullFillLegalValidation": true,
+  "ActivityCode": "43310",
+  "GeneralAssemblyDate": "2022-06-24",
+  "AccountingDataURL": "https://ws.cbso.nbb.be/authentic/deposit/2022-20407470/accountingData",
+  "DataVersion": "Authentic",
+  "ImprovementDate": null,
+  "CorrectedData": null
+ }
+]

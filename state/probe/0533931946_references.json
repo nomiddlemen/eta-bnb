@@ -1,0 +1,374 @@
+[
+ {
+  "ReferenceNumber": "2020-71100406",
+  "DepositDate": "2020-11-17",
+  "ExerciseDates": {
+   "startDate": "2019-04-01",
+   "endDate": "2020-03-31"
+  },
+  "ModelType": "m07-f",
+  "DepositType": "Initial",
+  "Language": "FR",
+  "Currency": "EUR",
+  "EnterpriseNumber": "0533931946",
+  "EnterpriseName": "DOCTEUR MILQUET CAROLINE",
+  "Address": {
+   "Box": null,
+   "City": "Châtelet",
+   "CountryCode": "BE",
+   "Number": "8",
+   "PostalCode": "6200",
+   "Street": "Rue de la Fonderie"
+  },
+  "LegalForm": "610",
+  "LegalSituation": "000",
+  "FullFillLegalValidation": true,
+  "ActivityCode": "",
+  "GeneralAssemblyDate": "2020-09-18",
+  "AccountingDataURL": "https://ws.cbso.nbb.be/authentic/deposit/2020-71100406/accountingData",
+  "DataVersion": "Authentic",
+  "ImprovementDate": null,
+  "CorrectedData": null
+ },
+ {
+  "ReferenceNumber": "2021-78100461",
+  "DepositDate": "2021-11-24",
+  "ExerciseDates": {
+   "startDate": "2020-04-01",
+   "endDate": "2021-03-31"
+  },
+  "ModelType": "m07-f",
+  "DepositType": "Initial",
+  "Language": "FR",
+  "Currency": "EUR",
+  "EnterpriseNumber": "0533931946",
+  "EnterpriseName": "DOCTEUR MILQUET CAROLINE",
+  "Address": {
+   "Box": null,
+   "City": "Châtelet",
+   "CountryCode": "BE",
+   "Number": "8",
+   "PostalCode": "6200",
+   "Street": "Rue de la Fonderie"
+  },
+  "LegalForm": "610",
+  "LegalSituation": "000",
+  "FullFillLegalValidation": true,
+  "ActivityCode": "",
+  "GeneralAssemblyDate": "2021-09-17",
+  "AccountingDataURL": "https://ws.cbso.nbb.be/authentic/deposit/2021-78100461/accountingData",
+  "DataVersion": "Authentic",
+  "ImprovementDate": null,
+  "CorrectedData": null
+ },
+ {
+  "ReferenceNumber": "2018-71700559",
+  "DepositDate": "2018-11-07",
+  "ExerciseDates": {
+   "startDate": "2017-04-01",
+   "endDate": "2018-03-31"
+  },
+  "ModelType": "m01-f",
+  "DepositType": "Initial",
+  "Language": "FR",
+  "Currency": "EUR",
+  "EnterpriseNumber": "0533931946",
+  "EnterpriseName": "DOCTEUR MILQUET CAROLINE",
+  "Address": {
+   "Box": null,
+   "City": "Châtelet",
+   "CountryCode": "BE",
+   "Number": "8",
+   "PostalCode": "6200",
+   "Street": "Rue de la Fonderie"
+  },
+  "LegalForm": "610",
+  "LegalSituation": "000",
+  "FullFillLegalValidation": true,
+  "ActivityCode": "",
+  "GeneralAssemblyDate": "2018-09-21",
+  "AccountingDataURL": "https://ws.cbso.nbb.be/authentic/deposit/2018-71700559/accountingData",
+  "DataVersion": "Authentic",
+  "ImprovementDate": null,
+  "CorrectedData": null
+ },
+ {
+  "ReferenceNumber": "2015-61500517",
+  "DepositDate": "2015-09-29",
+  "ExerciseDates": {
+   "startDate": "2014-04-01",
+   "endDate": "2015-03-31"
+  },
+  "ModelType": "m01-f",
+  "DepositType": "Initial",
+  "Language": "FR",
+  "Currency": "EUR",
+  "EnterpriseNumber": "0533931946",
+  "EnterpriseName": "DOCTEUR MILQUET CAROLINE",
+  "Address": {
+   "Box": null,
+   "City": "Châtelet",
+   "CountryCode": "BE",
+   "Number": "8",
+   "PostalCode": "6200",
+   "Street": "Rue de la Fonderie"
+  },
+  "LegalForm": "610",
+  "LegalSituation": "000",
+  "FullFillLegalValidation": true,
+  "ActivityCode": "",
+  "GeneralAssemblyDate": "2015-09-18",
+  "AccountingDataURL": "https://ws.cbso.nbb.be/authentic/deposit/2015-61500517/accountingData",
+  "DataVersion": "Authentic",
+  "ImprovementDate": null,
+  "CorrectedData": null
+ },
+ {
+  "ReferenceNumber": "2016-64000295",
+  "DepositDate": "2016-10-03",
+  "ExerciseDates": {
+   "startDate": "2015-04-01",
+   "endDate": "2016-03-31"
+  },
+  "ModelType": "m01-f",
+  "DepositType": "Initial",
+  "Language": "FR",
+  "Currency": "EUR",
+  "EnterpriseNumber": "0533931946",
+  "EnterpriseName": "DOCTEUR MILQUET CAROLINE",
+  "Address": {
+   "Box": null,
+   "City": "Châtelet",
+   "CountryCode": "BE",
+   "Number": "8",
+   "PostalCode": "6200",
+   "Street": "Rue de la Fonderie"
+  },
+  "LegalForm": "610",
+  "LegalSituation": "000",
+  "FullFillLegalValidation": true,
+  "ActivityCode": "",
+  "GeneralAssemblyDate": "2016-09-16",
+  "AccountingDataURL": "https://ws.cbso.nbb.be/authentic/deposit/2016-64000295/accountingData",
+  "DataVersion": "Authentic",
+  "ImprovementDate": null,
+  "CorrectedData": null
+ },
+ {
+  "ReferenceNumber": "2023-00518118",
+  "DepositDate": "2023-11-29",
+  "ExerciseDates": {
+   "startDate": "2022-04-01",
+   "endDate": "2023-03-31"
+  },
+  "ModelType": "m87-f",
+  "DepositType": "Initial",
+  "Language": "FR",
+  "Currency": "EUR",
+  "EnterpriseNumber": "0533931946",
+  "EnterpriseName": "DOCTEUR MILQUET CAROLINE",
+  "Address": {
+   "Box": null,
+   "City": "Châtelet",
+   "CountryCode": "BE",
+   "Number": "8",
+   "PostalCode": "6200",
+   "Street": "Rue de la Fonderie"
+  },
+  "LegalForm": "610",
+  "LegalSituation": "000",
+  "FullFillLegalValidation": true,
+  "ActivityCode": "",
+  "GeneralAssemblyDate": "2023-09-15",
+  "AccountingDataURL": "https://ws.cbso.nbb.be/authentic/deposit/2023-00518118/accountingData",
+  "DataVersion": "Authentic",
+  "ImprovementDate": null,
+  "CorrectedData": null
+ },
+ {
+  "ReferenceNumber": "2017-69500309",
+  "DepositDate": "2017-11-09",
+  "ExerciseDates": {
+   "startDate": "2016-04-01",
+   "endDate": "2017-03-31"
+  },
+  "ModelType": "m01-f",
+  "DepositType": "Initial",
+  "Language": "FR",
+  "Currency": "EUR",
+  "EnterpriseNumber": "0533931946",
+  "EnterpriseName": "DOCTEUR MILQUET CAROLINE",
+  "Address": {
+   "Box": null,
+   "City": "Châtelet",
+   "CountryCode": "BE",
+   "Number": "8",
+   "PostalCode": "6200",
+   "Street": "Rue de la Fonderie"
+  },
+  "LegalForm": "610",
+  "LegalSituation": "000",
+  "FullFillLegalValidation": true,
+  "ActivityCode": "",
+  "GeneralAssemblyDate": "2017-09-15",
+  "AccountingDataURL": "https://ws.cbso.nbb.be/authentic/deposit/2017-69500309/accountingData",
+  "DataVersion": "Authentic",
+  "ImprovementDate": null,
+  "CorrectedData": null
+ },
+ {
+  "ReferenceNumber": "2023-00026222",
+  "DepositDate": "2023-02-10",
+  "ExerciseDates": {
+   "startDate": "2021-04-01",
+   "endDate": "2022-03-31"
+  },
+  "ModelType": "m87-f",
+  "DepositType": "Initial",
+  "Language": "FR",
+  "Currency": "EUR",
+  "EnterpriseNumber": "0533931946",
+  "EnterpriseName": "DOCTEUR MILQUET CAROLINE",
+  "Address": {
+   "Box": null,
+   "City": "Châtelet",
+   "CountryCode": "BE",
+   "Number": "8",
+   "PostalCode": "6200",
+   "Street": "Rue de la Fonderie"
+  },
+  "LegalForm": "610",
+  "LegalSituation": "000",
+  "FullFillLegalValidation": true,
+  "ActivityCode": "",
+  "GeneralAssemblyDate": "2022-09-16",
+  "AccountingDataURL": "https://ws.cbso.nbb.be/authentic/deposit/2023-00026222/accountingData",
+  "DataVersion": "Authentic",
+  "ImprovementDate": null,
+  "CorrectedData": null
+ },
+ {
+  "ReferenceNumber": "2019-74200334",
+  "DepositDate": "2019-11-25",
+  "ExerciseDates": {
+   "startDate": "2018-04-01",
+   "endDate": "2019-03-31"
+  },
+  "ModelType": "m07-f",
+  "DepositType": "Initial",
+  "Language": "FR",
+  "Currency": "EUR",
+  "EnterpriseNumber": "0533931946",
+  "EnterpriseName": "DOCTEUR MILQUET CAROLINE",
+  "Address": {
+   "Box": null,
+   "City": "Châtelet",
+   "CountryCode": "BE",
+   "Number": "8",
+   "PostalCode": "6200",
+   "Street": "Rue de la Fonderie"
+  },
+  "LegalForm": "610",
+  "LegalSituation": "000",
+  "FullFillLegalValidation": true,
+  "ActivityCode": "",
+  "GeneralAssemblyDate": "2019-09-20",
+  "AccountingDataURL": "https://ws.cbso.nbb.be/authentic/deposit/2019-74200334/accountingData",
+  "DataVersion": "Authentic",
+  "ImprovementDate": null,
+  "CorrectedData": null
+ },
+ {
+  "ReferenceNumber": "2014-67800535",
+  "DepositDate": "2014-11-27",
+  "ExerciseDates": {
+   "startDate": "2013-04-01",
+   "endDate": "2014-03-31"
+  },
+  "ModelType": "m01-f",
+  "DepositType": "Initial",
+  "Language": "FR",
+  "Currency": "EUR",
+  "EnterpriseNumber": "0533931946",
+  "EnterpriseName": "DOCTEUR MILQUET CAROLINE",
+  "Address": {
+   "Box": null,
+   "City": "Châtelet",
+   "CountryCode": "BE",
+   "Number": "8",
+   "PostalCode": "6200",
+   "Street": "Rue de la Fonderie"
+  },
+  "LegalForm": "610",
+  "LegalSituation": "000",
+  "FullFillLegalValidation": true,
+  "ActivityCode": "",
+  "GeneralAssemblyDate": "2014-09-19",
+  "AccountingDataURL": "https://ws.cbso.nbb.be/authentic/deposit/2014-67800535/accountingData",
+  "DataVersion": "Authentic",
+  "ImprovementDate": null,
+  "CorrectedData": null
+ },
+ {
+  "ReferenceNumber": "2025-00573324",
+  "DepositDate": "2025-11-28",
+  "ExerciseDates": {
+   "startDate": "2024-04-01",
+   "endDate": "2025-03-31"
+  },
+  "ModelType": "m87-f",
+  "DepositType": "Initial",
+  "Language": "FR",
+  "Currency": "EUR",
+  "EnterpriseNumber": "0533931946",
+  "EnterpriseName": "DOCTEUR MILQUET CAROLINE",
+  "Address": {
+   "Box": null,
+   "City": "Châtelet",
+   "CountryCode": "BE",
+   "Number": "8",
+   "PostalCode": "6200",
+   "Street": "Rue de la Fonderie"
+  },
+  "LegalForm": "610",
+  "LegalSituation": "000",
+  "FullFillLegalValidation": true,
+  "ActivityCode": "",
+  "GeneralAssemblyDate": "2025-09-19",
+  "AccountingDataURL": "https://ws.cbso.nbb.be/authentic/deposit/2025-00573324/accountingData",
+  "DataVersion": "Authentic",
+  "ImprovementDate": null,
+  "CorrectedData": null
+ },
+ {
+  "ReferenceNumber": "2024-00605284",
+  "DepositDate": "2024-11-26",
+  "ExerciseDates": {
+   "startDate": "2023-04-01",
+   "endDate": "2024-03-31"
+  },
+  "ModelType": "m87-f",
+  "DepositType": "Initial",
+  "Language": "FR",
+  "Currency": "EUR",
+  "EnterpriseNumber": "0533931946",
+  "EnterpriseName": "DOCTEUR MILQUET CAROLINE",
+  "Address": {
+   "Box": null,
+   "City": "Châtelet",
+   "CountryCode": "BE",
+   "Number": "8",
+   "PostalCode": "6200",
+   "Street": "Rue de la Fonderie"
+  },
+  "LegalForm": "610",
+  "LegalSituation": "000",
+  "FullFillLegalValidation": true,
+  "ActivityCode": "",
+  "GeneralAssemblyDate": "2024-09-20",
+  "AccountingDataURL": "https://ws.cbso.nbb.be/authentic/deposit/2024-00605284/accountingData",
+  "DataVersion": "Authentic",
+  "ImprovementDate": null,
+  "CorrectedData": null
+ }
+]

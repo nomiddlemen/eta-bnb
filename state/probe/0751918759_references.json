@@ -1,0 +1,33 @@
+[
+ {
+  "ReferenceNumber": "2022-06600497",
+  "DepositDate": "2022-02-28",
+  "ExerciseDates": {
+   "startDate": "2020-08-10",
+   "endDate": "2021-06-30"
+  },
+  "ModelType": "m87-f",
+  "DepositType": "Initial",
+  "Language": "NL",
+  "Currency": "EUR",
+  "EnterpriseNumber": "0751918759",
+  "EnterpriseName": "THIELTRANS",
+  "Address": {
+   "Box": "21",
+   "City": "Halle",
+   "CountryCode": "BE",
+   "Number": "77",
+   "PostalCode": "1500",
+   "Street": "Beertsestraat"
+  },
+  "LegalForm": "610",
+  "LegalSituation": "050",
+  "FullFillLegalValidation": true,
+  "ActivityCode": "49410",
+  "GeneralAssemblyDate": "2021-12-08",
+  "AccountingDataURL": "https://ws.cbso.nbb.be/authentic/deposit/2022-06600497/accountingData",
+  "DataVersion": "Authentic",
+  "ImprovementDate": null,
+  "CorrectedData": null
+ }
+]

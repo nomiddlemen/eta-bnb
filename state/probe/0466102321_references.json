@@ -1,0 +1,591 @@
+[
+ {
+  "ReferenceNumber": "2002-58803646",
+  "DepositDate": "2002-09-26",
+  "ExerciseDates": {
+   "startDate": "2001-01-01",
+   "endDate": "2001-12-31"
+  },
+  "ModelType": "m01-f",
+  "DepositType": "Initial",
+  "Language": "NL",
+  "Currency": "EUR",
+  "EnterpriseNumber": "0466102321",
+  "EnterpriseName": "DYNAMIC OIL SERVICES",
+  "Address": {
+   "Box": "3",
+   "City": "Antwerpen",
+   "CountryCode": "BE",
+   "Number": "37",
+   "PostalCode": "2000",
+   "Street": "Frankrijklei"
+  },
+  "LegalForm": "014",
+  "LegalSituation": "014",
+  "FullFillLegalValidation": true,
+  "ActivityCode": "51510",
+  "GeneralAssemblyDate": "2002-06-03",
+  "AccountingDataURL": null,
+  "DataVersion": "Authentic",
+  "ImprovementDate": null,
+  "CorrectedData": null
+ },
+ {
+  "ReferenceNumber": "2006-76700732",
+  "DepositDate": "2006-08-31",
+  "ExerciseDates": {
+   "startDate": "2005-01-01",
+   "endDate": "2005-12-31"
+  },
+  "ModelType": "m01-f",
+  "DepositType": "Initial",
+  "Language": "NL",
+  "Currency": "EUR",
+  "EnterpriseNumber": "0466102321",
+  "EnterpriseName": "DYNAMIC OIL SERVICES",
+  "Address": {
+   "Box": "3",
+   "City": "Antwerpen",
+   "CountryCode": "BE",
+   "Number": "37",
+   "PostalCode": "2000",
+   "Street": "Frankrijklei"
+  },
+  "LegalForm": "014",
+  "LegalSituation": "014",
+  "FullFillLegalValidation": true,
+  "ActivityCode": "51510",
+  "GeneralAssemblyDate": "2006-06-01",
+  "AccountingDataURL": null,
+  "DataVersion": "Authentic",
+  "ImprovementDate": null,
+  "CorrectedData": null
+ },
+ {
+  "ReferenceNumber": "2003-78601701",
+  "DepositDate": "2003-11-07",
+  "ExerciseDates": {
+   "startDate": "2002-01-01",
+   "endDate": "2002-12-31"
+  },
+  "ModelType": "m01-f",
+  "DepositType": "Initial",
+  "Language": "NL",
+  "Currency": "EUR",
+  "EnterpriseNumber": "0466102321",
+  "EnterpriseName": "DYNAMIC OIL SERVICES",
+  "Address": {
+   "Box": "3",
+   "City": "Antwerpen",
+   "CountryCode": "BE",
+   "Number": "37",
+   "PostalCode": "2000",
+   "Street": "Frankrijklei"
+  },
+  "LegalForm": "014",
+  "LegalSituation": "014",
+  "FullFillLegalValidation": true,
+  "ActivityCode": "51510",
+  "GeneralAssemblyDate": "2003-06-02",
+  "AccountingDataURL": null,
+  "DataVersion": "Authentic",
+  "ImprovementDate": null,
+  "CorrectedData": null
+ },
+ {
+  "ReferenceNumber": "2010-25700206",
+  "DepositDate": "2010-06-30",
+  "ExerciseDates": {
+   "startDate": "2009-01-01",
+   "endDate": "2009-12-31"
+  },
+  "ModelType": "m01-f",
+  "DepositType": "Initial",
+  "Language": "NL",
+  "Currency": "EUR",
+  "EnterpriseNumber": "0466102321",
+  "EnterpriseName": "DYNAMIC OIL SERVICES",
+  "Address": {
+   "Box": "3",
+   "City": "Antwerpen",
+   "CountryCode": "BE",
+   "Number": "37",
+   "PostalCode": "2000",
+   "Street": "Frankrijklei"
+  },
+  "LegalForm": "014",
+  "LegalSituation": "014",
+  "FullFillLegalValidation": true,
+  "ActivityCode": "46710",
+  "GeneralAssemblyDate": "2010-06-01",
+  "AccountingDataURL": "https://ws.cbso.nbb.be/authentic/deposit/2010-25700206/accountingData",
+  "DataVersion": "Authentic",
+  "ImprovementDate": null,
+  "CorrectedData": null
+ },
+ {
+  "ReferenceNumber": "2005-66803016",
+  "DepositDate": "2005-09-07",
+  "ExerciseDates": {
+   "startDate": "2004-01-01",
+   "endDate": "2004-12-31"
+  },
+  "ModelType": "m01-f",
+  "DepositType": "Initial",
+  "Language": "NL",
+  "Currency": "EUR",
+  "EnterpriseNumber": "0466102321",
+  "EnterpriseName": "DYNAMIC OIL SERVICES",
+  "Address": {
+   "Box": "3",
+   "City": "Antwerpen",
+   "CountryCode": "BE",
+   "Number": "37",
+   "PostalCode": "2000",
+   "Street": "Frankrijklei"
+  },
+  "LegalForm": "014",
+  "LegalSituation": "014",
+  "FullFillLegalValidation": true,
+  "ActivityCode": "51510",
+  "GeneralAssemblyDate": "2005-06-01",
+  "AccountingDataURL": null,
+  "DataVersion": "Authentic",
+  "ImprovementDate": null,
+  "CorrectedData": null
+ },
+ {
+  "ReferenceNumber": "2019-38100227",
+  "DepositDate": "2019-07-22",
+  "ExerciseDates": {
+   "startDate": "2018-01-01",
+   "endDate": "2018-12-31"
+  },
+  "ModelType": "m01-f",
+  "DepositType": "Initial",
+  "Language": "NL",
+  "Currency": "EUR",
+  "EnterpriseNumber": "0466102321",
+  "EnterpriseName": "DYNAMIC OIL SERVICES",
+  "Address": {
+   "Box": "3",
+   "City": "Antwerpen",
+   "CountryCode": "BE",
+   "Number": "37",
+   "PostalCode": "2000",
+   "Street": "Frankrijklei"
+  },
+  "LegalForm": "014",
+  "LegalSituation": "014",
+  "FullFillLegalValidation": true,
+  "ActivityCode": "46710",
+  "GeneralAssemblyDate": "2019-06-30",
+  "AccountingDataURL": "https://ws.cbso.nbb.be/authentic/deposit/2019-38100227/accountingData",
+  "DataVersion": "Authentic",
+  "ImprovementDate": null,
+  "CorrectedData": null
+ },
+ {
+  "ReferenceNumber": "2011-17700192",
+  "DepositDate": "2011-06-17",
+  "ExerciseDates": {
+   "startDate": "2010-01-01",
+   "endDate": "2010-12-31"
+  },
+  "ModelType": "m01-f",
+  "DepositType": "Initial",
+  "Language": "NL",
+  "Currency": "EUR",
+  "EnterpriseNumber": "0466102321",
+  "EnterpriseName": "DYNAMIC OIL SERVICES",
+  "Address": {
+   "Box": "3",
+   "City": "Antwerpen",
+   "CountryCode": "BE",
+   "Number": "37",
+   "PostalCode": "2000",
+   "Street": "Frankrijklei"
+  },
+  "LegalForm": "014",
+  "LegalSituation": "014",
+  "FullFillLegalValidation": true,
+  "ActivityCode": "46710",
+  "GeneralAssemblyDate": "2011-06-01",
+  "AccountingDataURL": "https://ws.cbso.nbb.be/authentic/deposit/2011-17700192/accountingData",
+  "DataVersion": "Authentic",
+  "ImprovementDate": null,
+  "CorrectedData": null
+ },
+ {
+  "ReferenceNumber": "2004-76700842",
+  "DepositDate": "2004-10-29",
+  "ExerciseDates": {
+   "startDate": "2003-01-01",
+   "endDate": "2003-12-31"
+  },
+  "ModelType": "m01-f",
+  "DepositType": "Initial",
+  "Language": "NL",
+  "Currency": "EUR",
+  "EnterpriseNumber": "0466102321",
+  "EnterpriseName": "DYNAMIC OIL SERVICES",
+  "Address": {
+   "Box": "3",
+   "City": "Antwerpen",
+   "CountryCode": "BE",
+   "Number": "37",
+   "PostalCode": "2000",
+   "Street": "Frankrijklei"
+  },
+  "LegalForm": "014",
+  "LegalSituation": "014",
+  "FullFillLegalValidation": true,
+  "ActivityCode": "51510",
+  "GeneralAssemblyDate": "2004-10-15",
+  "AccountingDataURL": null,
+  "DataVersion": "Authentic",
+  "ImprovementDate": null,
+  "CorrectedData": null
+ },
+ {
+  "ReferenceNumber": "2018-31800023",
+  "DepositDate": "2018-07-11",
+  "ExerciseDates": {
+   "startDate": "2017-01-01",
+   "endDate": "2017-12-31"
+  },
+  "ModelType": "m01-f",
+  "DepositType": "Initial",
+  "Language": "NL",
+  "Currency": "EUR",
+  "EnterpriseNumber": "0466102321",
+  "EnterpriseName": "DYNAMIC OIL SERVICES",
+  "Address": {
+   "Box": "3",
+   "City": "Antwerpen",
+   "CountryCode": "BE",
+   "Number": "37",
+   "PostalCode": "2000",
+   "Street": "Frankrijklei"
+  },
+  "LegalForm": "014",
+  "LegalSituation": "014",
+  "FullFillLegalValidation": true,
+  "ActivityCode": "46710",
+  "GeneralAssemblyDate": "2018-06-01",
+  "AccountingDataURL": "https://ws.cbso.nbb.be/authentic/deposit/2018-31800023/accountingData",
+  "DataVersion": "Authentic",
+  "ImprovementDate": null,
+  "CorrectedData": null
+ },
+ {
+  "ReferenceNumber": "2013-44000457",
+  "DepositDate": "2013-08-21",
+  "ExerciseDates": {
+   "startDate": "2012-01-01",
+   "endDate": "2012-12-31"
+  },
+  "ModelType": "m01-f",
+  "DepositType": "Initial",
+  "Language": "NL",
+  "Currency": "EUR",
+  "EnterpriseNumber": "0466102321",
+  "EnterpriseName": "DYNAMIC OIL SERVICES",
+  "Address": {
+   "Box": "3",
+   "City": "Antwerpen",
+   "CountryCode": "BE",
+   "Number": "37",
+   "PostalCode": "2000",
+   "Street": "Frankrijklei"
+  },
+  "LegalForm": "014",
+  "LegalSituation": "014",
+  "FullFillLegalValidation": true,
+  "ActivityCode": "46710",
+  "GeneralAssemblyDate": "2013-06-03",
+  "AccountingDataURL": "https://ws.cbso.nbb.be/authentic/deposit/2013-44000457/accountingData",
+  "DataVersion": "Authentic",
+  "ImprovementDate": null,
+  "CorrectedData": null
+ },
+ {
+  "ReferenceNumber": "2012-23700304",
+  "DepositDate": "2012-06-28",
+  "ExerciseDates": {
+   "startDate": "2011-01-01",
+   "endDate": "2011-12-31"
+  },
+  "ModelType": "m01-f",
+  "DepositType": "Initial",
+  "Language": "NL",
+  "Currency": "EUR",
+  "EnterpriseNumber": "0466102321",
+  "EnterpriseName": "DYNAMIC OIL SERVICES",
+  "Address": {
+   "Box": "3",
+   "City": "Antwerpen",
+   "CountryCode": "BE",
+   "Number": "37",
+   "PostalCode": "2000",
+   "Street": "Frankrijklei"
+  },
+  "LegalForm": "014",
+  "LegalSituation": "014",
+  "FullFillLegalValidation": true,
+  "ActivityCode": "46710",
+  "GeneralAssemblyDate": "2012-06-01",
+  "AccountingDataURL": "https://ws.cbso.nbb.be/authentic/deposit/2012-23700304/accountingData",
+  "DataVersion": "Authentic",
+  "ImprovementDate": null,
+  "CorrectedData": null
+ },
+ {
+  "ReferenceNumber": "2014-21400238",
+  "DepositDate": "2014-06-24",
+  "ExerciseDates": {
+   "startDate": "2013-01-01",
+   "endDate": "2013-12-31"
+  },
+  "ModelType": "m01-f",
+  "DepositType": "Initial",
+  "Language": "NL",
+  "Currency": "EUR",
+  "EnterpriseNumber": "0466102321",
+  "EnterpriseName": "DYNAMIC OIL SERVICES",
+  "Address": {
+   "Box": "3",
+   "City": "Antwerpen",
+   "CountryCode": "BE",
+   "Number": "37",
+   "PostalCode": "2000",
+   "Street": "Frankrijklei"
+  },
+  "LegalForm": "014",
+  "LegalSituation": "014",
+  "FullFillLegalValidation": true,
+  "ActivityCode": "46710",
+  "GeneralAssemblyDate": "2014-06-02",
+  "AccountingDataURL": "https://ws.cbso.nbb.be/authentic/deposit/2014-21400238/accountingData",
+  "DataVersion": "Authentic",
+  "ImprovementDate": null,
+  "CorrectedData": null
+ },
+ {
+  "ReferenceNumber": "2017-11900402",
+  "DepositDate": "2017-05-11",
+  "ExerciseDates": {
+   "startDate": "2016-01-01",
+   "endDate": "2016-12-31"
+  },
+  "ModelType": "m01-f",
+  "DepositType": "Initial",
+  "Language": "NL",
+  "Currency": "EUR",
+  "EnterpriseNumber": "0466102321",
+  "EnterpriseName": "DYNAMIC OIL SERVICES",
+  "Address": {
+   "Box": "3",
+   "City": "Antwerpen",
+   "CountryCode": "BE",
+   "Number": "37",
+   "PostalCode": "2000",
+   "Street": "Frankrijklei"
+  },
+  "LegalForm": "014",
+  "LegalSituation": "014",
+  "FullFillLegalValidation": true,
+  "ActivityCode": "46710",
+  "GeneralAssemblyDate": "2017-02-23",
+  "AccountingDataURL": "https://ws.cbso.nbb.be/authentic/deposit/2017-11900402/accountingData",
+  "DataVersion": "Authentic",
+  "ImprovementDate": null,
+  "CorrectedData": null
+ },
+ {
+  "ReferenceNumber": "2001-65702144",
+  "DepositDate": "2001-10-19",
+  "ExerciseDates": {
+   "startDate": "1999-05-20",
+   "endDate": "2000-12-31"
+  },
+  "ModelType": "m01-f",
+  "DepositType": "Initial",
+  "Language": "NL",
+  "Currency": "BEF",
+  "EnterpriseNumber": "0466102321",
+  "EnterpriseName": "DYNAMIC OIL SERVICES",
+  "Address": {
+   "Box": "3",
+   "City": "Antwerpen",
+   "CountryCode": "BE",
+   "Number": "37",
+   "PostalCode": "2000",
+   "Street": "Frankrijklei"
+  },
+  "LegalForm": "014",
+  "LegalSituation": "014",
+  "FullFillLegalValidation": true,
+  "ActivityCode": "51510",
+  "GeneralAssemblyDate": "2001-10-01",
+  "AccountingDataURL": null,
+  "DataVersion": "Authentic",
+  "ImprovementDate": null,
+  "CorrectedData": null
+ },
+ {
+  "ReferenceNumber": "2008-21000384",
+  "DepositDate": "2008-06-10",
+  "ExerciseDates": {
+   "startDate": "2007-01-01",
+   "endDate": "2007-12-31"
+  },
+  "ModelType": "m01-f",
+  "DepositType": "Initial",
+  "Language": "NL",
+  "Currency": "EUR",
+  "EnterpriseNumber": "0466102321",
+  "EnterpriseName": "DYNAMIC OIL SERVICES",
+  "Address": {
+   "Box": "3",
+   "City": "Antwerpen",
+   "CountryCode": "BE",
+   "Number": "37",
+   "PostalCode": "2000",
+   "Street": "Frankrijklei"
+  },
+  "LegalForm": "014",
+  "LegalSituation": "014",
+  "FullFillLegalValidation": true,
+  "ActivityCode": "51510",
+  "GeneralAssemblyDate": "2008-06-02",
+  "AccountingDataURL": "https://ws.cbso.nbb.be/authentic/deposit/2008-21000384/accountingData",
+  "DataVersion": "Authentic",
+  "ImprovementDate": null,
+  "CorrectedData": null
+ },
+ {
+  "ReferenceNumber": "2015-23200422",
+  "DepositDate": "2015-06-29",
+  "ExerciseDates": {
+   "startDate": "2014-01-01",
+   "endDate": "2014-12-31"
+  },
+  "ModelType": "m01-f",
+  "DepositType": "Initial",
+  "Language": "NL",
+  "Currency": "EUR",
+  "EnterpriseNumber": "0466102321",
+  "EnterpriseName": "DYNAMIC OIL SERVICES",
+  "Address": {
+   "Box": "3",
+   "City": "Antwerpen",
+   "CountryCode": "BE",
+   "Number": "37",
+   "PostalCode": "2000",
+   "Street": "Frankrijklei"
+  },
+  "LegalForm": "014",
+  "LegalSituation": "014",
+  "FullFillLegalValidation": true,
+  "ActivityCode": "46710",
+  "GeneralAssemblyDate": "2015-06-01",
+  "AccountingDataURL": "https://ws.cbso.nbb.be/authentic/deposit/2015-23200422/accountingData",
+  "DataVersion": "Authentic",
+  "ImprovementDate": null,
+  "CorrectedData": null
+ },
+ {
+  "ReferenceNumber": "2007-55300165",
+  "DepositDate": "2007-08-09",
+  "ExerciseDates": {
+   "startDate": "2006-01-01",
+   "endDate": "2006-12-31"
+  },
+  "ModelType": "m01-f",
+  "DepositType": "Initial",
+  "Language": "NL",
+  "Currency": "EUR",
+  "EnterpriseNumber": "0466102321",
+  "EnterpriseName": "DYNAMIC OIL SERVICES",
+  "Address": {
+   "Box": "3",
+   "City": "Antwerpen",
+   "CountryCode": "BE",
+   "Number": "37",
+   "PostalCode": "2000",
+   "Street": "Frankrijklei"
+  },
+  "LegalForm": "014",
+  "LegalSituation": "014",
+  "FullFillLegalValidation": true,
+  "ActivityCode": "51510",
+  "GeneralAssemblyDate": "2007-06-01",
+  "AccountingDataURL": "https://ws.cbso.nbb.be/authentic/deposit/2007-55300165/accountingData",
+  "DataVersion": "Authentic",
+  "ImprovementDate": null,
+  "CorrectedData": null
+ },
+ {
+  "ReferenceNumber": "2009-54900045",
+  "DepositDate": "2009-08-06",
+  "ExerciseDates": {
+   "startDate": "2008-01-01",
+   "endDate": "2008-12-31"
+  },
+  "ModelType": "m01-f",
+  "DepositType": "Initial",
+  "Language": "NL",
+  "Currency": "EUR",
+  "EnterpriseNumber": "0466102321",
+  "EnterpriseName": "DYNAMIC OIL SERVICES",
+  "Address": {
+   "Box": "3",
+   "City": "Antwerpen",
+   "CountryCode": "BE",
+   "Number": "37",
+   "PostalCode": "2000",
+   "Street": "Frankrijklei"
+  },
+  "LegalForm": "014",
+  "LegalSituation": "014",
+  "FullFillLegalValidation": true,
+  "ActivityCode": "46710",
+  "GeneralAssemblyDate": "2009-06-02",
+  "AccountingDataURL": "https://ws.cbso.nbb.be/authentic/deposit/2009-54900045/accountingData",
+  "DataVersion": "Authentic",
+  "ImprovementDate": null,
+  "CorrectedData": null
+ },
+ {
+  "ReferenceNumber": "2016-24400388",
+  "DepositDate": "2016-06-28",
+  "ExerciseDates": {
+   "startDate": "2015-01-01",
+   "endDate": "2015-12-31"
+  },
+  "ModelType": "m01-f",
+  "DepositType": "Initial",
+  "Language": "NL",
+  "Currency": "EUR",
+  "EnterpriseNumber": "0466102321",
+  "EnterpriseName": "DYNAMIC OIL SERVICES",
+  "Address": {
+   "Box": "3",
+   "City": "Antwerpen",
+   "CountryCode": "BE",
+   "Number": "37",
+   "PostalCode": "2000",
+   "Street": "Frankrijklei"
+  },
+  "LegalForm": "014",
+  "LegalSituation": "014",
+  "FullFillLegalValidation": true,
+  "ActivityCode": "46710",
+  "GeneralAssemblyDate": "2016-06-01",
+  "AccountingDataURL": "https://ws.cbso.nbb.be/authentic/deposit/2016-24400388/accountingData",
+  "DataVersion": "Authentic",
+  "ImprovementDate": null,
+  "CorrectedData": null
+ }
+]

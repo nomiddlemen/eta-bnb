@@ -1,0 +1,281 @@
+[
+ {
+  "ReferenceNumber": "2006-92701268",
+  "DepositDate": "2006-12-22",
+  "ExerciseDates": {
+   "startDate": "2005-07-01",
+   "endDate": "2006-06-30"
+  },
+  "ModelType": "m01-f",
+  "DepositType": "Initial",
+  "Language": "FR",
+  "Currency": "EUR",
+  "EnterpriseNumber": "0477800818",
+  "EnterpriseName": "DRALCO",
+  "Address": {
+   "Box": null,
+   "City": "Frameries",
+   "CountryCode": "BE",
+   "Number": "26",
+   "PostalCode": "7080",
+   "Street": "Rue du Grenadier"
+  },
+  "LegalForm": "014",
+  "LegalSituation": "053",
+  "FullFillLegalValidation": true,
+  "ActivityCode": "74142",
+  "GeneralAssemblyDate": "2006-11-17",
+  "AccountingDataURL": null,
+  "DataVersion": "Authentic",
+  "ImprovementDate": null,
+  "CorrectedData": null
+ },
+ {
+  "ReferenceNumber": "2005-89302752",
+  "DepositDate": "2005-12-13",
+  "ExerciseDates": {
+   "startDate": "2004-07-01",
+   "endDate": "2005-06-30"
+  },
+  "ModelType": "m01-f",
+  "DepositType": "Initial",
+  "Language": "FR",
+  "Currency": "EUR",
+  "EnterpriseNumber": "0477800818",
+  "EnterpriseName": "DRALCO",
+  "Address": {
+   "Box": null,
+   "City": "Frameries",
+   "CountryCode": "BE",
+   "Number": "26",
+   "PostalCode": "7080",
+   "Street": "Rue du Grenadier"
+  },
+  "LegalForm": "014",
+  "LegalSituation": "053",
+  "FullFillLegalValidation": true,
+  "ActivityCode": "74142",
+  "GeneralAssemblyDate": "2005-11-18",
+  "AccountingDataURL": null,
+  "DataVersion": "Authentic",
+  "ImprovementDate": null,
+  "CorrectedData": null
+ },
+ {
+  "ReferenceNumber": "2004-84602024",
+  "DepositDate": "2004-12-10",
+  "ExerciseDates": {
+   "startDate": "2003-07-01",
+   "endDate": "2004-06-30"
+  },
+  "ModelType": "m01-f",
+  "DepositType": "Initial",
+  "Language": "FR",
+  "Currency": "EUR",
+  "EnterpriseNumber": "0477800818",
+  "EnterpriseName": "DRALCO",
+  "Address": {
+   "Box": null,
+   "City": "Frameries",
+   "CountryCode": "BE",
+   "Number": "26",
+   "PostalCode": "7080",
+   "Street": "Rue du Grenadier"
+  },
+  "LegalForm": "014",
+  "LegalSituation": "053",
+  "FullFillLegalValidation": true,
+  "ActivityCode": "74142",
+  "GeneralAssemblyDate": "2004-11-19",
+  "AccountingDataURL": null,
+  "DataVersion": "Authentic",
+  "ImprovementDate": null,
+  "CorrectedData": null
+ },
+ {
+  "ReferenceNumber": "2003-82000547",
+  "DepositDate": "2003-12-04",
+  "ExerciseDates": {
+   "startDate": "2002-06-19",
+   "endDate": "2003-06-30"
+  },
+  "ModelType": "m01-f",
+  "DepositType": "Initial",
+  "Language": "FR",
+  "Currency": "EUR",
+  "EnterpriseNumber": "0477800818",
+  "EnterpriseName": "DRALCO",
+  "Address": {
+   "Box": null,
+   "City": "Frameries",
+   "CountryCode": "BE",
+   "Number": "26",
+   "PostalCode": "7080",
+   "Street": "Rue du Grenadier"
+  },
+  "LegalForm": "014",
+  "LegalSituation": "053",
+  "FullFillLegalValidation": true,
+  "ActivityCode": "74142",
+  "GeneralAssemblyDate": "2003-11-21",
+  "AccountingDataURL": null,
+  "DataVersion": "Authentic",
+  "ImprovementDate": null,
+  "CorrectedData": null
+ },
+ {
+  "ReferenceNumber": "2011-00400271",
+  "DepositDate": "2011-01-04",
+  "ExerciseDates": {
+   "startDate": "2009-07-01",
+   "endDate": "2010-06-30"
+  },
+  "ModelType": "m01-f",
+  "DepositType": "Initial",
+  "Language": "FR",
+  "Currency": "EUR",
+  "EnterpriseNumber": "0477800818",
+  "EnterpriseName": "DRALCO",
+  "Address": {
+   "Box": null,
+   "City": "Frameries",
+   "CountryCode": "BE",
+   "Number": "26",
+   "PostalCode": "7080",
+   "Street": "Rue du Grenadier"
+  },
+  "LegalForm": "014",
+  "LegalSituation": "053",
+  "FullFillLegalValidation": true,
+  "ActivityCode": "70220",
+  "GeneralAssemblyDate": "2010-11-19",
+  "AccountingDataURL": "https://ws.cbso.nbb.be/authentic/deposit/2011-00400271/accountingData",
+  "DataVersion": "Authentic",
+  "ImprovementDate": null,
+  "CorrectedData": null
+ },
+ {
+  "ReferenceNumber": "2008-83600293",
+  "DepositDate": "2008-12-03",
+  "ExerciseDates": {
+   "startDate": "2007-07-01",
+   "endDate": "2008-06-30"
+  },
+  "ModelType": "m01-f",
+  "DepositType": "Initial",
+  "Language": "FR",
+  "Currency": "EUR",
+  "EnterpriseNumber": "0477800818",
+  "EnterpriseName": "DRALCO",
+  "Address": {
+   "Box": null,
+   "City": "Frameries",
+   "CountryCode": "BE",
+   "Number": "26",
+   "PostalCode": "7080",
+   "Street": "Rue du Grenadier"
+  },
+  "LegalForm": "014",
+  "LegalSituation": "053",
+  "FullFillLegalValidation": true,
+  "ActivityCode": "70220",
+  "GeneralAssemblyDate": "2008-11-21",
+  "AccountingDataURL": "https://ws.cbso.nbb.be/authentic/deposit/2008-83600293/accountingData",
+  "DataVersion": "Authentic",
+  "ImprovementDate": null,
+  "CorrectedData": null
+ },
+ {
+  "ReferenceNumber": "2007-82800348",
+  "DepositDate": "2007-12-14",
+  "ExerciseDates": {
+   "startDate": "2006-07-01",
+   "endDate": "2007-06-30"
+  },
+  "ModelType": "m01-f",
+  "DepositType": "Initial",
+  "Language": "FR",
+  "Currency": "EUR",
+  "EnterpriseNumber": "0477800818",
+  "EnterpriseName": "DRALCO",
+  "Address": {
+   "Box": null,
+   "City": "Frameries",
+   "CountryCode": "BE",
+   "Number": "26",
+   "PostalCode": "7080",
+   "Street": "Rue du Grenadier"
+  },
+  "LegalForm": "014",
+  "LegalSituation": "053",
+  "FullFillLegalValidation": true,
+  "ActivityCode": "74142",
+  "GeneralAssemblyDate": "2007-11-16",
+  "AccountingDataURL": "https://ws.cbso.nbb.be/authentic/deposit/2007-82800348/accountingData",
+  "DataVersion": "Authentic",
+  "ImprovementDate": null,
+  "CorrectedData": null
+ },
+ {
+  "ReferenceNumber": "2012-00500258",
+  "DepositDate": "2012-01-02",
+  "ExerciseDates": {
+   "startDate": "2010-07-01",
+   "endDate": "2011-06-30"
+  },
+  "ModelType": "m01-f",
+  "DepositType": "Initial",
+  "Language": "FR",
+  "Currency": "EUR",
+  "EnterpriseNumber": "0477800818",
+  "EnterpriseName": "DRALCO",
+  "Address": {
+   "Box": null,
+   "City": "Frameries",
+   "CountryCode": "BE",
+   "Number": "26",
+   "PostalCode": "7080",
+   "Street": "Rue du Grenadier"
+  },
+  "LegalForm": "014",
+  "LegalSituation": "053",
+  "FullFillLegalValidation": true,
+  "ActivityCode": "70220",
+  "GeneralAssemblyDate": "2011-11-18",
+  "AccountingDataURL": "https://ws.cbso.nbb.be/authentic/deposit/2012-00500258/accountingData",
+  "DataVersion": "Authentic",
+  "ImprovementDate": null,
+  "CorrectedData": null
+ },
+ {
+  "ReferenceNumber": "2010-04800216",
+  "DepositDate": "2010-02-22",
+  "ExerciseDates": {
+   "startDate": "2008-07-01",
+   "endDate": "2009-06-30"
+  },
+  "ModelType": "m01-f",
+  "DepositType": "Initial",
+  "Language": "FR",
+  "Currency": "EUR",
+  "EnterpriseNumber": "0477800818",
+  "EnterpriseName": "DRALCO",
+  "Address": {
+   "Box": null,
+   "City": "Frameries",
+   "CountryCode": "BE",
+   "Number": "26",
+   "PostalCode": "7080",
+   "Street": "Rue du Grenadier"
+  },
+  "LegalForm": "014",
+  "LegalSituation": "053",
+  "FullFillLegalValidation": true,
+  "ActivityCode": "70220",
+  "GeneralAssemblyDate": "2009-11-20",
+  "AccountingDataURL": "https://ws.cbso.nbb.be/authentic/deposit/2010-04800216/accountingData",
+  "DataVersion": "Authentic",
+  "ImprovementDate": null,
+  "CorrectedData": null
+ }
+]
