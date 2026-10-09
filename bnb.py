@@ -788,6 +788,32 @@ def run():
         except CallFailed as e:
             return "erreur", str(e), 0
 
+    total_queue = len(queue)
+    last_progress = 0.0
+    recent_errors = []
+
+    def write_progress(final=False):
+        el = (time.monotonic() - t0) / 60
+        n = sum(counts[k] for k in ("ok", "sans_depot", "erreur", "ancien"))
+        speed = n / el if el > 0 else 0
+        eta = (total_queue - n) / speed if speed else 0
+        write_atomic(os.path.join(STATE, "progres.md"), (
+            f"# Progression — passe {pass_id}{' (terminée)' if final else ''}\n\n"
+            f"- mis à jour : {datetime.now(timezone.utc):%Y-%m-%d %H:%M:%S} UTC, {el:.0f} min écoulées\n"
+            f"- traitées : {n} / {total_queue} de cette passe ({speed:.0f}/min, reste ≈ {eta:.0f} min)\n"
+            f"- lues : {counts['ok']}, sans dépôt : {counts['sans_depot']}, dépôt ancien : {counts['ancien']}, "
+            f"erreurs : {counts['erreur']}\n"
+            f"- cumul lues (toutes passes) : {len(lues)} / {len(population)}\n"
+            f"- retenues jusqu'ici : {sum(1 for r in lues.values() if in_band(r))}\n"
+            f"- appels : {client.stats['appels']} ({client.stats['appels'] / max(el, 0.01):.0f}/min), "
+            f"HTTP 429 : {client.stats['http_429']}, 5xx/429 : {client.stats['bridages']}, "
+            f"vides corrigés : {counts['bridages_silencieux']}, réseau : {client.stats['erreurs_reseau']}\n"
+            f"- rythme : {client.limiter.rate:.2f}/s (plus bas {client.limiter.lowest:.2f}/s)\n"
+            f"- codes HTTP : {dict(client.status_codes)}\n"
+            f"- en-têtes de quota : {client.limit_headers or 'aucun'}\n"
+            + ("\n## Dernières erreurs\n\n" + "\n".join(f"- {e}" for e in recent_errors[-10:]) + "\n"
+               if recent_errors else "")))
+
     it = iter(queue)
     inflight = {}
     with ThreadPoolExecutor(max_workers=WORKERS) as pool:
@@ -810,6 +836,11 @@ def run():
                     print(f"FATAL: {e}", flush=True)
                     continue
                 record(status, company, payload, suspicious)
+                if status == "erreur":
+                    recent_errors.append(f"{company['bce']}: {str(payload)[:160]}")
+            if time.monotonic() - last_progress > 120:
+                last_progress = time.monotonic()
+                write_progress()
             n = sum(counts[s] for s in ("ok", "sans_depot", "erreur", "ancien"))
             if done and n % 200 < len(done):
                 el = (time.monotonic() - t0) / 60
@@ -818,6 +849,7 @@ def run():
                       f"429/5xx={client.stats['bridages']}", flush=True)
     f_lues.close()
     f_tent.close()
+    write_progress(final=True)
 
     retenues, sans = write_outputs(population, lues, last_attempt)
     minutes = (time.monotonic() - t0) / 60

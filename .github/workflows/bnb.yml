@@ -58,7 +58,18 @@ jobs:
         env:
           TIME_BUDGET: ${{ inputs.time_budget || '290' }}
           WORKERS: "6"
-        run: python bnb.py
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          # Push only the small progress file every 10 minutes so the run can be followed live.
+          (
+            while sleep 600; do
+              [ -f state/progres.md ] || continue
+              git add state/progres.md && git commit -qm "bnb: progrès $(date -u +%H:%MZ)" || continue
+              git pull -q --rebase -X theirs origin "${GITHUB_REF_NAME}" && git push -q origin "HEAD:${GITHUB_REF_NAME}" || true
+            done
+          ) &
+          python bnb.py
 
       - name: Commit state
         if: always()
