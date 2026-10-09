@@ -1,4 +1,4 @@
-# Résumé — 2026-10-09 19:57 UTC
+# Résumé — 2026-10-09 20:11 UTC
 
 - Population : 31464
 - Lues (dépôt exploitable) : 24927 (79.2 %)
@@ -105,9 +105,14 @@
 
 ## Motifs « sans dépôt »
 
-- 5532 × reconstruit depuis sans_depot.txt
-- 13 × 404 sur /references
-- 1 × 43 dépôt(s) inexploitable(s): 2026-00206638:404 [m01-f-p/Ini
+- 5492 × 404 sur /references
+- 1 × 36 dépôt(s) inexploitable(s): 2025-00579156:404 [m81-f-p/Ini
+- 1 × 22 dépôt(s) inexploitable(s): 2026-00202230:404 [m02-f-p/Ini
+- 1 × 40 dépôt(s) inexploitable(s): 2026-00370236:404 [m120-f-p/In
+- 1 × 67 dépôt(s) inexploitable(s): 2026-00550342:404 [m82-f-p/Cor
+- 1 × 7 dépôt(s) inexploitable(s): 2026-00122192:404 [m87-f-p/Init
+- 1 × 18 dépôt(s) inexploitable(s): 2026-00399778:404 [m230-f-p/In
+- 1 × 48 dépôt(s) inexploitable(s): 2026-00287076:404 [m02-f-p/Ini
 
 ## Qualité des données (sur les sociétés lues)
 
