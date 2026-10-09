@@ -6,6 +6,9 @@ on:
       zip_url:
         description: "Optional direct URL of KboOpenData_*_Full.zip (otherwise BCE_SFTP_* or KBO_USER/KBO_PASSWORD secrets)"
         required: false
+      release_tag:
+        description: "Tag of a release of this repo carrying KboOpenData_*_Full.zip as an asset"
+        required: false
 
 permissions:
   contents: write
@@ -20,7 +23,15 @@ jobs:
         with:
           python-version: "3.12"
       - run: pip install paramiko
+      - name: Download KBO zip from release
+        if: inputs.release_tag != ''
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          gh release download "${{ inputs.release_tag }}" --pattern '*.zip' --output kbo.zip
+          ls -lh kbo.zip
       - name: Download KBO open data
+        if: inputs.release_tag == ''
         env:
           BCE_SFTP_HOST: ${{ secrets.BCE_SFTP_HOST }}
           BCE_SFTP_PORT: ${{ secrets.BCE_SFTP_PORT }}
