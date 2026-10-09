@@ -21,7 +21,7 @@ SITE = "https://kbopub.economie.fgov.be/kbo-open-data/"
 
 def from_sftp(dst):
     import paramiko
-    host = os.environ.get("BCE_SFTP_HOST", "ftps.economie.fgov.be")
+    host = os.environ.get("BCE_SFTP_HOST") or "ftps.economie.fgov.be"
     port = int(os.environ.get("BCE_SFTP_PORT") or 22)
     transport = paramiko.Transport((host, port))
     transport.connect(username=os.environ["BCE_SFTP_USER"], password=os.environ["BCE_SFTP_PASSWORD"])
@@ -49,7 +49,10 @@ def from_sftp(dst):
 
 def main(dst):
     if not os.environ.get("ZIP_URL") and os.environ.get("BCE_SFTP_USER"):
-        return from_sftp(dst)
+        try:
+            return from_sftp(dst)
+        except Exception as e:  # fall back to the web portal below
+            print(f"SFTP failed ({type(e).__name__}: {e}); trying the web portal")
     jar = http.cookiejar.CookieJar()
     opener = urllib.request.build_opener(urllib.request.HTTPCookieProcessor(jar))
     opener.addheaders = [("User-Agent", "Mozilla/5.0 eta-bnb")]
