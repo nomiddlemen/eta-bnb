@@ -12,6 +12,7 @@ NACE-BEL 2025 codes are used when present, otherwise the 2008 ones.
 import csv
 import gzip
 import io
+import os
 import sys
 import zipfile
 from collections import defaultdict
@@ -78,6 +79,7 @@ def main(src, dst="data/bce_industrie.csv.gz"):
             if n not in names or k < names[n][0]:
                 names[n] = (k, r["Denomination"])
 
+    os.makedirs(os.path.dirname(dst) or ".", exist_ok=True)
     with gzip.open(dst, "wt", encoding="utf-8", newline="") as f:
         w = csv.writer(f, delimiter=";", lineterminator="\n")
         w.writerow(["numero_bce", "nom", "code_postal", "commune", "nace_principal",
