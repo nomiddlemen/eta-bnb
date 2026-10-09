@@ -55,7 +55,7 @@ SANS_DEPOT_PASSES = 3  # a company with no deposit after this many separate pass
 BAND_LOW, BAND_HIGH = 300_000, 1_500_000
 MAX_TRIES = 7
 EMPTY_RECHECKS = (3, 12)      # seconds to wait before re-asking an empty /references
-MAX_DEPOSITS_TRIED = 3        # fall back to older deposits if the latest is unusable
+MAX_DEPOSITS_TRIED = 8        # fall back to older deposits if the latest is unusable
 OLD_EXERCISE_YEARS = 2        # flag exercises ending more than this many years ago
 OLD_DEPOSIT_YEARS = 3         # last exercise older than this: company stopped filing, and
                               # Authentic Data no longer serves the content (404)
@@ -536,7 +536,7 @@ def process(client, company):
             continue
         status, body = client.get(url, "application/x.jsonxbrl")
         if status == 404:
-            tried.append(f"{refno}:404")
+            tried.append(f"{refno}:404 [{ci(ref, 'ModelType')}/{ci(ref, 'DepositType')}]")
             continue
         try:
             doc = json.loads(body)
