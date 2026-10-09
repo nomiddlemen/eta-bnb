@@ -4,7 +4,7 @@ on:
   workflow_dispatch:
     inputs:
       zip_url:
-        description: "Optional direct URL of KboOpenData_*_Full.zip (otherwise logs in with KBO_USER/KBO_PASSWORD secrets)"
+        description: "Optional direct URL of KboOpenData_*_Full.zip (otherwise BCE_SFTP_* or KBO_USER/KBO_PASSWORD secrets)"
         required: false
 
 permissions:
@@ -19,8 +19,13 @@ jobs:
       - uses: actions/setup-python@v5
         with:
           python-version: "3.12"
+      - run: pip install paramiko
       - name: Download KBO open data
         env:
+          BCE_SFTP_HOST: ${{ secrets.BCE_SFTP_HOST }}
+          BCE_SFTP_PORT: ${{ secrets.BCE_SFTP_PORT }}
+          BCE_SFTP_USER: ${{ secrets.BCE_SFTP_USER }}
+          BCE_SFTP_PASSWORD: ${{ secrets.BCE_SFTP_PASSWORD }}
           KBO_USER: ${{ secrets.KBO_USER }}
           KBO_PASSWORD: ${{ secrets.KBO_PASSWORD }}
           ZIP_URL: ${{ inputs.zip_url }}

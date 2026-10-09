@@ -1,8 +1,10 @@
 #!/usr/bin/env python3
 """Download the latest KboOpenData_*_Full.zip.
 
-Either ZIP_URL points at the file directly, or KBO_USER / KBO_PASSWORD are the
-credentials of a (free) account on kbopub.economie.fgov.be/kbo-open-data.
+Sources, in order: ZIP_URL (direct link); the KBO SFTP server
+(BCE_SFTP_HOST / BCE_SFTP_PORT / BCE_SFTP_USER / BCE_SFTP_PASSWORD, needs
+paramiko); or KBO_USER / KBO_PASSWORD, the credentials of a (free) account on
+kbopub.economie.fgov.be/kbo-open-data.
 The login form is parsed rather than hard-coded, and each step prints what it
 saw (never the credentials) so a change on the site is easy to diagnose.
 """
@@ -17,7 +19,37 @@ import urllib.request
 SITE = "https://kbopub.economie.fgov.be/kbo-open-data/"
 
 
+def from_sftp(dst):
+    import paramiko
+    host = os.environ.get("BCE_SFTP_HOST", "ftps.economie.fgov.be")
+    port = int(os.environ.get("BCE_SFTP_PORT") or 22)
+    transport = paramiko.Transport((host, port))
+    transport.connect(username=os.environ["BCE_SFTP_USER"], password=os.environ["BCE_SFTP_PASSWORD"])
+    sftp = paramiko.SFTPClient.from_transport(transport)
+    found, stack = [], [(".", 0)]
+    while stack:
+        path, depth = stack.pop()
+        for a in sftp.listdir_attr(path):
+            full = f"{path}/{a.filename}"
+            if depth < 3 and a.st_mode is not None and (a.st_mode & 0o170000) == 0o040000:
+                stack.append((full, depth + 1))
+            elif a.filename.endswith("_Full.zip"):
+                found.append((a.filename, full, a.st_size))
+        if depth == 0:
+            print("sftp root:", sorted(sftp.listdir(path))[:30])
+    if not found:
+        sys.exit("No *_Full.zip on the SFTP server.")
+    name, full, size = sorted(found)[-1]
+    print(f"downloading {full} ({(size or 0) / 1e6:.0f} MB) over SFTP")
+    sftp.get(full, dst)
+    sftp.close()
+    transport.close()
+    print(f"saved {os.path.getsize(dst) / 1e6:.0f} MB to {dst}")
+
+
 def main(dst):
+    if not os.environ.get("ZIP_URL") and os.environ.get("BCE_SFTP_USER"):
+        return from_sftp(dst)
     jar = http.cookiejar.CookieJar()
     opener = urllib.request.build_opener(urllib.request.HTTPCookieProcessor(jar))
     opener.addheaders = [("User-Agent", "Mozilla/5.0 eta-bnb")]
