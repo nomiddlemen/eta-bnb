@@ -1,0 +1,37 @@
+name: population
+
+on:
+  workflow_dispatch:
+    inputs:
+      zip_url:
+        description: "Optional direct URL of KboOpenData_*_Full.zip (otherwise logs in with KBO_USER/KBO_PASSWORD secrets)"
+        required: false
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    timeout-minutes: 60
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Download KBO open data
+        env:
+          KBO_USER: ${{ secrets.KBO_USER }}
+          KBO_PASSWORD: ${{ secrets.KBO_PASSWORD }}
+          ZIP_URL: ${{ inputs.zip_url }}
+        run: python fetch_kbo.py kbo.zip
+      - name: Build population
+        run: python build_population.py kbo.zip data/bce_industrie.csv.gz
+      - name: Commit
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/bce_industrie.csv.gz
+          git diff --cached --quiet && exit 0
+          git commit -m "population: rebuild from KBO open data"
+          git pull --rebase origin "${GITHUB_REF_NAME}" && git push origin "HEAD:${GITHUB_REF_NAME}"
