@@ -112,3 +112,71 @@
 {"bce": "0402951361", "status": "sans_depot", "detail": "53 dépôt(s) inexploitable(s): 2026-00308679:404, 2025-00262354:404, 2024-00235939:404", "ts": "2026-10-09T14:44:49+00:00", "passe": "20261009T144017"}
 {"bce": "0402960467", "status": "ancien", "detail": "dernier exercice déposé clos le 2020-12-31", "ts": "2026-10-09T14:44:52+00:00", "passe": "20261009T144017"}
 {"bce": "0403103789", "status": "sans_depot", "detail": "54 dépôt(s) inexploitable(s): 2026-00166720:404, 2025-00158984:404, 2024-00094366:404", "ts": "2026-10-09T14:45:29+00:00", "passe": "20261009T144017"}
+{"bce": "0403136453", "status": "sans_depot", "detail": "71 dépôt(s) inexploitable(s): 2026-00195625:404, 2025-00160701:404, 2024-00241663:404", "ts": "2026-10-09T14:46:14+00:00", "passe": "20261009T144553"}
+{"bce": "0403152091", "status": "ancien", "detail": "dernier exercice déposé clos le 2020-06-30", "ts": "2026-10-09T14:46:17+00:00", "passe": "20261009T144553"}
+{"bce": "0403147638", "status": "sans_depot", "detail": "75 dépôt(s) inexploitable(s): 2026-00162588:404, 2026-00162082:404, 2025-00158688:404", "ts": "2026-10-09T14:46:23+00:00", "passe": "20261009T144553"}
+{"bce": "0403421317", "status": "sans_depot", "detail": "56 dépôt(s) inexploitable(s): 2026-00366958:404, 2025-00388536:404, 2024-00369089:404", "ts": "2026-10-09T14:46:38+00:00", "passe": "20261009T144553"}
+{"bce": "0403457543", "status": "ancien", "detail": "dernier exercice déposé clos le 2000-12-31", "ts": "2026-10-09T14:46:43+00:00", "passe": "20261009T144553"}
+{"bce": "0403488227", "status": "ancien", "detail": "dernier exercice déposé clos le 2021-12-31", "ts": "2026-10-09T14:47:00+00:00", "passe": "20261009T144553"}
+{"bce": "0404223150", "status": "sans_depot", "detail": "404 sur /references", "ts": "2026-10-09T14:48:14+00:00", "passe": "20261009T144553"}
+{"bce": "0404252151", "status": "ancien", "detail": "dernier exercice déposé clos le 2019-06-30", "ts": "2026-10-09T14:48:20+00:00", "passe": "20261009T144553"}
+{"bce": "0404330642", "status": "ancien", "detail": "dernier exercice déposé clos le 2009-12-31", "ts": "2026-10-09T14:48:21+00:00", "passe": "20261009T144553"}
+{"bce": "0404383991", "status": "ancien", "detail": "dernier exercice déposé clos le 2015-12-31", "ts": "2026-10-09T14:48:53+00:00", "passe": "20261009T144553"}
+{"bce": "0404396364", "status": "ancien", "detail": "dernier exercice déposé clos le 2022-12-31", "ts": "2026-10-09T14:48:55+00:00", "passe": "20261009T144553"}
+{"bce": "0406517102", "status": "ancien", "detail": "dernier exercice déposé clos le 2019-12-31", "ts": "2026-10-09T14:51:28+00:00", "passe": "20261009T144553"}
+{"bce": "0406622416", "status": "sans_depot", "detail": "404 sur /references", "ts": "2026-10-09T14:51:29+00:00", "passe": "20261009T144553"}
+{"bce": "0406729809", "status": "sans_depot", "detail": "404 sur /references", "ts": "2026-10-09T14:51:40+00:00", "passe": "20261009T144553"}
+{"bce": "0406710310", "status": "ancien", "detail": "dernier exercice déposé clos le 2021-12-31", "ts": "2026-10-09T14:51:43+00:00", "passe": "20261009T144553"}
+{"bce": "0406763461", "status": "sans_depot", "detail": "404 sur /references", "ts": "2026-10-09T14:51:44+00:00", "passe": "20261009T144553"}
+{"bce": "0406714070", "status": "ancien", "detail": "dernier exercice déposé clos le 2022-12-31", "ts": "2026-10-09T14:51:45+00:00", "passe": "20261009T144553"}
+{"bce": "0406810278", "status": "ancien", "detail": "dernier exercice déposé clos le 2022-12-31", "ts": "2026-10-09T14:52:00+00:00", "passe": "20261009T144553"}
+{"bce": "0407742567", "status": "sans_depot", "detail": "404 sur /references", "ts": "2026-10-09T14:53:38+00:00", "passe": "20261009T144553"}
+{"bce": "0407760284", "status": "sans_depot", "detail": "404 sur /references", "ts": "2026-10-09T14:53:38+00:00", "passe": "20261009T144553"}
+{"bce": "0407778496", "status": "sans_depot", "detail": "404 sur /references", "ts": "2026-10-09T14:53:41+00:00", "passe": "20261009T144553"}
+{"bce": "0407875496", "status": "sans_depot", "detail": "404 sur /references", "ts": "2026-10-09T14:53:51+00:00", "passe": "20261009T144553"}
+{"bce": "0407824919", "status": "sans_depot", "detail": "121 dépôt(s) inexploitable(s): 2025-00555265:404, 2025-00554627:404, 2024-00524346:404", "ts": "2026-10-09T14:53:58+00:00", "passe": "20261009T144553"}
+{"bce": "0407909645", "status": "ancien", "detail": "dernier exercice déposé clos le 2022-12-31", "ts": "2026-10-09T14:54:02+00:00", "passe": "20261009T144553"}
+{"bce": "0408094935", "status": "sans_depot", "detail": "404 sur /references", "ts": "2026-10-09T14:54:08+00:00", "passe": "20261009T144553"}
+{"bce": "0408217768", "status": "sans_depot", "detail": "50 dépôt(s) inexploitable(s): 2026-00174529:404, 2025-00498013:404, 2024-00333882:404", "ts": "2026-10-09T14:54:17+00:00", "passe": "20261009T144553"}
+{"bce": "0408312293", "status": "sans_depot", "detail": "404 sur /references", "ts": "2026-10-09T14:54:17+00:00", "passe": "20261009T144553"}
+{"bce": "0408229844", "status": "sans_depot", "detail": "67 dépôt(s) inexploitable(s): 2026-00550342:404, 2026-00292950:404, 2025-00286228:404", "ts": "2026-10-09T14:54:19+00:00", "passe": "20261009T144553"}
+{"bce": "0408612696", "status": "sans_depot", "detail": "404 sur /references", "ts": "2026-10-09T14:54:32+00:00", "passe": "20261009T144553"}
+{"bce": "0409298626", "status": "sans_depot", "detail": "404 sur /references", "ts": "2026-10-09T14:54:36+00:00", "passe": "20261009T144553"}
+{"bce": "0409446995", "status": "sans_depot", "detail": "404 sur /references", "ts": "2026-10-09T14:54:37+00:00", "passe": "20261009T144553"}
+{"bce": "0409811835", "status": "sans_depot", "detail": "404 sur /references", "ts": "2026-10-09T14:54:37+00:00", "passe": "20261009T144553"}
+{"bce": "0410598129", "status": "sans_depot", "detail": "404 sur /references", "ts": "2026-10-09T14:54:38+00:00", "passe": "20261009T144553"}
+{"bce": "0410674838", "status": "sans_depot", "detail": "404 sur /references", "ts": "2026-10-09T14:54:39+00:00", "passe": "20261009T144553"}
+{"bce": "0412811412", "status": "sans_depot", "detail": "84 dépôt(s) inexploitable(s): 2026-00243385:404, 2025-00226750:404, 2024-00146586:404", "ts": "2026-10-09T14:56:29+00:00", "passe": "20261009T144553"}
+{"bce": "0413359758", "status": "sans_depot", "detail": "404 sur /references", "ts": "2026-10-09T14:56:54+00:00", "passe": "20261009T144553"}
+{"bce": "0413479821", "status": "sans_depot", "detail": "404 sur /references", "ts": "2026-10-09T14:56:56+00:00", "passe": "20261009T144553"}
+{"bce": "0413502288", "status": "sans_depot", "detail": "404 sur /references", "ts": "2026-10-09T14:56:57+00:00", "passe": "20261009T144553"}
+{"bce": "0413511691", "status": "sans_depot", "detail": "404 sur /references", "ts": "2026-10-09T14:56:57+00:00", "passe": "20261009T144553"}
+{"bce": "0413706087", "status": "ancien", "detail": "dernier exercice déposé clos le 2022-12-31", "ts": "2026-10-09T14:57:31+00:00", "passe": "20261009T144553"}
+{"bce": "0413730536", "status": "ancien", "detail": "dernier exercice déposé clos le 2006-12-31", "ts": "2026-10-09T14:57:33+00:00", "passe": "20261009T144553"}
+{"bce": "0413967393", "status": "ancien", "detail": "dernier exercice déposé clos le 2015-12-31", "ts": "2026-10-09T14:57:57+00:00", "passe": "20261009T144553"}
+{"bce": "0413996196", "status": "sans_depot", "detail": "404 sur /references", "ts": "2026-10-09T14:57:57+00:00", "passe": "20261009T144553"}
+{"bce": "0414288384", "status": "sans_depot", "detail": "404 sur /references", "ts": "2026-10-09T14:58:30+00:00", "passe": "20261009T144553"}
+{"bce": "0414489413", "status": "ancien", "detail": "dernier exercice déposé clos le 2004-06-30", "ts": "2026-10-09T14:58:49+00:00", "passe": "20261009T144553"}
+{"bce": "0414506437", "status": "ancien", "detail": "dernier exercice déposé clos le 2022-12-31", "ts": "2026-10-09T14:58:57+00:00", "passe": "20261009T144553"}
+{"bce": "0414606506", "status": "ancien", "detail": "dernier exercice déposé clos le 2022-12-31", "ts": "2026-10-09T14:59:10+00:00", "passe": "20261009T144553"}
+{"bce": "0414828913", "status": "sans_depot", "detail": "404 sur /references", "ts": "2026-10-09T14:59:29+00:00", "passe": "20261009T144553"}
+{"bce": "0414892358", "status": "ancien", "detail": "dernier exercice déposé clos le 2020-12-31", "ts": "2026-10-09T14:59:43+00:00", "passe": "20261009T144553"}
+{"bce": "0415666774", "status": "ancien", "detail": "dernier exercice déposé clos le 1996-06-30", "ts": "2026-10-09T15:01:01+00:00", "passe": "20261009T144553"}
+{"bce": "0416013994", "status": "ancien", "detail": "dernier exercice déposé clos le 2020-12-31", "ts": "2026-10-09T15:01:47+00:00", "passe": "20261009T144553"}
+{"bce": "0416845127", "status": "ancien", "detail": "dernier exercice déposé clos le 2019-12-31", "ts": "2026-10-09T15:03:34+00:00", "passe": "20261009T144553"}
+{"bce": "0416895211", "status": "ancien", "detail": "dernier exercice déposé clos le 2022-12-31", "ts": "2026-10-09T15:03:41+00:00", "passe": "20261009T144553"}
+{"bce": "0417278558", "status": "ancien", "detail": "dernier exercice déposé clos le 2013-12-31", "ts": "2026-10-09T15:04:14+00:00", "passe": "20261009T144553"}
+{"bce": "0417617464", "status": "ancien", "detail": "dernier exercice déposé clos le 2016-03-31", "ts": "2026-10-09T15:04:44+00:00", "passe": "20261009T144553"}
+{"bce": "0417817008", "status": "ancien", "detail": "dernier exercice déposé clos le 2020-12-31", "ts": "2026-10-09T15:05:18+00:00", "passe": "20261009T144553"}
+{"bce": "0417923906", "status": "ancien", "detail": "dernier exercice déposé clos le 2019-12-31", "ts": "2026-10-09T15:05:45+00:00", "passe": "20261009T144553"}
+{"bce": "0418071879", "status": "ancien", "detail": "dernier exercice déposé clos le 2019-12-31", "ts": "2026-10-09T15:06:00+00:00", "passe": "20261009T144553"}
+{"bce": "0418361196", "status": "ancien", "detail": "dernier exercice déposé clos le 2022-12-31", "ts": "2026-10-09T15:06:45+00:00", "passe": "20261009T144553"}
+{"bce": "0418447409", "status": "ancien", "detail": "dernier exercice déposé clos le 1991-12-31", "ts": "2026-10-09T15:06:56+00:00", "passe": "20261009T144553"}
+{"bce": "0418953292", "status": "ancien", "detail": "dernier exercice déposé clos le 2004-12-31", "ts": "2026-10-09T15:07:48+00:00", "passe": "20261009T144553"}
+{"bce": "0419051183", "status": "ancien", "detail": "dernier exercice déposé clos le 2020-09-30", "ts": "2026-10-09T15:08:14+00:00", "passe": "20261009T144553"}
+{"bce": "0419422159", "status": "ancien", "detail": "dernier exercice déposé clos le 2022-12-31", "ts": "2026-10-09T15:08:45+00:00", "passe": "20261009T144553"}
+{"bce": "0419458286", "status": "sans_depot", "detail": "404 sur /references", "ts": "2026-10-09T15:08:46+00:00", "passe": "20261009T144553"}
+{"bce": "0419497680", "status": "sans_depot", "detail": "404 sur /references", "ts": "2026-10-09T15:08:55+00:00", "passe": "20261009T144553"}
+{"bce": "0419690492", "status": "ancien", "detail": "dernier exercice déposé clos le 2018-12-31", "ts": "2026-10-09T15:09:23+00:00", "passe": "20261009T144553"}
+{"bce": "0420098684", "status": "ancien", "detail": "dernier exercice déposé clos le 2011-12-31", "ts": "2026-10-09T15:10:10+00:00", "passe": "20261009T144553"}
+{"bce": "0420090667", "status": "sans_depot", "detail": "48 dépôt(s) inexploitable(s): 2026-00287076:404, 2025-00267461:404, 2024-00251782:404", "ts": "2026-10-09T15:10:11+00:00", "passe": "20261009T144553"}
