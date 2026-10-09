@@ -57,6 +57,8 @@ MAX_TRIES = 7
 EMPTY_RECHECKS = (3, 12)      # seconds to wait before re-asking an empty /references
 MAX_DEPOSITS_TRIED = 3        # fall back to older deposits if the latest is unusable
 OLD_EXERCISE_YEARS = 2        # flag exercises ending more than this many years ago
+OLD_DEPOSIT_YEARS = 3         # last exercise older than this: company stopped filing, and
+                              # Authentic Data no longer serves the content (404)
 
 LUES = os.path.join(STATE, "lues.jsonl")
 TENTATIVES = os.path.join(STATE, "tentatives.jsonl")
@@ -78,6 +80,7 @@ RUBRICS = {
     "50/53": ["50/53"],
     "62": ["62"],
     "9087": ["9087"],
+    "1003": ["1003"],  # social balance: total FTE, filled when 9087 is not
 }
 
 TOUT_COLS = ["bce", "nom", "division", "commune", "exercice", "ebitda", "bilan"]
@@ -337,7 +340,47 @@ def _entries(block):
     return []
 
 
+def _mandates(e):
+    funcs, starts, ends = [], [], []
+    for m in ci(e, "Mandates") or []:
+        f = ci(m, "FunctionMandate") or ci(m, "OtherFunctionMandate")
+        if f:
+            funcs.append(str(f).replace("fct:", ""))
+        d = ci(m, "MandateDates") or {}
+        if ci(d, "StartDate"):
+            starts.append(str(ci(d, "StartDate"))[:10])
+        if ci(d, "EndDate"):
+            ends.append(str(ci(d, "EndDate"))[:10])
+    label = ""
+    if funcs:
+        label += f" [{', '.join(sorted(set(funcs)))}]"
+    if starts:
+        label += f" depuis {min(starts)}"
+    if ends:
+        label += f" jusqu'à {max(ends)}"
+    return label
+
+
 def format_admins(block):
+    if isinstance(block, dict) and ("NaturalPersons" in block or "LegalPersons" in block):
+        parts = []
+        for e in block.get("NaturalPersons") or []:
+            p = ci(e, "Person") or e
+            parts.append(f"{_names(p)}{_mandates(e)}")
+        for e in block.get("LegalPersons") or []:
+            ent = ci(e, "Entity") or e
+            label = _names(ent)
+            if ci(ent, "Identifier"):
+                label += f" ({ci(ent, 'Identifier')})"
+            reps = [_names(r) for r in ci(e, "Representatives") or []]
+            if reps:
+                label += f" repr. {', '.join(filter(None, reps))}"
+            parts.append(label + _mandates(e))
+        return " | ".join(p for p in parts if p.strip())
+    return _format_admins_generic(block)
+
+
+def _format_admins_generic(block):
     parts = []
     for e in _entries(block):
         name = _names(e)
@@ -412,6 +455,8 @@ def extract(company, ref, doc):
         alerts.append(f"devise {cur}")
     bilan = pick(t, "20/58")
     etp = pick(t, "9087")
+    if etp is None:
+        etp = pick(t, "1003")
     if ebitda is not None and bilan and ebitda > bilan:
         alerts.append("EBITDA > total du bilan")
     if ebitda is not None and ebitda >= BAND_LOW and not etp:
@@ -478,6 +523,9 @@ def process(client, company):
         return "sans_depot", "aucun dépôt", suspicious
 
     refs.sort(key=ref_sort_key, reverse=True)
+    last_end = ref_sort_key(refs[0])[0][:10]
+    if last_end and int(last_end[:4]) < date.today().year - OLD_DEPOSIT_YEARS:
+        return "ancien", f"dernier exercice déposé clos le {last_end}", suspicious
     tried = []
     for ref in refs[:MAX_DEPOSITS_TRIED]:
         url = ci(ref, "AccountingDataURL")
@@ -587,6 +635,9 @@ def write_outputs(population, lues, last_attempt):
     write_atomic(os.path.join(STATE, "retenues.csv"), to_csv(retenues, RETENUES_COLS))
     sans = sorted(b for b, t in last_attempt.items() if t["status"] == "sans_depot")
     write_atomic(os.path.join(STATE, "sans_depot.txt"), "".join(b + "\n" for b in sans))
+    write_atomic(os.path.join(STATE, "depot_ancien.csv"), to_csv(
+        [{**population.get(b, {"bce": b}), "dernier": t["detail"]} for b, t in sorted(last_attempt.items())
+         if t["status"] == "ancien"], ["bce", "nom", "division", "forme", "creation", "dernier"]))
     anomalies = [r for r in rows if r.get("alertes")]
     write_atomic(os.path.join(STATE, "anomalies.csv"), to_csv(
         anomalies, ["bce", "nom", "exercice", "schema", "ebitda", "bilan", "etp", "alertes"]))
@@ -599,6 +650,7 @@ def summary(population, lues, last_attempt):
     retenues = sorted((r for r in rows if in_band(r)), key=lambda r: -r["ebitda"])
     sans = {b for b, t in last_attempt.items() if t["status"] == "sans_depot"}
     errs = {b for b, t in last_attempt.items() if t["status"] == "erreur"}
+    anciens = {b for b, t in last_attempt.items() if t["status"] == "ancien"}
     untouched = len(population) - len(lues) - len(last_attempt)
     n = len(population) or 1
     L = []
@@ -606,6 +658,8 @@ def summary(population, lues, last_attempt):
     L.append(f"- Population : {len(population)}")
     L.append(f"- Lues (dépôt exploitable) : {len(lues)} ({100 * len(lues) / n:.1f} %)")
     L.append(f"- Sans dépôt exploitable : {len(sans)} ({100 * len(sans) / n:.1f} %)")
+    L.append(f"- Dernier dépôt antérieur à {date.today().year - OLD_DEPOSIT_YEARS} (ne déposent plus, "
+             f"contenu non servi par Authentic Data) : {len(anciens)}")
     L.append(f"- En erreur (à retenter) : {len(errs)}")
     L.append(f"- Jamais interrogées : {untouched}")
     L.append(f"- Retenues ({BAND_LOW:,} € ≤ EBITDA ≤ {BAND_HIGH:,} €) : {len(retenues)}".replace(",", " "))
@@ -756,7 +810,7 @@ def run():
                     print(f"FATAL: {e}", flush=True)
                     continue
                 record(status, company, payload, suspicious)
-            n = sum(counts[s] for s in ("ok", "sans_depot", "erreur"))
+            n = sum(counts[s] for s in ("ok", "sans_depot", "erreur", "ancien"))
             if done and n % 200 < len(done):
                 el = (time.monotonic() - t0) / 60
                 print(f"[{el:6.1f} min] traitées={n} ok={counts['ok']} sans_depot={counts['sans_depot']} "
@@ -783,6 +837,7 @@ def run():
     line = (f"{datetime.now(timezone.utc):%Y-%m-%dT%H:%M:%SZ} "
             f"durée={(time.monotonic() - t0) / 60:.0f}min "
             f"lues={counts['ok']} retenues_total={len(retenues)} sans_depot={counts['sans_depot']} "
+            f"depot_ancien={counts['ancien']} "
             f"erreurs={counts['erreur']} bridages={client.stats['bridages'] + counts['bridages_silencieux']} "
             f"(429/5xx={client.stats['bridages']} vides_corrigés={counts['bridages_silencieux']}) "
             f"appels={client.stats['appels']} ({client.stats['appels'] / max(minutes, 0.01):.0f}/min, "
@@ -811,7 +866,8 @@ def pending(population, lues, last_attempt):
     """Companies still worth asking: never read, unless they already came back
     without deposit in SANS_DEPOT_PASSES separate passes."""
     passes = sans_depot_passes()
-    return [b for b in population if b not in lues and not (
+    return [b for b in population if b not in lues
+            and last_attempt.get(b, {}).get("status") != "ancien" and not (
         last_attempt.get(b, {}).get("status") == "sans_depot" and len(passes[b]) >= SANS_DEPOT_PASSES)]
 
 
