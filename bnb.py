@@ -762,6 +762,7 @@ def run():
     t0 = time.monotonic()
     counts = Counter()
     fatal = None
+    all_attempts = read_jsonl(TENTATIVES)
     f_lues = open(LUES, "a", encoding="utf-8")
     f_tent = open(TENTATIVES, "a", encoding="utf-8")
 
@@ -779,6 +780,7 @@ def run():
             t = {"bce": company["bce"], "status": status, "detail": str(payload)[:300], "ts": now,
                  "passe": pass_id}
             last_attempt[company["bce"]] = t
+            all_attempts.append(t)
             f_tent.write(json.dumps(t, ensure_ascii=False) + "\n")
             f_tent.flush()
 
@@ -849,6 +851,11 @@ def run():
                       f"429/5xx={client.stats['bridages']}", flush=True)
     f_lues.close()
     f_tent.close()
+    # Rewrite both logs from memory: the append-only files are the crash-safety net,
+    # memory is the reference once the pass ends cleanly.
+    write_atomic(LUES, "".join(json.dumps(r, ensure_ascii=False) + "\n"
+                               for r in sorted(lues.values(), key=lambda r: r["bce"])))
+    write_atomic(TENTATIVES, "".join(json.dumps(t, ensure_ascii=False) + "\n" for t in all_attempts))
     write_progress(final=True)
 
     retenues, sans = write_outputs(population, lues, last_attempt)
