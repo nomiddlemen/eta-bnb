@@ -16,6 +16,11 @@ Environment:
   STATE_DIR     output directory (default state)
   NBB_BASE      API base URL (default https://ws.cbso.nbb.be)
   LIMIT         process at most this many companies in this pass (testing)
+  RATE          starting pace in calls/s across all workers (default 4)
+  RATE_MAX      ceiling for the adaptive pace (default 8)
+
+`python bnb.py probe` checks the live API (response formats, throughput,
+rate-limit headers) without touching the population and writes state/probe/.
 """
 
 import csv
@@ -42,6 +47,10 @@ WORKERS = max(1, min(6, int(os.environ.get("WORKERS", "6"))))
 POPULATION = os.environ.get("POPULATION", "data/bce_industrie.csv.gz")
 STATE = os.environ.get("STATE_DIR", "state")
 LIMIT = int(os.environ.get("LIMIT", "0"))
+RATE = float(os.environ.get("RATE", "4"))          # starting calls/s, all workers together
+RATE_MAX = float(os.environ.get("RATE_MAX", "8"))  # never exceed this
+RATE_MIN = float(os.environ.get("RATE_MIN", "1"))  # never slow below this; 429 backoff still applies
+SANS_DEPOT_PASSES = 3  # a company with no deposit after this many separate passes is final
 
 BAND_LOW, BAND_HIGH = 300_000, 1_500_000
 MAX_TRIES = 7
@@ -51,6 +60,7 @@ OLD_EXERCISE_YEARS = 2        # flag exercises ending more than this many years 
 
 LUES = os.path.join(STATE, "lues.jsonl")
 TENTATIVES = os.path.join(STATE, "tentatives.jsonl")
+TERMINE = os.path.join(STATE, "TERMINE")
 
 # Rubric aliases: the XBRL taxonomy writes some ranges in short form ("170/4").
 RUBRICS = {
@@ -89,31 +99,64 @@ class CallFailed(Exception):
 
 # --------------------------------------------------------------------------- HTTP
 
+class RateLimiter:
+    """Global pacing shared by all workers. Cuts the rate by a quarter on each
+    burst of 429s (floor RATE_MIN) and raises it by a quarter after 30 quiet
+    seconds, never above `ceiling` calls/s."""
+
+    def __init__(self, rate, ceiling):
+        self.lock = threading.Lock()
+        self.rate = rate
+        self.ceiling = ceiling
+        self.next_slot = 0.0
+        self.last_429 = 0.0
+        self.last_raise = time.monotonic()
+        self.lowest = rate
+
+    def acquire(self):
+        with self.lock:
+            now = time.monotonic()
+            if now - self.last_429 > 30 and now - self.last_raise > 30 and self.rate < self.ceiling:
+                self.rate = min(self.ceiling, self.rate * 1.25)
+                self.last_raise = now
+            slot = max(now, self.next_slot)
+            self.next_slot = slot + 1 / self.rate
+        if slot > now:
+            time.sleep(slot - now)
+
+    def throttled(self, pause):
+        with self.lock:
+            now = time.monotonic()
+            if now - self.last_429 > 2:  # one halving per burst of 429s
+                self.rate = max(RATE_MIN, self.rate * 0.75)
+                self.lowest = min(self.lowest, self.rate)
+            self.last_429 = now
+            self.last_raise = now
+            self.next_slot = max(self.next_slot, now + pause)
+
+
 class Client:
-    def __init__(self, key):
+    def __init__(self, key, rate=None, ceiling=None):
         self.key = key
         self.lock = threading.Lock()
-        self.pause_until = 0.0
+        self.limiter = RateLimiter(rate or RATE, ceiling or RATE_MAX)
         self.stats = Counter()
+        self.status_codes = Counter()
+        self.limit_headers = {}
 
-    def _wait_global_pause(self):
-        while True:
-            with self.lock:
-                delay = self.pause_until - time.monotonic()
-            if delay <= 0:
-                return
-            time.sleep(min(delay, 5))
-
-    def _pause_all(self, seconds):
-        with self.lock:
-            self.pause_until = max(self.pause_until, time.monotonic() + seconds)
+    def _note_headers(self, code, headers):
+        for k, v in (headers or {}).items():
+            kl = k.lower()
+            if any(t in kl for t in ("ratelimit", "rate-limit", "quota", "retry-after", "x-ms-")):
+                with self.lock:
+                    self.limit_headers[k] = f"{v} (HTTP {code})"
 
     def get(self, url, accept):
         """Return (status, body bytes). 404 is returned, not raised."""
         if not url.startswith("http"):
             url = BASE + url
         for attempt in range(MAX_TRIES):
-            self._wait_global_pause()
+            self.limiter.acquire()
             req = urllib.request.Request(url, headers={
                 "NBB-CBSO-Subscription-Key": self.key,
                 "X-Request-Id": str(uuid.uuid4()),
@@ -124,9 +167,13 @@ class Client:
             retry_after = None
             try:
                 with urllib.request.urlopen(req, timeout=60) as resp:
+                    self.status_codes[resp.status] += 1
+                    self._note_headers(resp.status, resp.headers)
                     return resp.status, resp.read()
             except urllib.error.HTTPError as e:
                 code = e.code
+                self.status_codes[code] += 1
+                self._note_headers(code, e.headers)
                 body = e.read()[:500]
                 if code == 404:
                     return 404, b""
@@ -138,12 +185,13 @@ class Client:
                     self.stats["bridages"] += 1
                     retry_after = _retry_after(e.headers.get("Retry-After"))
                     if code == 429:
-                        self._pause_all(retry_after or 5 * 2 ** attempt)
+                        self.stats["http_429"] += 1
+                        self.limiter.throttled(retry_after or 5 * 2 ** attempt)
                 else:
                     raise CallFailed(f"HTTP {code} on {url}: {body!r}")
-            except (urllib.error.URLError, TimeoutError, ConnectionError, OSError) as e:
+            except (urllib.error.URLError, TimeoutError, ConnectionError, OSError):
                 self.stats["erreurs_reseau"] += 1
-                last = e
+                self.status_codes["réseau"] += 1
             delay = retry_after or min(300, 2 * 2 ** attempt) * (0.75 + random.random() / 2)
             time.sleep(delay)
         raise CallFailed(f"gave up after {MAX_TRIES} tries on {url}")
@@ -642,11 +690,15 @@ def run():
 
     # Never-tried first, then previous errors, then previous "no deposit".
     rank = {"erreur": 1, "sans_depot": 2}
-    queue = sorted((b for b in population if b not in lues),
-                   key=lambda b: (rank.get(last_attempt.get(b, {}).get("status"), 0), b))
+    queue = pending(population, lues, last_attempt)
+    queue.sort(key=lambda b: (rank.get(last_attempt.get(b, {}).get("status"), 0), b))
     if LIMIT:
         queue = queue[:LIMIT]
     print(f"population={len(population)} déjà lues={len(lues)} à traiter={len(queue)}", flush=True)
+    if not queue:
+        finish(population, lues, last_attempt)
+        return
+    pass_id = datetime.now(timezone.utc).strftime("%Y%m%dT%H%M%S")
 
     client = Client(KEY)
     stop = threading.Event()
@@ -670,7 +722,8 @@ def run():
             f_lues.write(json.dumps(payload, ensure_ascii=False) + "\n")
             f_lues.flush()
         else:
-            t = {"bce": company["bce"], "status": status, "detail": str(payload)[:300], "ts": now}
+            t = {"bce": company["bce"], "status": status, "detail": str(payload)[:300], "ts": now,
+                 "passe": pass_id}
             last_attempt[company["bce"]] = t
             f_tent.write(json.dumps(t, ensure_ascii=False) + "\n")
             f_tent.flush()
@@ -713,12 +766,28 @@ def run():
     f_tent.close()
 
     retenues, sans = write_outputs(population, lues, last_attempt)
+    minutes = (time.monotonic() - t0) / 60
+    lim = client.limiter
+    rate_report = (
+        f"# Débit et limites — passe {pass_id}\n\n"
+        f"- appels : {client.stats['appels']} en {minutes:.0f} min "
+        f"({client.stats['appels'] / max(minutes, 0.01):.0f} appels/min)\n"
+        f"- rythme autorisé : départ {RATE}/s, fin {lim.rate:.2f}/s, plus bas {lim.lowest:.2f}/s, plafond {RATE_MAX}/s\n"
+        f"- HTTP 429 : {client.stats['http_429']}, 5xx/429 total : {client.stats['bridages']}, "
+        f"réponses vides corrigées en relance : {counts['bridages_silencieux']}, "
+        f"erreurs réseau : {client.stats['erreurs_reseau']}\n"
+        f"- codes HTTP : {dict(client.status_codes)}\n"
+        f"- en-têtes de quota vus : {client.limit_headers or 'aucun'}\n")
+    with open(os.path.join(STATE, "debit.md"), "a", encoding="utf-8") as f:
+        f.write(rate_report + "\n")
     line = (f"{datetime.now(timezone.utc):%Y-%m-%dT%H:%M:%SZ} "
             f"durée={(time.monotonic() - t0) / 60:.0f}min "
             f"lues={counts['ok']} retenues_total={len(retenues)} sans_depot={counts['sans_depot']} "
             f"erreurs={counts['erreur']} bridages={client.stats['bridages'] + counts['bridages_silencieux']} "
             f"(429/5xx={client.stats['bridages']} vides_corrigés={counts['bridages_silencieux']}) "
-            f"appels={client.stats['appels']} | cumul lues={len(lues)} sans_depot={len(sans)} "
+            f"appels={client.stats['appels']} ({client.stats['appels'] / max(minutes, 0.01):.0f}/min, "
+            f"429={client.stats['http_429']}, rythme fin={lim.rate:.2f}/s) "
+            f"| cumul lues={len(lues)} sans_depot={len(sans)} "
             f"restant={len(population) - len(lues)}"
             + (f" | ARRÊT: {fatal[:200]}" if fatal else ""))
     with open(os.path.join(STATE, "journal.txt"), "a", encoding="utf-8") as f:
@@ -726,6 +795,161 @@ def run():
     print(line, flush=True)
     if fatal:
         sys.exit(2)
+    if not LIMIT and not pending(population, lues, load_state()[1]):
+        finish(population, lues, last_attempt)
+
+
+def sans_depot_passes():
+    passes = defaultdict(set)
+    for t in read_jsonl(TENTATIVES):
+        if t.get("status") == "sans_depot":
+            passes[t["bce"]].add(t.get("passe") or t.get("ts", "")[:13])
+    return passes
+
+
+def pending(population, lues, last_attempt):
+    """Companies still worth asking: never read, unless they already came back
+    without deposit in SANS_DEPOT_PASSES separate passes."""
+    passes = sans_depot_passes()
+    return [b for b in population if b not in lues and not (
+        last_attempt.get(b, {}).get("status") == "sans_depot" and len(passes[b]) >= SANS_DEPOT_PASSES)]
+
+
+def finish(population, lues, last_attempt):
+    retenues, sans = write_outputs(population, lues, last_attempt)
+    msg = (f"{datetime.now(timezone.utc):%Y-%m-%dT%H:%M:%SZ} terminé: lues={len(lues)} "
+           f"retenues={len(retenues)} sans_depot_definitifs={len(sans)}\n")
+    if not os.path.exists(TERMINE):
+        write_atomic(TERMINE, msg)
+        with open(os.path.join(STATE, "journal.txt"), "a", encoding="utf-8") as f:
+            f.write(msg)
+    print(msg, end="", flush=True)
+
+
+# ------------------------------------------------------------------------ probe
+
+def valid_bce(rng):
+    base = rng.randint(4_000_000, 8_999_999)  # enterprise numbers 0400.000.0xx to 0899.999.9xx
+    return f"{base:08d}{97 - base % 97:02d}"
+
+
+def raw_get(url, accept):
+    """Single call, no retry: (status, seconds, body, headers)."""
+    if not url.startswith("http"):
+        url = BASE + url
+    req = urllib.request.Request(url, headers={
+        "NBB-CBSO-Subscription-Key": KEY, "X-Request-Id": str(uuid.uuid4()),
+        "Accept": accept, "User-Agent": "eta-bnb/1.0"})
+    t = time.monotonic()
+    try:
+        with urllib.request.urlopen(req, timeout=60) as resp:
+            return resp.status, time.monotonic() - t, resp.read(), dict(resp.headers)
+    except urllib.error.HTTPError as e:
+        return e.code, time.monotonic() - t, e.read()[:2000], dict(e.headers)
+    except Exception as e:
+        return f"réseau:{type(e).__name__}", time.monotonic() - t, b"", {}
+
+
+def probe():
+    if not KEY:
+        sys.exit("NBB_KEY is not set")
+    out = os.path.join(STATE, "probe")
+    os.makedirs(out, exist_ok=True)
+    rng = random.Random(42)
+    known = os.environ.get("SAMPLE_BCE", "0447639261").split(",")
+    seconds = float(os.environ.get("PROBE_SECONDS", "40"))
+    L = [f"# Sonde API BNB — {datetime.now(timezone.utc):%Y-%m-%d %H:%M} UTC\n", "## Formats\n"]
+
+    # Formats on known companies plus random valid numbers until a few deposits are read.
+    candidates = known + [valid_bce(rng) for _ in range(150)]
+    read = 0
+    tested_415 = False
+    for bce in candidates:
+        if read >= 5:
+            break
+        st, dt, body, hdr = raw_get(f"/authentic/legalEntity/{bce}/references", "application/json")
+        if st != 200:
+            if bce in known:
+                L.append(f"- {bce} /references → HTTP {st} {body[:200]!r}")
+            continue
+        try:
+            payload = json.loads(body)
+        except ValueError:
+            L.append(f"- {bce} /references → non JSON: {body[:200]!r}")
+            continue
+        refs = as_list(payload)
+        if not refs:
+            continue
+        shape = "liste nue" if isinstance(payload, list) else f"objet clés={list(payload)[:6]}"
+        with open(os.path.join(out, f"{bce}_references.json"), "w", encoding="utf-8") as f:
+            json.dump(payload, f, ensure_ascii=False, indent=1)
+        refs.sort(key=ref_sort_key, reverse=True)
+        ref = refs[0]
+        url = ci(ref, "AccountingDataURL") or f"/authentic/deposit/{ci(ref, 'ReferenceNumber')}/accountingData"
+        if not tested_415:
+            st_json, *_ = raw_get(url, "application/json")
+            L.append(f"- contrôle Accept: application/json sur accountingData → HTTP {st_json}")
+            tested_415 = True
+        st, dt, body, hdr = raw_get(url, "application/x.jsonxbrl")
+        L.append(f"- {bce}: /references {shape}, {len(refs)} dépôts, clés={sorted(ref)[:14]}")
+        if st != 200:
+            L.append(f"  - accountingData → HTTP {st} {body[:200]!r}")
+            continue
+        doc = json.loads(body)
+        with open(os.path.join(out, f"{bce}_accountingData.json"), "w", encoding="utf-8") as f:
+            json.dump(doc, f, ensure_ascii=False, indent=1)
+        company = {"bce": bce, "nom": ci(ref, "EnterpriseName") or "", "division": "", "commune": "",
+                   "nace": "", "forme": ci(ref, "LegalForm") or ""}
+        rec = extract(company, ref, doc)
+        t = rubric_table(doc)
+        L.append(f"  - accountingData: clés={sorted(doc)[:14]}, {len(t)} rubriques, modèle={ci(ref, 'ModelType')}")
+        if rec:
+            L.append(f"  - extrait: exercice={rec['exercice']} ebitda={fmt(rec['ebitda'])} bilan={fmt(rec['bilan'])} "
+                     f"etp={fmt(rec['etp'])} alertes={rec['alertes'] or '—'}")
+            L.append(f"  - administrateurs: {rec['administrateurs'][:300] or 'VIDE'}")
+            L.append(f"  - actionnaires: {rec['actionnaires'][:300] or 'VIDE'}")
+        else:
+            L.append("  - EXTRACTION VIDE: le format ne correspond pas au parseur")
+        read += 1
+
+    # Throughput ramp on /references, no client-side pacing.
+    L.append("\n## Débit (appels /references sans pacing, numéros BCE valides aléatoires)\n")
+    L.append("| Parallélisme | Appels | Appels/min | Latence moy. | Codes HTTP |")
+    L.append("| ---: | ---: | ---: | ---: | --- |")
+    headers_seen = {}
+    for level in (1, 2, 4, 6):
+        codes, lat = Counter(), []
+        lock = threading.Lock()
+        end = time.monotonic() + seconds
+
+        def worker():
+            r = random.Random()
+            while time.monotonic() < end:
+                st, dt, _, hdr = raw_get(f"/authentic/legalEntity/{valid_bce(r)}/references", "application/json")
+                with lock:
+                    codes[st] += 1
+                    lat.append(dt)
+                    for k, v in hdr.items():
+                        if any(x in k.lower() for x in ("ratelimit", "rate-limit", "quota", "retry-after")):
+                            headers_seen[k] = f"{v} (HTTP {st})"
+                if st == 429:
+                    time.sleep(2)
+
+        threads = [threading.Thread(target=worker) for _ in range(level)]
+        for th in threads:
+            th.start()
+        for th in threads:
+            th.join()
+        n = sum(codes.values())
+        L.append(f"| {level} | {n} | {n * 60 / seconds:.0f} | {1000 * sum(lat) / max(len(lat), 1):.0f} ms | {dict(codes)} |")
+        if codes[429] > n / 4:
+            L.append(f"| — | arrêt de la montée : trop de 429 à {level} | | | |")
+            break
+        time.sleep(5)
+    L.append(f"\nEn-têtes de quota observés : {headers_seen or 'aucun'}")
+    report = "\n".join(L) + "\n"
+    write_atomic(os.path.join(out, "rapport.md"), report)
+    print(report)
 
 
 def main():
@@ -734,6 +958,8 @@ def main():
         lues, last_attempt = load_state()
         write_outputs(population, lues, last_attempt)
         print(open(os.path.join(STATE, "resume.md"), encoding="utf-8").read())
+    elif len(sys.argv) > 1 and sys.argv[1] == "probe":
+        probe()
     else:
         run()
 
