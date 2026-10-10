@@ -1,0 +1,182 @@
+{
+ "bce": "0464805390",
+ "total_annonce": 22,
+ "items": [
+  {
+   "nom": "1) DURANT AGRICOLE ET JARDIN SPRL",
+   "date": "2023-05-10",
+   "ref": "0343336",
+   "type": "MODIFICATION FORME JURIDIQUE - DEMISSIONS, NOMINATIONS",
+   "adresse": "RUE DE LA GENDARMERIE 48 5600 PHILIPPEVILLE",
+   "pdf": "https://www.ejustice.just.fgov.be/tsv_pdf/2023/05/10/23343336.pdf"
+  },
+  {
+   "nom": "2) DURANT AGRICOLE ET JARDIN SPRL",
+   "date": "2020-03-05",
+   "ref": "0035097",
+   "type": "SIEGE SOCIAL",
+   "adresse": "RUE DE GIVET 42 5600 VILLERS-LE-GAMBON",
+   "pdf": "https://www.ejustice.just.fgov.be/tsv_pdf/2020/03/05/20035097.pdf"
+  },
+  {
+   "nom": "3) DURANT AGRICOLE ET JARDIN SPRL",
+   "date": "2017-07-04",
+   "ref": "0068358",
+   "type": "ME. - COMPTES ANNUELS 30.11.2016, APP 19.05.2017, DPT 27.06.2017 17225-0158-017",
+   "adresse": "RUE DE GIVET 42 5600 VILLERS-LE-GAMBON",
+   "pdf": ""
+  },
+  {
+   "nom": "4) DURANT AGRICOLE ET JARDIN SPRL",
+   "date": "2016-06-03",
+   "ref": "0081804",
+   "type": "ME. - COMPTES ANNUELS 30.11.2015, APP 20.05.2016, DPT 31.05.2016 16143-0332-016",
+   "adresse": "RUE DE GIVET 42 5600 VILLERS-LE-GAMBON",
+   "pdf": ""
+  },
+  {
+   "nom": "5) DURANT AGRICOLE ET JARDIN SPRL",
+   "date": "2015-06-03",
+   "ref": "0079715",
+   "type": "ME. - COMPTES ANNUELS 30.11.2014, APP 15.05.2015, DPT 29.05.2015 15137-0346-016",
+   "adresse": "RUE DE GIVET 42 5600 VILLERS-LE-GAMBON",
+   "pdf": ""
+  },
+  {
+   "nom": "6) DURANT AGRICOLE ET JARDIN SPRL",
+   "date": "2014-06-05",
+   "ref": "0084948",
+   "type": "ME. - COMPTES ANNUELS 30.11.2013, APP 16.05.2014, DPT 02.06.2014 14147-0113-015",
+   "adresse": "RUE DE GIVET 42 5600 VILLERS-LE-GAMBON",
+   "pdf": ""
+  },
+  {
+   "nom": "7) DURANT AGRICOLE ET JARDIN SPRL",
+   "date": "2013-07-04",
+   "ref": "0143008",
+   "type": "ME. - COMPTES ANNUELS 30.11.2012, APP 17.05.2013, DPT 01.07.2013 13248-0379-016",
+   "adresse": "RUE DE GIVET 42 5600 VILLERS-LE-GAMBON",
+   "pdf": ""
+  },
+  {
+   "nom": "8) DURANT AGRICOLE ET JARDIN SPRL",
+   "date": "2012-07-03",
+   "ref": "0133514",
+   "type": "ME. - COMPTES ANNUELS 30.11.2011, APP 18.05.2012, DPT 28.06.2012 12230-0568-015",
+   "adresse": "RUE DE GIVET 42 5600 VILLERS-LE-GAMBON",
+   "pdf": ""
+  },
+  {
+   "nom": "9) DURANT AGRICOLE ET JARDIN SPRL",
+   "date": "2011-07-05",
+   "ref": "0138569",
+   "type": "ME. - COMPTES ANNUELS 30.11.2010, APP 20.05.2011, DPT 30.06.2011 11238-0261-015",
+   "adresse": "RUE DE GIVET 42 5600 VILLERS-LE-GAMBON",
+   "pdf": ""
+  },
+  {
+   "nom": "10) DURANT AGRICOLE ET JARDIN SPRL",
+   "date": "2010-07-06",
+   "ref": "0141592",
+   "type": "ME. - COMPTES ANNUELS 30.11.2009, APP 21.05.2010, DPT 01.07.2010 10258-0047-015",
+   "adresse": "RUE DE GIVET 42 5600 VILLERS-LE-GAMBON",
+   "pdf": ""
+  },
+  {
+   "nom": "11) DURANT AGRICOLE ET JARDIN SPRL",
+   "date": "2009-07-02",
+   "ref": "0124229",
+   "type": "ME. - COMPTES ANNUELS 30.11.2008, APP 15.05.2009, DPT 23.06.2009 09308-0360-017",
+   "adresse": "RUE DE GIVET 42 5600 VILLERS-LE-GAMBON",
+   "pdf": ""
+  },
+  {
+   "nom": "12) DURANT AGRICOLE ET JARDIN SPRL",
+   "date": "2008-06-26",
+   "ref": "0106814",
+   "type": "ME. - COMPTES ANNUELS 30.11.2007, APP 16.05.2008, DPT 20.06.2008 08262-0383-015",
+   "adresse": "RUE DE GIVET 42 5600 VILLERS-LE-GAMBON",
+   "pdf": ""
+  },
+  {
+   "nom": "13) DURANT AGRICOLE ET JARDIN SPRL",
+   "date": "2007-06-18",
+   "ref": "0085758",
+   "type": "ME. - COMPTES ANNUELS 30.11.2006, APP 18.05.2007, DPT 11.06.2007 07218-0307-015",
+   "adresse": "RUE DE GIVET 42 5600 VILLERS-LE-GAMBON",
+   "pdf": ""
+  },
+  {
+   "nom": "14) DURANT AGRICOLE ET JARDIN SPRL",
+   "date": "2006-07-12",
+   "ref": "0150429",
+   "type": "ME. - COMPTES ANNUELS 30.11.2005, APP 19.05.2006, DPT 10.07.2006 06438-3426-015",
+   "adresse": "RUE DE GIVET.42 5600 VILLERS-LE-GAMBON",
+   "pdf": ""
+  },
+  {
+   "nom": "15) DURANT AGRICOLE ET JARDIN SPRL",
+   "date": "2005-07-01",
+   "ref": "0129280",
+   "type": "ME. - COMPTES ANNUELS 30.11.2004, APP 20.05.2005, DPT 29.06.2005 05368-2246-015",
+   "adresse": "RUE DE GIVET.42 5600 VILLERS-LE-GAMBON",
+   "pdf": ""
+  },
+  {
+   "nom": "16) DURANT AGRICOLE ET JARDIN SPRL",
+   "date": "2004-06-04",
+   "ref": "0072148",
+   "type": "ME. - COMPTES ANNUELS 30.11.2003, APP 21.05.2004, DPT 01.06.2004 04182-2460-016",
+   "adresse": "RUE DE GIVET.42 5600 VILLERS-LE-GAMBON",
+   "pdf": ""
+  },
+  {
+   "nom": "17) DURANT AGRICOLE ET JARDIN SPRL",
+   "date": "2004-02-26",
+   "ref": "0032971",
+   "type": "CAPITAL, ACTIONS - ASSEMBLEE GENERALE - STATUTS (TRADUCTION, COORDINATION, AUTRES MODIFICATIONS, )",
+   "adresse": "RUE DE GIVET.42 5600 VILLERS-LE-GAMBON",
+   "pdf": "https://www.ejustice.just.fgov.be/tsv_pdf/2004/02/26/04032971.pdf"
+  },
+  {
+   "nom": "18) DURANT AGRICOLE ET JARDIN SPRL",
+   "date": "2003-07-16",
+   "ref": "0146852",
+   "type": "ME. - COMPTES ANNUELS 30.11.2002, APP 16.05.2003 03418-5205-012",
+   "adresse": "5600 VILLERS-LE-GAMBON",
+   "pdf": ""
+  },
+  {
+   "nom": "19) DURANT AGRICOLE ET JARDIN SPRL",
+   "date": "2002-06-29",
+   "ref": "0099260",
+   "type": "ME. - COMPTES ANNUELS 30.11.2001, APP 17.05.2002 02277-2359-015",
+   "adresse": "5600 VILLERS-LE-GAMBON",
+   "pdf": ""
+  },
+  {
+   "nom": "20) DURANT AGRICOLE ET JARDIN SPRL",
+   "date": "2001-07-20",
+   "ref": "0136167",
+   "type": "ME. - COMPTES ANNUELS 30.11.2000, APP 18.05.2001 01387-4864-015",
+   "adresse": "5600 VILLERS-LE-GAMBON",
+   "pdf": ""
+  },
+  {
+   "nom": "21) DURANT AGRICOLE ET JARDIN SPRL",
+   "date": "2000-09-09",
+   "ref": "0190785",
+   "type": "ME. - COMPTES ANNUELS 30.11.1999, APP 19.05.2000 00546-2546-015",
+   "adresse": "5600 VILLERS-LE-GAMBON",
+   "pdf": ""
+  },
+  {
+   "nom": "22) DURANT AGRICOLE ET JARDIN SPRL",
+   "date": "1998-12-30",
+   "ref": "156",
+   "type": "RUBRIQUE CONSTITUTION (NOUVELLE PERSONNE MORALE, OUVERTURE SUCCURSALE, ETC...)",
+   "adresse": "PHILIPPEVILLE (VILLERS-LE-GAMBON)",
+   "pdf": "https://www.ejustice.just.fgov.be/tsv_pdf/1998/12/30/1998-12-30_0156.pdf"
+  }
+ ]
+}

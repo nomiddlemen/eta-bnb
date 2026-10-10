@@ -1,0 +1,46 @@
+{
+ "bce": "0657771450",
+ "total_annonce": 5,
+ "items": [
+  {
+   "nom": "1) M.I.M & CO SRL",
+   "date": "2026-06-09",
+   "ref": "0335834",
+   "type": "STATUTS (TRADUCTION, COORDINATION, AUTRES MODIFICATIONS, ) - OBJET",
+   "adresse": "RUE DU CORBEAU 106 1030 SCHAERBEEK",
+   "pdf": "https://www.ejustice.just.fgov.be/tsv_pdf/2026/06/09/26335834.pdf"
+  },
+  {
+   "nom": "2) M.I.M & CO SPRL",
+   "date": "2023-09-04",
+   "ref": "0387044",
+   "type": "MODIFICATION FORME JURIDIQUE - DEMISSIONS, NOMINATIONS",
+   "adresse": "RUE DU CORBEAU 106 1030 SCHAERBEEK",
+   "pdf": "https://www.ejustice.just.fgov.be/tsv_pdf/2023/09/04/23387044.pdf"
+  },
+  {
+   "nom": "3) M.I.M & CO SPRL",
+   "date": "2017-05-05",
+   "ref": "0063657",
+   "type": "DIVERS",
+   "adresse": "RUE DU CORBEAU 106 1030 SCHAERBEEK",
+   "pdf": "https://www.ejustice.just.fgov.be/tsv_pdf/2017/05/05/17063657.pdf"
+  },
+  {
+   "nom": "4) M.I.M & CO SPRL",
+   "date": "2016-10-13",
+   "ref": "0141025",
+   "type": "CAPITAL, ACTIONS - DEMISSIONS, NOMINATIONS",
+   "adresse": "RUE DU CORBEAU 106 1030 SCHAERBEEK",
+   "pdf": "https://www.ejustice.just.fgov.be/tsv_pdf/2016/10/13/16141025.pdf"
+  },
+  {
+   "nom": "5) M.I.M & CO SPRL",
+   "date": "2016-06-30",
+   "ref": "0313827",
+   "type": "RUBRIQUE CONSTITUTION (NOUVELLE PERSONNE MORALE, OUVERTURE SUCCURSALE, ETC...)",
+   "adresse": "RUE DU CORBEAU 106 1030 SCHAERBEEK",
+   "pdf": "https://www.ejustice.just.fgov.be/tsv_pdf/2016/06/30/16313827.pdf"
+  }
+ ]
+}

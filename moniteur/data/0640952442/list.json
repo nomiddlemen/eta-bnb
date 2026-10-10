@@ -1,0 +1,70 @@
+{
+ "bce": "0640952442",
+ "total_annonce": 8,
+ "items": [
+  {
+   "nom": "1) BASE DE BARONVILLE SA",
+   "date": "2025-12-08",
+   "ref": "0154795",
+   "type": "DEMISSIONS, NOMINATIONS",
+   "adresse": "RUE LIEUTENANT THOLOME 23 5570 BEAURAING",
+   "pdf": "https://www.ejustice.just.fgov.be/tsv_pdf/2025/12/08/25154795.pdf"
+  },
+  {
+   "nom": "2) BASE DE BARONVILLE SA",
+   "date": "2023-12-28",
+   "ref": "0480277",
+   "type": "STATUTS (TRADUCTION, COORDINATION, AUTRES MODIFICATIONS, ) - DIVERS",
+   "adresse": "RUE LIEUTENANT THOLOME 23 5570 BEAURAING",
+   "pdf": "https://www.ejustice.just.fgov.be/tsv_pdf/2023/12/28/23480277.pdf"
+  },
+  {
+   "nom": "3) BASE DE BARONVILLE SA",
+   "date": "2021-08-11",
+   "ref": "0348504",
+   "type": "COMPTES ANNUELS - DIVERS - DEMISSIONS, NOMINATIONS",
+   "adresse": "RUE LIEUTENANT THOLOME 23 5570 BEAURAING",
+   "pdf": "https://www.ejustice.just.fgov.be/tsv_pdf/2021/08/11/21348504.pdf"
+  },
+  {
+   "nom": "4) BASE DE BARONVILLE SA",
+   "date": "2019-11-27",
+   "ref": "0345428",
+   "type": "DEMISSIONS, NOMINATIONS",
+   "adresse": "RUE LIEUTENANT THOLOME 23 5570 BEAURAING",
+   "pdf": "https://www.ejustice.just.fgov.be/tsv_pdf/2019/11/27/19345428.pdf"
+  },
+  {
+   "nom": "5) BASE DE BARONVILLE SA",
+   "date": "2018-12-03",
+   "ref": "0172497",
+   "type": "DEMISSIONS, NOMINATIONS - ASSEMBLEE GENERALE",
+   "adresse": "RUE LIEUTENANT THOLOME 23 5570 BEAURAING",
+   "pdf": "https://www.ejustice.just.fgov.be/tsv_pdf/2018/12/03/18172497.pdf"
+  },
+  {
+   "nom": "6) BASE DE BARONVILLE SA",
+   "date": "2017-07-07",
+   "ref": "0069707",
+   "type": "ME. - COMPTES ANNUELS 31.12.2016, APP 28.03.2017, DPT 29.06.2017 17260-0392-030",
+   "adresse": "RUE LIEUTENANT THOLOME 23 5570 BEAURAING",
+   "pdf": ""
+  },
+  {
+   "nom": "7) BASE DE BARONVILLE SA",
+   "date": "2016-10-25",
+   "ref": "0147819",
+   "type": "DEMISSIONS, NOMINATIONS",
+   "adresse": "RUE LIEUTENANT THOLOME 23 5570 BEAURAING",
+   "pdf": "https://www.ejustice.just.fgov.be/tsv_pdf/2016/10/25/16147819.pdf"
+  },
+  {
+   "nom": "8) BASE DE BARONVILLE SA",
+   "date": "2015-10-26",
+   "ref": "0151086",
+   "type": "RUBRIQUE CONSTITUTION (NOUVELLE PERSONNE MORALE, OUVERTURE SUCCURSALE, ETC...)",
+   "adresse": "RUE LIEUTENANT THOLOME 23 5570 BEAURAING",
+   "pdf": "https://www.ejustice.just.fgov.be/tsv_pdf/2015/10/26/15151086.pdf"
+  }
+ ]
+}

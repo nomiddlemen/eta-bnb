@@ -1,0 +1,430 @@
+{
+ "bce": "0403086171",
+ "total_annonce": 53,
+ "items": [
+  {
+   "nom": "1) PUGH & CO INTERNATIONAL SA",
+   "date": "2026-07-07",
+   "ref": "0343364",
+   "type": "DEMISSIONS, NOMINATIONS",
+   "adresse": "RUE DES SABLIERES 45, BTE 69 1435 MONT-SAINT-GUIBERT",
+   "pdf": "https://www.ejustice.just.fgov.be/tsv_pdf/2026/07/07/26343364.pdf"
+  },
+  {
+   "nom": "2) ETABLISSEMENTS PUGH ET C° INTERNATIONAL SA",
+   "date": "2024-02-23",
+   "ref": "0365765",
+   "type": "STATUTS (TRADUCTION, COORDINATION, AUTRES MODIFICATIONS, ) - DENOMINATION - DIVERS - SIEGE SOCIAL - OBJET - DEMISSIONS, NOMINATIONS",
+   "adresse": "BOULEVARD LOUIS SCHMIDT 3, BTE 4 1040 ETTERBEEK (BRUXELLES)",
+   "pdf": "https://www.ejustice.just.fgov.be/tsv_pdf/2024/02/23/24365765.pdf"
+  },
+  {
+   "nom": "3) ETABLISSEMENTS PUGH ET C° INTERNATIONAL SA",
+   "date": "2020-10-22",
+   "ref": "0125109",
+   "type": "DEMISSIONS, NOMINATIONS",
+   "adresse": "BOULEVARD LOUIS SCHMIDT 3, BTE 4 1040 ETTERBEEK",
+   "pdf": "https://www.ejustice.just.fgov.be/tsv_pdf/2020/10/22/20125109.pdf"
+  },
+  {
+   "nom": "4) ETABLISSEMENTS PUGH ET C° INTERNATIONAL SA",
+   "date": "2016-08-01",
+   "ref": "0208504",
+   "type": "ME. - COMPTES ANNUELS 31.12.2015, APP 07.05.2016, DPT 29.07.2016 16367-0253-015",
+   "adresse": "BOULEVARD LOUIS SCHMIDT 3, BTE 4 1040 ETTERBEEK",
+   "pdf": ""
+  },
+  {
+   "nom": "5) ETABLISSEMENTS PUGH ET C° INTERNATIONAL SA",
+   "date": "2016-07-25",
+   "ref": "0103608",
+   "type": "DEMISSIONS, NOMINATIONS",
+   "adresse": "BOULEVARD LOUIS SCHMIDT 3, BTE 4 1040 ETTERBEEK",
+   "pdf": "https://www.ejustice.just.fgov.be/tsv_pdf/2016/07/25/16103608.pdf"
+  },
+  {
+   "nom": "6) ETABLISSEMENTS PUGH ET CÂ° INTERNATIONAL SA",
+   "date": "2015-08-03",
+   "ref": "0205242",
+   "type": "ME. - COMPTES ANNUELS 31.12.2014, APP 27.06.2015, DPT 30.07.2015 15360-0588-015",
+   "adresse": "BOULEVARD LOUIS SCHMIDT 3, BTE 4 1040 ETTERBEEK",
+   "pdf": ""
+  },
+  {
+   "nom": "7) ETABLISSEMENTS PUGH ET CÂ° INTERNATIONAL SA",
+   "date": "2014-08-04",
+   "ref": "0216870",
+   "type": "ME. - COMPTES ANNUELS 31.12.2013, APP 03.05.2014, DPT 31.07.2014 14376-0383-015",
+   "adresse": "BOULEVARD LOUIS SCHMIDT 3, BTE 4 1040 ETTERBEEK",
+   "pdf": ""
+  },
+  {
+   "nom": "8) ETABLISSEMENTS PUGH ET CÂ° INTERNATIONAL SA",
+   "date": "2014-07-23",
+   "ref": "0141662",
+   "type": "DEMISSIONS, NOMINATIONS",
+   "adresse": "BOULEVARD LOUIS SCHMIDT 3, BTE 4 1040 ETTERBEEK",
+   "pdf": "https://www.ejustice.just.fgov.be/tsv_pdf/2014/07/23/14141662.pdf"
+  },
+  {
+   "nom": "9) ETABLISSEMENTS PUGH ET CÂ° INTERNATIONAL SA",
+   "date": "2013-08-07",
+   "ref": "0220140",
+   "type": "ME. - COMPTES ANNUELS 31.12.2012, APP 04.05.2013, DPT 31.07.2013 13384-0339-014",
+   "adresse": "BOULEVARD LOUIS SCHMIDT 3, BTE 4 1040 ETTERBEEK",
+   "pdf": ""
+  },
+  {
+   "nom": "10) ETABLISSEMENTS PUGH ET CÂ° INTERNATIONAL SA",
+   "date": "2013-06-19",
+   "ref": "0092608",
+   "type": "DEMISSIONS, NOMINATIONS",
+   "adresse": "BOULEVARD LOUIS SCHMIDT 3, BTE 4 1040 ETTERBEEK",
+   "pdf": "https://www.ejustice.just.fgov.be/tsv_pdf/2013/06/19/13092608.pdf"
+  },
+  {
+   "nom": "11) ETABLISSEMENTS PUGH ET CÂ° INTERNATIONAL SA",
+   "date": "2012-08-02",
+   "ref": "0212468",
+   "type": "ME. - COMPTES ANNUELS 31.12.2011, APP 05.05.2012, DPT 31.07.2012 12364-0300-015",
+   "adresse": "BOULEVARD LOUIS SCHMIDT 3, BTE 4 1040 ETTERBEEK",
+   "pdf": ""
+  },
+  {
+   "nom": "12) ETABLISSEMENTS PUGH ET CÂ° INTERNATIONAL SA",
+   "date": "2011-06-08",
+   "ref": "0079307",
+   "type": "ME. - COMPTES ANNUELS 31.12.2010, APP 07.05.2011, DPT 06.06.2011 11138-0542-015",
+   "adresse": "BOULEVARD LOUIS SCHMIDT 3, BTE 4 1040 ETTERBEEK",
+   "pdf": ""
+  },
+  {
+   "nom": "13) ETABLISSEMENTS PUGH ET CÂ° INTERNATIONAL SA",
+   "date": "2010-07-12",
+   "ref": "0154192",
+   "type": "ME. - COMPTES ANNUELS 31.12.2009, APP 01.05.2010, DPT 08.07.2010 10277-0063-015",
+   "adresse": "BOULEVARD LOUIS SCHMIDT 3, BTE 4 1040 ETTERBEEK",
+   "pdf": ""
+  },
+  {
+   "nom": "14) ETABLISSEMENTS PUGH ET CÂ° INTERNATIONAL SA",
+   "date": "2009-08-03",
+   "ref": "0197587",
+   "type": "ME. - COMPTES ANNUELS 31.12.2008, APP 02.05.2009, DPT 31.07.2009 09506-0370-015",
+   "adresse": "BOULEVARD LOUIS SCHMIDT 3, BTE 4 1040 ETTERBEEK",
+   "pdf": ""
+  },
+  {
+   "nom": "15) ETABLISSEMENTS PUGH ET CÂ° INTERNATIONAL SA",
+   "date": "2008-07-28",
+   "ref": "0124796",
+   "type": "DEMISSIONS, NOMINATIONS",
+   "adresse": "BOULEVARD LOUIS SCHMIDT 3, BTE 4 1040 ETTERBEEK",
+   "pdf": "https://www.ejustice.just.fgov.be/tsv_pdf/2008/07/28/08124796.pdf"
+  },
+  {
+   "nom": "16) ETABLISSEMENTS PUGH ET CÂ° INTERNATIONAL SA",
+   "date": "2008-07-11",
+   "ref": "0149898",
+   "type": "ME. - COMPTES ANNUELS 31.12.2007, APP 03.05.2008, DPT 10.07.2008 08381-0130-015",
+   "adresse": "BOULEVARD LOUIS SCHMIDT 3, BTE 4 1040 ETTERBEEK",
+   "pdf": ""
+  },
+  {
+   "nom": "17) ETABLISSEMENTS PUGH ET CÂ° INTERNATIONAL SA",
+   "date": "2007-07-30",
+   "ref": "0173468",
+   "type": "ME. - COMPTES ANNUELS 31.12.2006, APP 05.05.2007, DPT 25.07.2007 07453-0197-014",
+   "adresse": "BOULEVARD LOUIS SCHMIDT 3, BTE 4 1040 ETTERBEEK",
+   "pdf": ""
+  },
+  {
+   "nom": "18) ETABLISSEMENTS PUGH ET CÂ° INTERNATIONAL SA",
+   "date": "2007-06-27",
+   "ref": "0091132",
+   "type": "DEMISSIONS, NOMINATIONS - ASSEMBLEE GENERALE - CAPITAL, ACTIONS - STATUTS (TRADUCTION, COORDINATION, AUTRES MODIFICATIONS, )",
+   "adresse": "BOULEVARD LOUIS SCHMIDT 3, BTE 4 1040 ETTERBEEK",
+   "pdf": "https://www.ejustice.just.fgov.be/tsv_pdf/2007/06/27/07091132.pdf"
+  },
+  {
+   "nom": "19) ETABLISSEMENTS PUGH ET CÂ° INTERNATIONAL SA",
+   "date": "2006-06-06",
+   "ref": "0067811",
+   "type": "ME. - COMPTES ANNUELS 31.12.2005, APP 06.05.2006, DPT 02.06.2006 06193-4617-013",
+   "adresse": "BOULEVARD LOUIS SCHMIDT - BTE.3.4 1040 ETTERBEEK",
+   "pdf": ""
+  },
+  {
+   "nom": "20) ETABLISSEMENTS PUGH ET CÂ° INTERNATIONAL SA",
+   "date": "2005-06-09",
+   "ref": "0079698",
+   "type": "ME. - COMPTES ANNUELS 31.12.2004, APP 07.05.2005, DPT 08.06.2005 05223-2009-015",
+   "adresse": "BOULEVARD LOUIS SCHMIDT - BTE.3.4 1040 ETTERBEEK",
+   "pdf": ""
+  },
+  {
+   "nom": "21) ETABLISSEMENTS PUGH ET CÂ° INTERNATIONAL SA",
+   "date": "2004-06-02",
+   "ref": "0067494",
+   "type": "ME. - COMPTES ANNUELS 31.12.2003, APP 01.05.2004, DPT 28.05.2004 04176-2272-015",
+   "adresse": "BOULEVARD LOUIS SCHMIDT - BTE.3.4 1040 ETTERBEEK",
+   "pdf": ""
+  },
+  {
+   "nom": "22) ETABLISSEMENTS PUGH ET CÂ° INTERNATIONAL SA",
+   "date": "2003-06-16",
+   "ref": "0068903",
+   "type": "ME. - COMPTES ANNUELS 31.12.2002, APP 03.05.2003 03183-3716-015",
+   "adresse": "BOULEVARD LOUIS SCHMIDT - BTE.3.4 1040 ETTERBEEK",
+   "pdf": ""
+  },
+  {
+   "nom": "23) ETABLISSEMENTS PUGH ET CÂ° INTERNATIONAL SA",
+   "date": "2002-06-22",
+   "ref": "558",
+   "type": "DEMISSIONS, NOMINATIONS",
+   "adresse": "BOULEVARD LOUIS SCHMIDT - BTE.3.4 1040 ETTERBEEK",
+   "pdf": "https://www.ejustice.just.fgov.be/tsv_pdf/2002/06/22/2002-06-22_0558.pdf"
+  },
+  {
+   "nom": "24) ETABLISSEMENTS PUGH ET CÂ° INTERNATIONAL SA",
+   "date": "2002-06-13",
+   "ref": "0069660",
+   "type": "ME. - COMPTES ANNUELS 31.12.2001, APP 04.05.2002 02184-0576-015",
+   "adresse": "BOULEVARD LOUIS SCHMIDT - BTE.3.4 1040 ETTERBEEK",
+   "pdf": ""
+  },
+  {
+   "nom": "25) ETABLISSEMENTS PUGH ET CÂ° INTERNATIONAL SA",
+   "date": "2002-02-12",
+   "ref": "103",
+   "type": "CAPITAL, ACTIONS",
+   "adresse": "BOULEVARD LOUIS SCHMIDT - BTE.3.4 1040 ETTERBEEK",
+   "pdf": "https://www.ejustice.just.fgov.be/tsv_pdf/2002/02/12/2002-02-12_0103.pdf"
+  },
+  {
+   "nom": "26) ETABLISSEMENTS PUGH ET CÂ° INTERNATIONAL SA",
+   "date": "2001-06-02",
+   "ref": "0054123",
+   "type": "ME. - COMPTES ANNUELS 31.12.2000, APP 05.05.2001 01137-3808-016",
+   "adresse": "BOULEVARD LOUIS SCHMIDT - BTE.3.4 1040 ETTERBEEK",
+   "pdf": ""
+  },
+  {
+   "nom": "27) ETABLISSEMENTS PUGH ET CÂ° INTERNATIONAL SA",
+   "date": "2000-05-24",
+   "ref": "0050598",
+   "type": "ME. - COMPTES ANNUELS 31.12.1999, APP 06.05.2000 00135-2490-016",
+   "adresse": "BOULEVARD LOUIS SCHMIDT - BTE.3.4 1040 ETTERBEEK",
+   "pdf": ""
+  },
+  {
+   "nom": "28) ETABLISSEMENTS PUGH ET CÂ° INTERNATIONAL SA",
+   "date": "1999-05-29",
+   "ref": "0049092",
+   "type": "ME. - COMPTES ANNUELS 31.12.1998, APP 01.05.1999 - 99107-2523-016",
+   "adresse": "BOULEVARD LOUIS SCHMIDT - BTE.3.4 1040 ETTERBEEK",
+   "pdf": ""
+  },
+  {
+   "nom": "29) ETABLISSEMENTS PUGH ET CÂ° INTERNATIONAL SA",
+   "date": "",
+   "ref": "",
+   "type": "1998 / 047115",
+   "adresse": "BOULEVARD LOUIS SCHMIDT 3 BTE 4 1040 ETTERBEEK",
+   "pdf": ""
+  },
+  {
+   "nom": "30) ETABLISSEMENTS PUGH ET CÂ° INTERNATIONAL SA",
+   "date": "",
+   "ref": "",
+   "type": "1997 / 037808",
+   "adresse": "BOULEVARD LOUIS SCHMIDT 3 BTE 4 1040 ETTERBEEK",
+   "pdf": ""
+  },
+  {
+   "nom": "31) ETABLISSEMENTS PUGH ET CÂ° INTERNATIONAL SA",
+   "date": "1996-06-21",
+   "ref": "405",
+   "type": "DEMISSIONS, NOMINATIONS",
+   "adresse": "BOULEVARD LOUIS SCHMIDT 3 BTE 4 1040 ETTERBEEK",
+   "pdf": ""
+  },
+  {
+   "nom": "32) ETABLISSEMENTS PUGH ET CÂ° INTERNATIONAL SA",
+   "date": "",
+   "ref": "",
+   "type": "1996 / 040131",
+   "adresse": "BOULEVARD LOUIS SCHMIDT 3 BTE 4 1040 ETTERBEEK",
+   "pdf": ""
+  },
+  {
+   "nom": "33) ETABLISSEMENTS PUGH ET CÂ° INTERNATIONAL SA",
+   "date": "",
+   "ref": "",
+   "type": "1995 / 042918",
+   "adresse": "ETTERBEEK",
+   "pdf": ""
+  },
+  {
+   "nom": "34) ETABLISSEMENTS PUGH ET CÂ° INTERNATIONAL SA",
+   "date": "",
+   "ref": "",
+   "type": "1994 / 047838",
+   "adresse": "ETTERBEEK",
+   "pdf": ""
+  },
+  {
+   "nom": "35) ETABLISSEMENTS PUGH ET CÂ° INTERNATIONAL SA",
+   "date": "1993-04-02",
+   "ref": "320",
+   "type": "SIEGE SOCIAL",
+   "adresse": "ETTERBEEK",
+   "pdf": ""
+  },
+  {
+   "nom": "36) ETABLISSEMENTS PUGH ET CÂ° INTERNATIONAL SA",
+   "date": "",
+   "ref": "",
+   "type": "1993 / 041517",
+   "adresse": "ETTERBEEK",
+   "pdf": ""
+  },
+  {
+   "nom": "37) ETABLISSEMENTS PUGH ET CÂ° INTERNATIONAL SA",
+   "date": "",
+   "ref": "",
+   "type": "1992 / 039548",
+   "adresse": "BOULEVARD LOUIS SCHMIDT 3 BTE 4 1040 ETTERBEEK",
+   "pdf": ""
+  },
+  {
+   "nom": "38) ETABLISSEMENTS PUGH ET CÂ° INTERNATIONAL SA",
+   "date": "",
+   "ref": "",
+   "type": "1991 / 038463",
+   "adresse": "ETTERBEEK",
+   "pdf": ""
+  },
+  {
+   "nom": "39) ETABLISSEMENTS PUGH ET CÂ° INTERNATIONAL SA",
+   "date": "1990-11-28",
+   "ref": "008",
+   "type": "DEMISSIONS, NOMINATIONS",
+   "adresse": "ETTERBEEK",
+   "pdf": ""
+  },
+  {
+   "nom": "40) ETABLISSEMENTS PUGH ET CÂ° INTERNATIONAL SA",
+   "date": "1990-06-01",
+   "ref": "398",
+   "type": "DEMISSIONS, NOMINATIONS",
+   "adresse": "ETTERBEEK",
+   "pdf": ""
+  },
+  {
+   "nom": "41) ETABLISSEMENTS PUGH ET CÂ° INTERNATIONAL SA",
+   "date": "",
+   "ref": "",
+   "type": "1990 / 028616",
+   "adresse": "ETTERBEEK",
+   "pdf": ""
+  },
+  {
+   "nom": "42) ETABLISSEMENTS PUGH ET CÂ° INTERNATIONAL SA",
+   "date": "",
+   "ref": "",
+   "type": "1989 / 024618",
+   "adresse": "ETTERBEEK",
+   "pdf": ""
+  },
+  {
+   "nom": "43) ETABLISSEMENTS PUGH ET CÂ° INTERNATIONAL SA",
+   "date": "1988-06-16",
+   "ref": "346",
+   "type": "DEMISSIONS, NOMINATIONS",
+   "adresse": "ETTERBEEK",
+   "pdf": ""
+  },
+  {
+   "nom": "44) ETABLISSEMENTS PUGH ET CÂ° INTERNATIONAL SA",
+   "date": "",
+   "ref": "",
+   "type": "1988 / 030669",
+   "adresse": "ETTERBEEK",
+   "pdf": ""
+  },
+  {
+   "nom": "45) ETABLISSEMENTS PUGH ET CÂ° INTERNATIONAL SA",
+   "date": "1987-06-10",
+   "ref": "182",
+   "type": "DEMISSIONS, NOMINATIONS",
+   "adresse": "ETTERBEEK",
+   "pdf": ""
+  },
+  {
+   "nom": "46) ETABLISSEMENTS PUGH ET CÂ° INTERNATIONAL SA",
+   "date": "",
+   "ref": "",
+   "type": "1987 / 027959",
+   "adresse": "ETTERBEEK",
+   "pdf": ""
+  },
+  {
+   "nom": "47) ETABLISSEMENTS PUGH ET CÂ° INTERNATIONAL SA",
+   "date": "1986-10-04",
+   "ref": "184",
+   "type": "DEMISSIONS, NOMINATIONS",
+   "adresse": "ETTERBEEK",
+   "pdf": ""
+  },
+  {
+   "nom": "48) ETABLISSEMENTS PUGH ET CÂ° INTERNATIONAL SA",
+   "date": "1986-05-17",
+   "ref": "050",
+   "type": "ASSEMBLEE GENERALE - CAPITAL, ACTIONS - STATUTS (TRADUCTION, COORDINATION, AUTRES MODIFICATIONS, )",
+   "adresse": "ETTERBEEK",
+   "pdf": ""
+  },
+  {
+   "nom": "49) ETABLISSEMENTS PUGH ET CÂ° INTERNATIONAL SA",
+   "date": "",
+   "ref": "",
+   "type": "1986 / 025926",
+   "adresse": "ETTERBEEK",
+   "pdf": ""
+  },
+  {
+   "nom": "50) ETABLISSEMENTS PUGH ET CÂ° INTERNATIONAL SA",
+   "date": "",
+   "ref": "",
+   "type": "1985 / 36092",
+   "adresse": "ETTERBEEK",
+   "pdf": ""
+  },
+  {
+   "nom": "51) ETABLISSEMENTS PUGH ET CÂ° INTERNATIONAL SA",
+   "date": "",
+   "ref": "",
+   "type": "1984 / 67147",
+   "adresse": "ETTERBEEK",
+   "pdf": ""
+  },
+  {
+   "nom": "52) ETABLISSEMENTS PUGH ET CÂ° INTERNATIONAL SA",
+   "date": "1983-01-01",
+   "ref": "1528-28",
+   "type": "DEMISSIONS, NOMINATIONS",
+   "adresse": "ETTERBEEK",
+   "pdf": ""
+  },
+  {
+   "nom": "53) ETABLISSEMENTS PUGH ET CÂ° INTERNATIONAL SA",
+   "date": "",
+   "ref": "",
+   "type": "1983 / 28132",
+   "adresse": "ETTERBEEK",
+   "pdf": ""
+  }
+ ]
+}

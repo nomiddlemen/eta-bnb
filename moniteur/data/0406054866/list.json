@@ -1,0 +1,422 @@
+{
+ "bce": "0406054866",
+ "total_annonce": 52,
+ "items": [
+  {
+   "nom": "1) CROMARBO SA",
+   "date": "2024-01-17",
+   "ref": "0330368",
+   "type": "STATUTS (TRADUCTION, COORDINATION, AUTRES MODIFICATIONS, ) - DEMISSIONS, NOMINATIONS",
+   "adresse": "RUE DES CHAPELLES 58 5080 RHISNES",
+   "pdf": "https://www.ejustice.just.fgov.be/tsv_pdf/2024/01/17/24330368.pdf"
+  },
+  {
+   "nom": "2) CROMARBO SA",
+   "date": "2023-07-14",
+   "ref": "0091319",
+   "type": "DEMISSIONS, NOMINATIONS",
+   "adresse": "RUE DES CHAPELLES 58 5080 RHISNES",
+   "pdf": "https://www.ejustice.just.fgov.be/tsv_pdf/2023/07/14/23091319.pdf"
+  },
+  {
+   "nom": "3) CROMARBO SA",
+   "date": "2018-05-24",
+   "ref": "0081112",
+   "type": "DEMISSIONS, NOMINATIONS",
+   "adresse": "RUE DES CHAPELLES 58 5080 RHISNES",
+   "pdf": "https://www.ejustice.just.fgov.be/tsv_pdf/2018/05/24/18081112.pdf"
+  },
+  {
+   "nom": "4) CROMARBO SA",
+   "date": "2016-05-23",
+   "ref": "0071434",
+   "type": "ME. - COMPTES ANNUELS 31.12.2015, APP 09.05.2016, DPT 18.05.2016 16124-0329-015",
+   "adresse": "RUE DES CHAPELLES 58 5080 RHISNES",
+   "pdf": ""
+  },
+  {
+   "nom": "5) CROMARBO SA",
+   "date": "2015-08-24",
+   "ref": "0255853",
+   "type": "ME. - COMPTES ANNUELS 31.12.2014, APP 23.06.2015, DPT 17.08.2015 15438-0448-015",
+   "adresse": "RUE DES CHAPELLES 58 5080 RHISNES",
+   "pdf": ""
+  },
+  {
+   "nom": "6) CROMARBO SA",
+   "date": "2014-07-15",
+   "ref": "0169543",
+   "type": "ME. - COMPTES ANNUELS 31.12.2013, APP 30.06.2014, DPT 09.07.2014 14291-0373-015",
+   "adresse": "RUE DES CHAPELLES 58 5080 RHISNES",
+   "pdf": ""
+  },
+  {
+   "nom": "7) CROMARBO SA",
+   "date": "2013-06-25",
+   "ref": "0114726",
+   "type": "ME. - COMPTES ANNUELS 31.12.2012, APP 13.05.2013, DPT 19.06.2013 13195-0507-015",
+   "adresse": "RUE DES CHAPELLES 58 5080 RHISNES",
+   "pdf": ""
+  },
+  {
+   "nom": "8) CROMARBO SA",
+   "date": "2012-08-08",
+   "ref": "0222172",
+   "type": "ME. - COMPTES ANNUELS 31.12.2011, APP 14.05.2012, DPT 30.07.2012 12378-0334-015",
+   "adresse": "RUE DES CHAPELLES 58 5080 RHISNES",
+   "pdf": ""
+  },
+  {
+   "nom": "9) CROMARBO SA",
+   "date": "2011-07-12",
+   "ref": "0105511",
+   "type": "DEMISSIONS, NOMINATIONS",
+   "adresse": "RUE DES CHAPELLES 58 5080 RHISNES",
+   "pdf": "https://www.ejustice.just.fgov.be/tsv_pdf/2011/07/12/11105511.pdf"
+  },
+  {
+   "nom": "10) CROMARBO SA",
+   "date": "2011-06-27",
+   "ref": "0111329",
+   "type": "ME. - COMPTES ANNUELS 31.12.2010, APP 09.05.2011, DPT 21.06.2011 11192-0334-015",
+   "adresse": "RUE DES CHAPELLES 58 5080 RHISNES",
+   "pdf": ""
+  },
+  {
+   "nom": "11) CROMARBO SA",
+   "date": "2010-06-24",
+   "ref": "0105886",
+   "type": "ME. - COMPTES ANNUELS 31.12.2009, APP 10.05.2010, DPT 16.06.2010 10191-0583-015",
+   "adresse": "RUE DES CHAPELLES 58 5080 RHISNES",
+   "pdf": ""
+  },
+  {
+   "nom": "12) CROMARBO SA",
+   "date": "2009-05-29",
+   "ref": "0065385",
+   "type": "ME. - COMPTES ANNUELS 31.12.2008, APP 11.05.2009, DPT 19.05.2009 09155-0390-015",
+   "adresse": "RUE DES CHAPELLES 58 5080 RHISNES",
+   "pdf": ""
+  },
+  {
+   "nom": "13) CROMARBO SA",
+   "date": "2008-07-16",
+   "ref": "0156695",
+   "type": "ME. - COMPTES ANNUELS 31.12.2007, APP 13.06.2008, DPT 11.07.2008 08399-0063-015",
+   "adresse": "RUE DES CHAPELLES 58 5080 RHISNES",
+   "pdf": ""
+  },
+  {
+   "nom": "14) CROMARBO SA",
+   "date": "2007-06-25",
+   "ref": "0097815",
+   "type": "ME. - COMPTES ANNUELS 31.12.2006, APP 14.05.2007, DPT 19.06.2007 07236-0139-019",
+   "adresse": "RUE DES CHAPELLES 58 5080 RHISNES",
+   "pdf": ""
+  },
+  {
+   "nom": "15) CROMARBO SA",
+   "date": "2007-03-28",
+   "ref": "0046800",
+   "type": "DEMISSIONS, NOMINATIONS",
+   "adresse": "RUE DES CHAPELLES 58 5080 RHISNES",
+   "pdf": "https://www.ejustice.just.fgov.be/tsv_pdf/2007/03/28/07046800.pdf"
+  },
+  {
+   "nom": "16) CROMARBO SA",
+   "date": "2006-05-30",
+   "ref": "0059033",
+   "type": "ME. - COMPTES ANNUELS 31.12.2005, APP 08.05.2006, DPT 23.05.2006 06163-4628-016",
+   "adresse": "RUE DES CHAPELLES.58 5080 RHISNES",
+   "pdf": ""
+  },
+  {
+   "nom": "17) CROMARBO SA",
+   "date": "2005-11-22",
+   "ref": "0167381",
+   "type": "DEMISSIONS, NOMINATIONS",
+   "adresse": "RUE DES CHAPELLES.58 5080 RHISNES",
+   "pdf": "https://www.ejustice.just.fgov.be/tsv_pdf/2005/11/22/05167381.pdf"
+  },
+  {
+   "nom": "18) CROMARBO SA",
+   "date": "2005-11-16",
+   "ref": "0164044",
+   "type": "DEMISSIONS, NOMINATIONS",
+   "adresse": "RUE DES CHAPELLES.58 5080 RHISNES",
+   "pdf": "https://www.ejustice.just.fgov.be/tsv_pdf/2005/11/16/05164044.pdf"
+  },
+  {
+   "nom": "19) CROMARBO SA",
+   "date": "2005-05-26",
+   "ref": "0059809",
+   "type": "ME. - COMPTES ANNUELS 31.12.2004, APP 09.05.2005, DPT 19.05.2005 05157-2443-016",
+   "adresse": "RUE DES CHAPELLES.58 5080 RHISNES",
+   "pdf": ""
+  },
+  {
+   "nom": "20) CROMARBO SA",
+   "date": "2004-05-24",
+   "ref": "0060120",
+   "type": "ME. - COMPTES ANNUELS 31.12.2003, APP 10.05.2004, DPT 14.05.2004 04150-2082-015",
+   "adresse": "RUE DES CHAPELLES.58 5080 RHISNES",
+   "pdf": ""
+  },
+  {
+   "nom": "21) CROMARBO SA",
+   "date": "2003-06-03",
+   "ref": "0063139",
+   "type": "ME. - COMPTES ANNUELS 31.12.2002, APP 12.05.2003 03161-2077-015",
+   "adresse": "RUE DES CHAPELLES.58 5080 RHISNES",
+   "pdf": ""
+  },
+  {
+   "nom": "22) CROMARBO SA",
+   "date": "2002-06-01",
+   "ref": "025",
+   "type": "DEMISSIONS, NOMINATIONS",
+   "adresse": "RUE DES CHAPELLES.58 5080 RHISNES",
+   "pdf": "https://www.ejustice.just.fgov.be/tsv_pdf/2002/06/01/2002-06-01_0025.pdf"
+  },
+  {
+   "nom": "23) CROMARBO SA",
+   "date": "2002-06-01",
+   "ref": "026",
+   "type": "DEMISSIONS, NOMINATIONS",
+   "adresse": "RUE DES CHAPELLES.58 5080 RHISNES",
+   "pdf": "https://www.ejustice.just.fgov.be/tsv_pdf/2002/06/01/2002-06-01_0026.pdf"
+  },
+  {
+   "nom": "24) CROMARBO SA",
+   "date": "2002-05-30",
+   "ref": "0056501",
+   "type": "ME. - COMPTES ANNUELS 31.12.2001, APP 13.05.2002 02140-0659-015",
+   "adresse": "RUE DES CHAPELLES.58 5080 RHISNES",
+   "pdf": ""
+  },
+  {
+   "nom": "25) CROMARBO SA",
+   "date": "2001-07-27",
+   "ref": "599",
+   "type": "ASSEMBLEE GENERALE - CAPITAL, ACTIONS - STATUTS (TRADUCTION, COORDINATION, AUTRES MODIFICATIONS, )",
+   "adresse": "RUE DES CHAPELLES.58 5080 RHISNES",
+   "pdf": "https://www.ejustice.just.fgov.be/tsv_pdf/2001/07/27/2001-07-27_0599.pdf"
+  },
+  {
+   "nom": "26) CROMARBO SA",
+   "date": "2001-06-15",
+   "ref": "0067913",
+   "type": "ME. - COMPTES ANNUELS 31.12.2000, APP 14.05.2001 01180-3723-016",
+   "adresse": "RUE DES CHAPELLES.58 5080 RHISNES",
+   "pdf": ""
+  },
+  {
+   "nom": "27) CROMARBO SA",
+   "date": "2001-04-20",
+   "ref": "280",
+   "type": "DEMISSIONS, NOMINATIONS",
+   "adresse": "RUE DES CHAPELLES.58 5080 RHISNES",
+   "pdf": "https://www.ejustice.just.fgov.be/tsv_pdf/2001/04/20/2001-04-20_0280.pdf"
+  },
+  {
+   "nom": "28) CROMARBO SA",
+   "date": "2000-05-18",
+   "ref": "0047888",
+   "type": "ME. - COMPTES ANNUELS 31.12.1999, APP 08.05.2000 00123-3299-016",
+   "adresse": "RUE DES CHAPELLES.58 5080 RHISNES",
+   "pdf": ""
+  },
+  {
+   "nom": "29) CROMARBO SA",
+   "date": "1999-05-29",
+   "ref": "0049509",
+   "type": "ME. - COMPTES ANNUELS 31.12.1998, APP 10.05.1999 - 99110-1742-016",
+   "adresse": "RUE DES CHAPELLES.58 5080 RHISNES",
+   "pdf": ""
+  },
+  {
+   "nom": "30) CROMARBO SA",
+   "date": "1998-12-29",
+   "ref": "638",
+   "type": "DEMISSIONS, NOMINATIONS",
+   "adresse": "RUE DES CHAPELLES 58 5080 LA BRUYERE (RHISNES)",
+   "pdf": "https://www.ejustice.just.fgov.be/tsv_pdf/1998/12/29/1998-12-29_0638.pdf"
+  },
+  {
+   "nom": "31) CROMARBO SA",
+   "date": "",
+   "ref": "",
+   "type": "1998 / 055454",
+   "adresse": "RUE DES CHAPELLES 58 5080 LA BRUYERE (RHISNES)",
+   "pdf": ""
+  },
+  {
+   "nom": "32) CROMARBO SA",
+   "date": "1997-06-05",
+   "ref": "379",
+   "type": "DEMISSIONS, NOMINATIONS",
+   "adresse": "RUE DES CHAPELLES 58 5080 LA BRUYERE (RHISNES)",
+   "pdf": "https://www.ejustice.just.fgov.be/tsv_pdf/1997/06/05/1997-06-05_0379.pdf"
+  },
+  {
+   "nom": "33) CROMARBO SA",
+   "date": "",
+   "ref": "",
+   "type": "1997 / 042691",
+   "adresse": "RUE DES CHAPELLES 58 5080 LA BRUYERE (RHISNES)",
+   "pdf": ""
+  },
+  {
+   "nom": "34) CROMARBO SA",
+   "date": "1996-06-01",
+   "ref": "004",
+   "type": "DEMISSIONS, NOMINATIONS",
+   "adresse": "RUE DES CHAPELLES 58 5080 LA BRUYERE (RHISNES)",
+   "pdf": ""
+  },
+  {
+   "nom": "35) CROMARBO SA",
+   "date": "",
+   "ref": "",
+   "type": "1996 / 042865",
+   "adresse": "RUE DES CHAPELLES 58 5080 LA BRUYERE (RHISNES)",
+   "pdf": ""
+  },
+  {
+   "nom": "36) CROMARBO SA",
+   "date": "1995-02-21",
+   "ref": "144",
+   "type": "CAPITAL, ACTIONS - ASSEMBLEE GENERALE - STATUTS (TRADUCTION, COORDINATION, AUTRES MODIFICATIONS, )",
+   "adresse": "LA BRUYERE (RHISNES)",
+   "pdf": ""
+  },
+  {
+   "nom": "37) CROMARBO SA",
+   "date": "1995-02-21",
+   "ref": "145",
+   "type": "RUBRIQUE RESTRUCTURATION (FUSION, SCISSION, TRANSFERT PATRIMOINE, ETC...) - DENOMINATION",
+   "adresse": "LA BRUYERE (RHISNES)",
+   "pdf": ""
+  },
+  {
+   "nom": "38) CROMARBO SA",
+   "date": "",
+   "ref": "",
+   "type": "1995 / 039696",
+   "adresse": "LA BRUYERE (RHISNES)",
+   "pdf": ""
+  },
+  {
+   "nom": "39) CROONENBERGHS A. ET FILS SA",
+   "date": "1994-12-08",
+   "ref": "488",
+   "type": "DIVERS",
+   "adresse": "LA BRUYERE (RHISNES)",
+   "pdf": ""
+  },
+  {
+   "nom": "40) CROONENBERGHS A. ET FILS SA",
+   "date": "",
+   "ref": "",
+   "type": "1994 / 043630",
+   "adresse": "LA BRUYERE (RHISNES)",
+   "pdf": ""
+  },
+  {
+   "nom": "41) CROONENBERGHS A. ET FILS SA",
+   "date": "",
+   "ref": "",
+   "type": "1993 / 039520",
+   "adresse": "LA BRUYERE (RHISNES)",
+   "pdf": ""
+  },
+  {
+   "nom": "42) CROONENBERGHS A. ET FILS SA",
+   "date": "",
+   "ref": "",
+   "type": "1992 / 037260",
+   "adresse": "RUE DES CHAPELLES 58 5080 LA BRUYERE (RHISNES)",
+   "pdf": ""
+  },
+  {
+   "nom": "43) CROONENBERGHS A. ET FILS SA",
+   "date": "1991-04-13",
+   "ref": "052",
+   "type": "MODIFICATION FORME JURIDIQUE - DENOMINATION",
+   "adresse": "LA BRUYERE (RHISNES)",
+   "pdf": ""
+  },
+  {
+   "nom": "44) CROONENBERGHS A. ET FILS SA",
+   "date": "",
+   "ref": "",
+   "type": "1991 / 033326",
+   "adresse": "LA BRUYERE (RHISNES)",
+   "pdf": ""
+  },
+  {
+   "nom": "45) CROONENBERGHS A. ET FILS SA",
+   "date": "",
+   "ref": "",
+   "type": "1990 / 039011",
+   "adresse": "LA BRUYERE (RHISNES)",
+   "pdf": ""
+  },
+  {
+   "nom": "46) ETABLISSEMENTS CROONENBERGHS A. ET FILS SPRL",
+   "date": "1989-07-06",
+   "ref": "411",
+   "type": "MODIFICATION FORME JURIDIQUE - ASSEMBLEE GENERALE - CAPITAL, ACTIONS - STATUTS (TRADUCTION, COORDINATION, AUTRES MODIFICATIONS, )",
+   "adresse": "LA BRUYERE (RHISNES)",
+   "pdf": ""
+  },
+  {
+   "nom": "47) ETABLISSEMENTS CROONENBERGHS A. ET FILS SPRL",
+   "date": "",
+   "ref": "",
+   "type": "1988 / 119802",
+   "adresse": "LA BRUYERE (RHISNES)",
+   "pdf": ""
+  },
+  {
+   "nom": "48) ETABLISSEMENTS CROONENBERGHS A. ET FILS SPRL",
+   "date": "",
+   "ref": "",
+   "type": "1987 / 113143",
+   "adresse": "LA BRUYERE (RHISNES)",
+   "pdf": ""
+  },
+  {
+   "nom": "49) ETABLISSEMENTS CROONENBERGHS A. ET FILS SPRL",
+   "date": "",
+   "ref": "",
+   "type": "1986 / 101311",
+   "adresse": "LA BRUYERE (RHISNES)",
+   "pdf": ""
+  },
+  {
+   "nom": "50) ETABLISSEMENTS CROONENBERGHS A. ET FILS SPRL",
+   "date": "",
+   "ref": "",
+   "type": "1985 / 097463",
+   "adresse": "LA BRUYERE (RHISNES)",
+   "pdf": ""
+  },
+  {
+   "nom": "51) ETABLISSEMENTS CROONENBERGHS A. ET FILS SPRL",
+   "date": "1984-01-01",
+   "ref": "89847",
+   "type": "ME. - BILAN 30.06.1984, APP 12.11.1984",
+   "adresse": "LA BRUYERE (RHISNES)",
+   "pdf": ""
+  },
+  {
+   "nom": "52) ETABLISSEMENTS CROONENBERGHS A. ET FILS SPRL",
+   "date": "",
+   "ref": "",
+   "type": "1983 / 84736",
+   "adresse": "LA BRUYERE (RHISNES)",
+   "pdf": ""
+  }
+ ]
+}

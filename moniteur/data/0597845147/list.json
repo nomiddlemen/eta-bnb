@@ -1,0 +1,54 @@
+{
+ "bce": "0597845147",
+ "total_annonce": 6,
+ "items": [
+  {
+   "nom": "1) SCHMIDT CULINA GmbH",
+   "date": "2024-11-06",
+   "ref": "0158786",
+   "type": "ENTLASSUNG - ERNENNUNG",
+   "adresse": "BAHNHOFSTRASSE 5 4760 BULLINGEN",
+   "pdf": "https://www.ejustice.just.fgov.be/tsv_pdf/2024/11/06/24158786.pdf"
+  },
+  {
+   "nom": "2) SCHMIDT CULINA GmbH",
+   "date": "2023-11-22",
+   "ref": "0148112",
+   "type": "ENTLASSUNG - ERNENNUNG",
+   "adresse": "BAHNHOFSTRASSE 5 4760 BULLINGEN",
+   "pdf": "https://www.ejustice.just.fgov.be/tsv_pdf/2023/11/22/23148112.pdf"
+  },
+  {
+   "nom": "3) SCHMIDT CULINA PGmbH",
+   "date": "2020-12-17",
+   "ref": "0362191",
+   "type": "SATZUNGEN (UEBERSETZUNG, KOORDINATION, ANDERE AENDERUNGEN, ) - AENDERUNG RECHTSFORM - VERSCHIEDENES - GEGENSTAND - ENTLASSUNG - ERNENNUNG",
+   "adresse": "BAHNHOFSTRASSE 5 4760 BULLANGE",
+   "pdf": "https://www.ejustice.just.fgov.be/tsv_pdf/2020/12/17/20362191.pdf"
+  },
+  {
+   "nom": "4) SCHMIDT CULINA PGmbH",
+   "date": "2018-07-06",
+   "ref": "0105351",
+   "type": "GESELLSCHAFTSSITZ - GESCHAEFTSJAHR",
+   "adresse": "WIRTZBERG 36 4760 BULLANGE",
+   "pdf": "https://www.ejustice.just.fgov.be/tsv_pdf/2018/07/06/18105351.pdf"
+  },
+  {
+   "nom": "5) SCHMIDT CULINA PGmbH",
+   "date": "2017-02-06",
+   "ref": "0020699",
+   "type": "ER. - JAHRESABSCHLUSS 30.06.2016, GEN 16.12.2016, NGL 28.01.2017 17031-0398-015",
+   "adresse": "WIRTZBERG 36 4760 BULLANGE",
+   "pdf": ""
+  },
+  {
+   "nom": "6) SCHMIDT CULINA PGmbH",
+   "date": "2015-02-12",
+   "ref": "0302659",
+   "type": "RUBRIK GRUENDUNG (NEUE RECHTSPERSON, EROEFFNUNG FILIALE, USW)",
+   "adresse": "WIRTZBERG 36 4760 BULLANGE",
+   "pdf": "https://www.ejustice.just.fgov.be/tsv_pdf/2015/02/12/15302659.pdf"
+  }
+ ]
+}

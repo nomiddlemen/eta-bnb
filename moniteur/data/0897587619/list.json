@@ -1,0 +1,94 @@
+{
+ "bce": "0897587619",
+ "total_annonce": 11,
+ "items": [
+  {
+   "nom": "1) L'ARTISAN SPRL",
+   "date": "2016-09-07",
+   "ref": "0337038",
+   "type": "ME. - COMPTES ANNUELS 31.12.2015, APP 30.07.2016, DPT 31.08.2016 16582-0201-015",
+   "adresse": "RUE DES BUGRANES 12A 5100 NANINNE",
+   "pdf": ""
+  },
+  {
+   "nom": "2) L'ARTISAN SPRL",
+   "date": "2015-11-19",
+   "ref": "0387238",
+   "type": "ME. - COMPTES ANNUELS 31.12.2014, APP 31.08.2015, DPT 10.11.2015 15665-0565-015",
+   "adresse": "RUE DES BUGRANES 12A 5100 NANINNE",
+   "pdf": ""
+  },
+  {
+   "nom": "3) L'ARTISAN SPRL",
+   "date": "2014-06-27",
+   "ref": "0121385",
+   "type": "ME. - COMPTES ANNUELS 31.12.2013, APP 02.06.2014, DPT 24.06.2014 14210-0162-014",
+   "adresse": "RUE DES BUGRANES 12A 5100 NANINNE",
+   "pdf": ""
+  },
+  {
+   "nom": "4) L'ARTISAN SPRL",
+   "date": "2013-08-07",
+   "ref": "0221482",
+   "type": "ME. - COMPTES ANNUELS 31.12.2012, APP 03.06.2013, DPT 30.07.2013 13379-0517-013",
+   "adresse": "RUE DES BUGRANES 12A 5100 NANINNE",
+   "pdf": ""
+  },
+  {
+   "nom": "5) L'ARTISAN SPRL",
+   "date": "2012-08-07",
+   "ref": "0219956",
+   "type": "ME. - COMPTES ANNUELS 31.12.2011, APP 24.06.2012, DPT 03.08.2012 12382-0067-013",
+   "adresse": "RUE DES BUGRANES 12A 5100 NANINNE",
+   "pdf": ""
+  },
+  {
+   "nom": "6) L'ARTISAN SPRL",
+   "date": "2011-08-11",
+   "ref": "0220918",
+   "type": "ME. - COMPTES ANNUELS 31.12.2010, APP 24.06.2011, DPT 05.08.2011 11383-0209-013",
+   "adresse": "RUE DES BUGRANES 12A 5100 NANINNE",
+   "pdf": ""
+  },
+  {
+   "nom": "7) L'ARTISAN SPRL",
+   "date": "2010-07-26",
+   "ref": "0183025",
+   "type": "ME. - COMPTES ANNUELS 31.12.2009, APP 24.06.2010, DPT 19.07.2010 10322-0332-013",
+   "adresse": "RUE DES BUGRANES 12A 5100 NANINNE",
+   "pdf": ""
+  },
+  {
+   "nom": "8) L'ARTISAN SPRL",
+   "date": "2010-03-29",
+   "ref": "0045152",
+   "type": "CAPITAL, ACTIONS - STATUTS (TRADUCTION, COORDINATION, AUTRES MODIFICATIONS, )",
+   "adresse": "RUE DES BUGRANES 12A 5100 NANINNE",
+   "pdf": "https://www.ejustice.just.fgov.be/tsv_pdf/2010/03/29/10045152.pdf"
+  },
+  {
+   "nom": "9) L'ARTISAN SPRL",
+   "date": "2009-11-09",
+   "ref": "0157123",
+   "type": "SIEGE SOCIAL - DEMISSIONS, NOMINATIONS",
+   "adresse": "RUE AUGUSTE LEBLANC 15 5002 SAINT-SERVAIS",
+   "pdf": "https://www.ejustice.just.fgov.be/tsv_pdf/2009/11/09/09157123.pdf"
+  },
+  {
+   "nom": "10) L'ARTISAN SPRL",
+   "date": "2009-09-30",
+   "ref": "0305573",
+   "type": "ME. - COMPTES ANNUELS 31.12.2008, APP 01.06.2009, DPT 21.09.2009 09770-0094-009",
+   "adresse": "RUE AUGUSTE LEBLANC 15 5002 SAINT-SERVAIS",
+   "pdf": ""
+  },
+  {
+   "nom": "11) L'ARTISAN SPRL",
+   "date": "2008-05-08",
+   "ref": "0068464",
+   "type": "RUBRIQUE CONSTITUTION (NOUVELLE PERSONNE MORALE, OUVERTURE SUCCURSALE, ETC...)",
+   "adresse": "RUE AUGUSTE LEBLANC 15 5002 SAINT-SERVAIS",
+   "pdf": "https://www.ejustice.just.fgov.be/tsv_pdf/2008/05/08/08068464.pdf"
+  }
+ ]
+}
