@@ -32,6 +32,9 @@ UA = {"User-Agent": "Mozilla/5.0 (X11; Linux x86_64) eta-bnb research (contact v
 PAUSE = float(os.environ.get("PAUSE", "0.7"))
 BUDGET = float(os.environ.get("TIME_BUDGET", "300")) * 60
 OCR_WORKERS = int(os.environ.get("OCR_WORKERS", "4"))
+SHARD, NSHARDS = int(os.environ.get("SHARD", "0")), int(os.environ.get("NSHARDS", "1"))
+GERMAN = ("sankt vith", "eupen", "büllingen", "amel", "bütgenbach", "burg-reuland", "kelmis", "lontzen", "raeren")
+WATERMARK = re.compile(r"(Bijlagen bij het Belgisch Staatsblad|Annexes du Moniteur belge|Anlagen zum Belgischen Staatsblatt)[^\n]*")
 CONTROL = ["0447639261", "0408287450"]
 T0 = time.monotonic()
 
@@ -143,19 +146,24 @@ def get_kbo(bce):
 
 # ------------------------------------------------------------------ OCR
 
-def ocr_pdf(pdf_bytes):
+def real_text(txt):
+    """Text layer minus the margin watermark that even scanned PDFs carry."""
+    return re.sub(r"\s+", " ", WATERMARK.sub("", txt)).strip()
+
+
+def ocr_pdf(pdf_bytes, langs="fra+nld"):
     with tempfile.TemporaryDirectory() as d:
         p = os.path.join(d, "a.pdf")
         with open(p, "wb") as f:
             f.write(pdf_bytes)
         txt = subprocess.run(["pdftotext", "-layout", p, "-"], capture_output=True, text=True).stdout
-        if len(txt.strip()) > 300:
+        if len(real_text(txt)) > 400:
             return "[texte PDF]\n" + txt
-        subprocess.run(["pdftoppm", "-r", "300", "-gray", "-png", p, os.path.join(d, "pg")], check=False)
+        subprocess.run(["pdftoppm", "-r", "250", "-gray", "-png", p, os.path.join(d, "pg")], check=False)
         out = []
         for img in sorted(f for f in os.listdir(d) if f.startswith("pg")):
-            r = subprocess.run(["tesseract", os.path.join(d, img), "-", "-l", "fra+nld+deu", "--psm", "4"],
-                               capture_output=True, text=True)
+            r = subprocess.run(["tesseract", os.path.join(d, img), "-", "-l", langs, "--psm", "4"],
+                               capture_output=True, text=True, env={**os.environ, "OMP_THREAD_LIMIT": "1"})
             out.append(r.stdout)
         return "[OCR]\n" + "\n\f\n".join(out)
 
@@ -175,7 +183,7 @@ def save(path, obj):
     os.replace(tmp, path)
 
 
-def collect(bce, with_ocr, pool, pending):
+def collect(bce, with_ocr, pool, pending, langs="fra+nld"):
     d = os.path.join(DATA, bce)
     lp, kp = os.path.join(d, "list.json"), os.path.join(d, "kbo.json")
     if not os.path.exists(lp):
@@ -196,13 +204,16 @@ def collect(bce, with_ocr, pool, pending):
             continue
         tp = os.path.join(d, "ocr", f"{it['date']}_{it['ref']}.txt")
         if os.path.exists(tp):
-            continue
+            body = open(tp, encoding="utf-8").read()
+            if not (body.split("\n", 3)[2:3] == ["[texte PDF]"] and len(real_text(body.split("\n", 3)[3])) <= 400):
+                continue
+            os.remove(tp)  # watermark-only text layer from an earlier run: redo with OCR
         pdf = fetch(it["pdf"], binary=True)
         if not pdf or not pdf.startswith(b"%PDF"):
             continue
 
         def job(pdf=pdf, tp=tp, it=it):
-            txt = ocr_pdf(pdf)
+            txt = ocr_pdf(pdf, langs)
             os.makedirs(os.path.dirname(tp), exist_ok=True)
             with open(tp, "w", encoding="utf-8") as f:
                 f.write(f"# {it['date']} {it['ref']} {it['type']}\n# {it['pdf']}\n{txt}")
@@ -210,20 +221,23 @@ def collect(bce, with_ocr, pool, pending):
 
 
 def main():
-    targets = CONTROL + [r["bce"] for r in csv.DictReader(open("moniteur/cibles_moniteur.csv", encoding="utf-8"), delimiter=";")]
+    rows = list(csv.DictReader(open("moniteur/cibles_moniteur.csv", encoding="utf-8"), delimiter=";"))
+    targets = CONTROL + [r["bce"] for r in rows]
+    langs = {r["bce"]: "fra+nld+deu" if r["commune"].lower() in GERMAN else "fra+nld" for r in rows}
     bnb_corporate = set()
     for r in csv.DictReader(open("moniteur/cibles_moniteur.csv", encoding="utf-8"), delimiter=";"):
         bnb_corporate |= {n.replace(".", "") for n in re.findall(r"\((\d{4}\.?\d{3}\.?\d{3})\)", r["administrateurs_bnb"])}
     only = sys.argv[1:]
     if only:
         targets = [t for t in targets if t in only] or only
+    targets = targets[SHARD::NSHARDS]
     pending = []
     with ThreadPoolExecutor(OCR_WORKERS) as pool:
         for n, bce in enumerate(targets, 1):
             if out_of_time():
                 break
             print(f"[{(time.monotonic() - T0) / 60:5.1f} min] {n}/{len(targets)} {bce}", flush=True)
-            collect(bce, True, pool, pending)
+            collect(bce, True, pool, pending, langs.get(bce, "fra+nld"))
         # one level up: legal-person directors
         corporate = set(bnb_corporate)
         for bce in targets:
@@ -234,6 +248,8 @@ def main():
                     if re.fullmatch(r"\d{10}", q.zfill(10)) and q.isdigit():
                         corporate.add(q.zfill(10))
         corporate -= set(targets)
+        if SHARD:
+            corporate = set()  # shard 0 handles the legal-person directors
         print(f"{len(corporate)} administrateurs personnes morales à remonter", flush=True)
         for bce in sorted(corporate):
             if out_of_time():
