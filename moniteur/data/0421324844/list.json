@@ -1,0 +1,374 @@
+{
+ "bce": "0421324844",
+ "total_annonce": 46,
+ "items": [
+  {
+   "nom": "1) LOUWYCK J. ET CO SPRL",
+   "date": "2023-12-19",
+   "ref": "0463398",
+   "type": "STATUTS (TRADUCTION, COORDINATION, AUTRES MODIFICATIONS, ) - MODIFICATION FORME JURIDIQUE - DENOMINATION - OBJET - DEMISSIONS, NOMINATIONS",
+   "adresse": "CHEMIN DE LANGEMARCQ 4 7780 COMINES-WARNETON",
+   "pdf": "https://www.ejustice.just.fgov.be/tsv_pdf/2023/12/19/23463398.pdf"
+  },
+  {
+   "nom": "2) LOUWYCK J. ET CO SPRL",
+   "date": "2019-01-16",
+   "ref": "2019200127",
+   "type": "SIEGE SOCIAL",
+   "adresse": "CHEMIN DE LANGEMARCQ 4 7780 COMINES",
+   "pdf": ""
+  },
+  {
+   "nom": "3) LOUWYCK J. ET CO BVBA",
+   "date": "2019-01-16",
+   "ref": "2019200127",
+   "type": "MAATSCHAPPELIJKE ZETEL",
+   "adresse": "CHEMIN DE LANGEMARCQ 4 7780 KOMEN",
+   "pdf": ""
+  },
+  {
+   "nom": "4) LOUWYCK J. ET CO SPRL",
+   "date": "2017-04-28",
+   "ref": "0054301",
+   "type": "ME. - COMPTES ANNUELS 30.09.2016, APP 23.02.2017, DPT 25.04.2017 17099-0600-017",
+   "adresse": "CHEMIN DE LANGEMARCQ 4 7780 COMINES",
+   "pdf": ""
+  },
+  {
+   "nom": "5) LOUWYCK J. ET CO SPRL",
+   "date": "2016-05-10",
+   "ref": "0067198",
+   "type": "ME. - COMPTES ANNUELS 30.09.2015, APP 23.02.2016, DPT 03.05.2016 16116-0029-016",
+   "adresse": "CHEMIN DE LANGEMARCQ 4 7780 COMINES",
+   "pdf": ""
+  },
+  {
+   "nom": "6) LOUWYCK J. ET CO SPRL",
+   "date": "2015-06-04",
+   "ref": "0080157",
+   "type": "ME. - COMPTES ANNUELS 30.09.2014, APP 23.02.2015, DPT 28.05.2015 15137-0018-016",
+   "adresse": "CHEMIN DE LANGEMARCQ 4 7780 COMINES",
+   "pdf": ""
+  },
+  {
+   "nom": "7) LOUWYCK J. ET CO SPRL",
+   "date": "2014-08-27",
+   "ref": "0264938",
+   "type": "ME. - COMPTES ANNUELS 30.09.2013, APP 24.02.2014, DPT 22.08.2014 14456-0363-016",
+   "adresse": "CHEMIN DE LANGEMARCQ 4 7780 COMINES",
+   "pdf": ""
+  },
+  {
+   "nom": "8) LOUWYCK J. ET CO SPRL",
+   "date": "2013-08-19",
+   "ref": "0244486",
+   "type": "ME. - COMPTES ANNUELS 30.09.2012, APP 23.02.2013, DPT 13.08.2013 13421-0069-016",
+   "adresse": "CHEMIN DE LANGEMARCQ 4 7780 COMINES",
+   "pdf": ""
+  },
+  {
+   "nom": "9) LOUWYCK J. ET CO SPRL",
+   "date": "2012-09-27",
+   "ref": "0334582",
+   "type": "ME. - COMPTES ANNUELS 30.09.2011, APP 23.02.2012, DPT 21.09.2012 12573-0001-016",
+   "adresse": "CHEMIN DE LANGEMARCQ 4 7780 COMINES",
+   "pdf": ""
+  },
+  {
+   "nom": "10) LOUWYCK J. ET CO SPRL",
+   "date": "2011-03-29",
+   "ref": "0039766",
+   "type": "ME. - COMPTES ANNUELS 30.09.2010, APP 26.02.2011, DPT 23.03.2011 11065-0203-016",
+   "adresse": "CHEMIN DE LANGEMARCQ 4 7780 COMINES",
+   "pdf": ""
+  },
+  {
+   "nom": "11) LOUWYCK J. ET CO SPRL",
+   "date": "2010-03-24",
+   "ref": "0036176",
+   "type": "ME. - COMPTES ANNUELS 30.09.2009, APP 23.02.2010, DPT 11.03.2010 10068-0203-016",
+   "adresse": "CHEMIN DE LANGEMARCQ 4 7780 COMINES",
+   "pdf": ""
+  },
+  {
+   "nom": "12) LOUWYCK J. ET CO SPRL",
+   "date": "2009-03-24",
+   "ref": "0035819",
+   "type": "ME. - COMPTES ANNUELS 30.09.2008, APP 28.02.2009, DPT 18.03.2009 09079-0216-016",
+   "adresse": "CHEMIN DE LANGEMARCQ 4 7780 COMINES",
+   "pdf": ""
+  },
+  {
+   "nom": "13) LOUWYCK J. ET CO SPRL",
+   "date": "2008-03-26",
+   "ref": "0033631",
+   "type": "ME. - COMPTES ANNUELS 30.09.2007, APP 23.02.2008, DPT 20.03.2008 08074-0270-016",
+   "adresse": "CHEMIN DE LANGEMARCQ 4 7780 COMINES",
+   "pdf": ""
+  },
+  {
+   "nom": "14) LOUWYCK J. ET CO SPRL",
+   "date": "2007-03-27",
+   "ref": "0035490",
+   "type": "ME. - COMPTES ANNUELS 30.09.2006, APP 24.02.2007, DPT 23.03.2007 07085-1580-016",
+   "adresse": "CHEMIN DE LANGEMARCQ 4 7780 COMINES",
+   "pdf": ""
+  },
+  {
+   "nom": "15) LOUWYCK J. ET CO SPRL",
+   "date": "2006-05-04",
+   "ref": "0046130",
+   "type": "ME. - COMPTES ANNUELS 30.09.2005, APP 28.02.2006, DPT 28.04.2006 06124-1219-016",
+   "adresse": "CHEMIN DE LANGEMARCQ.4 7780 COMINES",
+   "pdf": ""
+  },
+  {
+   "nom": "16) LOUWYCK J. ET CO SPRL",
+   "date": "2005-03-15",
+   "ref": "0029317",
+   "type": "ME. - RECTIFICATIF COMPTES ANNUELS 30.09.2004, APP 05.02.2005, DPT 07.03.2005 05068-3041-015",
+   "adresse": "CHEMIN DE LANGEMARCQ.4 7780 COMINES",
+   "pdf": ""
+  },
+  {
+   "nom": "17) LOUWYCK J. ET CO SPRL",
+   "date": "2005-02-28",
+   "ref": "0025151",
+   "type": "ME. - COMPTES ANNUELS 30.09.2004, APP 05.02.2005, DPT 21.02.2005 05055-0147-015",
+   "adresse": "CHEMIN DE LANGEMARCQ.4 7780 COMINES",
+   "pdf": ""
+  },
+  {
+   "nom": "18) LOUWYCK J. ET CO SPRL",
+   "date": "2004-05-13",
+   "ref": "0056385",
+   "type": "ME. - COMPTES ANNUELS 30.09.2003, APP 24.04.2004, DPT 06.05.2004 04140-0740-015",
+   "adresse": "CHEMIN DE LANGEMARCQ.4 7780 COMINES",
+   "pdf": ""
+  },
+  {
+   "nom": "19) LOUWYCK J. ET CO SPRL",
+   "date": "2003-05-21",
+   "ref": "0058087",
+   "type": "ME. - COMPTES ANNUELS 30.09.2002, APP 22.03.2003 03147-2310-014",
+   "adresse": "CHEMIN DE LANGEMARCQ.4 7780 COMINES",
+   "pdf": ""
+  },
+  {
+   "nom": "20) LOUWYCK J. ET CO SPRL",
+   "date": "2003-02-13",
+   "ref": "0020171",
+   "type": "SIEGE SOCIAL",
+   "adresse": "CHEMIN DE LANGEMARCQ.4 7780 COMINES",
+   "pdf": "https://www.ejustice.just.fgov.be/tsv_pdf/2003/02/13/03020171.pdf"
+  },
+  {
+   "nom": "21) LOUWYCK J. ET CO SPRL",
+   "date": "2002-01-11",
+   "ref": "416",
+   "type": "ANNEE COMPTABLE - CAPITAL, ACTIONS",
+   "adresse": "CHAUSSEE DE WERVICQ.50 7784 WARNETON",
+   "pdf": "https://www.ejustice.just.fgov.be/tsv_pdf/2002/01/11/2002-01-11_0416.pdf"
+  },
+  {
+   "nom": "22) LOUWYCK J. ET CO SPRL",
+   "date": "2001-06-23",
+   "ref": "0085143",
+   "type": "ME. - JAARREKENING 31.12.2000, GGK 02.06.2001 01235-3920-015",
+   "adresse": "CHAUSSEE DE WERVICQ.50 7784 WARNETON",
+   "pdf": ""
+  },
+  {
+   "nom": "23) LOUWYCK J. ET CO SPRL",
+   "date": "2000-12-15",
+   "ref": "376",
+   "type": "OBJET - STATUTS (TRADUCTION, COORDINATION, AUTRES MODIFICATIONS, )",
+   "adresse": "CHAUSSEE DE WERVICQ.50 7784 WARNETON",
+   "pdf": "https://www.ejustice.just.fgov.be/tsv_pdf/2000/12/15/2000-12-15_0376.pdf"
+  },
+  {
+   "nom": "24) LOUWYCK J. ET CO SPRL",
+   "date": "2000-06-17",
+   "ref": "0070245",
+   "type": "ME. - COMPTES ANNUELS 31.12.1999, APP 03.06.2000 00197-3855-016",
+   "adresse": "CHAUSSEE DE WERVICQ.50 7784 WARNETON",
+   "pdf": ""
+  },
+  {
+   "nom": "25) LOUWYCK J. ET CO SPRL",
+   "date": "1999-06-24",
+   "ref": "0073537",
+   "type": "ME. - COMPTES ANNUELS 31.12.1998, APP 06.06.1999 - 99178-3520-016",
+   "adresse": "CHAUSSEE DE WERVICQ.50 7784 WARNETON",
+   "pdf": ""
+  },
+  {
+   "nom": "26) LOUWYCK J. ET CO SPRL",
+   "date": "",
+   "ref": "",
+   "type": "1998 / 114068",
+   "adresse": "CHAUSSEE DE WERVICQ 50 7780 COMINES (WARNETON)",
+   "pdf": ""
+  },
+  {
+   "nom": "27) LOUWYCK J. ET CO SPRL",
+   "date": "",
+   "ref": "",
+   "type": "1997 / 079586",
+   "adresse": "CHAUSSEE DE WERVICQ 50 7780 COMINES (WARNETON)",
+   "pdf": ""
+  },
+  {
+   "nom": "28) LOUWYCK J. ET CO SPRL",
+   "date": "",
+   "ref": "",
+   "type": "1996 / 064826",
+   "adresse": "CHAUSSEE DE WERVICQ 50 7700 COMINES (WARNETON)",
+   "pdf": ""
+  },
+  {
+   "nom": "29) LOUWYCK J. ET CO SPRL",
+   "date": "1995-03-10",
+   "ref": "405",
+   "type": "SIEGE SOCIAL - DEMISSIONS, NOMINATIONS",
+   "adresse": "COMINES (WARNETON)",
+   "pdf": ""
+  },
+  {
+   "nom": "30) LOUWYCK J. ET CO SPRL",
+   "date": "",
+   "ref": "",
+   "type": "1995 / 088522",
+   "adresse": "COMINES (WARNETON)",
+   "pdf": ""
+  },
+  {
+   "nom": "31) LOUWYCK J. ET CO SPRL",
+   "date": "1994-01-13",
+   "ref": "263",
+   "type": "DEMISSIONS, NOMINATIONS",
+   "adresse": "COMINES (WARNETON)",
+   "pdf": ""
+  },
+  {
+   "nom": "32) LOUWYCK J. ET CO SPRL",
+   "date": "",
+   "ref": "",
+   "type": "1994 / 062355",
+   "adresse": "COMINES (WARNETON)",
+   "pdf": ""
+  },
+  {
+   "nom": "33) LOUWYCK J. ET CO SPRL",
+   "date": "",
+   "ref": "",
+   "type": "1993 / 164904",
+   "adresse": "COMINES (WARNETON)",
+   "pdf": ""
+  },
+  {
+   "nom": "34) LOUWYCK J. ET CO SPRL",
+   "date": "",
+   "ref": "",
+   "type": "1992 / 132568",
+   "adresse": "CHAUSSEE DE WERVICQ 50 7700 COMINES (WARNETON)",
+   "pdf": ""
+  },
+  {
+   "nom": "35) LOUWYCK J. ET CO SPRL",
+   "date": "",
+   "ref": "",
+   "type": "1991 / 165065",
+   "adresse": "COMINES (WARNETON)",
+   "pdf": ""
+  },
+  {
+   "nom": "36) LOUWYCK J. ET CO SPRL",
+   "date": "",
+   "ref": "",
+   "type": "1990 / 129591",
+   "adresse": "COMINES (WARNETON)",
+   "pdf": ""
+  },
+  {
+   "nom": "37) LOUWYCK J. ET CO SPRL",
+   "date": "",
+   "ref": "",
+   "type": "1989 / 125838",
+   "adresse": "COMINES (WARNETON)",
+   "pdf": ""
+  },
+  {
+   "nom": "38) LOUWYCK J. ET CO SPRL",
+   "date": "",
+   "ref": "",
+   "type": "1988 / 085885",
+   "adresse": "COMINES (WARNETON)",
+   "pdf": ""
+  },
+  {
+   "nom": "39) LOUWYCK J. ET CO SPRL",
+   "date": "1987-01-01",
+   "ref": "530",
+   "type": "SIEGE SOCIAL",
+   "adresse": "COMINES (WARNETON)",
+   "pdf": ""
+  },
+  {
+   "nom": "40) LOUWYCK J. ET CO SPRL",
+   "date": "",
+   "ref": "",
+   "type": "1987 / 067254",
+   "adresse": "COMINES (WARNETON)",
+   "pdf": ""
+  },
+  {
+   "nom": "41) LOUWYCK J. ET CO SPRL",
+   "date": "1986-01-28",
+   "ref": "374",
+   "type": "MODIFICATION FORME JURIDIQUE - CAPITAL, ACTIONS",
+   "adresse": "COMINES (WARNETON)",
+   "pdf": ""
+  },
+  {
+   "nom": "42) LOUWYCK J. ET CO SPRL",
+   "date": "",
+   "ref": "",
+   "type": "1986 / 073342",
+   "adresse": "COMINES (WARNETON)",
+   "pdf": ""
+  },
+  {
+   "nom": "43) LOUWYCK J. ET CO SPRL",
+   "date": "",
+   "ref": "",
+   "type": "1985 / 75113",
+   "adresse": "COMINES",
+   "pdf": ""
+  },
+  {
+   "nom": "44) LOUWYCK J. ET CO SPRL",
+   "date": "",
+   "ref": "",
+   "type": "1984 / 00601",
+   "adresse": "COMINES",
+   "pdf": ""
+  },
+  {
+   "nom": "45) LOUWYCK J. ET CO SPRL",
+   "date": "",
+   "ref": "",
+   "type": "1984 / 78984",
+   "adresse": "COMINES",
+   "pdf": ""
+  },
+  {
+   "nom": "46) LOUWYCK J. ET CO SPRL",
+   "date": "",
+   "ref": "",
+   "type": "1983 / 20816",
+   "adresse": "COMINES",
+   "pdf": ""
+  }
+ ]
+}

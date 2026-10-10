@@ -1,0 +1,46 @@
+{
+ "bce": "0542523671",
+ "total_annonce": 5,
+ "items": [
+  {
+   "nom": "1) LEE CHI KO SPRL",
+   "date": "2023-07-24",
+   "ref": "0374925",
+   "type": "STATUTS (TRADUCTION, COORDINATION, AUTRES MODIFICATIONS, ) - MODIFICATION FORME JURIDIQUE - SIEGE SOCIAL - OBJET - DEMISSIONS, NOMINATIONS",
+   "adresse": "RUE VANDERLINDEN 20 1030 SCHAERBEEK",
+   "pdf": "https://www.ejustice.just.fgov.be/tsv_pdf/2023/07/24/23374925.pdf"
+  },
+  {
+   "nom": "2) LEE CHI KO SPRL",
+   "date": "2023-04-25",
+   "ref": "0055602",
+   "type": "DEMISSIONS, NOMINATIONS",
+   "adresse": "RUE VANDERLINDEN 20 1030 SCHAERBEEK",
+   "pdf": "https://www.ejustice.just.fgov.be/tsv_pdf/2023/04/25/23055602.pdf"
+  },
+  {
+   "nom": "3) LEE CHI KO SPRL",
+   "date": "2016-10-03",
+   "ref": "0362734",
+   "type": "ME. - COMPTES ANNUELS 31.12.2015, APP 27.09.2016, DPT 28.09.2016 16622-0446-013",
+   "adresse": "RUE VANDERLINDEN 20 1030 SCHAERBEEK",
+   "pdf": ""
+  },
+  {
+   "nom": "4) LEE CHI KO SPRL",
+   "date": "2015-11-03",
+   "ref": "0382996",
+   "type": "ME. - COMPTES ANNUELS 31.12.2014, APP 12.10.2015, DPT 26.10.2015 15658-0431-013",
+   "adresse": "RUE VANDERLINDEN 20 1030 SCHAERBEEK",
+   "pdf": ""
+  },
+  {
+   "nom": "5) LEE CHI KO SPRL",
+   "date": "2013-11-29",
+   "ref": "0307204",
+   "type": "RUBRIQUE CONSTITUTION (NOUVELLE PERSONNE MORALE, OUVERTURE SUCCURSALE, ETC...)",
+   "adresse": "RUE VANDERLINDEN 20 1030 SCHAERBEEK",
+   "pdf": "https://www.ejustice.just.fgov.be/tsv_pdf/2013/11/29/13307204.pdf"
+  }
+ ]
+}

@@ -1,0 +1,462 @@
+{
+ "bce": "0402294434",
+ "total_annonce": 57,
+ "items": [
+  {
+   "nom": "1) X-PACK SA",
+   "date": "2025-09-26",
+   "ref": "0122095",
+   "type": "DEMISSIONS, NOMINATIONS",
+   "adresse": "RUE DES CHAPELIERS 39 4800 VERVIERS",
+   "pdf": "https://www.ejustice.just.fgov.be/tsv_pdf/2025/09/26/25122095.pdf"
+  },
+  {
+   "nom": "2) X-PACK SA",
+   "date": "2024-04-11",
+   "ref": "0059498",
+   "type": "DEMISSIONS, NOMINATIONS",
+   "adresse": "RUE DES CHAPELIERS 39 4800 VERVIERS",
+   "pdf": "https://www.ejustice.just.fgov.be/tsv_pdf/2024/04/11/24059498.pdf"
+  },
+  {
+   "nom": "3) X-PACK SA",
+   "date": "2020-06-25",
+   "ref": "0328310",
+   "type": "STATUTS (TRADUCTION, COORDINATION, AUTRES MODIFICATIONS, ) - DEMISSIONS, NOMINATIONS",
+   "adresse": "RUE DES CHAPELIERS 39 4800 VERVIERS",
+   "pdf": "https://www.ejustice.just.fgov.be/tsv_pdf/2020/06/25/20328310.pdf"
+  },
+  {
+   "nom": "4) X-PACK SA",
+   "date": "2019-02-11",
+   "ref": "0021427",
+   "type": "DEMISSIONS, NOMINATIONS",
+   "adresse": "RUE DES CHAPELIERS 39 4800 VERVIERS",
+   "pdf": "https://www.ejustice.just.fgov.be/tsv_pdf/2019/02/11/19021427.pdf"
+  },
+  {
+   "nom": "5) X-PACK SA",
+   "date": "2017-01-09",
+   "ref": "0005033",
+   "type": "DEMISSIONS, NOMINATIONS",
+   "adresse": "RUE DES CHAPELIERS 39 4800 VERVIERS",
+   "pdf": "https://www.ejustice.just.fgov.be/tsv_pdf/2017/01/09/17005033.pdf"
+  },
+  {
+   "nom": "6) X-PACK SA",
+   "date": "2016-08-12",
+   "ref": "0238039",
+   "type": "ME. - COMPTES ANNUELS 31.12.2015, APP 13.06.2016, DPT 09.08.2016 16413-0369-016",
+   "adresse": "RUE DES CHAPELIERS 39 4800 VERVIERS",
+   "pdf": ""
+  },
+  {
+   "nom": "7) X-PACK SA",
+   "date": "2015-09-04",
+   "ref": "0315147",
+   "type": "ME. - COMPTES ANNUELS 31.12.2014, APP 08.06.2015, DPT 31.08.2015 15544-0129-017",
+   "adresse": "RUE DES CHAPELIERS 39 4800 VERVIERS",
+   "pdf": ""
+  },
+  {
+   "nom": "8) X-PACK SA",
+   "date": "2014-08-21",
+   "ref": "0247747",
+   "type": "ME. - COMPTES ANNUELS 31.12.2013, APP 10.06.2014, DPT 18.08.2014 14428-0022-017",
+   "adresse": "RUE DES CHAPELIERS 39 4800 VERVIERS",
+   "pdf": ""
+  },
+  {
+   "nom": "9) X-PACK SA",
+   "date": "2013-08-27",
+   "ref": "0262600",
+   "type": "ME. - COMPTES ANNUELS 31.12.2012, APP 10.06.2013, DPT 22.08.2013 13452-0443-018",
+   "adresse": "RUE DES CHAPELIERS 39 4800 VERVIERS",
+   "pdf": ""
+  },
+  {
+   "nom": "10) X-PACK SA",
+   "date": "2012-10-17",
+   "ref": "0171385",
+   "type": "DEMISSIONS, NOMINATIONS - ASSEMBLEE GENERALE - ANNEE COMPTABLE",
+   "adresse": "RUE DES CHAPELIERS 39 4800 VERVIERS",
+   "pdf": "https://www.ejustice.just.fgov.be/tsv_pdf/2012/10/17/12171385.pdf"
+  },
+  {
+   "nom": "11) X-PACK SA",
+   "date": "2012-05-29",
+   "ref": "0073929",
+   "type": "ME. - COMPTES ANNUELS 30.09.2011, APP 12.03.2012, DPT 23.05.2012 12125-0109-020",
+   "adresse": "RUE DES CHAPELIERS 39 4800 VERVIERS",
+   "pdf": ""
+  },
+  {
+   "nom": "12) X-PACK SA",
+   "date": "2011-05-17",
+   "ref": "0064438",
+   "type": "ME. - COMPTES ANNUELS 30.09.2010, APP 14.03.2011, DPT 11.05.2011 11110-0015-020",
+   "adresse": "RUE DES CHAPELIERS 39 4800 VERVIERS",
+   "pdf": ""
+  },
+  {
+   "nom": "13) X-PACK SA",
+   "date": "2010-07-01",
+   "ref": "0095896",
+   "type": "DEMISSIONS, NOMINATIONS",
+   "adresse": "RUE DES CHAPELIERS 39 4800 VERVIERS",
+   "pdf": "https://www.ejustice.just.fgov.be/tsv_pdf/2010/07/01/10095896.pdf"
+  },
+  {
+   "nom": "14) X-PACK SA",
+   "date": "2010-04-07",
+   "ref": "0043138",
+   "type": "ME. - COMPTES ANNUELS 30.09.2009, APP 08.03.2010, DPT 29.03.2010 10081-0588-021",
+   "adresse": "RUE DES CHAPELIERS 39 4800 VERVIERS",
+   "pdf": ""
+  },
+  {
+   "nom": "15) X-PACK SA",
+   "date": "2009-01-21",
+   "ref": "0010751",
+   "type": "ANNEE COMPTABLE - STATUTS (TRADUCTION, COORDINATION, AUTRES MODIFICATIONS, )",
+   "adresse": "RUE DES CHAPELIERS 39 4800 VERVIERS",
+   "pdf": "https://www.ejustice.just.fgov.be/tsv_pdf/2009/01/21/09010751.pdf"
+  },
+  {
+   "nom": "16) X-PACK SA",
+   "date": "2008-07-07",
+   "ref": "0138726",
+   "type": "ME. - COMPTES ANNUELS 31.12.2007, APP 07.06.2008, DPT 01.07.2008 08344-0266-020",
+   "adresse": "RUE DES CHAPELIERS 39 4800 VERVIERS",
+   "pdf": ""
+  },
+  {
+   "nom": "17) X-PACK SA",
+   "date": "2007-11-21",
+   "ref": "0166930",
+   "type": "DEMISSIONS, NOMINATIONS",
+   "adresse": "RUE DES CHAPELIERS 39 4800 VERVIERS",
+   "pdf": "https://www.ejustice.just.fgov.be/tsv_pdf/2007/11/21/07166930.pdf"
+  },
+  {
+   "nom": "18) X-PACK SA",
+   "date": "2007-07-12",
+   "ref": "0144278",
+   "type": "ME. - COMPTES ANNUELS 31.12.2006, APP 02.06.2007, DPT 06.07.2007 07373-0320-032",
+   "adresse": "RUE DES CHAPELIERS 39 4800 VERVIERS",
+   "pdf": ""
+  },
+  {
+   "nom": "19) X-PACK SA",
+   "date": "2006-07-07",
+   "ref": "0141049",
+   "type": "ME. - COMPTES ANNUELS 31.12.2005, APP 03.06.2006, DPT 05.07.2006 06415-0282-023",
+   "adresse": "RUE DES CHAPELIERS.39 4800 VERVIERS",
+   "pdf": ""
+  },
+  {
+   "nom": "20) X-PACK SA",
+   "date": "2006-01-30",
+   "ref": "0023291",
+   "type": "CAPITAL, ACTIONS - DEMISSIONS, NOMINATIONS - ASSEMBLEE GENERALE - STATUTS (TRADUCTION, COORDINATION, AUTRES MODIFICATIONS, )",
+   "adresse": "RUE DES CHAPELIERS.39 4800 VERVIERS",
+   "pdf": "https://www.ejustice.just.fgov.be/tsv_pdf/2006/01/30/06023291.pdf"
+  },
+  {
+   "nom": "21) X-PACK SA",
+   "date": "2005-06-27",
+   "ref": "0108902",
+   "type": "ME. - COMPTES ANNUELS 31.12.2004, APP 04.06.2005, DPT 22.06.2005 05312-4998-023",
+   "adresse": "RUE DES CHAPELIERS.39 4800 VERVIERS",
+   "pdf": ""
+  },
+  {
+   "nom": "22) X-PACK SA",
+   "date": "2004-09-06",
+   "ref": "0127411",
+   "type": "DEMISSIONS, NOMINATIONS",
+   "adresse": "RUE DES CHAPELIERS.39 4800 VERVIERS",
+   "pdf": "https://www.ejustice.just.fgov.be/tsv_pdf/2004/09/06/04127411.pdf"
+  },
+  {
+   "nom": "23) X-PACK SA",
+   "date": "2004-06-30",
+   "ref": "0117081",
+   "type": "ME. - COMPTES ANNUELS 31.12.2003, APP 06.06.2004, DPT 25.06.2004 04327-0872-023",
+   "adresse": "RUE DES CHAPELIERS.39 4800 VERVIERS",
+   "pdf": ""
+  },
+  {
+   "nom": "24) X-PACK SA",
+   "date": "2003-07-16",
+   "ref": "0146625",
+   "type": "ME. - COMPTES ANNUELS 31.12.2002, APP 25.06.2003 03414-3185-023",
+   "adresse": "RUE DES CHAPELIERS.39 4800 VERVIERS",
+   "pdf": ""
+  },
+  {
+   "nom": "25) X-PACK SA",
+   "date": "2002-06-29",
+   "ref": "0098949",
+   "type": "ME. - COMPTES ANNUELS 31.12.2001, APP 01.06.2002 02282-0597-023",
+   "adresse": "RUE DES CHAPELIERS.39 4800 VERVIERS",
+   "pdf": ""
+  },
+  {
+   "nom": "26) X-PACK SA",
+   "date": "2001-06-30",
+   "ref": "500",
+   "type": "DEMISSIONS, NOMINATIONS",
+   "adresse": "RUE DES CHAPELIERS.39 4800 VERVIERS",
+   "pdf": "https://www.ejustice.just.fgov.be/tsv_pdf/2001/06/30/2001-06-30_0500.pdf"
+  },
+  {
+   "nom": "27) X-PACK SA",
+   "date": "2001-06-23",
+   "ref": "0085369",
+   "type": "ME. - COMPTES ANNUELS 31.12.2000, APP 02.06.2001 01230-0215-023",
+   "adresse": "RUE DES CHAPELIERS.39 4800 VERVIERS",
+   "pdf": ""
+  },
+  {
+   "nom": "28) X-PACK SA",
+   "date": "2000-07-04",
+   "ref": "0095671",
+   "type": "ME. - COMPTES ANNUELS 31.12.1999, APP 03.06.2000 00267-0901-024",
+   "adresse": "RUE DES CHAPELIERS.41-43 4800 ENSIVAL",
+   "pdf": ""
+  },
+  {
+   "nom": "29) X-PACK SA",
+   "date": "2000-06-29",
+   "ref": "537",
+   "type": "DEMISSIONS, NOMINATIONS",
+   "adresse": "RUE DES CHAPELIERS.41-43 4800 ENSIVAL",
+   "pdf": "https://www.ejustice.just.fgov.be/tsv_pdf/2000/06/29/2000-06-29_0537.pdf"
+  },
+  {
+   "nom": "30) X-PACK SA",
+   "date": "1999-07-31",
+   "ref": "0139134",
+   "type": "ME. - COMPTES ANNUELS 31.12.1998, APP 05.06.1999 - 99362-1518-024",
+   "adresse": "RUE DES CHAPELIERS.41-43 4800 ENSIVAL",
+   "pdf": ""
+  },
+  {
+   "nom": "31) X-PACK SA",
+   "date": "1998-07-24",
+   "ref": "455",
+   "type": "DEMISSIONS, NOMINATIONS",
+   "adresse": "RUE DES CHAPELIERS 41-43 4800 VERVIERS (ENSIVAL)",
+   "pdf": "https://www.ejustice.just.fgov.be/tsv_pdf/1998/07/24/1998-07-24_0455.pdf"
+  },
+  {
+   "nom": "32) X-PACK SA",
+   "date": "",
+   "ref": "",
+   "type": "1998 / 148022",
+   "adresse": "RUE DES CHAPELIERS 41-43 4800 VERVIERS (ENSIVAL)",
+   "pdf": ""
+  },
+  {
+   "nom": "33) X-PACK SA",
+   "date": "1997-09-04",
+   "ref": "141",
+   "type": "DEMISSIONS, NOMINATIONS",
+   "adresse": "RUE DES CHAPELIERS 41-43 4800 VERVIERS (ENSIVAL)",
+   "pdf": "https://www.ejustice.just.fgov.be/tsv_pdf/1997/09/04/1997-09-04_0141.pdf"
+  },
+  {
+   "nom": "34) X-PACK SA",
+   "date": "",
+   "ref": "",
+   "type": "1997 / 132390",
+   "adresse": "RUE DES CHAPELIERS 41-43 4800 VERVIERS (ENSIVAL)",
+   "pdf": ""
+  },
+  {
+   "nom": "35) X-PACK SA",
+   "date": "1996-02-03",
+   "ref": "112",
+   "type": "DEMISSIONS, NOMINATIONS",
+   "adresse": "RUE DES CHAPELIERS 41-43 4800 VERVIERS (ENSIVAL)",
+   "pdf": ""
+  },
+  {
+   "nom": "36) X-PACK SA",
+   "date": "",
+   "ref": "",
+   "type": "1996 / 089214",
+   "adresse": "RUE DES CHAPELIERS 41-43 4800 VERVIERS (ENSIVAL)",
+   "pdf": ""
+  },
+  {
+   "nom": "37) X-PACK SA",
+   "date": "",
+   "ref": "",
+   "type": "1995 / 188435",
+   "adresse": "VERVIERS (ENSIVAL)",
+   "pdf": ""
+  },
+  {
+   "nom": "38) X-PACK SA",
+   "date": "",
+   "ref": "",
+   "type": "1994 / 012750",
+   "adresse": "VERVIERS (ENSIVAL)",
+   "pdf": ""
+  },
+  {
+   "nom": "39) X-PACK SA",
+   "date": "",
+   "ref": "",
+   "type": "1994 / 144219",
+   "adresse": "VERVIERS (ENSIVAL)",
+   "pdf": ""
+  },
+  {
+   "nom": "40) X-PACK SA",
+   "date": "1992-12-08",
+   "ref": "320",
+   "type": "DEMISSIONS, NOMINATIONS",
+   "adresse": "RUE DES CHAPELIERS 41-43 4800 VERVIERS (ENSIVAL)",
+   "pdf": ""
+  },
+  {
+   "nom": "41) X-PACK SA",
+   "date": "1992-11-21",
+   "ref": "371",
+   "type": "DEMISSIONS, NOMINATIONS - ASSEMBLEE GENERALE - CAPITAL, ACTIONS - STATUTS (TRADUCTION, COORDINATION, AUTRES MODIFICATIONS, )",
+   "adresse": "RUE DES CHAPELIERS 41-43 4800 VERVIERS (ENSIVAL)",
+   "pdf": ""
+  },
+  {
+   "nom": "42) X-PACK SA",
+   "date": "1992-07-18",
+   "ref": "148",
+   "type": "DEMISSIONS, NOMINATIONS",
+   "adresse": "RUE DES CHAPELIERS 41-43 4800 VERVIERS (ENSIVAL)",
+   "pdf": ""
+  },
+  {
+   "nom": "43) X-PACK SA",
+   "date": "1992-02-12",
+   "ref": "061",
+   "type": "DEMISSIONS, NOMINATIONS",
+   "adresse": "RUE DES CHAPELIERS 41-43 4800 VERVIERS (ENSIVAL)",
+   "pdf": ""
+  },
+  {
+   "nom": "44) X-PACK SA",
+   "date": "",
+   "ref": "",
+   "type": "1992 / 094510",
+   "adresse": "RUE DES CHAPELIERS 41-43 4800 VERVIERS (ENSIVAL)",
+   "pdf": ""
+  },
+  {
+   "nom": "45) X-PACK SA",
+   "date": "1991-12-25",
+   "ref": "289",
+   "type": "DEMISSIONS, NOMINATIONS",
+   "adresse": "VERVIERS (ENSIVAL)",
+   "pdf": ""
+  },
+  {
+   "nom": "46) X-PACK SA",
+   "date": "",
+   "ref": "",
+   "type": "1991 / 075512",
+   "adresse": "VERVIERS (ENSIVAL)",
+   "pdf": ""
+  },
+  {
+   "nom": "47) X-PACK SA",
+   "date": "",
+   "ref": "",
+   "type": "1990 / 072452",
+   "adresse": "VERVIERS (ENSIVAL)",
+   "pdf": ""
+  },
+  {
+   "nom": "48) X-PACK SA",
+   "date": "1989-04-27",
+   "ref": "356",
+   "type": "ASSEMBLEE GENERALE - CAPITAL, ACTIONS - STATUTS (TRADUCTION, COORDINATION, AUTRES MODIFICATIONS, )",
+   "adresse": "VERVIERS (ENSIVAL)",
+   "pdf": ""
+  },
+  {
+   "nom": "49) X-PACK SA",
+   "date": "",
+   "ref": "",
+   "type": "1989 / 075517",
+   "adresse": "VERVIERS (ENSIVAL)",
+   "pdf": ""
+  },
+  {
+   "nom": "50) X-PACK SA",
+   "date": "1988-01-23",
+   "ref": "289",
+   "type": "ASSEMBLEE GENERALE - CAPITAL, ACTIONS - STATUTS (TRADUCTION, COORDINATION, AUTRES MODIFICATIONS, )",
+   "adresse": "VERVIERS (ENSIVAL)",
+   "pdf": ""
+  },
+  {
+   "nom": "51) X-PACK SA",
+   "date": "",
+   "ref": "",
+   "type": "1988 / 068163",
+   "adresse": "VERVIERS (ENSIVAL)",
+   "pdf": ""
+  },
+  {
+   "nom": "52) X-PACK SA",
+   "date": "1987-07-16",
+   "ref": "263",
+   "type": "DEMISSIONS, NOMINATIONS",
+   "adresse": "VERVIERS (ENSIVAL)",
+   "pdf": ""
+  },
+  {
+   "nom": "53) X-PACK SA",
+   "date": "",
+   "ref": "",
+   "type": "1987 / 061119",
+   "adresse": "VERVIERS (ENSIVAL)",
+   "pdf": ""
+  },
+  {
+   "nom": "54) X-PACK SA",
+   "date": "",
+   "ref": "",
+   "type": "1986 / 046923",
+   "adresse": "VERVIERS (ENSIVAL)",
+   "pdf": ""
+  },
+  {
+   "nom": "55) X-PACK SA",
+   "date": "",
+   "ref": "",
+   "type": "1985 / 44284",
+   "adresse": "VERVIERS (ENSIVAL)",
+   "pdf": ""
+  },
+  {
+   "nom": "56) X-PACK SA",
+   "date": "",
+   "ref": "",
+   "type": "1984 / 36655",
+   "adresse": "VERVIERS (ENSIVAL)",
+   "pdf": ""
+  },
+  {
+   "nom": "57) X-PACK SA",
+   "date": "",
+   "ref": "",
+   "type": "1983 / 41697",
+   "adresse": "VERVIERS (ENSIVAL)",
+   "pdf": ""
+  }
+ ]
+}

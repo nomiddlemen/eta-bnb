@@ -1,0 +1,366 @@
+{
+ "bce": "0437813161",
+ "total_annonce": 45,
+ "items": [
+  {
+   "nom": "1) INTRASKINS SA",
+   "date": "2025-12-11",
+   "ref": "0156483",
+   "type": "DEMISSIONS, NOMINATIONS",
+   "adresse": "RUE DU BLANC BLEU BELGE 18 7700 MOUSCRON",
+   "pdf": "https://www.ejustice.just.fgov.be/tsv_pdf/2025/12/11/25156483.pdf"
+  },
+  {
+   "nom": "2) INTRASKINS SA",
+   "date": "2024-04-24",
+   "ref": "0391587",
+   "type": "STATUTS (TRADUCTION, COORDINATION, AUTRES MODIFICATIONS, )",
+   "adresse": "RUE DU BLANC BLEU BELGE 18 7700 MOUSCRON",
+   "pdf": "https://www.ejustice.just.fgov.be/tsv_pdf/2024/04/24/24391587.pdf"
+  },
+  {
+   "nom": "3) INTRASKINS SA",
+   "date": "2020-01-29",
+   "ref": "0016848",
+   "type": "DEMISSIONS, NOMINATIONS",
+   "adresse": "RUE DU BLANC BLEU BELGE 18 7700 MOUSCRON",
+   "pdf": "https://www.ejustice.just.fgov.be/tsv_pdf/2020/01/29/20016848.pdf"
+  },
+  {
+   "nom": "4) INTRASKINS NV",
+   "date": "2019-01-16",
+   "ref": "2019200127",
+   "type": "MAATSCHAPPELIJKE ZETEL",
+   "adresse": "RUE DU BLANC BLEU BELGE 18 7700 MOESKROEN",
+   "pdf": ""
+  },
+  {
+   "nom": "5) INTRASKINS SA",
+   "date": "2019-01-16",
+   "ref": "2019200127",
+   "type": "SIEGE SOCIAL",
+   "adresse": "RUE DU BLANC BLEU BELGE 18 7700 MOUSCRON",
+   "pdf": ""
+  },
+  {
+   "nom": "6) INTRASKINS NV",
+   "date": "2016-10-13",
+   "ref": "0378314",
+   "type": "ME. - JAARREKENING 31.03.2016, GGK 06.10.2016, NGL 11.10.2016 16652-0226-018",
+   "adresse": "RUE DU BLANC BLEU BELGE 18 7700 MOESKROEN",
+   "pdf": ""
+  },
+  {
+   "nom": "7) INTRASKINS SA",
+   "date": "2015-10-05",
+   "ref": "0361228",
+   "type": "ME. - COMPTES ANNUELS 31.03.2015, APP 30.09.2015, DPT 02.10.2015 15626-0105-018",
+   "adresse": "RUE DU BLANC BLEU BELGE 18 7700 MOUSCRON",
+   "pdf": ""
+  },
+  {
+   "nom": "8) INTRASKINS NV",
+   "date": "2014-12-01",
+   "ref": "0393225",
+   "type": "ME. - JAARREKENING 31.03.2014, GGK 27.11.2014, NGL 28.11.2014 14677-0440-019",
+   "adresse": "RUE DU BLANC BLEU BELGE 18 7700 MOESKROEN",
+   "pdf": ""
+  },
+  {
+   "nom": "9) INTRASKINS SA",
+   "date": "2014-01-28",
+   "ref": "0027153",
+   "type": "DEMISSIONS, NOMINATIONS",
+   "adresse": "RUE DU BLANC BLEU BELGE 18 7700 MOUSCRON",
+   "pdf": "https://www.ejustice.just.fgov.be/tsv_pdf/2014/01/28/14027153.pdf"
+  },
+  {
+   "nom": "10) INTRASKINS NV",
+   "date": "2013-11-18",
+   "ref": "0383175",
+   "type": "ME. - JAARREKENING 31.03.2013, GGK 08.11.2013, NGL 13.11.2013 13657-0422-018",
+   "adresse": "RUE DU BLANC BLEU BELGE 18 7700 MOESKROEN",
+   "pdf": ""
+  },
+  {
+   "nom": "11) INTRASKINS SA",
+   "date": "2012-11-05",
+   "ref": "0363591",
+   "type": "ME. - COMPTES ANNUELS 31.03.2012, APP 29.10.2012, DPT 31.10.2012 12623-0192-018",
+   "adresse": "RUE DU BLANC BLEU BELGE 18 7700 MOUSCRON",
+   "pdf": ""
+  },
+  {
+   "nom": "12) INTRASKINS SA",
+   "date": "2012-01-18",
+   "ref": "0016209",
+   "type": "CAPITAL, ACTIONS - STATUTS (TRADUCTION, COORDINATION, AUTRES MODIFICATIONS, )",
+   "adresse": "RUE DU BLANC BLEU BELGE 18 7700 MOUSCRON",
+   "pdf": "https://www.ejustice.just.fgov.be/tsv_pdf/2012/01/18/12016209.pdf"
+  },
+  {
+   "nom": "13) INTRASKINS SA",
+   "date": "2011-10-31",
+   "ref": "0341477",
+   "type": "ME. - COMPTES ANNUELS 31.03.2011, APP 21.10.2011, DPT 27.10.2011 11587-0195-018",
+   "adresse": "RUE DU BLANC BLEU BELGE 18 7700 MOUSCRON",
+   "pdf": ""
+  },
+  {
+   "nom": "14) INTRASKINS SA",
+   "date": "2010-10-29",
+   "ref": "0159559",
+   "type": "DEMISSIONS, NOMINATIONS",
+   "adresse": "RUE DU BLANC BLEU BELGE 18 7700 MOUSCRON",
+   "pdf": "https://www.ejustice.just.fgov.be/tsv_pdf/2010/10/29/10159559.pdf"
+  },
+  {
+   "nom": "15) INTRASKINS SA",
+   "date": "2010-10-26",
+   "ref": "0334532",
+   "type": "ME. - COMPTES ANNUELS 31.03.2010, APP 30.09.2010, DPT 21.10.2010 10583-0548-018",
+   "adresse": "RUE DU BLANC BLEU BELGE 18 7700 MOUSCRON",
+   "pdf": ""
+  },
+  {
+   "nom": "16) INTRASKINS SA",
+   "date": "2009-11-03",
+   "ref": "0328879",
+   "type": "ME. - COMPTES ANNUELS 31.03.2009, APP 29.10.2009, DPT 30.10.2009 09832-0226-018",
+   "adresse": "RUE DU BLANC BLEU BELGE 18 7700 MOUSCRON",
+   "pdf": ""
+  },
+  {
+   "nom": "17) INTRASKINS SA",
+   "date": "2008-12-08",
+   "ref": "0189944",
+   "type": "DEMISSIONS, NOMINATIONS",
+   "adresse": "RUE DU BLANC BLEU BELGE 18 7700 MOUSCRON",
+   "pdf": "https://www.ejustice.just.fgov.be/tsv_pdf/2008/12/08/08189944.pdf"
+  },
+  {
+   "nom": "18) INTRASKINS NV",
+   "date": "2008-11-04",
+   "ref": "0316926",
+   "type": "ME. - JAARREKENING 31.03.2008, GGK 30.10.2008, NGL 31.10.2008 08799-0384-018",
+   "adresse": "RUE DU BLANC BLEU BELGE 18 7700 MOESKROEN",
+   "pdf": ""
+  },
+  {
+   "nom": "19) INTRASKINS SA",
+   "date": "2008-05-20",
+   "ref": "0074091",
+   "type": "DEMISSIONS, NOMINATIONS",
+   "adresse": "RUE DU BLANC BLEU BELGE 18 7700 MOUSCRON",
+   "pdf": "https://www.ejustice.just.fgov.be/tsv_pdf/2008/05/20/08074091.pdf"
+  },
+  {
+   "nom": "20) INTRASKINS SA",
+   "date": "2008-01-23",
+   "ref": "0013313",
+   "type": "DEMISSIONS, NOMINATIONS",
+   "adresse": "RUE DU BLANC BLEU BELGE 18 7700 MOUSCRON",
+   "pdf": "https://www.ejustice.just.fgov.be/tsv_pdf/2008/01/23/08013313.pdf"
+  },
+  {
+   "nom": "21) INTRASKINS NV",
+   "date": "2007-12-28",
+   "ref": "0332257",
+   "type": "ME. - COMPTES ANNUELS 31.03.2007, APP 18.12.2007, DPT 27.12.2007 07847-0099-016",
+   "adresse": "RUE DU BLANC BLEU BELGE 18 7700 MOESKROEN",
+   "pdf": ""
+  },
+  {
+   "nom": "22) INTRASKINS NV",
+   "date": "2006-10-30",
+   "ref": "0294660",
+   "type": "ME. - COMPTES ANNUELS 31.03.2006, APP 04.10.2006, DPT 25.10.2006 06848-2336-015",
+   "adresse": "RUE DU BLANC BLEU BELGE.18 7700 MOESKROEN",
+   "pdf": ""
+  },
+  {
+   "nom": "23) INTRASKINS NV",
+   "date": "2006-01-02",
+   "ref": "0000615",
+   "type": "ME. - JAARREKENING 31.03.2005, GGK 23.12.2005, NGL 28.12.2005 05921-3959-015",
+   "adresse": "RUE DU BLANC BLEU BELGE.18 7700 MOESKROEN",
+   "pdf": ""
+  },
+  {
+   "nom": "24) INTRASKINS NV",
+   "date": "2004-12-21",
+   "ref": "0300530",
+   "type": "ME. - JAARREKENING 31.03.2004, GGK 06.12.2004, NGL 13.12.2004 04851-0528-015",
+   "adresse": "RUE DU BLANC BLEU BELGE.18 7700 MOESKROEN",
+   "pdf": ""
+  },
+  {
+   "nom": "25) INTRASKINS NV",
+   "date": "2003-12-19",
+   "ref": "0292532",
+   "type": "ME. - JAARREKENING 31.03.2003, GGK 01.12.2003 03831-1576-015",
+   "adresse": "RUE DU BLANC BLEU BELGE.18 7700 MOESKROEN",
+   "pdf": ""
+  },
+  {
+   "nom": "26) INTRASKINS NV",
+   "date": "2003-11-17",
+   "ref": "0120327",
+   "type": "STATUTEN (VERTALING, COÖRDINATIE, OVERIGE WIJZIGINGEN, )",
+   "adresse": "RUE DU BLANC BLEU BELGE.18 7700 MOESKROEN",
+   "pdf": "https://www.ejustice.just.fgov.be/tsv_pdf/2003/11/17/03120327.pdf"
+  },
+  {
+   "nom": "27) INTRASKINS NV",
+   "date": "2003-11-13",
+   "ref": "0118935",
+   "type": "MAATSCHAPPELIJKE ZETEL",
+   "adresse": "RUE DU BLANC BLEU BELGE.18 7700 MOESKROEN",
+   "pdf": "https://www.ejustice.just.fgov.be/tsv_pdf/2003/11/13/03118935.pdf"
+  },
+  {
+   "nom": "28) INTRASKINS NV",
+   "date": "2002-10-14",
+   "ref": "0126341",
+   "type": "ALGEMENE VERGADERING - KAPITAAL - AANDELEN - STATUTEN (VERTALING, COÖRDINATIE, OVERIGE WIJZIGINGEN, ) - BOEKJAAR",
+   "adresse": "SPANJESTRAAT.226 8800 ROESELARE",
+   "pdf": "https://www.ejustice.just.fgov.be/tsv_pdf/2002/10/14/02126341.pdf"
+  },
+  {
+   "nom": "29) INTRASKINS NV",
+   "date": "2002-06-26",
+   "ref": "0089639",
+   "type": "ME. - JAARREKENING 30.09.2001, GGK 07.06.2002 02247-1337-014",
+   "adresse": "SPANJESTRAAT.226 8800 ROESELARE",
+   "pdf": ""
+  },
+  {
+   "nom": "30) INTRASKINS NV",
+   "date": "2001-09-26",
+   "ref": "0201924",
+   "type": "ME. - JAARREKENING 30.09.2000, GGK 07.06.2001 01575-4124-015",
+   "adresse": "SPANJESTRAAT.226 8800 ROESELARE",
+   "pdf": ""
+  },
+  {
+   "nom": "31) INTRASKINS NV",
+   "date": "2001-07-21",
+   "ref": "654",
+   "type": "ALGEMENE VERGADERING - KAPITAAL - AANDELEN - STATUTEN (VERTALING, COÖRDINATIE, OVERIGE WIJZIGINGEN, )",
+   "adresse": "SPANJESTRAAT.226 8800 ROESELARE",
+   "pdf": "https://www.ejustice.just.fgov.be/tsv_pdf/2001/07/21/2001-07-21_0654.pdf"
+  },
+  {
+   "nom": "32) INTRASKINS NV",
+   "date": "2001-06-27",
+   "ref": "611",
+   "type": "ONTSLAGEN - BENOEMINGEN",
+   "adresse": "SPANJESTRAAT.226 8800 ROESELARE",
+   "pdf": "https://www.ejustice.just.fgov.be/tsv_pdf/2001/06/27/2001-06-27_0611.pdf"
+  },
+  {
+   "nom": "33) INTRASKINS NV",
+   "date": "2000-06-24",
+   "ref": "0080493",
+   "type": "ME. - JAARREKENING 30.09.1999, GGK 27.04.2000 00226-4578-016",
+   "adresse": "SPANJESTRAAT.226 8800 ROESELARE",
+   "pdf": ""
+  },
+  {
+   "nom": "34) INTRASKINS NV",
+   "date": "1999-05-29",
+   "ref": "0048773",
+   "type": "ME. - JAARREKENING 30.09.1998, GGK 31.03.1999 - 99106-2821-015",
+   "adresse": "SPANJESTRAAT.226 8800 ROESELARE",
+   "pdf": ""
+  },
+  {
+   "nom": "35) INTRASKINS NV",
+   "date": "",
+   "ref": "",
+   "type": "1998 / 058034",
+   "adresse": "SPANJESTRAAT 226 8800 ROESELARE",
+   "pdf": ""
+  },
+  {
+   "nom": "36) INTRASKINS NV",
+   "date": "",
+   "ref": "",
+   "type": "1997 / 034360",
+   "adresse": "SPANJESTRAAT 226 8800 ROESELARE",
+   "pdf": ""
+  },
+  {
+   "nom": "37) INTRASKINS NV",
+   "date": "",
+   "ref": "",
+   "type": "1996 / 036574",
+   "adresse": "SPANJESTRAAT 226 8800 ROESELARE",
+   "pdf": ""
+  },
+  {
+   "nom": "38) INTRASKINS NV",
+   "date": "1995-04-27",
+   "ref": "295",
+   "type": "ONTSLAGEN - BENOEMINGEN",
+   "adresse": "ROESELARE",
+   "pdf": ""
+  },
+  {
+   "nom": "39) INTRASKINS NV",
+   "date": "",
+   "ref": "",
+   "type": "1995 / 029941",
+   "adresse": "ROESELARE",
+   "pdf": ""
+  },
+  {
+   "nom": "40) INTRASKINS NV",
+   "date": "",
+   "ref": "",
+   "type": "1994 / 064557",
+   "adresse": "ROESELARE",
+   "pdf": ""
+  },
+  {
+   "nom": "41) INTRASKINS NV",
+   "date": "",
+   "ref": "",
+   "type": "1993 / 030534",
+   "adresse": "ROESELARE",
+   "pdf": ""
+  },
+  {
+   "nom": "42) INTRASKINS NV",
+   "date": "",
+   "ref": "",
+   "type": "1992 / 039161",
+   "adresse": "SPANJESTRAAT 226 8800 ROESELARE",
+   "pdf": ""
+  },
+  {
+   "nom": "43) INTRASKINS NV",
+   "date": "",
+   "ref": "",
+   "type": "1991 / 033778",
+   "adresse": "ROESELARE",
+   "pdf": ""
+  },
+  {
+   "nom": "44) INTRASKINS NV",
+   "date": "1990-06-30",
+   "ref": "322",
+   "type": "DIVERSEN",
+   "adresse": "ROESELARE",
+   "pdf": ""
+  },
+  {
+   "nom": "45) INTRASKINS NV",
+   "date": "1989-08-02",
+   "ref": "232",
+   "type": "RUBRIEK OPRICHTING (NIEUWE RECHTSPERSOON, OPENING BIJKANTOOR, ENZ...)",
+   "adresse": "ROESELARE",
+   "pdf": ""
+  }
+ ]
+}

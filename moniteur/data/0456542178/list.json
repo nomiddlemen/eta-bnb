@@ -1,0 +1,278 @@
+{
+ "bce": "0456542178",
+ "total_annonce": 34,
+ "items": [
+  {
+   "nom": "1) EYTELIA SRL",
+   "date": "2026-10-05",
+   "ref": "0368760",
+   "type": "SIEGE SOCIAL",
+   "adresse": "RUE DE LIEGE 2 6180 COURCELLES",
+   "pdf": "https://www.ejustice.just.fgov.be/tsv_pdf/2026/10/05/26368760.pdf"
+  },
+  {
+   "nom": "2) EYTELIA SRL",
+   "date": "2024-01-05",
+   "ref": "0306944",
+   "type": "STATUTS (TRADUCTION, COORDINATION, AUTRES MODIFICATIONS, ) - DIVERS",
+   "adresse": "RUE DE LIEGE 2 6180 COURCELLES",
+   "pdf": "https://www.ejustice.just.fgov.be/tsv_pdf/2024/01/05/24306944.pdf"
+  },
+  {
+   "nom": "3) EYTELIA SRL",
+   "date": "2022-06-03",
+   "ref": "0067006",
+   "type": "DEMISSIONS, NOMINATIONS",
+   "adresse": "RUE DE LIEGE 2 6180 COURCELLES",
+   "pdf": "https://www.ejustice.just.fgov.be/tsv_pdf/2022/06/03/22067006.pdf"
+  },
+  {
+   "nom": "4) EYTELIA SRL",
+   "date": "2021-06-22",
+   "ref": "0073599",
+   "type": "DEMISSIONS, NOMINATIONS",
+   "adresse": "RUE DE LIEGE 2 6180 COURCELLES",
+   "pdf": "https://www.ejustice.just.fgov.be/tsv_pdf/2021/06/22/21073599.pdf"
+  },
+  {
+   "nom": "5) EYTELIA SRL",
+   "date": "2021-05-19",
+   "ref": "0059691",
+   "type": "DEMISSIONS, NOMINATIONS",
+   "adresse": "RUE DE LIEGE 2 6180 COURCELLES",
+   "pdf": "https://www.ejustice.just.fgov.be/tsv_pdf/2021/05/19/21059691.pdf"
+  },
+  {
+   "nom": "6) EYTELIA SPRL",
+   "date": "2020-04-28",
+   "ref": "0319777",
+   "type": "MODIFICATION FORME JURIDIQUE - DEMISSIONS, NOMINATIONS",
+   "adresse": "RUE DE LIEGE 2 6180 COURCELLES",
+   "pdf": "https://www.ejustice.just.fgov.be/tsv_pdf/2020/04/28/20319777.pdf"
+  },
+  {
+   "nom": "7) EYTELIA SPRL",
+   "date": "2016-07-20",
+   "ref": "0180782",
+   "type": "ME. - COMPTES ANNUELS 31.12.2015, APP 09.05.2016, DPT 14.07.2016 16318-0203-038",
+   "adresse": "RUE DE LIEGE 2 6180 COURCELLES",
+   "pdf": ""
+  },
+  {
+   "nom": "8) DEXSIL LABS SPRL",
+   "date": "2016-04-14",
+   "ref": "0051860",
+   "type": "DENOMINATION - STATUTS (TRADUCTION, COORDINATION, AUTRES MODIFICATIONS, )",
+   "adresse": "RUE DE LIEGE 2 6180 COURCELLES",
+   "pdf": "https://www.ejustice.just.fgov.be/tsv_pdf/2016/04/14/16051860.pdf"
+  },
+  {
+   "nom": "9) DEXSIL LABS SPRL",
+   "date": "2016-03-30",
+   "ref": "0044522",
+   "type": "DEMISSIONS, NOMINATIONS",
+   "adresse": "RUE DE LIEGE 2 6180 COURCELLES",
+   "pdf": "https://www.ejustice.just.fgov.be/tsv_pdf/2016/03/30/16044522.pdf"
+  },
+  {
+   "nom": "10) DEXSIL LABS SPRL",
+   "date": "2015-07-24",
+   "ref": "0106896",
+   "type": "DEMISSIONS, NOMINATIONS",
+   "adresse": "RUE DE LIEGE 2 6180 COURCELLES",
+   "pdf": "https://www.ejustice.just.fgov.be/tsv_pdf/2015/07/24/15106896.pdf"
+  },
+  {
+   "nom": "11) DEXSIL LABS SPRL",
+   "date": "2015-07-20",
+   "ref": "0174591",
+   "type": "ME. - COMPTES ANNUELS 31.12.2014, APP 01.06.2015, DPT 14.07.2015 15298-0113-015",
+   "adresse": "RUE DE LIEGE 2 6180 COURCELLES",
+   "pdf": ""
+  },
+  {
+   "nom": "12) DEXSIL LABS SPRL",
+   "date": "2015-01-19",
+   "ref": "0008553",
+   "type": "DEMISSIONS, NOMINATIONS",
+   "adresse": "RUE DE LIEGE 2 6180 COURCELLES",
+   "pdf": "https://www.ejustice.just.fgov.be/tsv_pdf/2015/01/19/15008553.pdf"
+  },
+  {
+   "nom": "13) DEXSIL LABS SPRL",
+   "date": "2014-09-04",
+   "ref": "0296179",
+   "type": "ME. - COMPTES ANNUELS 31.12.2013, APP 02.06.2014, DPT 28.08.2014 14518-0244-022",
+   "adresse": "RUE DE LIEGE 2 6180 COURCELLES",
+   "pdf": ""
+  },
+  {
+   "nom": "14) DEXSIL LABS SPRL",
+   "date": "2013-07-15",
+   "ref": "0167558",
+   "type": "ME. - COMPTES ANNUELS 31.12.2012, APP 31.05.2013, DPT 08.07.2013 13288-0182-023",
+   "adresse": "RUE DE LIEGE 2 6180 COURCELLES",
+   "pdf": ""
+  },
+  {
+   "nom": "15) DEXSIL LABS SPRL",
+   "date": "2012-07-03",
+   "ref": "0133089",
+   "type": "ME. - COMPTES ANNUELS 31.12.2011, APP 31.05.2012, DPT 28.06.2012 12230-0308-023",
+   "adresse": "RUE DE LIEGE 2 6180 COURCELLES",
+   "pdf": ""
+  },
+  {
+   "nom": "16) DEXSIL LABS SPRL",
+   "date": "2011-07-20",
+   "ref": "0175619",
+   "type": "ME. - COMPTES ANNUELS 31.12.2010, APP 30.06.2011, DPT 19.07.2011 11304-0517-020",
+   "adresse": "RUE DE LIEGE 2 6180 COURCELLES",
+   "pdf": ""
+  },
+  {
+   "nom": "17) DEXSIL LABS SPRL",
+   "date": "2010-07-26",
+   "ref": "0182321",
+   "type": "ME. - COMPTES ANNUELS 31.12.2009, APP 31.05.2010, DPT 19.07.2010 10323-0008-020",
+   "adresse": "RUE DE LIEGE 2 6180 COURCELLES",
+   "pdf": ""
+  },
+  {
+   "nom": "18) DEXSIL LABS SPRL",
+   "date": "2009-07-07",
+   "ref": "0138284",
+   "type": "ME. - COMPTES ANNUELS 31.12.2008, APP 01.06.2009, DPT 30.06.2009 09343-0249-020",
+   "adresse": "RUE DE LIEGE 2 6180 COURCELLES",
+   "pdf": ""
+  },
+  {
+   "nom": "19) DEXSIL LABS SPRL",
+   "date": "2009-05-19",
+   "ref": "0070616",
+   "type": "SIEGE SOCIAL",
+   "adresse": "RUE DE MONTIGNY 189 6000 CHARLEROI",
+   "pdf": "https://www.ejustice.just.fgov.be/tsv_pdf/2009/05/19/09070616.pdf"
+  },
+  {
+   "nom": "20) DEXSIL LABS SPRL",
+   "date": "2008-07-07",
+   "ref": "0134963",
+   "type": "ME. - COMPTES ANNUELS 31.12.2007, APP 31.05.2008, DPT 30.06.2008 08332-0367-019",
+   "adresse": "RUE DE MONTIGNY 189 6000 CHARLEROI",
+   "pdf": ""
+  },
+  {
+   "nom": "21) DEXSIL LABS SPRL",
+   "date": "2007-07-02",
+   "ref": "0111974",
+   "type": "ME. - COMPTES ANNUELS 31.12.2006, APP 31.05.2007, DPT 26.06.2007 07288-0281-019",
+   "adresse": "RUE DE MONTIGNY 189 6000 CHARLEROI",
+   "pdf": ""
+  },
+  {
+   "nom": "22) DEXSIL LABS SPRL",
+   "date": "2006-07-03",
+   "ref": "0125476",
+   "type": "ME. - COMPTES ANNUELS 31.12.2005, APP 31.05.2006, DPT 28.06.2006 06351-4307-017",
+   "adresse": "RUE DE MONTIGNY.189 6000 CHARLEROI",
+   "pdf": ""
+  },
+  {
+   "nom": "23) DEXSIL LABS SPRL",
+   "date": "2005-06-23",
+   "ref": "0106660",
+   "type": "ME. - COMPTES ANNUELS 31.12.2004, APP 31.05.2005, DPT 22.06.2005 05295-1067-017",
+   "adresse": "RUE DE MONTIGNY.189 6000 CHARLEROI",
+   "pdf": ""
+  },
+  {
+   "nom": "24) DEXSIL LABS SPRL",
+   "date": "2004-07-06",
+   "ref": "0130985",
+   "type": "ME. - COMPTES ANNUELS 31.12.2003, APP 31.05.2004, DPT 30.06.2004 04381-3122-017",
+   "adresse": "RUE DE MONTIGNY.189 6000 CHARLEROI",
+   "pdf": ""
+  },
+  {
+   "nom": "25) DEXSIL LABS SPRL",
+   "date": "2003-07-07",
+   "ref": "0113820",
+   "type": "ME. - COMPTES ANNUELS 31.12.2002, APP 30.05.2003 03320-0060-017",
+   "adresse": "RUE DE MONTIGNY.189 6000 CHARLEROI",
+   "pdf": ""
+  },
+  {
+   "nom": "26) DEXSIL LABS SPRL",
+   "date": "2002-06-25",
+   "ref": "510",
+   "type": "DENOMINATION - ASSEMBLEE GENERALE - CAPITAL, ACTIONS - STATUTS (TRADUCTION, COORDINATION, AUTRES MODIFICATIONS, ) - SIEGE SOCIAL",
+   "adresse": "RUE DE MONTIGNY.189 6000 CHARLEROI",
+   "pdf": "https://www.ejustice.just.fgov.be/tsv_pdf/2002/06/25/2002-06-25_0510.pdf"
+  },
+  {
+   "nom": "27) DEXSIL LABS SPRL",
+   "date": "2002-01-15",
+   "ref": "0011042",
+   "type": "ME. - COMPTES ANNUELS 31.12.2000, APP 30.05.2001 02002-1982-017",
+   "adresse": "RUE DE MONTIGNY.189 6000 CHARLEROI",
+   "pdf": ""
+  },
+  {
+   "nom": "28) ODORINE SPRL",
+   "date": "2000-10-24",
+   "ref": "0220643",
+   "type": "ME. - COMPTES ANNUELS 31.12.1999, APP 31.05.2000 00634-0375-015",
+   "adresse": "RUE DE MONTIGNY.154 6000 CHARLEROI",
+   "pdf": ""
+  },
+  {
+   "nom": "29) ODORINE SPRL",
+   "date": "1999-08-05",
+   "ref": "0142275",
+   "type": "ME. - COMPTES ANNUELS 31.12.1998, APP 28.05.1999 - 99366-1050-015",
+   "adresse": "RUE DE MONTIGNY.154 6000 CHARLEROI",
+   "pdf": ""
+  },
+  {
+   "nom": "30) ODORINE SPRL",
+   "date": "1999-01-22",
+   "ref": "289",
+   "type": "ASSEMBLEE GENERALE - CAPITAL, ACTIONS - STATUTS (TRADUCTION, COORDINATION, AUTRES MODIFICATIONS, )",
+   "adresse": "RUE DE MONTIGNY.154 6000 CHARLEROI",
+   "pdf": "https://www.ejustice.just.fgov.be/tsv_pdf/1999/01/22/1999-01-22_0289.pdf"
+  },
+  {
+   "nom": "31) ODORINE SPRL",
+   "date": "",
+   "ref": "",
+   "type": "1998 / 132266",
+   "adresse": "RUE DE MONTIGNY 154 6000 CHARLEROI",
+   "pdf": ""
+  },
+  {
+   "nom": "32) ODORINE SPRL",
+   "date": "1997-03-22",
+   "ref": "163",
+   "type": "SIEGE SOCIAL",
+   "adresse": "RUE DE MONTIGNY 154 6000 CHARLEROI",
+   "pdf": "https://www.ejustice.just.fgov.be/tsv_pdf/1997/03/22/1997-03-22_0163.pdf"
+  },
+  {
+   "nom": "33) ODORINE SPRL",
+   "date": "",
+   "ref": "",
+   "type": "1997 / 120305",
+   "adresse": "RUE DE MONTIGNY 154 6000 CHARLEROI",
+   "pdf": ""
+  },
+  {
+   "nom": "34) ODORINE SPRL",
+   "date": "1995-12-12",
+   "ref": "074",
+   "type": "RUBRIQUE CONSTITUTION (NOUVELLE PERSONNE MORALE, OUVERTURE SUCCURSALE, ETC...)",
+   "adresse": "CHARLEROI (GOSSELIES)",
+   "pdf": ""
+  }
+ ]
+}

@@ -1,0 +1,462 @@
+{
+ "bce": "0413070441",
+ "total_annonce": 57,
+ "items": [
+  {
+   "nom": "1) TERRASSEMENTS BELLEFLAMME SA",
+   "date": "2024-05-22",
+   "ref": "0398751",
+   "type": "STATUTS (TRADUCTION, COORDINATION, AUTRES MODIFICATIONS, ) - DENOMINATION - DEMISSIONS, NOMINATIONS",
+   "adresse": "RUE DE L'ADOPTION 61 5660 MARIEMBOURG",
+   "pdf": "https://www.ejustice.just.fgov.be/tsv_pdf/2024/05/22/24398751.pdf"
+  },
+  {
+   "nom": "2) TERRASSEMENTS BELLEFLAMME SA",
+   "date": "2022-08-19",
+   "ref": "0099667",
+   "type": "DEMISSIONS, NOMINATIONS",
+   "adresse": "RUE DE L'ADOPTION 61 5660 MARIEMBOURG",
+   "pdf": "https://www.ejustice.just.fgov.be/tsv_pdf/2022/08/19/22099667.pdf"
+  },
+  {
+   "nom": "3) TERRASSEMENTS BELLEFLAMME-BRASSEUR SA",
+   "date": "2021-05-11",
+   "ref": "0329644",
+   "type": "DENOMINATION - DEMISSIONS, NOMINATIONS - ASSEMBLEE GENERALE - ANNEE COMPTABLE",
+   "adresse": "RUE DE L'ADOPTION 61 5660 MARIEMBOURG",
+   "pdf": "https://www.ejustice.just.fgov.be/tsv_pdf/2021/05/11/21329644.pdf"
+  },
+  {
+   "nom": "4) TERRASSEMENTS BELLEFLAMME-BRASSEUR SA",
+   "date": "2019-07-17",
+   "ref": "0096311",
+   "type": "DEMISSIONS, NOMINATIONS",
+   "adresse": "RUE DE L'ADOPTION 61 5660 MARIEMBOURG",
+   "pdf": "https://www.ejustice.just.fgov.be/tsv_pdf/2019/07/17/19096311.pdf"
+  },
+  {
+   "nom": "5) TERRASSEMENTS BELLEFLAMME-BRASSEUR SA",
+   "date": "2016-12-30",
+   "ref": "0416088",
+   "type": "ME. - COMPTES ANNUELS 30.06.2016, APP 25.11.2016, DPT 23.12.2016 16717-0304-016",
+   "adresse": "RUE DE L'ADOPTION 61 5660 MARIEMBOURG",
+   "pdf": ""
+  },
+  {
+   "nom": "6) TERRASSEMENTS BELLEFLAMME-BRASSEUR SA",
+   "date": "2016-02-03",
+   "ref": "0020180",
+   "type": "ME. - COMPTES ANNUELS 30.06.2015, APP 27.11.2015, DPT 27.01.2016 16030-0173-016",
+   "adresse": "RUE DE L'ADOPTION 61 5660 MARIEMBOURG",
+   "pdf": ""
+  },
+  {
+   "nom": "7) TERRASSEMENTS BELLEFLAMME-BRASSEUR SA",
+   "date": "2016-01-07",
+   "ref": "0002964",
+   "type": "CAPITAL, ACTIONS",
+   "adresse": "RUE DE L'ADOPTION 61 5660 MARIEMBOURG",
+   "pdf": "https://www.ejustice.just.fgov.be/tsv_pdf/2016/01/07/16002964.pdf"
+  },
+  {
+   "nom": "8) TERRASSEMENTS BELLEFLAMME-BRASSEUR SA",
+   "date": "2015-01-30",
+   "ref": "0016838",
+   "type": "ME. - COMPTES ANNUELS 30.06.2014, APP 28.11.2014, DPT 23.01.2015 15024-0020-016",
+   "adresse": "RUE DE L'ADOPTION 61 5660 MARIEMBOURG",
+   "pdf": ""
+  },
+  {
+   "nom": "9) TERRASSEMENTS BELLEFLAMME-BRASSEUR SA",
+   "date": "2014-07-07",
+   "ref": "0130694",
+   "type": "CAPITAL, ACTIONS - STATUTS (TRADUCTION, COORDINATION, AUTRES MODIFICATIONS, )",
+   "adresse": "RUE DE L'ADOPTION 61 5660 MARIEMBOURG",
+   "pdf": "https://www.ejustice.just.fgov.be/tsv_pdf/2014/07/07/14130694.pdf"
+  },
+  {
+   "nom": "10) TERRASSEMENTS BELLEFLAMME-BRASSEUR SA",
+   "date": "2014-02-27",
+   "ref": "0029939",
+   "type": "ME. - COMPTES ANNUELS 30.06.2013, APP 29.11.2013, DPT 20.02.2014 14047-0502-016",
+   "adresse": "RUE DE L'ADOPTION 61 5660 MARIEMBOURG",
+   "pdf": ""
+  },
+  {
+   "nom": "11) TERRASSEMENTS BELLEFLAMME-BRASSEUR SA",
+   "date": "2013-06-14",
+   "ref": "0090172",
+   "type": "DEMISSIONS, NOMINATIONS",
+   "adresse": "RUE DE L'ADOPTION 61 5660 MARIEMBOURG",
+   "pdf": "https://www.ejustice.just.fgov.be/tsv_pdf/2013/06/14/13090172.pdf"
+  },
+  {
+   "nom": "12) TERRASSEMENTS BELLEFLAMME-BRASSEUR SA",
+   "date": "2013-02-28",
+   "ref": "0029569",
+   "type": "ME. - COMPTES ANNUELS 30.06.2012, APP 30.11.2012, DPT 21.02.2013 13046-0484-016",
+   "adresse": "RUE DE L'ADOPTION 61 5660 MARIEMBOURG",
+   "pdf": ""
+  },
+  {
+   "nom": "13) TERRASSEMENTS BELLEFLAMME-BRASSEUR SA",
+   "date": "2012-04-02",
+   "ref": "0066531",
+   "type": "DEMISSIONS, NOMINATIONS",
+   "adresse": "RUE DE L'ADOPTION 61 5660 MARIEMBOURG",
+   "pdf": "https://www.ejustice.just.fgov.be/tsv_pdf/2012/04/02/12066531.pdf"
+  },
+  {
+   "nom": "14) TERRASSEMENTS BELLEFLAMME-BRASSEUR SA",
+   "date": "2012-01-02",
+   "ref": "0002029",
+   "type": "ME. - COMPTES ANNUELS 30.06.2011, APP 25.11.2011, DPT 26.12.2011 11655-0413-017",
+   "adresse": "RUE DE L'ADOPTION 61 5660 MARIEMBOURG",
+   "pdf": ""
+  },
+  {
+   "nom": "15) TERRASSEMENTS BELLEFLAMME-BRASSEUR SA",
+   "date": "2011-03-03",
+   "ref": "0029690",
+   "type": "ME. - COMPTES ANNUELS 30.06.2010, APP 30.01.2011, DPT 24.02.2011 11047-0018-017",
+   "adresse": "RUE DE L'ADOPTION 61 5660 MARIEMBOURG",
+   "pdf": ""
+  },
+  {
+   "nom": "16) TERRASSEMENTS BELLEFLAMME-BRASSEUR SA",
+   "date": "2009-12-15",
+   "ref": "0349347",
+   "type": "ME. - COMPTES ANNUELS 30.06.2009, APP 27.11.2009, DPT 09.12.2009 09883-0152-017",
+   "adresse": "RUE DE L'ADOPTION 61 5660 MARIEMBOURG",
+   "pdf": ""
+  },
+  {
+   "nom": "17) TERRASSEMENTS BELLEFLAMME-BRASSEUR SA",
+   "date": "2009-01-22",
+   "ref": "0008936",
+   "type": "ME. - COMPTES ANNUELS 30.06.2008, APP 28.11.2008, DPT 14.01.2009 09002-0207-018",
+   "adresse": "RUE DE L'ADOPTION 61 5660 MARIEMBOURG",
+   "pdf": ""
+  },
+  {
+   "nom": "18) TERRASSEMENTS BELLEFLAMME-BRASSEUR SA",
+   "date": "2008-05-29",
+   "ref": "0078731",
+   "type": "RUBRIQUE RESTRUCTURATION (FUSION, SCISSION, TRANSFERT PATRIMOINE, ETC...) - STATUTS (TRADUCTION, COORDINATION, AUTRES MODIFICATIONS, )",
+   "adresse": "RUE DE L'ADOPTION 61 5660 MARIEMBOURG",
+   "pdf": "https://www.ejustice.just.fgov.be/tsv_pdf/2008/05/29/08078731.pdf"
+  },
+  {
+   "nom": "19) TERRASSEMENTS BELLEFLAMME-BRASSEUR SA",
+   "date": "2008-01-03",
+   "ref": "0003275",
+   "type": "ME. - COMPTES ANNUELS 30.06.2007, APP 30.11.2007, DPT 28.12.2007 07855-0118-016",
+   "adresse": "RUE DE L'ADOPTION 61 5660 MARIEMBOURG",
+   "pdf": ""
+  },
+  {
+   "nom": "20) TERRASSEMENTS BELLEFLAMME-BRASSEUR SA",
+   "date": "2007-12-27",
+   "ref": "0186687",
+   "type": "DEMISSIONS, NOMINATIONS",
+   "adresse": "RUE DE L'ADOPTION 61 5660 MARIEMBOURG",
+   "pdf": "https://www.ejustice.just.fgov.be/tsv_pdf/2007/12/27/07186687.pdf"
+  },
+  {
+   "nom": "21) TERRASSEMENTS BELLEFLAMME-BRASSEUR SA",
+   "date": "2007-12-17",
+   "ref": "0181423",
+   "type": "DIVERS - RUBRIQUE RESTRUCTURATION (FUSION, SCISSION, TRANSFERT PATRIMOINE, ETC...)",
+   "adresse": "RUE DE L'ADOPTION 61 5660 MARIEMBOURG",
+   "pdf": "https://www.ejustice.just.fgov.be/tsv_pdf/2007/12/17/07181423.pdf"
+  },
+  {
+   "nom": "22) TERRASSEMENTS BELLEFLAMME-BRASSEUR SA",
+   "date": "2007-01-09",
+   "ref": "0005362",
+   "type": "ME. - COMPTES ANNUELS 30.06.2006, APP 24.11.2006, DPT 27.12.2006 06940-2247-015",
+   "adresse": "RUE DE L'ADOPTION 61 5660 MARIEMBOURG",
+   "pdf": ""
+  },
+  {
+   "nom": "23) TERRASSEMENTS BELLEFLAMME-BRASSEUR SA",
+   "date": "2006-02-24",
+   "ref": "0020286",
+   "type": "ME. - COMPTES ANNUELS 30.06.2005, APP 25.11.2005, DPT 13.02.2006 06050-5216-015",
+   "adresse": "RUE DE LADOPTION.61 5660 MARIEMBOURG",
+   "pdf": ""
+  },
+  {
+   "nom": "24) TERRASSEMENTS BELLEFLAMME-BRASSEUR SA",
+   "date": "2005-01-26",
+   "ref": "0014899",
+   "type": "ME. - RECTIFICATIF COMPTES ANNUELS 30.06.2004, APP 26.11.2004, DPT 20.01.2005 05025-2352-015",
+   "adresse": "RUE DE LADOPTION.61 5660 MARIEMBOURG",
+   "pdf": ""
+  },
+  {
+   "nom": "25) TERRASSEMENTS BELLEFLAMME-BRASSEUR SA",
+   "date": "2004-12-31",
+   "ref": "0311329",
+   "type": "ME. - COMPTES ANNUELS 30.06.2004, APP 26.11.2004, DPT 23.12.2004 04881-1577-015",
+   "adresse": "RUE DE LADOPTION.61 5660 MARIEMBOURG",
+   "pdf": ""
+  },
+  {
+   "nom": "26) TERRASSEMENTS BELLEFLAMME-BRASSEUR SA",
+   "date": "2004-01-07",
+   "ref": "0008455",
+   "type": "ME. - COMPTES ANNUELS 30.06.2003, APP 28.11.2003 03867-1080-015",
+   "adresse": "RUE DE LADOPTION.61 5660 MARIEMBOURG",
+   "pdf": ""
+  },
+  {
+   "nom": "27) TERRASSEMENTS BELLEFLAMME-BRASSEUR SA",
+   "date": "2003-01-02",
+   "ref": "0000024",
+   "type": "ME. - COMPTES ANNUELS 30.06.2002, APP 29.11.2002 02774-2803-016",
+   "adresse": "RUE DE LADOPTION.61 5660 MARIEMBOURG",
+   "pdf": ""
+  },
+  {
+   "nom": "28) TERRASSEMENTS BELLEFLAMME-BRASSEUR SA",
+   "date": "2001-12-06",
+   "ref": "286",
+   "type": "DEMISSIONS, NOMINATIONS",
+   "adresse": "RUE DE LADOPTION.61 5660 MARIEMBOURG",
+   "pdf": "https://www.ejustice.just.fgov.be/tsv_pdf/2001/12/06/2001-12-06_0286.pdf"
+  },
+  {
+   "nom": "29) TERRASSEMENTS BELLEFLAMME-BRASSEUR SA",
+   "date": "2001-11-30",
+   "ref": "192",
+   "type": "CAPITAL, ACTIONS - OBJET - STATUTS (TRADUCTION, COORDINATION, AUTRES MODIFICATIONS, ) - ANNEE COMPTABLE - DEMISSIONS, NOMINATIONS",
+   "adresse": "RUE DE LADOPTION.61 5660 MARIEMBOURG",
+   "pdf": "https://www.ejustice.just.fgov.be/tsv_pdf/2001/11/30/2001-11-30_0192.pdf"
+  },
+  {
+   "nom": "30) TERRASSEMENTS BELLEFLAMME-BRASSEUR SA",
+   "date": "2001-11-07",
+   "ref": "0236870",
+   "type": "ME. - COMPTES ANNUELS 30.06.2001, APP 22.10.2001 01676-5349-014",
+   "adresse": "RUE DE LADOPTION.61 5660 MARIEMBOURG",
+   "pdf": ""
+  },
+  {
+   "nom": "31) TERRASSEMENTS BELLEFLAMME-BRASSEUR SA",
+   "date": "2000-11-16",
+   "ref": "0241076",
+   "type": "ME. - COMPTES ANNUELS 30.06.2000, APP 09.09.2000 00695-1960-015",
+   "adresse": "RUE DE LADOPTION.61 5660 MARIEMBOURG",
+   "pdf": ""
+  },
+  {
+   "nom": "32) TERRASSEMENTS BELLEFLAMME-BRASSEUR SA",
+   "date": "1999-11-18",
+   "ref": "0223191",
+   "type": "ME. - COMPTES ANNUELS 30.06.1999, APP 11.09.1999 - 99581-2653-016",
+   "adresse": "RUE DE LADOPTION.61 5660 MARIEMBOURG",
+   "pdf": ""
+  },
+  {
+   "nom": "33) TERRASSEMENTS BELLEFLAMME-BRASSEUR SA",
+   "date": "",
+   "ref": "",
+   "type": "1998 / 225212",
+   "adresse": "RUE DE LADOPTION 61 5660 COUVIN (MARIEMBOURG)",
+   "pdf": ""
+  },
+  {
+   "nom": "34) TERRASSEMENTS BELLEFLAMME-BRASSEUR SA",
+   "date": "1997-05-29",
+   "ref": "170",
+   "type": "CAPITAL, ACTIONS - ASSEMBLEE GENERALE - STATUTS (TRADUCTION, COORDINATION, AUTRES MODIFICATIONS, )",
+   "adresse": "RUE DE LADOPTION 61 5660 COUVIN (MARIEMBOURG)",
+   "pdf": "https://www.ejustice.just.fgov.be/tsv_pdf/1997/05/29/1997-05-29_0170.pdf"
+  },
+  {
+   "nom": "35) TERRASSEMENTS BELLEFLAMME-BRASSEUR SA",
+   "date": "",
+   "ref": "",
+   "type": "1997 / 197640",
+   "adresse": "RUE DE LADOPTION 61 5660 COUVIN (MARIEMBOURG)",
+   "pdf": ""
+  },
+  {
+   "nom": "36) TERRASSEMENTS BELLEFLAMME-BRASSEUR SA",
+   "date": "1996-01-10",
+   "ref": "322",
+   "type": "DENOMINATION - ASSEMBLEE GENERALE - CAPITAL, ACTIONS - STATUTS (TRADUCTION, COORDINATION, AUTRES MODIFICATIONS, )",
+   "adresse": "RUE DE LADOPTION 61 5660 COUVIN (MARIEMBOURG)",
+   "pdf": ""
+  },
+  {
+   "nom": "37) TERRASSEMENTS BELLEFLAMME-BRASSEUR SA",
+   "date": "1996-01-10",
+   "ref": "323",
+   "type": "MODIFICATION FORME JURIDIQUE - ASSEMBLEE GENERALE - CAPITAL, ACTIONS - STATUTS (TRADUCTION, COORDINATION, AUTRES MODIFICATIONS, )",
+   "adresse": "RUE DE LADOPTION 61 5660 COUVIN (MARIEMBOURG)",
+   "pdf": ""
+  },
+  {
+   "nom": "38) TERRASSEMENTS BELLEFLAMME-BRASSEUR SA",
+   "date": "",
+   "ref": "",
+   "type": "1996 / 214926",
+   "adresse": "RUE DE LADOPTION 61 5660 COUVIN (MARIEMBOURG)",
+   "pdf": ""
+  },
+  {
+   "nom": "39) TERRASSEMENTS BELLEFLAMME-BRASSEUR SA",
+   "date": "",
+   "ref": "",
+   "type": "1995 / 061534",
+   "adresse": "COUVIN (MARIEMBOURG)",
+   "pdf": ""
+  },
+  {
+   "nom": "40) TERRASSEMENTS BELLEFLAMME MICHEL - BRASSEUR SPRL",
+   "date": "",
+   "ref": "",
+   "type": "1994 / 079237",
+   "adresse": "COUVIN (MARIEMBOURG)",
+   "pdf": ""
+  },
+  {
+   "nom": "41) TERRASSEMENTS BELLEFLAMME MICHEL - BRASSEUR SPRL",
+   "date": "1993-12-07",
+   "ref": "572",
+   "type": "SIEGE SOCIAL",
+   "adresse": "COUVIN (MARIEMBOURG)",
+   "pdf": ""
+  },
+  {
+   "nom": "42) TERRASSEMENTS BELLEFLAMME MICHEL - BRASSEUR SPRL",
+   "date": "1993-11-30",
+   "ref": "012",
+   "type": "MODIFICATION FORME JURIDIQUE - ASSEMBLEE GENERALE - CAPITAL, ACTIONS - STATUTS (TRADUCTION, COORDINATION, AUTRES MODIFICATIONS, )",
+   "adresse": "COUVIN (MARIEMBOURG)",
+   "pdf": ""
+  },
+  {
+   "nom": "43) TERRASSEMENTS BELLEFLAMME MICHEL - BRASSEUR SPRL",
+   "date": "",
+   "ref": "",
+   "type": "1993 / 115243",
+   "adresse": "COUVIN (MARIEMBOURG)",
+   "pdf": ""
+  },
+  {
+   "nom": "44) TERRASSEMENTS BELLEFLAMME MICHEL - BRASSEUR SPRL",
+   "date": "",
+   "ref": "",
+   "type": "1992 / 054230",
+   "adresse": "RUE DE LADOPTION 61 5660 COUVIN (MARIEMBOURG)",
+   "pdf": ""
+  },
+  {
+   "nom": "45) TERRASSEMENTS BELLEFLAMME MICHEL - BRASSEUR SPRL",
+   "date": "",
+   "ref": "",
+   "type": "1991 / 054961",
+   "adresse": "COUVIN (MARIEMBOURG)",
+   "pdf": ""
+  },
+  {
+   "nom": "46) TERRASSEMENTS BELLEFLAMME MICHEL - BRASSEUR SPRL",
+   "date": "",
+   "ref": "",
+   "type": "1990 / 042393",
+   "adresse": "COUVIN (MARIEMBOURG)",
+   "pdf": ""
+  },
+  {
+   "nom": "47) TERRASSEMENTS BELLEFLAMME MICHEL - BRASSEUR SPRL",
+   "date": "",
+   "ref": "",
+   "type": "1989 / 026652",
+   "adresse": "COUVIN (MARIEMBOURG)",
+   "pdf": ""
+  },
+  {
+   "nom": "48) TERRASSEMENTS BELLEFLAMME MICHEL - BRASSEUR SPRL",
+   "date": "",
+   "ref": "",
+   "type": "1988 / 037888",
+   "adresse": "COUVIN (MARIEMBOURG)",
+   "pdf": ""
+  },
+  {
+   "nom": "49) TERRASSEMENTS BELLEFLAMME MICHEL - BRASSEUR SPRL",
+   "date": "1987-12-23",
+   "ref": "274",
+   "type": "MODIFICATION FORME JURIDIQUE - CAPITAL, ACTIONS - ASSEMBLEE GENERALE - STATUTS (TRADUCTION, COORDINATION, AUTRES MODIFICATIONS, )",
+   "adresse": "COUVIN (MARIEMBOURG)",
+   "pdf": ""
+  },
+  {
+   "nom": "50) TERRASSEMENTS BELLEFLAMME MICHEL - BRASSEUR SPRL",
+   "date": "",
+   "ref": "",
+   "type": "1987 / 035388",
+   "adresse": "COUVIN (MARIEMBOURG)",
+   "pdf": ""
+  },
+  {
+   "nom": "51) TERRASSEMENTS BELLEFLAMME MICHEL - BRASSEUR SPRL",
+   "date": "",
+   "ref": "",
+   "type": "1986 / 044475",
+   "adresse": "COUVIN (MARIEMBOURG)",
+   "pdf": ""
+  },
+  {
+   "nom": "52) TERRASSEMENTS BELLEFLAMME MICHEL - BRASSEUR SPRL",
+   "date": "1985-10-26",
+   "ref": "253",
+   "type": "DEMISSIONS, NOMINATIONS - ASSEMBLEE GENERALE - CAPITAL, ACTIONS - STATUTS (TRADUCTION, COORDINATION, AUTRES MODIFICATIONS, )",
+   "adresse": "COUVIN (MARIEMBOURG)",
+   "pdf": ""
+  },
+  {
+   "nom": "53) TERRASSEMENTS BELLEFLAMME MICHEL - BRASSEUR SPRL",
+   "date": "1985-05-18",
+   "ref": "023",
+   "type": "DEMISSIONS, NOMINATIONS",
+   "adresse": "COUVIN (MARIEMBOURG)",
+   "pdf": ""
+  },
+  {
+   "nom": "54) TERRASSEMENTS BELLEFLAMME MICHEL - BRASSEUR SPRL",
+   "date": "",
+   "ref": "",
+   "type": "1985 / 30238",
+   "adresse": "COUVIN (MARIEMBOURG)",
+   "pdf": ""
+  },
+  {
+   "nom": "55) TERRASSEMENTS BELLEFLAMME MICHEL - BRASSEUR SPRL",
+   "date": "1984-01-01",
+   "ref": "0101-13",
+   "type": "DEMISSIONS, NOMINATIONS",
+   "adresse": "COUVIN (MARIEMBOURG)",
+   "pdf": ""
+  },
+  {
+   "nom": "56) TERRASSEMENTS BELLEFLAMME MICHEL - BRASSEUR SPRL",
+   "date": "",
+   "ref": "",
+   "type": "1984 / 41680",
+   "adresse": "COUVIN (MARIEMBOURG)",
+   "pdf": ""
+  },
+  {
+   "nom": "57) TERRASSEMENTS BELLEFLAMME MICHEL - BRASSEUR SPRL",
+   "date": "",
+   "ref": "",
+   "type": "1983 / 57314",
+   "adresse": "COUVIN (MARIEMBOURG)",
+   "pdf": ""
+  }
+ ]
+}

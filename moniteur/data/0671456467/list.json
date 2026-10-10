@@ -1,0 +1,62 @@
+{
+ "bce": "0671456467",
+ "total_annonce": 7,
+ "items": [
+  {
+   "nom": "1) TAROS SRL",
+   "date": "2025-07-07",
+   "ref": "0084489",
+   "type": "DEMISSIONS, NOMINATIONS",
+   "adresse": "BOULEVARD DU TEXTILE 1 7700 MOUSCRON",
+   "pdf": "https://www.ejustice.just.fgov.be/tsv_pdf/2025/07/07/25084489.pdf"
+  },
+  {
+   "nom": "2) SOLOC BELGIUM SPRL",
+   "date": "2020-10-08",
+   "ref": "0116876",
+   "type": "DENOMINATION - SIEGE SOCIAL - OBJET - DEMISSIONS, NOMINATIONS - STATUTS (TRADUCTION, COORDINATION, AUTRES MODIFICATIONS, ) - MODIFICATION FORME JURIDIQUE",
+   "adresse": "RUE DE LA ROYENNE 92 7700 MOUSCRON",
+   "pdf": "https://www.ejustice.just.fgov.be/tsv_pdf/2020/10/08/20116876.pdf"
+  },
+  {
+   "nom": "3) SOLOC BELGIUM SPRL",
+   "date": "2020-10-05",
+   "ref": "0115668",
+   "type": "DEMISSIONS, NOMINATIONS",
+   "adresse": "RUE DE LA ROYENNE 92 7700 MOUSCRON",
+   "pdf": "https://www.ejustice.just.fgov.be/tsv_pdf/2020/10/05/20115668.pdf"
+  },
+  {
+   "nom": "4) SOLOC BELGIUM SPRL",
+   "date": "2020-02-10",
+   "ref": "0022996",
+   "type": "SIEGE SOCIAL",
+   "adresse": "DREVE GUSTAVE FACHE 1 7700 MOUSCRON",
+   "pdf": "https://www.ejustice.just.fgov.be/tsv_pdf/2020/02/10/20022996.pdf"
+  },
+  {
+   "nom": "5) SOLOC BELGIUM SPRL",
+   "date": "2019-01-16",
+   "ref": "2019200128",
+   "type": "SIEGE SOCIAL",
+   "adresse": "DREVE GUSTAVE FACHE 1 7700 MOUSCRON",
+   "pdf": ""
+  },
+  {
+   "nom": "6) SOLOC BELGIUM SPRL",
+   "date": "2018-08-03",
+   "ref": "0121179",
+   "type": "CAPITAL, ACTIONS",
+   "adresse": "DREVE GUSTAVE FACHE 1 7700 MOUSCRON",
+   "pdf": "https://www.ejustice.just.fgov.be/tsv_pdf/2018/08/03/18121179.pdf"
+  },
+  {
+   "nom": "7) SOLOC BELGIUM SPRL",
+   "date": "2017-02-15",
+   "ref": "0304360",
+   "type": "RUBRIQUE CONSTITUTION (NOUVELLE PERSONNE MORALE, OUVERTURE SUCCURSALE, ETC...)",
+   "adresse": "DREVE GUSTAVE FACHE 1 7700 MOUSCRON",
+   "pdf": "https://www.ejustice.just.fgov.be/tsv_pdf/2017/02/15/17304360.pdf"
+  }
+ ]
+}

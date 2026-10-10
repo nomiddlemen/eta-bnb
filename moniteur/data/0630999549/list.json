@@ -1,0 +1,30 @@
+{
+ "bce": "0630999549",
+ "total_annonce": 3,
+ "items": [
+  {
+   "nom": "1) BARAT SPRL",
+   "date": "2024-08-19",
+   "ref": "0422844",
+   "type": "STATUTS (TRADUCTION, COORDINATION, AUTRES MODIFICATIONS, ) - MODIFICATION FORME JURIDIQUE - DIVERS - DEMISSIONS, NOMINATIONS",
+   "adresse": "PLACE DE SAINT-JOB 34 1180 UCCLE",
+   "pdf": "https://www.ejustice.just.fgov.be/tsv_pdf/2024/08/19/24422844.pdf"
+  },
+  {
+   "nom": "2) BARAT SPRL",
+   "date": "2017-11-28",
+   "ref": "0083507",
+   "type": "ME. - COMPTES ANNUELS 31.12.2015, APP 24.06.2016, DPT 26.11.2017 17701-0153-015",
+   "adresse": "PLACE DE SAINT-JOB 34 1180 UCCLE",
+   "pdf": ""
+  },
+  {
+   "nom": "3) BARAT SPRL",
+   "date": "2015-06-03",
+   "ref": "0309112",
+   "type": "RUBRIQUE CONSTITUTION (NOUVELLE PERSONNE MORALE, OUVERTURE SUCCURSALE, ETC...)",
+   "adresse": "PLACE DE SAINT-JOB 34 1180 UCCLE",
+   "pdf": "https://www.ejustice.just.fgov.be/tsv_pdf/2015/06/03/15309112.pdf"
+  }
+ ]
+}

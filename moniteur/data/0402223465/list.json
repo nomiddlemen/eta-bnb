@@ -1,0 +1,358 @@
+{
+ "bce": "0402223465",
+ "total_annonce": 44,
+ "items": [
+  {
+   "nom": "1) SUIKERBAKKERIJ JORIS BVBA",
+   "date": "2021-05-05",
+   "ref": "0054122",
+   "type": "ONTSLAGEN - BENOEMINGEN",
+   "adresse": "GROOT-BIJGAARDENSTRAAT 471-477 1082 SINT-AGATHA-BERCHEM",
+   "pdf": "https://www.ejustice.just.fgov.be/tsv_pdf/2021/05/05/21054122.pdf"
+  },
+  {
+   "nom": "2) SUIKERBAKKERIJ JORIS BVBA",
+   "date": "2020-09-03",
+   "ref": "0101904",
+   "type": "ONTSLAGEN - BENOEMINGEN",
+   "adresse": "GROOT-BIJGAARDENSTRAAT 471-477 1082 SINT-AGATHA-BERCHEM",
+   "pdf": "https://www.ejustice.just.fgov.be/tsv_pdf/2020/09/03/20101904.pdf"
+  },
+  {
+   "nom": "3) SUIKERBAKKERIJ JORIS BVBA",
+   "date": "2018-03-29",
+   "ref": "0053194",
+   "type": "KAPITAAL - AANDELEN",
+   "adresse": "GROOT-BIJGAARDENSTRAAT 471-477 1082 BRUSSEL",
+   "pdf": "https://www.ejustice.just.fgov.be/tsv_pdf/2018/03/29/18053194.pdf"
+  },
+  {
+   "nom": "4) SUIKERBAKKERIJ JORIS BVBA",
+   "date": "2016-06-03",
+   "ref": "0081558",
+   "type": "ME. - JAARREKENING 31.12.2015, GGK 23.05.2016, NGL 27.05.2016 16139-0262-016",
+   "adresse": "GROOT-BIJGAARDENSTRAAT 471-477 1082 BRUSSEL",
+   "pdf": ""
+  },
+  {
+   "nom": "5) SUIKERBAKKERIJ JORIS BVBA",
+   "date": "2015-05-22",
+   "ref": "0072089",
+   "type": "ME. - JAARREKENING 31.12.2014, GGK 24.04.2015, NGL 19.05.2015 15124-0083-015",
+   "adresse": "GROOT-BIJGAARDENSTRAAT 471-477 1082 BRUSSEL",
+   "pdf": ""
+  },
+  {
+   "nom": "6) SUIKERBAKKERIJ JORIS BVBA",
+   "date": "2014-06-05",
+   "ref": "0084148",
+   "type": "ME. - JAARREKENING 31.12.2013, GGK 30.04.2014, NGL 28.05.2014 14143-0159-016",
+   "adresse": "GROOT-BIJGAARDENSTRAAT 471-477 1082 BRUSSEL",
+   "pdf": ""
+  },
+  {
+   "nom": "7) SUIKERBAKKERIJ JORIS BVBA",
+   "date": "2014-04-02",
+   "ref": "0071972",
+   "type": "KAPITAAL - AANDELEN",
+   "adresse": "GROOT-BIJGAARDENSTRAAT 471-477 1082 BRUSSEL",
+   "pdf": "https://www.ejustice.just.fgov.be/tsv_pdf/2014/04/02/14071972.pdf"
+  },
+  {
+   "nom": "8) SUIKERBAKKERIJ JORIS BVBA",
+   "date": "2013-05-16",
+   "ref": "0069293",
+   "type": "ME. - JAARREKENING 31.12.2012, GGK 26.04.2013, NGL 13.05.2013 13117-0468-015",
+   "adresse": "GROOT-BIJGAARDENSTRAAT 471-477 1082 BRUSSEL",
+   "pdf": ""
+  },
+  {
+   "nom": "9) SUIKERBAKKERIJ JORIS BVBA",
+   "date": "2012-05-31",
+   "ref": "0075144",
+   "type": "ME. - JAARREKENING 31.12.2011, GGK 04.05.2012, NGL 24.05.2012 12126-0531-015",
+   "adresse": "GROOT-BIJGAARDENSTRAAT 471-477 1082 BRUSSEL",
+   "pdf": ""
+  },
+  {
+   "nom": "10) SUIKERBAKKERIJ JORIS BVBA",
+   "date": "2011-05-25",
+   "ref": "0068757",
+   "type": "ME. - JAARREKENING 31.12.2010, GGK 29.04.2011, NGL 18.05.2011 11116-0321-015",
+   "adresse": "GROOT-BIJGAARDENSTRAAT 471-477 1082 BRUSSEL",
+   "pdf": ""
+  },
+  {
+   "nom": "11) SUIKERBAKKERIJ JORIS BVBA",
+   "date": "2010-05-20",
+   "ref": "0063785",
+   "type": "ME. - JAARREKENING 31.12.2009, GGK 30.04.2010, NGL 17.05.2010 10120-0047-015",
+   "adresse": "GROOT-BIJGAARDENSTRAAT 471-477 1082 BRUSSEL",
+   "pdf": ""
+  },
+  {
+   "nom": "12) SUIKERBAKKERIJ JORIS BVBA",
+   "date": "2009-06-03",
+   "ref": "0069961",
+   "type": "ME. - JAARREKENING 31.12.2008, GGK 24.04.2009, NGL 28.05.2009 09172-0252-015",
+   "adresse": "GROOT-BIJGAARDENSTRAAT 471-477 1082 BRUSSEL",
+   "pdf": ""
+  },
+  {
+   "nom": "13) SUIKERBAKKERIJ JORIS BVBA",
+   "date": "2009-01-26",
+   "ref": "0012929",
+   "type": "ONTSLAGEN - BENOEMINGEN",
+   "adresse": "GROOT-BIJGAARDENSTRAAT 471-477 1082 BRUSSEL",
+   "pdf": "https://www.ejustice.just.fgov.be/tsv_pdf/2009/01/26/09012929.pdf"
+  },
+  {
+   "nom": "14) SUIKERBAKKERIJ JORIS BVBA",
+   "date": "2008-05-29",
+   "ref": "0063194",
+   "type": "ME. - JAARREKENING 31.12.2007, GGK 25.04.2008, NGL 22.05.2008 08154-0145-015",
+   "adresse": "GROOT-BIJGAARDENSTRAAT 471-477 1082 BRUSSEL",
+   "pdf": ""
+  },
+  {
+   "nom": "15) SUIKERBAKKERIJ JORIS BVBA",
+   "date": "2007-05-22",
+   "ref": "0055934",
+   "type": "ME. - JAARREKENING 31.12.2006, GGK 27.04.2007, NGL 10.05.2007 07141-0322-014",
+   "adresse": "GROOT-BIJGAARDENSTRAAT 471-477 1082 BRUSSEL",
+   "pdf": ""
+  },
+  {
+   "nom": "16) SUIKERBAKKERIJ JORIS BVBA",
+   "date": "2006-05-24",
+   "ref": "0053253",
+   "type": "ME. - JAARREKENING 31.12.2005, GGK 28.04.2006, NGL 12.05.2006 06144-1408-014",
+   "adresse": "GROOT-BIJGAARDENSTRAAT 471-477 1082 BRUSSEL",
+   "pdf": ""
+  },
+  {
+   "nom": "17) SUIKERBAKKERIJ JORIS BVBA",
+   "date": "2005-05-27",
+   "ref": "0063967",
+   "type": "ME. - JAARREKENING 31.12.2004, GGK 29.04.2005, NGL 26.05.2005 05174-3609-014",
+   "adresse": "GROOT-BIJGAARDENSTRAAT 471-477 1082 BRUSSEL",
+   "pdf": ""
+  },
+  {
+   "nom": "18) SUIKERBAKKERIJ JORIS BVBA",
+   "date": "2005-01-10",
+   "ref": "0003610",
+   "type": "KAPITAAL - AANDELEN - ALGEMENE VERGADERING - STATUTEN (VERTALING, COÖRDINATIE, OVERIGE WIJZIGINGEN, )",
+   "adresse": "GROOT-BIJGAARDENSTRAAT 471-477 1082 BRUSSEL",
+   "pdf": "https://www.ejustice.just.fgov.be/tsv_pdf/2005/01/10/05003610.pdf"
+  },
+  {
+   "nom": "19) SUIKERBAKKERIJ JORIS BVBA",
+   "date": "2004-05-28",
+   "ref": "0064021",
+   "type": "ME. - JAARREKENING 31.12.2003, GGK 30.04.2004, NGL 25.05.2004 04166-3528-014",
+   "adresse": "GROOT-BIJGAARDENSTRAAT 471-477 1082 BRUSSEL",
+   "pdf": ""
+  },
+  {
+   "nom": "20) SUIKERBAKKERIJ JORIS BVBA",
+   "date": "2003-06-02",
+   "ref": "0062590",
+   "type": "ME. - JAARREKENING 31.12.2002, GGK 25.04.2003 03164-3267-014",
+   "adresse": "GROOT-BIJGAARDENSTRAAT 471-477 1082 BRUSSEL",
+   "pdf": ""
+  },
+  {
+   "nom": "21) SUIKERBAKKERIJ JORIS BVBA",
+   "date": "2002-07-05",
+   "ref": "0115336",
+   "type": "ME. - JAARREKENING 31.12.2001, GGK 26.04.2002 02330-5291-014",
+   "adresse": "GROOT-BIJGAARDENSTRAAT 471-477 1082 BRUSSEL",
+   "pdf": ""
+  },
+  {
+   "nom": "22) SUIKERBAKKERIJ JORIS BVBA",
+   "date": "2001-09-25",
+   "ref": "332",
+   "type": "DIVERSEN - STATUTEN (VERTALING, COÖRDINATIE, OVERIGE WIJZIGINGEN, )",
+   "adresse": "GROOT-BIJGAARDENSTRAAT 471-477 1082 BRUSSEL",
+   "pdf": "https://www.ejustice.just.fgov.be/tsv_pdf/2001/09/25/2001-09-25_0332.pdf"
+  },
+  {
+   "nom": "23) SUIKERBAKKERIJ JORIS BVBA",
+   "date": "2001-06-05",
+   "ref": "0057077",
+   "type": "ME. - JAARREKENING 31.12.2000, GGK 27.04.2001 01150-0659-014",
+   "adresse": "GROOT-BIJGAARDENSTRAAT 471-477 1082 BRUSSEL",
+   "pdf": ""
+  },
+  {
+   "nom": "24) SUIKERBAKKERIJ JORIS BVBA",
+   "date": "2000-06-06",
+   "ref": "0058212",
+   "type": "ME. - JAARREKENING 31.12.1999, GGK 28.04.2000 00149-0186-017",
+   "adresse": "GROOT-BIJGAARDENSTRAAT 471-477 1082 BRUSSEL",
+   "pdf": ""
+  },
+  {
+   "nom": "25) SUIKERBAKKERIJ JORIS BVBA",
+   "date": "2000-01-25",
+   "ref": "117",
+   "type": "ONTSLAGEN - BENOEMINGEN - ALGEMENE VERGADERING - KAPITAAL - AANDELEN - STATUTEN (VERTALING, COÖRDINATIE, OVERIGE WIJZIGINGEN, )",
+   "adresse": "GROOT-BIJGAARDENSTRAAT 471-477 1082 BRUSSEL",
+   "pdf": "https://www.ejustice.just.fgov.be/tsv_pdf/2000/01/25/2000-01-25_0117.pdf"
+  },
+  {
+   "nom": "26) SUIKERBAKKERIJ JORIS BVBA",
+   "date": "1999-06-04",
+   "ref": "0054048",
+   "type": "ME. - JAARREKENING 31.12.1998, GGK 30.04.1999 - 99116-5268-018",
+   "adresse": "GROOT-BIJGAARDENSTRAAT 471-477 1082 BRUSSEL",
+   "pdf": ""
+  },
+  {
+   "nom": "27) SUIKERBAKKERIJ JORIS BVBA",
+   "date": "",
+   "ref": "",
+   "type": "1998 / 047851",
+   "adresse": "GROOT-BIJGAARDENSTRAAT 471-477 1082 SINT-AGATHA-BERCHEM",
+   "pdf": ""
+  },
+  {
+   "nom": "28) SUIKERBAKKERIJ JORIS BVBA",
+   "date": "",
+   "ref": "",
+   "type": "1997 / 042801",
+   "adresse": "GROOT-BIJGAARDENSTRAAT 471-477 1082 SINT-AGATHA-BERCHEM",
+   "pdf": ""
+  },
+  {
+   "nom": "29) SUIKERBAKKERIJ JORIS BVBA",
+   "date": "",
+   "ref": "",
+   "type": "1996 / 051435",
+   "adresse": "GROOT-BIJGAARDENSTRAAT 471-477 1082 SINT-AGATHA-BERCHEM",
+   "pdf": ""
+  },
+  {
+   "nom": "30) SUIKERBAKKERIJ JORIS BVBA",
+   "date": "",
+   "ref": "",
+   "type": "1995 / 045920",
+   "adresse": "SINT-AGATHA-BERCHEM",
+   "pdf": ""
+  },
+  {
+   "nom": "31) SUIKERBAKKERIJ JORIS BVBA",
+   "date": "",
+   "ref": "",
+   "type": "1994 / 048824",
+   "adresse": "SINT-AGATHA-BERCHEM",
+   "pdf": ""
+  },
+  {
+   "nom": "32) SUIKERBAKKERIJ JORIS BVBA",
+   "date": "1993-11-27",
+   "ref": "237",
+   "type": "ALGEMENE VERGADERING - KAPITAAL - AANDELEN - STATUTEN (VERTALING, COÖRDINATIE, OVERIGE WIJZIGINGEN, )",
+   "adresse": "SINT-AGATHA-BERCHEM",
+   "pdf": ""
+  },
+  {
+   "nom": "33) SUIKERBAKKERIJ JORIS BVBA",
+   "date": "",
+   "ref": "",
+   "type": "1993 / 042252",
+   "adresse": "SINT-AGATHA-BERCHEM",
+   "pdf": ""
+  },
+  {
+   "nom": "34) SUIKERBAKKERIJ JORIS BVBA",
+   "date": "",
+   "ref": "",
+   "type": "1992 / 038580",
+   "adresse": "GROOT-BIJGAARDENSTRAAT 471-477 1082 SINT-AGATHA-BERCHEM",
+   "pdf": ""
+  },
+  {
+   "nom": "35) SUIKERBAKKERIJ JORIS BVBA",
+   "date": "",
+   "ref": "",
+   "type": "1991 / 038447",
+   "adresse": "SINT-AGATHA-BERCHEM",
+   "pdf": ""
+  },
+  {
+   "nom": "36) SUIKERBAKKERIJ JORIS BVBA",
+   "date": "",
+   "ref": "",
+   "type": "1990 / 031690",
+   "adresse": "SINT-AGATHA-BERCHEM",
+   "pdf": ""
+  },
+  {
+   "nom": "37) SUIKERBAKKERIJ JORIS BVBA",
+   "date": "",
+   "ref": "",
+   "type": "1989 / 030433",
+   "adresse": "SINT-AGATHA-BERCHEM",
+   "pdf": ""
+  },
+  {
+   "nom": "38) SUIKERBAKKERIJ JORIS BVBA",
+   "date": "1988-06-18",
+   "ref": "050",
+   "type": "WIJZIGING RECHTSVORM - ALGEMENE VERGADERING - KAPITAAL - AANDELEN - STATUTEN (VERTALING, COÖRDINATIE, OVERIGE WIJZIGINGEN, )",
+   "adresse": "SINT-AGATHA-BERCHEM",
+   "pdf": ""
+  },
+  {
+   "nom": "39) SUIKERBAKKERIJ JORIS BVBA",
+   "date": "",
+   "ref": "",
+   "type": "1988 / 029195",
+   "adresse": "SINT-AGATHA-BERCHEM",
+   "pdf": ""
+  },
+  {
+   "nom": "40) SUIKERBAKKERIJ JORIS PBA",
+   "date": "",
+   "ref": "",
+   "type": "1987 / 027935",
+   "adresse": "SINT-AGATHA-BERCHEM",
+   "pdf": ""
+  },
+  {
+   "nom": "41) SUIKERBAKKERIJ JORIS PBA",
+   "date": "",
+   "ref": "",
+   "type": "1986 / 028662",
+   "adresse": "SINT-AGATHA-BERCHEM",
+   "pdf": ""
+  },
+  {
+   "nom": "42) SUIKERBAKKERIJ JORIS PBA",
+   "date": "",
+   "ref": "",
+   "type": "1985 / 20762",
+   "adresse": "SINT-AGATHA-BERCHEM",
+   "pdf": ""
+  },
+  {
+   "nom": "43) SUIKERBAKKERIJ JORIS PBA",
+   "date": "",
+   "ref": "",
+   "type": "1984 / 22993",
+   "adresse": "SINT-AGATHA-BERCHEM",
+   "pdf": ""
+  },
+  {
+   "nom": "44) SUIKERBAKKERIJ JORIS PBA",
+   "date": "",
+   "ref": "",
+   "type": "1983 / 23517",
+   "adresse": "SINT-AGATHA-BERCHEM",
+   "pdf": ""
+  }
+ ]
+}
