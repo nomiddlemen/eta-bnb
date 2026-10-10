@@ -1,0 +1,30 @@
+{
+ "bce": "0700438384",
+ "total_annonce": 3,
+ "items": [
+  {
+   "nom": "1) ENTREPRISE CORNET & FILS SRL",
+   "date": "2024-04-11",
+   "ref": "0387505",
+   "type": "ASSEMBLEE GENERALE - ANNEE COMPTABLE",
+   "adresse": "RUE MAURICE-GREVISSE,RULLES 31 6724 RULLES",
+   "pdf": "https://www.ejustice.just.fgov.be/tsv_pdf/2024/04/11/24387505.pdf"
+  },
+  {
+   "nom": "2) MENUISERIE CORNET FILS SPRL",
+   "date": "2023-12-28",
+   "ref": "0482528",
+   "type": "STATUTS (TRADUCTION, COORDINATION, AUTRES MODIFICATIONS, ) - MODIFICATION FORME JURIDIQUE - DENOMINATION - DIVERS - DEMISSIONS, NOMINATIONS",
+   "adresse": "RUE MAURICE GREVISSE 31 6724 RULLES",
+   "pdf": "https://www.ejustice.just.fgov.be/tsv_pdf/2023/12/28/23482528.pdf"
+  },
+  {
+   "nom": "3) MENUISERIE CORNET FILS SPRL",
+   "date": "2018-07-30",
+   "ref": "0323654",
+   "type": "RUBRIQUE CONSTITUTION (NOUVELLE PERSONNE MORALE, OUVERTURE SUCCURSALE, ETC...)",
+   "adresse": "RUE MAURICE GREVISSE 31 6724 RULLES",
+   "pdf": "https://www.ejustice.just.fgov.be/tsv_pdf/2018/07/30/18323654.pdf"
+  }
+ ]
+}

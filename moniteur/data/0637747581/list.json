@@ -1,0 +1,38 @@
+{
+ "bce": "0637747581",
+ "total_annonce": 4,
+ "items": [
+  {
+   "nom": "1) TFR SOLUTIONS SRL",
+   "date": "2023-01-09",
+   "ref": "0302546",
+   "type": "DIVERS",
+   "adresse": "RUE DES GROSSES PIERRES 17, BTE A 4870 TROOZ",
+   "pdf": "https://www.ejustice.just.fgov.be/tsv_pdf/2023/01/09/23302546.pdf"
+  },
+  {
+   "nom": "2) TFR SOLUTIONS SPRL",
+   "date": "2020-11-26",
+   "ref": "0357108",
+   "type": "MODIFICATION FORME JURIDIQUE - DEMISSIONS, NOMINATIONS",
+   "adresse": "RUE DES GROSSES PIERRES 17, BTE A 4870 TROOZ",
+   "pdf": "https://www.ejustice.just.fgov.be/tsv_pdf/2020/11/26/20357108.pdf"
+  },
+  {
+   "nom": "3) TFR SOLUTIONS SPRL",
+   "date": "2017-08-04",
+   "ref": "0073965",
+   "type": "ME. - COMPTES ANNUELS 31.12.2016, APP 30.06.2017, DPT 31.07.2017 17393-0167-012",
+   "adresse": "RUE DES GROSSES PIERRES 17, BTE A 4870 TROOZ",
+   "pdf": ""
+  },
+  {
+   "nom": "4) TFR SOLUTIONS SPRL",
+   "date": "2015-09-16",
+   "ref": "0314981",
+   "type": "RUBRIQUE CONSTITUTION (NOUVELLE PERSONNE MORALE, OUVERTURE SUCCURSALE, ETC...)",
+   "adresse": "RUE DES GROSSES PIERRES 17, BTE A 4870 TROOZ",
+   "pdf": "https://www.ejustice.just.fgov.be/tsv_pdf/2015/09/16/15314981.pdf"
+  }
+ ]
+}

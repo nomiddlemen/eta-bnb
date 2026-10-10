@@ -1,0 +1,46 @@
+{
+ "bce": "0543710140",
+ "total_annonce": 5,
+ "items": [
+  {
+   "nom": "1) EMMA CONCEPT SPRL",
+   "date": "2024-02-06",
+   "ref": "0353490",
+   "type": "STATUTS (TRADUCTION, COORDINATION, AUTRES MODIFICATIONS, ) - MODIFICATION FORME JURIDIQUE - DIVERS - DEMISSIONS, NOMINATIONS",
+   "adresse": "RUE DE LA CHAWRESSE 6 4130 ESNEUX",
+   "pdf": "https://www.ejustice.just.fgov.be/tsv_pdf/2024/02/06/24353490.pdf"
+  },
+  {
+   "nom": "2) EMMA CONCEPT SPRL",
+   "date": "2016-07-14",
+   "ref": "0168828",
+   "type": "ME. - COMPTES ANNUELS 31.12.2015, APP 24.06.2016, DPT 08.07.2016 16292-0521-014",
+   "adresse": "RUE DE LA CHAWRESSE 6 4130 ESNEUX",
+   "pdf": ""
+  },
+  {
+   "nom": "3) EMMA CONCEPT SPRL",
+   "date": "2015-07-27",
+   "ref": "0187040",
+   "type": "ME. - COMPTES ANNUELS 31.12.2014, APP 26.06.2015, DPT 22.07.2015 15327-0201-015",
+   "adresse": "RUE DE LA CHAWRESSE 6 4130 ESNEUX",
+   "pdf": ""
+  },
+  {
+   "nom": "4) EMMA CONCEPT SPRL",
+   "date": "2015-07-23",
+   "ref": "0106072",
+   "type": "DEMISSIONS, NOMINATIONS",
+   "adresse": "RUE DE LA CHAWRESSE 6 4130 ESNEUX",
+   "pdf": "https://www.ejustice.just.fgov.be/tsv_pdf/2015/07/23/15106072.pdf"
+  },
+  {
+   "nom": "5) EMMA CONCEPT SPRL",
+   "date": "2014-01-03",
+   "ref": "0300060",
+   "type": "RUBRIQUE CONSTITUTION (NOUVELLE PERSONNE MORALE, OUVERTURE SUCCURSALE, ETC...)",
+   "adresse": "RUE DE LA CHAWRESSE 6 4130 ESNEUX",
+   "pdf": "https://www.ejustice.just.fgov.be/tsv_pdf/2014/01/03/14300060.pdf"
+  }
+ ]
+}

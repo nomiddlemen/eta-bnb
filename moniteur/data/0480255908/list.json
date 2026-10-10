@@ -1,0 +1,118 @@
+{
+ "bce": "0480255908",
+ "total_annonce": 14,
+ "items": [
+  {
+   "nom": "1) TECHNORAMA INVEST SRL",
+   "date": "2022-11-29",
+   "ref": "0140723",
+   "type": "SIEGE SOCIAL",
+   "adresse": "AVENUE ALBERT-IER 111 4030 GRIVEGNEE(LIEGE)",
+   "pdf": "https://www.ejustice.just.fgov.be/tsv_pdf/2022/11/29/22140723.pdf"
+  },
+  {
+   "nom": "2) TECHNORAMA INVEST SRL",
+   "date": "2022-07-01",
+   "ref": "0342669",
+   "type": "MODIFICATION FORME JURIDIQUE - DEMISSIONS, NOMINATIONS",
+   "adresse": "AVENUE ALBERT 1ER 111 4030 GRIVEGNEE(LIEGE)",
+   "pdf": "https://www.ejustice.just.fgov.be/tsv_pdf/2022/07/01/22342669.pdf"
+  },
+  {
+   "nom": "3) TECHNORAMA INVEST SPRL",
+   "date": "2020-11-12",
+   "ref": "0133552",
+   "type": "SIEGE SOCIAL - MODIFICATION FORME JURIDIQUE",
+   "adresse": "RUE DE L'ECUREUIL 76 4100 SERAING",
+   "pdf": "https://www.ejustice.just.fgov.be/tsv_pdf/2020/11/12/20133552.pdf"
+  },
+  {
+   "nom": "4) TECHNORAMA INVEST SPRL",
+   "date": "2019-05-13",
+   "ref": "0064419",
+   "type": "DEMISSIONS, NOMINATIONS",
+   "adresse": "RUE DE L'ECUREUIL 76 4100 SERAING",
+   "pdf": "https://www.ejustice.just.fgov.be/tsv_pdf/2019/05/13/19064419.pdf"
+  },
+  {
+   "nom": "5) PIROTON SPRL",
+   "date": "2018-01-19",
+   "ref": "0014744",
+   "type": "DENOMINATION - DEMISSIONS, NOMINATIONS",
+   "adresse": "RUE DE L'ECUREUIL 76 4100 SERAING",
+   "pdf": "https://www.ejustice.just.fgov.be/tsv_pdf/2018/01/19/18014744.pdf"
+  },
+  {
+   "nom": "6) PIROTON SPRL",
+   "date": "2013-09-06",
+   "ref": "0312389",
+   "type": "ME. - COMPTES ANNUELS 31.12.2012, APP 07.06.2013, DPT 30.08.2013 13542-0357-007",
+   "adresse": "RUE DE L'ECUREUIL 76 4100 SERAING",
+   "pdf": ""
+  },
+  {
+   "nom": "7) PIROTON SPRL",
+   "date": "2011-09-07",
+   "ref": "0302291",
+   "type": "ME. - COMPTES ANNUELS 31.12.2010, APP 03.06.2011, DPT 31.08.2011 11512-0172-007",
+   "adresse": "RUE DE L'ECUREUIL 76 4100 SERAING",
+   "pdf": ""
+  },
+  {
+   "nom": "8) PIROTON SPRL",
+   "date": "2010-09-06",
+   "ref": "0279218",
+   "type": "ME. - COMPTES ANNUELS 31.12.2009, APP 04.06.2010, DPT 30.08.2010 10491-0339-007",
+   "adresse": "RUE DE L'ECUREUIL 76 4100 SERAING",
+   "pdf": ""
+  },
+  {
+   "nom": "9) PIROTON SPRL",
+   "date": "2010-02-02",
+   "ref": "0017232",
+   "type": "SIEGE SOCIAL",
+   "adresse": "RUE DE L'ECUREUIL 51 4100 SERAING",
+   "pdf": "https://www.ejustice.just.fgov.be/tsv_pdf/2010/02/02/10017232.pdf"
+  },
+  {
+   "nom": "10) PIROTON SPRL",
+   "date": "2009-10-07",
+   "ref": "0315693",
+   "type": "ME. - COMPTES ANNUELS 31.12.2008, APP 05.06.2009, DPT 28.09.2009 09793-0291-007",
+   "adresse": "RUE DE L'ECUREUIL 51 4100 SERAING",
+   "pdf": ""
+  },
+  {
+   "nom": "11) PIROTON SPRL",
+   "date": "2007-09-05",
+   "ref": "0263024",
+   "type": "ME. - COMPTES ANNUELS 31.12.2006, APP 01.06.2007, DPT 30.08.2007 07677-0244-007",
+   "adresse": "RUE DE L'ECUREUIL 51 4100 SERAING",
+   "pdf": ""
+  },
+  {
+   "nom": "12) PIROTON SPRL",
+   "date": "2006-09-04",
+   "ref": "0248683",
+   "type": "ME. - COMPTES ANNUELS 31.12.2005, APP 02.06.2006, DPT 29.08.2006 06723-5087-011",
+   "adresse": "RUE DE L'ECUREUIL.51 4100 SERAING",
+   "pdf": ""
+  },
+  {
+   "nom": "13) PIROTON SPRL",
+   "date": "2005-10-10",
+   "ref": "0281491",
+   "type": "ME. - COMPTES ANNUELS 31.12.2004, APP 03.06.2005, DPT 30.09.2005 05807-3229-011",
+   "adresse": "RUE DE L'ECUREUIL.51 4100 SERAING",
+   "pdf": ""
+  },
+  {
+   "nom": "14) PIROTON SPRL",
+   "date": "2003-05-28",
+   "ref": "0059725",
+   "type": "RUBRIQUE CONSTITUTION (NOUVELLE PERSONNE MORALE, OUVERTURE SUCCURSALE, ETC...)",
+   "adresse": "RUE DE L'ECUREUIL.51 4100 SERAING",
+   "pdf": "https://www.ejustice.just.fgov.be/tsv_pdf/2003/05/28/03059725.pdf"
+  }
+ ]
+}

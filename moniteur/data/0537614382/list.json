@@ -1,0 +1,46 @@
+{
+ "bce": "0537614382",
+ "total_annonce": 5,
+ "items": [
+  {
+   "nom": "1) QHAM SPRL",
+   "date": "2023-10-31",
+   "ref": "0419111",
+   "type": "STATUTS (TRADUCTION, COORDINATION, AUTRES MODIFICATIONS, ) - MODIFICATION FORME JURIDIQUE - DEMISSIONS, NOMINATIONS",
+   "adresse": "AVENUE DU PARC 67 4053 EMBOURG (CHAUDFONTAINE)",
+   "pdf": "https://www.ejustice.just.fgov.be/tsv_pdf/2023/10/31/23419111.pdf"
+  },
+  {
+   "nom": "2) QHAM SPRL",
+   "date": "2016-03-31",
+   "ref": "0045085",
+   "type": "SIEGE SOCIAL",
+   "adresse": "VOIE DE L'ARDENNE 80,B TE 4 4053 EMBOURG",
+   "pdf": "https://www.ejustice.just.fgov.be/tsv_pdf/2016/03/31/16045085.pdf"
+  },
+  {
+   "nom": "3) QHAM SPRL",
+   "date": "2016-03-23",
+   "ref": "0038374",
+   "type": "ME. - COMPTES ANNUELS 31.12.2015, APP 15.03.2016, DPT 16.03.2016 16064-0152-012",
+   "adresse": "VOIE DE L'ARDENNE 80,B TE 4 4053 EMBOURG",
+   "pdf": ""
+  },
+  {
+   "nom": "4) QHAM SPRL",
+   "date": "2015-08-28",
+   "ref": "0274338",
+   "type": "ME. - COMPTES ANNUELS 31.12.2014, APP 01.05.2015, DPT 27.08.2015 15476-0234-011",
+   "adresse": "VOIE DE L'ARDENNE 80,B TE 4 4053 EMBOURG",
+   "pdf": ""
+  },
+  {
+   "nom": "5) QHAM SPRL",
+   "date": "2013-09-02",
+   "ref": "0134384",
+   "type": "RUBRIQUE CONSTITUTION (NOUVELLE PERSONNE MORALE, OUVERTURE SUCCURSALE, ETC...)",
+   "adresse": "VOIE DE L'ARDENNE 80,B TE 4 4053 EMBOURG",
+   "pdf": "https://www.ejustice.just.fgov.be/tsv_pdf/2013/09/02/13134384.pdf"
+  }
+ ]
+}

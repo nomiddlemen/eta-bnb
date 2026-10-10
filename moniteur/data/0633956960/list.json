@@ -1,0 +1,30 @@
+{
+ "bce": "0633956960",
+ "total_annonce": 3,
+ "items": [
+  {
+   "nom": "1) HOLDING DU FIEF DE GREZ SPRL",
+   "date": "2023-11-22",
+   "ref": "0432740",
+   "type": "MODIFICATION FORME JURIDIQUE - DENOMINATION - DEMISSIONS, NOMINATIONS",
+   "adresse": "RUE DE SAINT-MOULIN 8 7050 HERCHIES",
+   "pdf": "https://www.ejustice.just.fgov.be/tsv_pdf/2023/11/22/23432740.pdf"
+  },
+  {
+   "nom": "2) HOLDING DU FIEF DE GREZ SPRL",
+   "date": "2017-11-03",
+   "ref": "0082709",
+   "type": "ME. - COMPTES ANNUELS 31.03.2017, APP 29.09.2017, DPT 30.10.2017 17684-0501-013",
+   "adresse": "RUE DE SAINT-MOULIN 8 7050 HERCHIES",
+   "pdf": ""
+  },
+  {
+   "nom": "3) HOLDING DU FIEF DE GREZ SPRL",
+   "date": "2015-07-23",
+   "ref": "0312481",
+   "type": "RUBRIQUE CONSTITUTION (NOUVELLE PERSONNE MORALE, OUVERTURE SUCCURSALE, ETC...)",
+   "adresse": "RUE DE SAINT-MOULIN 8 7050 HERCHIES",
+   "pdf": "https://www.ejustice.just.fgov.be/tsv_pdf/2015/07/23/15312481.pdf"
+  }
+ ]
+}

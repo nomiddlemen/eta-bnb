@@ -1,0 +1,22 @@
+{
+ "bce": "0771766048",
+ "total_annonce": 2,
+ "items": [
+  {
+   "nom": "1) DELGEST SRL",
+   "date": "2023-04-04",
+   "ref": "0046110",
+   "type": "CAPITAL, ACTIONS - DEMISSIONS, NOMINATIONS",
+   "adresse": "TIGE D'ONEUX 16 4590 OUFFET",
+   "pdf": "https://www.ejustice.just.fgov.be/tsv_pdf/2023/04/04/23046110.pdf"
+  },
+  {
+   "nom": "2) DELGEST SRL",
+   "date": "2021-07-29",
+   "ref": "0346676",
+   "type": "RUBRIQUE CONSTITUTION (NOUVELLE PERSONNE MORALE, OUVERTURE SUCCURSALE, ETC...)",
+   "adresse": "TIGE D'ONEUX 16 4590 OUFFET",
+   "pdf": "https://www.ejustice.just.fgov.be/tsv_pdf/2021/07/29/21346676.pdf"
+  }
+ ]
+}

@@ -1,0 +1,22 @@
+{
+ "bce": "1001283488",
+ "total_annonce": 2,
+ "items": [
+  {
+   "nom": "1) L SOLUTIONS SRL",
+   "date": "2026-03-19",
+   "ref": "0039299",
+   "type": "SIEGE SOCIAL",
+   "adresse": "RUE DU CHATEAU D'EAU 14 1390 GREZ-DOICEAU",
+   "pdf": "https://www.ejustice.just.fgov.be/tsv_pdf/2026/03/19/26039299.pdf"
+  },
+  {
+   "nom": "2) L SOLUTIONS SRL",
+   "date": "2023-10-19",
+   "ref": "0410788",
+   "type": "RUBRIQUE CONSTITUTION (NOUVELLE PERSONNE MORALE, OUVERTURE SUCCURSALE, ETC...)",
+   "adresse": "RUE DU CHATEAU D'EAU 14 1390 GREZ-DOICEAU",
+   "pdf": "https://www.ejustice.just.fgov.be/tsv_pdf/2023/10/19/23410788.pdf"
+  }
+ ]
+}

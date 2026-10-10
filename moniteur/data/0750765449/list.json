@@ -1,0 +1,22 @@
+{
+ "bce": "0750765449",
+ "total_annonce": 2,
+ "items": [
+  {
+   "nom": "1) ATACO BV",
+   "date": "2025-11-04",
+   "ref": "0140692",
+   "type": "MAATSCHAPPELIJKE ZETEL - ONTSLAGEN - BENOEMINGEN",
+   "adresse": "KOUTERSTRAAT 11A 8560 WEVELGEM",
+   "pdf": "https://www.ejustice.just.fgov.be/tsv_pdf/2025/11/04/25140692.pdf"
+  },
+  {
+   "nom": "2) ATACO BV",
+   "date": "2020-07-20",
+   "ref": "0333866",
+   "type": "RUBRIEK OPRICHTING (NIEUWE RECHTSPERSOON, OPENING BIJKANTOOR, ENZ...)",
+   "adresse": "KOUTERSTRAAT 11A 8560 WEVELGEM",
+   "pdf": "https://www.ejustice.just.fgov.be/tsv_pdf/2020/07/20/20333866.pdf"
+  }
+ ]
+}

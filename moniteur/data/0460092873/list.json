@@ -1,0 +1,438 @@
+{
+ "bce": "0460092873",
+ "total_annonce": 54,
+ "items": [
+  {
+   "nom": "1) TRANSCAM-SEILLES, EN ABREGE : TRANSCAM SRL",
+   "date": "2026-06-24",
+   "ref": "0080961",
+   "type": "SIEGE SOCIAL",
+   "adresse": "RUE BOURIE 16 5300 ANDENNE",
+   "pdf": "https://www.ejustice.just.fgov.be/tsv_pdf/2026/06/24/26080961.pdf"
+  },
+  {
+   "nom": "2) TRANSCAM-SEILLES, EN ABREGE : TRANSCAM SRL",
+   "date": "2026-06-24",
+   "ref": "0080962",
+   "type": "DEMISSIONS, NOMINATIONS",
+   "adresse": "RUE DU FOND MARECHAL 10 5020 CHAMPION",
+   "pdf": "https://www.ejustice.just.fgov.be/tsv_pdf/2026/06/24/26080962.pdf"
+  },
+  {
+   "nom": "3) TRANSCAM-SEILLES, EN ABREGE : TRANSCAM SRL",
+   "date": "2026-01-02",
+   "ref": "0000652",
+   "type": "DEMISSIONS, NOMINATIONS",
+   "adresse": "RUE BOURIE 16 5300 ANDENNE",
+   "pdf": "https://www.ejustice.just.fgov.be/tsv_pdf/2026/01/02/26000652.pdf"
+  },
+  {
+   "nom": "4) TRANSCAM-SEILLES, EN ABREGE : TRANSCAM SCRL",
+   "date": "2023-12-28",
+   "ref": "0480000",
+   "type": "STATUTS (TRADUCTION, COORDINATION, AUTRES MODIFICATIONS, ) - MODIFICATION FORME JURIDIQUE - DENOMINATION - DEMISSIONS, NOMINATIONS - ASSEMBLEE GENERALE",
+   "adresse": "RUE BOURIE 16 5300 SEILLES",
+   "pdf": "https://www.ejustice.just.fgov.be/tsv_pdf/2023/12/28/23480000.pdf"
+  },
+  {
+   "nom": "5) TRANSCAM-SEILLES, EN ABREGE : TRANSCAM SCRL",
+   "date": "2021-04-23",
+   "ref": "0049811",
+   "type": "DEMISSIONS, NOMINATIONS",
+   "adresse": "RUE BOURIE 16 5300 SEILLES",
+   "pdf": "https://www.ejustice.just.fgov.be/tsv_pdf/2021/04/23/21049811.pdf"
+  },
+  {
+   "nom": "6) TRANSCAM-SEILLES, EN ABREGE : TRANSCAM SCRL",
+   "date": "2018-01-18",
+   "ref": "0013544",
+   "type": "DEMISSIONS, NOMINATIONS",
+   "adresse": "RUE BOURIE 16 5300 SEILLES",
+   "pdf": "https://www.ejustice.just.fgov.be/tsv_pdf/2018/01/18/18013544.pdf"
+  },
+  {
+   "nom": "7) TRANSCAM-SEILLES, EN ABREGE : TRANSCAM SCRL",
+   "date": "2017-01-25",
+   "ref": "0011637",
+   "type": "ME. - COMPTES ANNUELS 30.06.2016, APP 28.10.2016, DPT 17.01.2017 17016-0124-032",
+   "adresse": "RUE BOURIE 16 5300 SEILLES",
+   "pdf": ""
+  },
+  {
+   "nom": "8) TRANSCAM-SEILLES, EN ABREGE : TRANSCAM SCRL",
+   "date": "2016-06-15",
+   "ref": "0081306",
+   "type": "DEMISSIONS, NOMINATIONS",
+   "adresse": "RUE BOURIE 16 5300 SEILLES",
+   "pdf": "https://www.ejustice.just.fgov.be/tsv_pdf/2016/06/15/16081306.pdf"
+  },
+  {
+   "nom": "9) TRANSCAM-SEILLES, EN ABREGE : TRANSCAM SCRL",
+   "date": "2016-01-28",
+   "ref": "0017815",
+   "type": "ME. - COMPTES ANNUELS 30.06.2015, APP 23.10.2015, DPT 25.01.2016 16026-0201-032",
+   "adresse": "RUE BOURIE 16 5300 SEILLES",
+   "pdf": ""
+  },
+  {
+   "nom": "10) TRANSCAM-SEILLES, EN ABREGE : TRANSCAM SCRL",
+   "date": "2016-01-27",
+   "ref": "0014407",
+   "type": "DEMISSIONS, NOMINATIONS",
+   "adresse": "RUE BOURIE 16 5300 SEILLES",
+   "pdf": "https://www.ejustice.just.fgov.be/tsv_pdf/2016/01/27/16014407.pdf"
+  },
+  {
+   "nom": "11) TRANSCAM-SEILLES, EN ABREGE : TRANSCAM SCRL",
+   "date": "2015-01-13",
+   "ref": "0005966",
+   "type": "DEMISSIONS, NOMINATIONS",
+   "adresse": "PARC INDUSTRIEL 16 5300 SEILLES",
+   "pdf": "https://www.ejustice.just.fgov.be/tsv_pdf/2015/01/13/15005966.pdf"
+  },
+  {
+   "nom": "12) TRANSCAM-SEILLES, EN ABREGE : TRANSCAM SCRL",
+   "date": "2014-12-29",
+   "ref": "0405158",
+   "type": "ME. - COMPTES ANNUELS 30.06.2014, APP 24.10.2014, DPT 17.12.2014 14696-0533-030",
+   "adresse": "PARC INDUSTRIEL 16 5300 SEILLES",
+   "pdf": ""
+  },
+  {
+   "nom": "13) TRANSCAM-SEILLES, EN ABREGE : TRANSCAM SCRL",
+   "date": "2014-01-08",
+   "ref": "0008630",
+   "type": "DEMISSIONS, NOMINATIONS",
+   "adresse": "PARC INDUSTRIEL 16 5300 SEILLES",
+   "pdf": "https://www.ejustice.just.fgov.be/tsv_pdf/2014/01/08/14008630.pdf"
+  },
+  {
+   "nom": "14) TRANSCAM-SEILLES, EN ABREGE : TRANSCAM SCRL",
+   "date": "2013-12-31",
+   "ref": "0406672",
+   "type": "ME. - COMPTES ANNUELS 30.06.2013, APP 25.10.2013, DPT 23.12.2013 13698-0230-030",
+   "adresse": "PARC INDUSTRIEL 16 5300 SEILLES",
+   "pdf": ""
+  },
+  {
+   "nom": "15) TRANSCAM-SEILLES, EN ABREGE : TRANSCAM SCRL",
+   "date": "2013-02-07",
+   "ref": "0023547",
+   "type": "DEMISSIONS, NOMINATIONS",
+   "adresse": "PARC INDUSTRIEL 16 5300 SEILLES",
+   "pdf": "https://www.ejustice.just.fgov.be/tsv_pdf/2013/02/07/13023547.pdf"
+  },
+  {
+   "nom": "16) TRANSCAM-SEILLES, EN ABREGE : TRANSCAM SCRL",
+   "date": "2012-11-28",
+   "ref": "0376152",
+   "type": "ME. - COMPTES ANNUELS 30.06.2012, APP 26.10.2012, DPT 21.11.2012 12644-0449-029",
+   "adresse": "PARC INDUSTRIEL 16 5300 SEILLES",
+   "pdf": ""
+  },
+  {
+   "nom": "17) TRANSCAM-SEILLES, EN ABREGE : TRANSCAM SCRL",
+   "date": "2012-02-01",
+   "ref": "0028227",
+   "type": "DEMISSIONS, NOMINATIONS",
+   "adresse": "PARC INDUSTRIEL 16 5300 SEILLES",
+   "pdf": "https://www.ejustice.just.fgov.be/tsv_pdf/2012/02/01/12028227.pdf"
+  },
+  {
+   "nom": "18) TRANSCAM-SEILLES, EN ABREGE : TRANSCAM SCRL",
+   "date": "2011-11-30",
+   "ref": "0358604",
+   "type": "ME. - COMPTES ANNUELS 30.06.2011, APP 28.10.2011, DPT 24.11.2011 11616-0497-028",
+   "adresse": "PARC INDUSTRIEL 16 5300 SEILLES",
+   "pdf": ""
+  },
+  {
+   "nom": "19) TRANSCAM-SEILLES, EN ABREGE : TRANSCAM SCRL",
+   "date": "2011-03-16",
+   "ref": "0041127",
+   "type": "DEMISSIONS, NOMINATIONS",
+   "adresse": "PARC INDUSTRIEL 16 5300 SEILLES",
+   "pdf": "https://www.ejustice.just.fgov.be/tsv_pdf/2011/03/16/11041127.pdf"
+  },
+  {
+   "nom": "20) TRANSCAM-SEILLES, EN ABREGE : TRANSCAM SCRL",
+   "date": "2010-11-19",
+   "ref": "0347026",
+   "type": "ME. - COMPTES ANNUELS 30.06.2010, APP 22.10.2010, DPT 15.11.2010 10606-0074-029",
+   "adresse": "PARC INDUSTRIEL 16 5300 SEILLES",
+   "pdf": ""
+  },
+  {
+   "nom": "21) TRANSCAM-SEILLES, EN ABREGE : TRANSCAM SCRL",
+   "date": "2010-06-24",
+   "ref": "0091580",
+   "type": "DEMISSIONS, NOMINATIONS",
+   "adresse": "PARC INDUSTRIEL 16 5300 SEILLES",
+   "pdf": "https://www.ejustice.just.fgov.be/tsv_pdf/2010/06/24/10091580.pdf"
+  },
+  {
+   "nom": "22) TRANSCAM-SEILLES, EN ABREGE : TRANSCAM SCRL",
+   "date": "2009-11-24",
+   "ref": "0338588",
+   "type": "ME. - COMPTES ANNUELS 30.06.2009, APP 23.10.2009, DPT 18.11.2009 09855-0157-034",
+   "adresse": "PARC INDUSTRIEL 16 5300 SEILLES",
+   "pdf": ""
+  },
+  {
+   "nom": "23) TRANSCAM-SEILLES, EN ABREGE : TRANSCAM SCRL",
+   "date": "2009-05-14",
+   "ref": "0068430",
+   "type": "DEMISSIONS, NOMINATIONS",
+   "adresse": "PARC INDUSTRIEL 16 5300 SEILLES",
+   "pdf": "https://www.ejustice.just.fgov.be/tsv_pdf/2009/05/14/09068430.pdf"
+  },
+  {
+   "nom": "24) TRANSCAM-SEILLES, EN ABREGE : TRANSCAM SCRL",
+   "date": "2009-05-14",
+   "ref": "0068431",
+   "type": "DEMISSIONS, NOMINATIONS",
+   "adresse": "PARC INDUSTRIEL 16 5300 SEILLES",
+   "pdf": "https://www.ejustice.just.fgov.be/tsv_pdf/2009/05/14/09068431.pdf"
+  },
+  {
+   "nom": "25) TRANSCAM-SEILLES, EN ABREGE : TRANSCAM SCRL",
+   "date": "2008-11-27",
+   "ref": "0324828",
+   "type": "ME. - COMPTES ANNUELS 30.06.2008, APP 24.10.2008, DPT 19.11.2008 08820-0112-034",
+   "adresse": "PARC INDUSTRIEL 16 5300 SEILLES",
+   "pdf": ""
+  },
+  {
+   "nom": "26) TRANSCAM-SEILLES, EN ABREGE : TRANSCAM SCRL",
+   "date": "2008-02-14",
+   "ref": "0025316",
+   "type": "DEMISSIONS, NOMINATIONS",
+   "adresse": "PARC INDUSTRIEL 16 5300 SEILLES",
+   "pdf": "https://www.ejustice.just.fgov.be/tsv_pdf/2008/02/14/08025316.pdf"
+  },
+  {
+   "nom": "27) TRANSCAM-SEILLES, EN ABREGE : TRANSCAM SCRL",
+   "date": "2007-12-03",
+   "ref": "0317650",
+   "type": "ME. - COMPTES ANNUELS 30.06.2007, APP 26.10.2007, DPT 23.11.2007 07810-0095-033",
+   "adresse": "PARC INDUSTRIEL 16 5300 SEILLES",
+   "pdf": ""
+  },
+  {
+   "nom": "28) TRANSCAM-SEILLES, EN ABREGE : TRANSCAM SCRL",
+   "date": "2007-03-19",
+   "ref": "0041860",
+   "type": "DEMISSIONS, NOMINATIONS",
+   "adresse": "PARC INDUSTRIEL 16 5300 SEILLES",
+   "pdf": "https://www.ejustice.just.fgov.be/tsv_pdf/2007/03/19/07041860.pdf"
+  },
+  {
+   "nom": "29) TRANSCAM-SEILLES, EN ABREGE : TRANSCAM SCRL",
+   "date": "2007-03-19",
+   "ref": "0041861",
+   "type": "DEMISSIONS, NOMINATIONS",
+   "adresse": "PARC INDUSTRIEL 16 5300 SEILLES",
+   "pdf": "https://www.ejustice.just.fgov.be/tsv_pdf/2007/03/19/07041861.pdf"
+  },
+  {
+   "nom": "30) TRANSCAM-SEILLES, EN ABREGE : TRANSCAM SCRL",
+   "date": "2006-11-29",
+   "ref": "0305392",
+   "type": "ME. - COMPTES ANNUELS 30.06.2006, APP 27.10.2006, DPT 22.11.2006 06881-3229-026",
+   "adresse": "PARC INDUSTRIEL.16 5300 SEILLES",
+   "pdf": ""
+  },
+  {
+   "nom": "31) TRANSCAM-SEILLES, EN ABREGE : TRANSCAM SCRL",
+   "date": "2006-05-29",
+   "ref": "0089155",
+   "type": "DEMISSIONS, NOMINATIONS",
+   "adresse": "PARC INDUSTRIEL.16 5300 SEILLES",
+   "pdf": "https://www.ejustice.just.fgov.be/tsv_pdf/2006/05/29/06089155.pdf"
+  },
+  {
+   "nom": "32) TRANSCAM-SEILLES, EN ABREGE : TRANSCAM SCRL",
+   "date": "2006-05-29",
+   "ref": "0089156",
+   "type": "DEMISSIONS, NOMINATIONS",
+   "adresse": "PARC INDUSTRIEL.16 5300 SEILLES",
+   "pdf": "https://www.ejustice.just.fgov.be/tsv_pdf/2006/05/29/06089156.pdf"
+  },
+  {
+   "nom": "33) TRANSCAM-SEILLES, EN ABREGE : TRANSCAM SCRL",
+   "date": "2005-12-07",
+   "ref": "0306367",
+   "type": "ME. - COMPTES ANNUELS 30.06.2005, APP 28.10.2005, DPT 29.11.2005 05876-3950-026",
+   "adresse": "PARC INDUSTRIEL.16 5300 SEILLES",
+   "pdf": ""
+  },
+  {
+   "nom": "34) TRANSCAM-SEILLES, EN ABREGE : TRANSCAM SCRL",
+   "date": "2005-02-15",
+   "ref": "0027451",
+   "type": "DEMISSIONS, NOMINATIONS",
+   "adresse": "PARC INDUSTRIEL.16 5300 SEILLES",
+   "pdf": "https://www.ejustice.just.fgov.be/tsv_pdf/2005/02/15/05027451.pdf"
+  },
+  {
+   "nom": "35) TRANSCAM-SEILLES, EN ABREGE : TRANSCAM SCRL",
+   "date": "2005-02-15",
+   "ref": "0027452",
+   "type": "DEMISSIONS, NOMINATIONS",
+   "adresse": "PARC INDUSTRIEL.16 5300 SEILLES",
+   "pdf": "https://www.ejustice.just.fgov.be/tsv_pdf/2005/02/15/05027452.pdf"
+  },
+  {
+   "nom": "36) TRANSCAM-SEILLES, EN ABREGE : TRANSCAM SCRL",
+   "date": "2005-01-03",
+   "ref": "0000385",
+   "type": "DEMISSIONS, NOMINATIONS",
+   "adresse": "PARC INDUSTRIEL.16 5300 SEILLES",
+   "pdf": "https://www.ejustice.just.fgov.be/tsv_pdf/2005/01/03/05000385.pdf"
+  },
+  {
+   "nom": "37) TRANSCAM-SEILLES, EN ABREGE : TRANSCAM SCRL",
+   "date": "2004-11-30",
+   "ref": "0284965",
+   "type": "ME. - COMPTES ANNUELS 30.06.2004, APP 22.10.2004, DPT 23.11.2004 04805-3285-026",
+   "adresse": "PARC INDUSTRIEL.16 5300 SEILLES",
+   "pdf": ""
+  },
+  {
+   "nom": "38) TRANSCAM-SEILLES, EN ABREGE : TRANSCAM SCRL",
+   "date": "2004-02-27",
+   "ref": "0034129",
+   "type": "DEMISSIONS, NOMINATIONS",
+   "adresse": "PARC INDUSTRIEL.16 5300 SEILLES",
+   "pdf": "https://www.ejustice.just.fgov.be/tsv_pdf/2004/02/27/04034129.pdf"
+  },
+  {
+   "nom": "39) TRANSCAM-SEILLES, EN ABREGE : TRANSCAM SCRL",
+   "date": "2003-10-24",
+   "ref": "0268806",
+   "type": "ME. - COMPTES ANNUELS 30.06.2003, APP 21.10.2003 03763-1906-027",
+   "adresse": "PARC INDUSTRIEL.16 5300 SEILLES",
+   "pdf": ""
+  },
+  {
+   "nom": "40) TRANSCAM-SEILLES, EN ABREGE : TRANSCAM SCRL",
+   "date": "2002-11-12",
+   "ref": "0245220",
+   "type": "ME. - COMPTES ANNUELS 30.06.2002, APP 18.10.2002 02696-5218-026",
+   "adresse": "PARC INDUSTRIEL.16 5300 SEILLES",
+   "pdf": ""
+  },
+  {
+   "nom": "41) TRANSCAM-SEILLES, EN ABREGE : TRANSCAM SCRL",
+   "date": "2002-01-05",
+   "ref": "132",
+   "type": "CAPITAL, ACTIONS",
+   "adresse": "PARC INDUSTRIEL.16 5300 SEILLES",
+   "pdf": "https://www.ejustice.just.fgov.be/tsv_pdf/2002/01/05/2002-01-05_0132.pdf"
+  },
+  {
+   "nom": "42) TRANSCAM-SEILLES, EN ABREGE : TRANSCAM SCRL",
+   "date": "2001-11-09",
+   "ref": "754",
+   "type": "DEMISSIONS, NOMINATIONS",
+   "adresse": "PARC INDUSTRIEL.16 5300 SEILLES",
+   "pdf": "https://www.ejustice.just.fgov.be/tsv_pdf/2001/11/09/2001-11-09_0754.pdf"
+  },
+  {
+   "nom": "43) TRANSCAM-SEILLES, EN ABREGE : TRANSCAM SCRL",
+   "date": "2001-11-09",
+   "ref": "755",
+   "type": "DEMISSIONS, NOMINATIONS",
+   "adresse": "PARC INDUSTRIEL.16 5300 SEILLES",
+   "pdf": "https://www.ejustice.just.fgov.be/tsv_pdf/2001/11/09/2001-11-09_0755.pdf"
+  },
+  {
+   "nom": "44) TRANSCAM-SEILLES, EN ABREGE : TRANSCAM SCRL",
+   "date": "2001-11-07",
+   "ref": "0235478",
+   "type": "ME. - COMPTES ANNUELS 30.06.2001, APP 03.10.2001 01671-0458-025",
+   "adresse": "PARC INDUSTRIEL.16 5300 SEILLES",
+   "pdf": ""
+  },
+  {
+   "nom": "45) TRANSCAM-SEILLES, EN ABREGE : TRANSCAM SCRL",
+   "date": "2000-10-27",
+   "ref": "0227228",
+   "type": "ME. - COMPTES ANNUELS 30.06.2000, APP 18.09.2000 00651-2580-025",
+   "adresse": "PARC INDUSTRIEL.16 5300 SEILLES",
+   "pdf": ""
+  },
+  {
+   "nom": "46) TRANSCAM-SEILLES, EN ABREGE : TRANSCAM SCRL",
+   "date": "2000-10-17",
+   "ref": "552",
+   "type": "DEMISSIONS, NOMINATIONS",
+   "adresse": "PARC INDUSTRIEL.16 5300 SEILLES",
+   "pdf": "https://www.ejustice.just.fgov.be/tsv_pdf/2000/10/17/2000-10-17_0552.pdf"
+  },
+  {
+   "nom": "47) TRANSCAM-SEILLES, EN ABREGE : TRANSCAM SCRL",
+   "date": "2000-08-17",
+   "ref": "387",
+   "type": "DEMISSIONS, NOMINATIONS",
+   "adresse": "PARC INDUSTRIEL.16 5300 SEILLES",
+   "pdf": "https://www.ejustice.just.fgov.be/tsv_pdf/2000/08/17/2000-08-17_0387.pdf"
+  },
+  {
+   "nom": "48) TRANSCAM-SEILLES, EN ABREGE : TRANSCAM SCRL",
+   "date": "1999-12-15",
+   "ref": "419",
+   "type": "DEMISSIONS, NOMINATIONS",
+   "adresse": "PARC INDUSTRIEL.16 5300 SEILLES",
+   "pdf": "https://www.ejustice.just.fgov.be/tsv_pdf/1999/12/15/1999-12-15_0419.pdf"
+  },
+  {
+   "nom": "49) TRANSCAM-SEILLES, EN ABREGE : TRANSCAM SCRL",
+   "date": "1999-11-24",
+   "ref": "0227474",
+   "type": "ME. - COMPTES ANNUELS 30.06.1999, APP 04.10.1999 - 99591-5167-025",
+   "adresse": "PARC INDUSTRIEL.16 5300 SEILLES",
+   "pdf": ""
+  },
+  {
+   "nom": "50) TRANSCAM-SEILLES, EN ABREGE : TRANSCAM SCRL",
+   "date": "1999-04-30",
+   "ref": "378",
+   "type": "DEMISSIONS, NOMINATIONS",
+   "adresse": "PARC INDUSTRIEL.16 5300 SEILLES",
+   "pdf": "https://www.ejustice.just.fgov.be/tsv_pdf/1999/04/30/1999-04-30_0378.pdf"
+  },
+  {
+   "nom": "51) TRANSCAM-SEILLES, EN ABREGE : TRANSCAM SCOO",
+   "date": "1998-04-08",
+   "ref": "241",
+   "type": "DEMISSIONS, NOMINATIONS",
+   "adresse": "5300 ANDENNE (SEILLES)",
+   "pdf": "https://www.ejustice.just.fgov.be/tsv_pdf/1998/04/08/1998-04-08_0241.pdf"
+  },
+  {
+   "nom": "52) TRANSCAM-SEILLES, EN ABREGE : TRANSCAM SCOO",
+   "date": "",
+   "ref": "",
+   "type": "1998 / 197344",
+   "adresse": "5300 ANDENNE (SEILLES)",
+   "pdf": ""
+  },
+  {
+   "nom": "53) TRANSCAM-SEILLES, EN ABREGE : TRANSCAM SCOO",
+   "date": "1997-04-22",
+   "ref": "011",
+   "type": "DEMISSIONS, NOMINATIONS",
+   "adresse": "ANDENNE (SEILLES)",
+   "pdf": "https://www.ejustice.just.fgov.be/tsv_pdf/1997/04/22/1997-04-22_0011.pdf"
+  },
+  {
+   "nom": "54) TRANSCAM-SEILLES, EN ABREGE : TRANSCAM SCOO",
+   "date": "1997-03-18",
+   "ref": "065",
+   "type": "RUBRIQUE CONSTITUTION (NOUVELLE PERSONNE MORALE, OUVERTURE SUCCURSALE, ETC...)",
+   "adresse": "ANDENNE (SEILLES)",
+   "pdf": "https://www.ejustice.just.fgov.be/tsv_pdf/1997/03/18/1997-03-18_0065.pdf"
+  }
+ ]
+}

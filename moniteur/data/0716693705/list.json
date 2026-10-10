@@ -1,0 +1,22 @@
+{
+ "bce": "0716693705",
+ "total_annonce": 2,
+ "items": [
+  {
+   "nom": "1) PIERRE ALAIN DESSY, EN ABREGE : PAD SPRL",
+   "date": "2021-12-24",
+   "ref": "0150723",
+   "type": "SIEGE SOCIAL",
+   "adresse": "RUE DU CHATEAU 52 1480 CLABECQ",
+   "pdf": "https://www.ejustice.just.fgov.be/tsv_pdf/2021/12/24/21150723.pdf"
+  },
+  {
+   "nom": "2) PIERRE ALAIN DESSY, EN ABREGE : PAD SPRL",
+   "date": "2018-12-24",
+   "ref": "0341893",
+   "type": "RUBRIQUE CONSTITUTION (NOUVELLE PERSONNE MORALE, OUVERTURE SUCCURSALE, ETC...)",
+   "adresse": "RUE DU CHATEAU 52 1480 CLABECQ",
+   "pdf": "https://www.ejustice.just.fgov.be/tsv_pdf/2018/12/24/18341893.pdf"
+  }
+ ]
+}

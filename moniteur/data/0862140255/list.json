@@ -1,0 +1,166 @@
+{
+ "bce": "0862140255",
+ "total_annonce": 20,
+ "items": [
+  {
+   "nom": "1) NP MOTOR SRL",
+   "date": "2026-03-04",
+   "ref": "0314623",
+   "type": "DENOMINATION - OBJET",
+   "adresse": "CHEMIN DE XHENORIE 11 4821 ANDRIMONT (DISON)",
+   "pdf": "https://www.ejustice.just.fgov.be/tsv_pdf/2026/03/04/26314623.pdf"
+  },
+  {
+   "nom": "2) NP MOTOR SPRL",
+   "date": "2021-10-21",
+   "ref": "0362519",
+   "type": "MODIFICATION FORME JURIDIQUE - DEMISSIONS, NOMINATIONS",
+   "adresse": "RUE ADOLPHE RENOUPREZ 26 4820 DISON",
+   "pdf": "https://www.ejustice.just.fgov.be/tsv_pdf/2021/10/21/21362519.pdf"
+  },
+  {
+   "nom": "3) NP MOTOR SPRL",
+   "date": "2020-12-18",
+   "ref": "0150663",
+   "type": "DEMISSIONS, NOMINATIONS",
+   "adresse": "RUE ADOLPHE RENOUPREZ 26 4820 DISON",
+   "pdf": "https://www.ejustice.just.fgov.be/tsv_pdf/2020/12/18/20150663.pdf"
+  },
+  {
+   "nom": "4) NP MOTOR SPRL",
+   "date": "2016-08-18",
+   "ref": "0245079",
+   "type": "ME. - COMPTES ANNUELS 31.12.2015, APP 09.08.2016, DPT 12.08.2016 16425-0259-015",
+   "adresse": "RUE ADOLPHE RENOUPREZ 26 4820 DISON",
+   "pdf": ""
+  },
+  {
+   "nom": "5) NP MOTOR SPRL",
+   "date": "2016-05-30",
+   "ref": "0073890",
+   "type": "SIEGE SOCIAL - STATUTS (TRADUCTION, COORDINATION, AUTRES MODIFICATIONS, )",
+   "adresse": "RUE DE LA METAL 14 4870 TROOZ",
+   "pdf": "https://www.ejustice.just.fgov.be/tsv_pdf/2016/05/30/16073890.pdf"
+  },
+  {
+   "nom": "6) NP MOTOR SPRL",
+   "date": "2015-09-17",
+   "ref": "0340513",
+   "type": "ME. - COMPTES ANNUELS 31.12.2014, APP 10.09.2015, DPT 11.09.2015 15585-0359-016",
+   "adresse": "RUE DE LA METAL 14 4870 TROOZ",
+   "pdf": ""
+  },
+  {
+   "nom": "7) NP MOTOR SPRL",
+   "date": "2014-09-09",
+   "ref": "0311839",
+   "type": "ME. - COMPTES ANNUELS 31.12.2013, APP 26.06.2014, DPT 29.08.2014 14542-0374-014",
+   "adresse": "RUE DE LA METAL 14 4870 TROOZ",
+   "pdf": ""
+  },
+  {
+   "nom": "8) NP MOTOR SPRL",
+   "date": "2014-01-20",
+   "ref": "0018915",
+   "type": "CAPITAL, ACTIONS - STATUTS (TRADUCTION, COORDINATION, AUTRES MODIFICATIONS, )",
+   "adresse": "RUE DE LA METAL 14 4870 TROOZ",
+   "pdf": "https://www.ejustice.just.fgov.be/tsv_pdf/2014/01/20/14018915.pdf"
+  },
+  {
+   "nom": "9) NP MOTOR SPRL",
+   "date": "2013-11-19",
+   "ref": "0384288",
+   "type": "ME. - COMPTES ANNUELS 31.12.2012, APP 04.10.2013, DPT 14.11.2013 13660-0379-014",
+   "adresse": "RUE DE LA METAL 14 4870 TROOZ",
+   "pdf": ""
+  },
+  {
+   "nom": "10) NP MOTOR SPRL",
+   "date": "2012-09-07",
+   "ref": "0308300",
+   "type": "ME. - COMPTES ANNUELS 31.12.2011, APP 22.06.2012, DPT 30.08.2012 12506-0174-012",
+   "adresse": "RUE DE LA METAL 14 4870 TROOZ",
+   "pdf": ""
+  },
+  {
+   "nom": "11) NP MOTOR SPRL",
+   "date": "2011-10-07",
+   "ref": "0332692",
+   "type": "ME. - COMPTES ANNUELS 31.12.2010, APP 24.06.2011, DPT 29.09.2011 11570-0380-012",
+   "adresse": "RUE DE LA METAL 14 4870 TROOZ",
+   "pdf": ""
+  },
+  {
+   "nom": "12) NP MOTOR SPRL",
+   "date": "2010-12-02",
+   "ref": "0175261",
+   "type": "SIEGE SOCIAL",
+   "adresse": "ROUTE DE TANCREMONT 61 4860 PEPINSTER",
+   "pdf": "https://www.ejustice.just.fgov.be/tsv_pdf/2010/12/02/10175261.pdf"
+  },
+  {
+   "nom": "13) NP MOTOR SPRL",
+   "date": "2010-09-09",
+   "ref": "0302548",
+   "type": "ME. - COMPTES ANNUELS 31.12.2009, APP 25.06.2010, DPT 02.09.2010 10529-0135-012",
+   "adresse": "ROUTE DE TANCREMONT 61 4860 PEPINSTER",
+   "pdf": ""
+  },
+  {
+   "nom": "14) NP MOTOR SPRL",
+   "date": "2009-09-30",
+   "ref": "0306313",
+   "type": "ME. - COMPTES ANNUELS 31.12.2008, APP 26.06.2009, DPT 28.09.2009 09773-0350-011",
+   "adresse": "ROUTE DE TANCREMONT 61 4860 PEPINSTER",
+   "pdf": ""
+  },
+  {
+   "nom": "15) NP MOTOR SPRL",
+   "date": "2008-09-02",
+   "ref": "0257149",
+   "type": "ME. - COMPTES ANNUELS 31.12.2007, APP 27.06.2008, DPT 29.08.2008 08654-0324-011",
+   "adresse": "ROUTE DE TANCREMONT 61 4860 PEPINSTER",
+   "pdf": ""
+  },
+  {
+   "nom": "16) PIERRE ANCION SPRL",
+   "date": "2008-02-12",
+   "ref": "0023804",
+   "type": "DENOMINATION - CAPITAL, ACTIONS - DEMISSIONS, NOMINATIONS - STATUTS (TRADUCTION, COORDINATION, AUTRES MODIFICATIONS, )",
+   "adresse": "ROUTE DE TANCREMONT 61 4860 PEPINSTER",
+   "pdf": "https://www.ejustice.just.fgov.be/tsv_pdf/2008/02/12/08023804.pdf"
+  },
+  {
+   "nom": "17) PIERRE ANCION SPRL",
+   "date": "2007-09-06",
+   "ref": "0267764",
+   "type": "ME. - COMPTES ANNUELS 31.12.2006, APP 29.06.2007, DPT 30.08.2007 07691-0255-012",
+   "adresse": "ROUTE DE TANCREMONT 61 4860 PEPINSTER",
+   "pdf": ""
+  },
+  {
+   "nom": "18) PIERRE ANCION SPRL",
+   "date": "2006-09-01",
+   "ref": "0244182",
+   "type": "ME. - COMPTES ANNUELS 31.12.2005, APP 07.07.2006, DPT 29.08.2006 06696-4118-012",
+   "adresse": "ROUTE DE TANCREMONT.61 4860 PEPINSTER",
+   "pdf": ""
+  },
+  {
+   "nom": "19) PIERRE ANCION SPRL",
+   "date": "2005-09-28",
+   "ref": "0244135",
+   "type": "ME. - COMPTES ANNUELS 31.12.2004, APP 30.06.2005, DPT 23.09.2005 05705-4044-012",
+   "adresse": "ROUTE DE TANCREMONT.61 4860 PEPINSTER",
+   "pdf": ""
+  },
+  {
+   "nom": "20) PIERRE ANCION SPRL",
+   "date": "2003-12-18",
+   "ref": "0134892",
+   "type": "RUBRIQUE CONSTITUTION (NOUVELLE PERSONNE MORALE, OUVERTURE SUCCURSALE, ETC...)",
+   "adresse": "ROUTE DE TANCREMONT.61 4860 PEPINSTER",
+   "pdf": "https://www.ejustice.just.fgov.be/tsv_pdf/2003/12/18/03134892.pdf"
+  }
+ ]
+}

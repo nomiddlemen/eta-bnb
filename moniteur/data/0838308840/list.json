@@ -1,0 +1,70 @@
+{
+ "bce": "0838308840",
+ "total_annonce": 8,
+ "items": [
+  {
+   "nom": "1) EAQUE TRADE SPRL",
+   "date": "2023-12-27",
+   "ref": "0476678",
+   "type": "MODIFICATION FORME JURIDIQUE - DENOMINATION - OBJET - DEMISSIONS, NOMINATIONS",
+   "adresse": "PARC INDUSTRIEL 24 1440 BRAINE-LE-CHATEAU",
+   "pdf": "https://www.ejustice.just.fgov.be/tsv_pdf/2023/12/27/23476678.pdf"
+  },
+  {
+   "nom": "2) EAQUE TRADE SPRL",
+   "date": "2018-12-12",
+   "ref": "0177461",
+   "type": "SIEGE SOCIAL",
+   "adresse": "QUAI DE MARIEMONT 53C 1080 BRUXELLES",
+   "pdf": "https://www.ejustice.just.fgov.be/tsv_pdf/2018/12/12/18177461.pdf"
+  },
+  {
+   "nom": "3) EAQUE TRADE SPRL",
+   "date": "2016-10-06",
+   "ref": "0368604",
+   "type": "ME. - COMPTES ANNUELS 31.12.2015, APP 29.09.2016, DPT 30.09.2016 16633-0515-014",
+   "adresse": "QUAI DE MARIEMONT 53C 1080 BRUXELLES",
+   "pdf": ""
+  },
+  {
+   "nom": "4) EAQUE TRADE SPRL",
+   "date": "2015-09-23",
+   "ref": "0344217",
+   "type": "ME. - COMPTES ANNUELS 31.12.2014, APP 11.09.2015, DPT 16.09.2015 15590-0519-015",
+   "adresse": "QUAI DE MARIEMONT 53C 1080 BRUXELLES",
+   "pdf": ""
+  },
+  {
+   "nom": "5) EAQUE TRADE SPRL",
+   "date": "2014-10-01",
+   "ref": "0352810",
+   "type": "ME. - COMPTES ANNUELS 31.12.2013, APP 11.09.2014, DPT 25.09.2014 14604-0298-014",
+   "adresse": "QUAI DE MARIEMONT 53C 1080 BRUXELLES",
+   "pdf": ""
+  },
+  {
+   "nom": "6) EAQUE TRADE SPRL",
+   "date": "2013-07-16",
+   "ref": "0169954",
+   "type": "ME. - COMPTES ANNUELS 31.12.2012, APP 28.06.2013, DPT 11.07.2013 13295-0500-013",
+   "adresse": "QUAI DE MARIEMONT 53C 1080 BRUXELLES",
+   "pdf": ""
+  },
+  {
+   "nom": "7) EAQUE TRADE SPRL",
+   "date": "2012-10-17",
+   "ref": "0354439",
+   "type": "ME. - COMPTES ANNUELS 31.12.2011, APP 09.10.2012, DPT 10.10.2012 12608-0033-013",
+   "adresse": "QUAI DE MARIEMONT 53C 1080 BRUXELLES",
+   "pdf": ""
+  },
+  {
+   "nom": "8) EAQUE TRADE SPRL",
+   "date": "2011-08-16",
+   "ref": "0125494",
+   "type": "RUBRIQUE CONSTITUTION (NOUVELLE PERSONNE MORALE, OUVERTURE SUCCURSALE, ETC...)",
+   "adresse": "QUAI DE MARIEMONT 53C 1080 BRUXELLES",
+   "pdf": "https://www.ejustice.just.fgov.be/tsv_pdf/2011/08/16/11125494.pdf"
+  }
+ ]
+}

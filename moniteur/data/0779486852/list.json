@@ -1,0 +1,22 @@
+{
+ "bce": "0779486852",
+ "total_annonce": 2,
+ "items": [
+  {
+   "nom": "1) FOODIEST GmbH",
+   "date": "2025-02-12",
+   "ref": "0022157",
+   "type": "GESELLSCHAFTSSITZ",
+   "adresse": "EUPENER STRAßE 55B 4731 EYNATTEN",
+   "pdf": "https://www.ejustice.just.fgov.be/tsv_pdf/2025/02/12/25022157.pdf"
+  },
+  {
+   "nom": "2) FOODIEST GmbH",
+   "date": "2021-12-31",
+   "ref": "0380253",
+   "type": "RUBRIK GRUENDUNG (NEUE RECHTSPERSON, EROEFFNUNG FILIALE, USW)",
+   "adresse": "EUPENER STRAßE 55B 4731 EYNATTEN",
+   "pdf": "https://www.ejustice.just.fgov.be/tsv_pdf/2021/12/31/21380253.pdf"
+  }
+ ]
+}

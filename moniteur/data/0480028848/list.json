@@ -1,0 +1,390 @@
+{
+ "bce": "0480028848",
+ "total_annonce": 48,
+ "items": [
+  {
+   "nom": "1) SAMANDA SA",
+   "date": "2025-01-07",
+   "ref": "0002686",
+   "type": "RUBRIQUE FIN (CESSATION, ANNULATION CESSATION, NULLITE, CONC, REORGANISATION JUDICIAIRE, ETC...) - RUBRIQUE RESTRUCTURATION (FUSION, SCISSION, TRANSFERT PATRIMOINE, ETC...)",
+   "adresse": "AVENUE MAURICE DESTENAY 13 4000 LIEGE 1",
+   "pdf": "https://www.ejustice.just.fgov.be/tsv_pdf/2025/01/07/25002686.pdf"
+  },
+  {
+   "nom": "2) SAMANDA SA",
+   "date": "2024-10-31",
+   "ref": "0157037",
+   "type": "RUBRIQUE RESTRUCTURATION (FUSION, SCISSION, TRANSFERT PATRIMOINE, ETC...)",
+   "adresse": "AVENUE MAURICE DESTENAY 13 4000 LIEGE 1",
+   "pdf": "https://www.ejustice.just.fgov.be/tsv_pdf/2024/10/31/24157037.pdf"
+  },
+  {
+   "nom": "3) SAMANDA SA",
+   "date": "2024-01-29",
+   "ref": "0344732",
+   "type": "STATUTS (TRADUCTION, COORDINATION, AUTRES MODIFICATIONS, )",
+   "adresse": "AVENUE MAURICE DESTENAY 13 4000 LIEGE 1",
+   "pdf": "https://www.ejustice.just.fgov.be/tsv_pdf/2024/01/29/24344732.pdf"
+  },
+  {
+   "nom": "4) SAMANDA SA",
+   "date": "2023-12-29",
+   "ref": "0167588",
+   "type": "DEMISSIONS, NOMINATIONS",
+   "adresse": "AVENUE MAURICE DESTENAY 13 4000 LIEGE 1",
+   "pdf": "https://www.ejustice.just.fgov.be/tsv_pdf/2023/12/29/23167588.pdf"
+  },
+  {
+   "nom": "5) SAMANDA SA",
+   "date": "2021-09-20",
+   "ref": "0111914",
+   "type": "DEMISSIONS, NOMINATIONS",
+   "adresse": "AVENUE MAURICE DESTENAY 13 4000 LIEGE 1",
+   "pdf": "https://www.ejustice.just.fgov.be/tsv_pdf/2021/09/20/21111914.pdf"
+  },
+  {
+   "nom": "6) SAMANDA SA",
+   "date": "2021-06-23",
+   "ref": "0073987",
+   "type": "DEMISSIONS, NOMINATIONS",
+   "adresse": "AVENUE MAURICE DESTENAY 13 4000 LIEGE 1",
+   "pdf": "https://www.ejustice.just.fgov.be/tsv_pdf/2021/06/23/21073987.pdf"
+  },
+  {
+   "nom": "7) SAMANDA SA",
+   "date": "2021-02-09",
+   "ref": "0017668",
+   "type": "DEMISSIONS, NOMINATIONS",
+   "adresse": "AVENUE MAURICE DESTENAY 13 4000 LIEGE 1",
+   "pdf": "https://www.ejustice.just.fgov.be/tsv_pdf/2021/02/09/21017668.pdf"
+  },
+  {
+   "nom": "8) SAMANDA SA",
+   "date": "2021-01-18",
+   "ref": "0006546",
+   "type": "DEMISSIONS, NOMINATIONS",
+   "adresse": "AVENUE MAURICE DESTENAY 13 4000 LIEGE 1",
+   "pdf": "https://www.ejustice.just.fgov.be/tsv_pdf/2021/01/18/21006546.pdf"
+  },
+  {
+   "nom": "9) SAMANDA SA",
+   "date": "2019-12-16",
+   "ref": "0163102",
+   "type": "DEMISSIONS, NOMINATIONS",
+   "adresse": "AVENUE MAURICE DESTENAY 13 4000 LIEGE 1",
+   "pdf": "https://www.ejustice.just.fgov.be/tsv_pdf/2019/12/16/19163102.pdf"
+  },
+  {
+   "nom": "10) SAMANDA SA",
+   "date": "2019-07-17",
+   "ref": "0096358",
+   "type": "DEMISSIONS, NOMINATIONS",
+   "adresse": "AVENUE MAURICE DESTENAY 13 4000 LIEGE 1",
+   "pdf": "https://www.ejustice.just.fgov.be/tsv_pdf/2019/07/17/19096358.pdf"
+  },
+  {
+   "nom": "11) SAMANDA SA",
+   "date": "2019-07-05",
+   "ref": "0089773",
+   "type": "DEMISSIONS, NOMINATIONS",
+   "adresse": "AVENUE MAURICE DESTENAY 13 4000 LIEGE 1",
+   "pdf": "https://www.ejustice.just.fgov.be/tsv_pdf/2019/07/05/19089773.pdf"
+  },
+  {
+   "nom": "12) SAMANDA SA",
+   "date": "2019-03-12",
+   "ref": "0035695",
+   "type": "DEMISSIONS, NOMINATIONS",
+   "adresse": "AVENUE MAURICE DESTENAY 13 4000 LIEGE 1",
+   "pdf": "https://www.ejustice.just.fgov.be/tsv_pdf/2019/03/12/19035695.pdf"
+  },
+  {
+   "nom": "13) SAMANDA SA",
+   "date": "2017-11-08",
+   "ref": "0156730",
+   "type": "DEMISSIONS, NOMINATIONS",
+   "adresse": "AVENUE MAURICE DESTENAY 13 4000 LIEGE 1",
+   "pdf": "https://www.ejustice.just.fgov.be/tsv_pdf/2017/11/08/17156730.pdf"
+  },
+  {
+   "nom": "14) SAMANDA SA",
+   "date": "2017-08-17",
+   "ref": "0119296",
+   "type": "DEMISSIONS, NOMINATIONS",
+   "adresse": "AVENUE MAURICE DESTENAY 13 4000 LIEGE 1",
+   "pdf": "https://www.ejustice.just.fgov.be/tsv_pdf/2017/08/17/17119296.pdf"
+  },
+  {
+   "nom": "15) SAMANDA SA",
+   "date": "2017-08-01",
+   "ref": "0111509",
+   "type": "DEMISSIONS, NOMINATIONS",
+   "adresse": "AVENUE MAURICE DESTENAY 13 4000 LIEGE 1",
+   "pdf": "https://www.ejustice.just.fgov.be/tsv_pdf/2017/08/01/17111509.pdf"
+  },
+  {
+   "nom": "16) SAMANDA SA",
+   "date": "2017-03-14",
+   "ref": "0039402",
+   "type": "DEMISSIONS, NOMINATIONS",
+   "adresse": "AVENUE MAURICE DESTENAY 13 4000 LIEGE 1",
+   "pdf": "https://www.ejustice.just.fgov.be/tsv_pdf/2017/03/14/17039402.pdf"
+  },
+  {
+   "nom": "17) SAMANDA SA",
+   "date": "2016-06-14",
+   "ref": "0080529",
+   "type": "DIVERS",
+   "adresse": "AVENUE MAURICE DESTENAY 13 4000 LIEGE 1",
+   "pdf": "https://www.ejustice.just.fgov.be/tsv_pdf/2016/06/14/16080529.pdf"
+  },
+  {
+   "nom": "18) SAMANDA SA",
+   "date": "2016-05-31",
+   "ref": "0077576",
+   "type": "ME. - COMPTES ANNUELS 31.12.2015, APP 10.05.2016, DPT 26.05.2016 16135-0281-030",
+   "adresse": "AVENUE MAURICE DESTENAY 13 4000 LIEGE 1",
+   "pdf": ""
+  },
+  {
+   "nom": "19) SAMANDA SA",
+   "date": "2015-10-28",
+   "ref": "0152439",
+   "type": "DEMISSIONS, NOMINATIONS",
+   "adresse": "AVENUE MAURICE DESTENAY 13 4000 LIEGE 1",
+   "pdf": "https://www.ejustice.just.fgov.be/tsv_pdf/2015/10/28/15152439.pdf"
+  },
+  {
+   "nom": "20) SAMANDA SA",
+   "date": "2015-06-12",
+   "ref": "0083536",
+   "type": "DEMISSIONS, NOMINATIONS",
+   "adresse": "AVENUE MAURICE DESTENAY 13 4000 LIEGE 1",
+   "pdf": "https://www.ejustice.just.fgov.be/tsv_pdf/2015/06/12/15083536.pdf"
+  },
+  {
+   "nom": "21) SAMANDA SA",
+   "date": "2015-05-27",
+   "ref": "0073005",
+   "type": "ME. - COMPTES ANNUELS 31.12.2014, APP 12.05.2015, DPT 21.05.2015 15125-0536-031",
+   "adresse": "AVENUE MAURICE DESTENAY 13 4000 LIEGE 1",
+   "pdf": ""
+  },
+  {
+   "nom": "22) SAMANDA SA",
+   "date": "2014-11-26",
+   "ref": "0212962",
+   "type": "DEMISSIONS, NOMINATIONS",
+   "adresse": "AVENUE MAURICE DESTENAY 13 4000 LIEGE 1",
+   "pdf": "https://www.ejustice.just.fgov.be/tsv_pdf/2014/11/26/14212962.pdf"
+  },
+  {
+   "nom": "23) SAMANDA SA",
+   "date": "2014-10-17",
+   "ref": "0190057",
+   "type": "DEMISSIONS, NOMINATIONS",
+   "adresse": "AVENUE MAURICE DESTENAY 13 4000 LIEGE 1",
+   "pdf": "https://www.ejustice.just.fgov.be/tsv_pdf/2014/10/17/14190057.pdf"
+  },
+  {
+   "nom": "24) SAMANDA SA",
+   "date": "2014-09-05",
+   "ref": "0165545",
+   "type": "DEMISSIONS, NOMINATIONS",
+   "adresse": "AVENUE MAURICE DESTENAY 13 4000 LIEGE 1",
+   "pdf": "https://www.ejustice.just.fgov.be/tsv_pdf/2014/09/05/14165545.pdf"
+  },
+  {
+   "nom": "25) SAMANDA SA",
+   "date": "2014-06-12",
+   "ref": "0090599",
+   "type": "ME. - COMPTES ANNUELS 31.12.2013, APP 13.05.2014, DPT 05.06.2014 14158-0054-030",
+   "adresse": "AVENUE MAURICE DESTENAY 13 4000 LIEGE 1",
+   "pdf": ""
+  },
+  {
+   "nom": "26) SAMANDA SA",
+   "date": "2013-06-17",
+   "ref": "0099616",
+   "type": "ME. - COMPTES ANNUELS 31.12.2012, APP 14.05.2013, DPT 13.06.2013 13172-0409-031",
+   "adresse": "AVENUE MAURICE DESTENAY 13 4000 LIEGE 1",
+   "pdf": ""
+  },
+  {
+   "nom": "27) SAMANDA SA",
+   "date": "2013-05-08",
+   "ref": "0070743",
+   "type": "DEMISSIONS, NOMINATIONS",
+   "adresse": "AVENUE MAURICE DESTENAY 13 4000 LIEGE 1",
+   "pdf": "https://www.ejustice.just.fgov.be/tsv_pdf/2013/05/08/13070743.pdf"
+  },
+  {
+   "nom": "28) SAMANDA SA",
+   "date": "2013-02-07",
+   "ref": "0023493",
+   "type": "DEMISSIONS, NOMINATIONS",
+   "adresse": "AVENUE MAURICE DESTENAY 13 4000 LIEGE 1",
+   "pdf": "https://www.ejustice.just.fgov.be/tsv_pdf/2013/02/07/13023493.pdf"
+  },
+  {
+   "nom": "29) SAMANDA SA",
+   "date": "2012-06-01",
+   "ref": "0077551",
+   "type": "ME. - COMPTES ANNUELS 31.12.2011, APP 08.05.2012, DPT 29.05.2012 12132-0051-031",
+   "adresse": "AVENUE MAURICE DESTENAY 13 4000 LIEGE 1",
+   "pdf": ""
+  },
+  {
+   "nom": "30) SAMANDA SA",
+   "date": "2012-03-15",
+   "ref": "0056997",
+   "type": "DEMISSIONS, NOMINATIONS",
+   "adresse": "AVENUE MAURICE DESTENAY 13 4000 LIEGE 1",
+   "pdf": "https://www.ejustice.just.fgov.be/tsv_pdf/2012/03/15/12056997.pdf"
+  },
+  {
+   "nom": "31) SAMANDA SA",
+   "date": "2011-05-25",
+   "ref": "0068993",
+   "type": "ME. - COMPTES ANNUELS 31.12.2010, APP 10.05.2011, DPT 19.05.2011 11117-0576-031",
+   "adresse": "AVENUE MAURICE DESTENAY 13 4000 LIEGE 1",
+   "pdf": ""
+  },
+  {
+   "nom": "32) SAMANDA SA",
+   "date": "2010-08-18",
+   "ref": "0123073",
+   "type": "DEMISSIONS, NOMINATIONS",
+   "adresse": "AVENUE MAURICE DESTENAY 13 4000 LIEGE 1",
+   "pdf": "https://www.ejustice.just.fgov.be/tsv_pdf/2010/08/18/10123073.pdf"
+  },
+  {
+   "nom": "33) SAMANDA SA",
+   "date": "2010-05-28",
+   "ref": "0068867",
+   "type": "ME. - COMPTES ANNUELS 31.12.2009, APP 11.05.2010, DPT 25.05.2010 10128-0537-028",
+   "adresse": "AVENUE MAURICE DESTENAY 13 4000 LIEGE 1",
+   "pdf": ""
+  },
+  {
+   "nom": "34) SAMANDA SA",
+   "date": "2009-12-09",
+   "ref": "0173363",
+   "type": "DEMISSIONS, NOMINATIONS",
+   "adresse": "AVENUE MAURICE DESTENAY 13 4000 LIEGE 1",
+   "pdf": "https://www.ejustice.just.fgov.be/tsv_pdf/2009/12/09/09173363.pdf"
+  },
+  {
+   "nom": "35) SAMANDA SA",
+   "date": "2009-05-27",
+   "ref": "0065049",
+   "type": "ME. - COMPTES ANNUELS 31.12.2008, APP 12.05.2009, DPT 20.05.2009 09157-0266-028",
+   "adresse": "AVENUE MAURICE DESTENAY 13 4000 LIEGE 1",
+   "pdf": ""
+  },
+  {
+   "nom": "36) SAMANDA SA",
+   "date": "2009-05-06",
+   "ref": "0063970",
+   "type": "DEMISSIONS, NOMINATIONS",
+   "adresse": "AVENUE MAURICE DESTENAY 13 4000 LIEGE 1",
+   "pdf": "https://www.ejustice.just.fgov.be/tsv_pdf/2009/05/06/09063970.pdf"
+  },
+  {
+   "nom": "37) SAMANDA SA",
+   "date": "2009-02-03",
+   "ref": "0017505",
+   "type": "DEMISSIONS, NOMINATIONS",
+   "adresse": "AVENUE MAURICE DESTENAY 13 4000 LIEGE 1",
+   "pdf": "https://www.ejustice.just.fgov.be/tsv_pdf/2009/02/03/09017505.pdf"
+  },
+  {
+   "nom": "38) SAMANDA SA",
+   "date": "2009-02-03",
+   "ref": "0017506",
+   "type": "DEMISSIONS, NOMINATIONS",
+   "adresse": "AVENUE MAURICE DESTENAY 13 4000 LIEGE 1",
+   "pdf": "https://www.ejustice.just.fgov.be/tsv_pdf/2009/02/03/09017506.pdf"
+  },
+  {
+   "nom": "39) SAMANDA SA",
+   "date": "2008-06-05",
+   "ref": "0082191",
+   "type": "DEMISSIONS, NOMINATIONS",
+   "adresse": "AVENUE MAURICE DESTENAY 13 4000 LIEGE 1",
+   "pdf": "https://www.ejustice.just.fgov.be/tsv_pdf/2008/06/05/08082191.pdf"
+  },
+  {
+   "nom": "40) SAMANDA SA",
+   "date": "2008-05-26",
+   "ref": "0060967",
+   "type": "ME. - COMPTES ANNUELS 31.12.2007, APP 13.05.2008, DPT 19.05.2008 08143-0043-031",
+   "adresse": "AVENUE MAURICE DESTENAY 13 4000 LIEGE 1",
+   "pdf": ""
+  },
+  {
+   "nom": "41) SAMANDA SA",
+   "date": "2008-04-18",
+   "ref": "0058622",
+   "type": "DEMISSIONS, NOMINATIONS",
+   "adresse": "AVENUE MAURICE DESTENAY 13 4000 LIEGE 1",
+   "pdf": "https://www.ejustice.just.fgov.be/tsv_pdf/2008/04/18/08058622.pdf"
+  },
+  {
+   "nom": "42) SAMANDA SA",
+   "date": "2007-06-07",
+   "ref": "0068861",
+   "type": "ME. - COMPTES ANNUELS 31.12.2006, APP 08.05.2007, DPT 30.05.2007 07161-0242-028",
+   "adresse": "AVENUE MAURICE DESTENAY 13 4000 LIEGE 1",
+   "pdf": ""
+  },
+  {
+   "nom": "43) SAMANDA SA",
+   "date": "2006-11-13",
+   "ref": "0170649",
+   "type": "DEMISSIONS, NOMINATIONS",
+   "adresse": "AVENUE MAURICE DESTENAY 13 4000 LIEGE 1",
+   "pdf": "https://www.ejustice.just.fgov.be/tsv_pdf/2006/11/13/06170649.pdf"
+  },
+  {
+   "nom": "44) SAMANDA SA",
+   "date": "2006-05-29",
+   "ref": "0089119",
+   "type": "DEMISSIONS, NOMINATIONS",
+   "adresse": "AVENUE MAURICE DESTENAY 13 4000 LIEGE 1",
+   "pdf": "https://www.ejustice.just.fgov.be/tsv_pdf/2006/05/29/06089119.pdf"
+  },
+  {
+   "nom": "45) SAMANDA SA",
+   "date": "2006-05-24",
+   "ref": "0054826",
+   "type": "ME. - COMPTES ANNUELS 31.12.2005, APP 09.05.2006, DPT 16.05.2006 06143-0135-022",
+   "adresse": "AVENUE MAURICE DESTENAY 13 4000 LIEGE 1",
+   "pdf": ""
+  },
+  {
+   "nom": "46) SAMANDA SA",
+   "date": "2005-05-23",
+   "ref": "0057609",
+   "type": "ME. - COMPTES ANNUELS 31.12.2004, APP 10.05.2005, DPT 13.05.2005 05147-0113-022",
+   "adresse": "AVENUE MAURICE DESTENAY.13 4000 LIEGE 1",
+   "pdf": ""
+  },
+  {
+   "nom": "47) SAMANDA SA",
+   "date": "2004-05-26",
+   "ref": "0062098",
+   "type": "ME. - COMPTES ANNUELS 31.12.2003, APP 11.05.2004, DPT 17.05.2004 04146-0171-020",
+   "adresse": "AVENUE MAURICE DESTENAY.13 4000 LIEGE 1",
+   "pdf": ""
+  },
+  {
+   "nom": "48) SAMANDA SA",
+   "date": "2003-04-24",
+   "ref": "0047569",
+   "type": "RUBRIQUE CONSTITUTION (NOUVELLE PERSONNE MORALE, OUVERTURE SUCCURSALE, ETC...)",
+   "adresse": "AVENUE MAURICE DESTENAY.13 4000 LIEGE 1",
+   "pdf": "https://www.ejustice.just.fgov.be/tsv_pdf/2003/04/24/03047569.pdf"
+  }
+ ]
+}

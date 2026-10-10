@@ -1,0 +1,22 @@
+{
+ "bce": "0768260190",
+ "total_annonce": 2,
+ "items": [
+  {
+   "nom": "1) VIRGO DEVELOPPEMENT SRL",
+   "date": "2023-07-27",
+   "ref": "0096109",
+   "type": "SIEGE SOCIAL",
+   "adresse": "AVENUE DU PARC D'AVENTURES SCIENTIFIQUES 5 7080 EUGIES(FRAMERIES)",
+   "pdf": "https://www.ejustice.just.fgov.be/tsv_pdf/2023/07/27/23096109.pdf"
+  },
+  {
+   "nom": "2) VIRGO DEVELOPPEMENT SRL",
+   "date": "2021-05-12",
+   "ref": "0329740",
+   "type": "RUBRIQUE CONSTITUTION (NOUVELLE PERSONNE MORALE, OUVERTURE SUCCURSALE, ETC...)",
+   "adresse": "AVENUE DU PARC D'AVENTURES SCIENTIFIQUES 5 7080 EUGIES(FRAMERIES)",
+   "pdf": "https://www.ejustice.just.fgov.be/tsv_pdf/2021/05/12/21329740.pdf"
+  }
+ ]
+}

@@ -1,0 +1,22 @@
+{
+ "bce": "0780933241",
+ "total_annonce": 2,
+ "items": [
+  {
+   "nom": "1) CALYCE SRL",
+   "date": "2023-12-04",
+   "ref": "0444700",
+   "type": "CAPITAL, ACTIONS",
+   "adresse": "RUE JEAN DOINET 52 4140 SPRIMONT",
+   "pdf": "https://www.ejustice.just.fgov.be/tsv_pdf/2023/12/04/23444700.pdf"
+  },
+  {
+   "nom": "2) CALYCE SRL",
+   "date": "2022-01-28",
+   "ref": "0306690",
+   "type": "RUBRIQUE CONSTITUTION (NOUVELLE PERSONNE MORALE, OUVERTURE SUCCURSALE, ETC...)",
+   "adresse": "RUE JEAN DOINET 52 4140 SPRIMONT",
+   "pdf": "https://www.ejustice.just.fgov.be/tsv_pdf/2022/01/28/22306690.pdf"
+  }
+ ]
+}

@@ -1,0 +1,326 @@
+{
+ "bce": "0450824920",
+ "total_annonce": 40,
+ "items": [
+  {
+   "nom": "1) DELMAR HOLDING NV",
+   "date": "2021-09-03",
+   "ref": "0105644",
+   "type": "ONTSLAGEN - BENOEMINGEN",
+   "adresse": "ZONNEBEEKSEWEG 286 8900 IEPER",
+   "pdf": "https://www.ejustice.just.fgov.be/tsv_pdf/2021/09/03/21105644.pdf"
+  },
+  {
+   "nom": "2) DELMAR HOLDING NV",
+   "date": "2018-10-16",
+   "ref": "0151998",
+   "type": "ONTSLAGEN - BENOEMINGEN",
+   "adresse": "ZONNEBEEKSEWEG 286 8900 IEPER",
+   "pdf": "https://www.ejustice.just.fgov.be/tsv_pdf/2018/10/16/18151998.pdf"
+  },
+  {
+   "nom": "3) DELMAR HOLDING NV",
+   "date": "2018-02-14",
+   "ref": "0031550",
+   "type": "KAPITAAL - AANDELEN - STATUTEN (VERTALING, COÖRDINATIE, OVERIGE WIJZIGINGEN, )",
+   "adresse": "ZONNEBEEKSEWEG 286 8900 IEPER",
+   "pdf": "https://www.ejustice.just.fgov.be/tsv_pdf/2018/02/14/18031550.pdf"
+  },
+  {
+   "nom": "4) DELMAR HOLDING NV",
+   "date": "2017-12-29",
+   "ref": "0182877",
+   "type": "KAPITAAL - AANDELEN",
+   "adresse": "ZONNEBEEKSEWEG 286 8900 IEPER",
+   "pdf": "https://www.ejustice.just.fgov.be/tsv_pdf/2017/12/29/17182877.pdf"
+  },
+  {
+   "nom": "5) DELMAR HOLDING NV",
+   "date": "2016-09-02",
+   "ref": "0290723",
+   "type": "ME. - JAARREKENING 31.12.2015, GGK 31.07.2016, NGL 31.08.2016 16513-0484-019",
+   "adresse": "ZONNEBEEKSEWEG 286 8900 IEPER",
+   "pdf": ""
+  },
+  {
+   "nom": "6) DELMAR HOLDING NV",
+   "date": "2015-10-22",
+   "ref": "0149329",
+   "type": "ONTSLAGEN - BENOEMINGEN",
+   "adresse": "ZONNEBEEKSEWEG 286 8900 IEPER",
+   "pdf": "https://www.ejustice.just.fgov.be/tsv_pdf/2015/10/22/15149329.pdf"
+  },
+  {
+   "nom": "7) DELMAR HOLDING NV",
+   "date": "2015-09-02",
+   "ref": "0290240",
+   "type": "ME. - JAARREKENING 31.12.2014, GGK 31.07.2015, NGL 31.08.2015 15507-0176-020",
+   "adresse": "ZONNEBEEKSEWEG 286 8900 IEPER",
+   "pdf": ""
+  },
+  {
+   "nom": "8) DELMAR HOLDING NV",
+   "date": "2014-09-02",
+   "ref": "0284656",
+   "type": "ME. - JAARREKENING 31.12.2013, GGK 08.08.2014, NGL 29.08.2014 14504-0025-020",
+   "adresse": "ZONNEBEEKSEWEG 286 8900 IEPER",
+   "pdf": ""
+  },
+  {
+   "nom": "9) DELMAR HOLDING NV",
+   "date": "2013-12-13",
+   "ref": "0187170",
+   "type": "KAPITAAL - AANDELEN - STATUTEN (VERTALING, COÖRDINATIE, OVERIGE WIJZIGINGEN, )",
+   "adresse": "ZONNEBEEKSEWEG 286 8900 IEPER",
+   "pdf": "https://www.ejustice.just.fgov.be/tsv_pdf/2013/12/13/13187170.pdf"
+  },
+  {
+   "nom": "10) DELMAR HOLDING NV",
+   "date": "2013-12-09",
+   "ref": "0183908",
+   "type": "ONTSLAGEN - BENOEMINGEN",
+   "adresse": "ZONNEBEEKSEWEG 286 8900 IEPER",
+   "pdf": "https://www.ejustice.just.fgov.be/tsv_pdf/2013/12/09/13183908.pdf"
+  },
+  {
+   "nom": "11) DELMAR HOLDING NV",
+   "date": "2013-09-05",
+   "ref": "0301870",
+   "type": "ME. - JAARREKENING 31.12.2012, GGK 23.08.2013, NGL 31.08.2013 13508-0347-019",
+   "adresse": "KASTEELSTRAAT 3 8980 GELUVELD",
+   "pdf": ""
+  },
+  {
+   "nom": "12) DELMAR HOLDING NV",
+   "date": "2013-09-04",
+   "ref": "0136151",
+   "type": "MAATSCHAPPELIJKE ZETEL",
+   "adresse": "KASTEELSTRAAT 3 8980 GELUVELD",
+   "pdf": "https://www.ejustice.just.fgov.be/tsv_pdf/2013/09/04/13136151.pdf"
+  },
+  {
+   "nom": "13) DELMAR HOLDING NV",
+   "date": "2012-09-05",
+   "ref": "0287662",
+   "type": "ME. - JAARREKENING 31.12.2011, GGK 03.08.2012, NGL 31.08.2012 12496-0517-020",
+   "adresse": "KASTEELSTRAAT 3 8980 GELUVELD",
+   "pdf": ""
+  },
+  {
+   "nom": "14) DELMAR HOLDING NV",
+   "date": "2012-01-05",
+   "ref": "0003662",
+   "type": "STATUTEN (VERTALING, COÖRDINATIE, OVERIGE WIJZIGINGEN, )",
+   "adresse": "KASTEELSTRAAT 3 8980 GELUVELD",
+   "pdf": "https://www.ejustice.just.fgov.be/tsv_pdf/2012/01/05/12003662.pdf"
+  },
+  {
+   "nom": "15) DELMAR HOLDING NV",
+   "date": "2011-12-16",
+   "ref": "0368546",
+   "type": "ME. - JAARREKENING 31.12.2010, GGK 30.11.2011, NGL 09.12.2011 11634-0275-020",
+   "adresse": "KASTEELSTRAAT 3 8980 GELUVELD",
+   "pdf": ""
+  },
+  {
+   "nom": "16) DELMAR HOLDING NV",
+   "date": "2010-12-17",
+   "ref": "0361516",
+   "type": "ME. - JAARREKENING 31.12.2009, GGK 06.12.2010, NGL 15.12.2010 10631-0236-020",
+   "adresse": "KASTEELSTRAAT 3 8980 GELUVELD",
+   "pdf": ""
+  },
+  {
+   "nom": "17) DELMAR HOLDING NV",
+   "date": "2010-04-07",
+   "ref": "0044409",
+   "type": "ME. - JAARREKENING 30.12.2008, GGK 30.11.2009, NGL 06.04.2010 10084-0594-020",
+   "adresse": "KASTEELSTRAAT 3 8980 GELUVELD",
+   "pdf": ""
+  },
+  {
+   "nom": "18) DELMAR NV",
+   "date": "2009-09-11",
+   "ref": "0128794",
+   "type": "BENAMING - ONTSLAGEN - BENOEMINGEN - BOEKJAAR",
+   "adresse": "KASTEELSTRAAT 3 8980 GELUVELD",
+   "pdf": "https://www.ejustice.just.fgov.be/tsv_pdf/2009/09/11/09128794.pdf"
+  },
+  {
+   "nom": "19) DELMAR NV",
+   "date": "2008-10-01",
+   "ref": "0297738",
+   "type": "ME. - JAARREKENING 30.12.2007, GGK 01.09.2008, NGL 30.09.2008 08753-0335-019",
+   "adresse": "KASTEELSTRAAT 3 8980 GELUVELD",
+   "pdf": ""
+  },
+  {
+   "nom": "20) DELMAR NV",
+   "date": "2007-07-13",
+   "ref": "0146530",
+   "type": "ME. - JAARREKENING 30.12.2006, GGK 01.06.2007, NGL 11.07.2007 07378-0060-020",
+   "adresse": "KASTEELSTRAAT 3 8980 GELUVELD",
+   "pdf": ""
+  },
+  {
+   "nom": "21) DELMAR NV",
+   "date": "2006-08-31",
+   "ref": "0238925",
+   "type": "ME. - JAARREKENING 30.12.2005, GGK 10.08.2006, NGL 29.08.2006 06681-4501-017",
+   "adresse": "KASTEELSTRAAT.3 8980 GELUVELD",
+   "pdf": ""
+  },
+  {
+   "nom": "22) DELMAR NV",
+   "date": "2005-11-22",
+   "ref": "0167654",
+   "type": "ONTSLAGEN - BENOEMINGEN",
+   "adresse": "KASTEELSTRAAT.3 8980 GELUVELD",
+   "pdf": "https://www.ejustice.just.fgov.be/tsv_pdf/2005/11/22/05167654.pdf"
+  },
+  {
+   "nom": "23) DELMAR NV",
+   "date": "2005-11-18",
+   "ref": "0299314",
+   "type": "ME. - JAARREKENING 30.12.2004, GGK 03.06.2005, NGL 14.11.2005 05860-4002-017",
+   "adresse": "KASTEELSTRAAT.3 8980 GELUVELD",
+   "pdf": ""
+  },
+  {
+   "nom": "24) DELMAR NV",
+   "date": "2005-01-12",
+   "ref": "0007602",
+   "type": "BOEKJAAR - ALGEMENE VERGADERING - KAPITAAL - AANDELEN - STATUTEN (VERTALING, COÖRDINATIE, OVERIGE WIJZIGINGEN, )",
+   "adresse": "KASTEELSTRAAT.3 8980 GELUVELD",
+   "pdf": "https://www.ejustice.just.fgov.be/tsv_pdf/2005/01/12/05007602.pdf"
+  },
+  {
+   "nom": "25) DELMAR NV",
+   "date": "2004-01-23",
+   "ref": "0012526",
+   "type": "ALGEMENE VERGADERING - KAPITAAL - AANDELEN - STATUTEN (VERTALING, COÖRDINATIE, OVERIGE WIJZIGINGEN, ) - BOEKJAAR",
+   "adresse": "KASTEELSTRAAT.3 8980 GELUVELD",
+   "pdf": "https://www.ejustice.just.fgov.be/tsv_pdf/2004/01/23/04012526.pdf"
+  },
+  {
+   "nom": "26) DELMAR NV",
+   "date": "2003-08-26",
+   "ref": "0218612",
+   "type": "ME. - JAARREKENING 31.12.2002, GGK 06.06.2003 03623-0013-014",
+   "adresse": "KASTEELSTRAAT.3 8980 GELUVELD",
+   "pdf": ""
+  },
+  {
+   "nom": "27) DELMAR NV",
+   "date": "2003-01-02",
+   "ref": "0000579",
+   "type": "ME. - JAARREKENING 31.12.2001, GGK 07.06.2002 02780-4065-015",
+   "adresse": "KASTEELSTRAAT.3 8980 GELUVELD",
+   "pdf": ""
+  },
+  {
+   "nom": "28) DELMAR NV",
+   "date": "2001-12-22",
+   "ref": "0268888",
+   "type": "ME. - JAARREKENING 31.12.2000, GGK 01.06.2001 01768-2989-017",
+   "adresse": "KASTEELSTRAAT.3 8980 GELUVELD",
+   "pdf": ""
+  },
+  {
+   "nom": "29) DELMAR NV",
+   "date": "2001-12-04",
+   "ref": "146",
+   "type": "KAPITAAL - AANDELEN",
+   "adresse": "KASTEELSTRAAT.3 8980 GELUVELD",
+   "pdf": "https://www.ejustice.just.fgov.be/tsv_pdf/2001/12/04/2001-12-04_0146.pdf"
+  },
+  {
+   "nom": "30) DELMAR NV",
+   "date": "2001-10-10",
+   "ref": "171",
+   "type": "ALGEMENE VERGADERING - KAPITAAL - AANDELEN - STATUTEN (VERTALING, COÖRDINATIE, OVERIGE WIJZIGINGEN, )",
+   "adresse": "KASTEELSTRAAT.3 8980 GELUVELD",
+   "pdf": "https://www.ejustice.just.fgov.be/tsv_pdf/2001/10/10/2001-10-10_0171.pdf"
+  },
+  {
+   "nom": "31) DELMAR NV",
+   "date": "2001-04-06",
+   "ref": "0035869",
+   "type": "ME. - JAARREKENING 31.12.1999, GGK 15.09.2000 01083-4182-015",
+   "adresse": "KASTEELSTRAAT.3 8980 GELUVELD",
+   "pdf": ""
+  },
+  {
+   "nom": "32) DELMAR NV",
+   "date": "1999-11-23",
+   "ref": "0225590",
+   "type": "ME. - JAARREKENING 31.12.1997, GGK 05.06.1998 - 99578-1434-002",
+   "adresse": "KASTEELSTRAAT.3 8980 GELUVELD",
+   "pdf": ""
+  },
+  {
+   "nom": "33) DELMAR NV",
+   "date": "1999-11-20",
+   "ref": "447",
+   "type": "ONTSLAGEN - BENOEMINGEN",
+   "adresse": "KASTEELSTRAAT.3 8980 GELUVELD",
+   "pdf": "https://www.ejustice.just.fgov.be/tsv_pdf/1999/11/20/1999-11-20_0447.pdf"
+  },
+  {
+   "nom": "34) DELMAR NV",
+   "date": "1999-11-18",
+   "ref": "0222992",
+   "type": "ME. - JAARREKENING 31.12.1998, GGK 30.09.1999 - 99580-5330-016",
+   "adresse": "KASTEELSTRAAT.3 8980 GELUVELD",
+   "pdf": ""
+  },
+  {
+   "nom": "35) DELMAR NV",
+   "date": "",
+   "ref": "",
+   "type": "1998 / 202810",
+   "adresse": "KASTEELSTRAAT 3 8980 ZONNEBEKE (GELUVELD)",
+   "pdf": ""
+  },
+  {
+   "nom": "36) DELMAR NV",
+   "date": "",
+   "ref": "",
+   "type": "1997 / 167270",
+   "adresse": "KASTEELSTRAAT 3 8980 ZONNEBEKE (GELUVELD)",
+   "pdf": ""
+  },
+  {
+   "nom": "37) DELMAR NV",
+   "date": "",
+   "ref": "",
+   "type": "1996 / 132084",
+   "adresse": "KASTEELSTRAAT 3 8980 ZONNEBEKE (GELUVELD)",
+   "pdf": ""
+  },
+  {
+   "nom": "38) DELMAR NV",
+   "date": "1995-04-04",
+   "ref": "192",
+   "type": "ONTSLAGEN - BENOEMINGEN - ALGEMENE VERGADERING - KAPITAAL - AANDELEN - STATUTEN (VERTALING, COÖRDINATIE, OVERIGE WIJZIGINGEN, )",
+   "adresse": "ZONNEBEKE (GELUVELD)",
+   "pdf": ""
+  },
+  {
+   "nom": "39) DELMAR NV",
+   "date": "",
+   "ref": "",
+   "type": "1995 / 185226",
+   "adresse": "ZONNEBEKE (GELUVELD)",
+   "pdf": ""
+  },
+  {
+   "nom": "40) DELMAR NV",
+   "date": "1993-09-25",
+   "ref": "348",
+   "type": "RUBRIEK OPRICHTING (NIEUWE RECHTSPERSOON, OPENING BIJKANTOOR, ENZ...)",
+   "adresse": "ZONNEBEKE (GELUVELD)",
+   "pdf": ""
+  }
+ ]
+}

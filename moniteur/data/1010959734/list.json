@@ -1,0 +1,22 @@
+{
+ "bce": "1010959734",
+ "total_annonce": 2,
+ "items": [
+  {
+   "nom": "1) UNI INVEST SRL",
+   "date": "2024-12-20",
+   "ref": "2024206132",
+   "type": "SIEGE SOCIAL",
+   "adresse": "BOURCY 478 6600 BASTOGNE",
+   "pdf": ""
+  },
+  {
+   "nom": "2) UNI INVEST SRL",
+   "date": "2024-07-03",
+   "ref": "0411648",
+   "type": "RUBRIQUE CONSTITUTION (NOUVELLE PERSONNE MORALE, OUVERTURE SUCCURSALE, ETC...)",
+   "adresse": "BOURCY 478 6600 BASTOGNE",
+   "pdf": "https://www.ejustice.just.fgov.be/tsv_pdf/2024/07/03/24411648.pdf"
+  }
+ ]
+}

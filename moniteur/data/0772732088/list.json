@@ -1,0 +1,22 @@
+{
+ "bce": "0772732088",
+ "total_annonce": 2,
+ "items": [
+  {
+   "nom": "1) TALAND SRL",
+   "date": "2023-02-01",
+   "ref": "0015792",
+   "type": "SIEGE SOCIAL",
+   "adresse": "VOIE DE LA LIBERTE 8 6900 MARCHE-EN-FAMENNE",
+   "pdf": "https://www.ejustice.just.fgov.be/tsv_pdf/2023/02/01/23015792.pdf"
+  },
+  {
+   "nom": "2) TALAND SRL",
+   "date": "2021-08-24",
+   "ref": "0350063",
+   "type": "RUBRIQUE CONSTITUTION (NOUVELLE PERSONNE MORALE, OUVERTURE SUCCURSALE, ETC...)",
+   "adresse": "VOIE DE LA LIBERTE 8 6900 MARCHE-EN-FAMENNE",
+   "pdf": "https://www.ejustice.just.fgov.be/tsv_pdf/2021/08/24/21350063.pdf"
+  }
+ ]
+}

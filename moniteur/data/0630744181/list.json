@@ -1,0 +1,62 @@
+{
+ "bce": "0630744181",
+ "total_annonce": 7,
+ "items": [
+  {
+   "nom": "1) GROUND CONCEPT SRL",
+   "date": "2026-09-21",
+   "ref": "0117952",
+   "type": "SIEGE SOCIAL",
+   "adresse": "RUE DU FOND CATTELAIN 2 1435 MONT-SAINT-GUIBERT",
+   "pdf": "https://www.ejustice.just.fgov.be/tsv_pdf/2026/09/21/26117952.pdf"
+  },
+  {
+   "nom": "2) GROUND CONCEPT SNC",
+   "date": "2026-01-09",
+   "ref": "0302091",
+   "type": "STATUTS (TRADUCTION, COORDINATION, AUTRES MODIFICATIONS, ) - MODIFICATION FORME JURIDIQUE - DIVERS - OBJET - DEMISSIONS, NOMINATIONS",
+   "adresse": "RUE FOND CATTELAIN 2 1435 MONT-SAINT-GUIBERT",
+   "pdf": "https://www.ejustice.just.fgov.be/tsv_pdf/2026/01/09/26302091.pdf"
+  },
+  {
+   "nom": "3) GROUND CONCEPT SNC",
+   "date": "2022-02-09",
+   "ref": "0017678",
+   "type": "SIEGE SOCIAL",
+   "adresse": "RUE TIGREE 26 5140 LIGNY",
+   "pdf": "https://www.ejustice.just.fgov.be/tsv_pdf/2022/02/09/22017678.pdf"
+  },
+  {
+   "nom": "4) GROUND CONCEPT SNC",
+   "date": "2020-06-25",
+   "ref": "0071593",
+   "type": "SIEGE SOCIAL - DEMISSIONS, NOMINATIONS",
+   "adresse": "RUE POTRIAU 25 5140 SOMBREFFE",
+   "pdf": "https://www.ejustice.just.fgov.be/tsv_pdf/2020/06/25/20071593.pdf"
+  },
+  {
+   "nom": "5) GROUND CONCEPT SNC",
+   "date": "2018-06-28",
+   "ref": "0100305",
+   "type": "SIEGE SOCIAL - DEMISSIONS, NOMINATIONS",
+   "adresse": "RUE DU MONCEAU MAZY 2 5030 GEMBLOUX",
+   "pdf": "https://www.ejustice.just.fgov.be/tsv_pdf/2018/06/28/18100305.pdf"
+  },
+  {
+   "nom": "6) JARDIN.NET SNC",
+   "date": "2017-06-23",
+   "ref": "0088735",
+   "type": "DENOMINATION - STATUTS (TRADUCTION, COORDINATION, AUTRES MODIFICATIONS, )",
+   "adresse": "RUE DU MONCEAU 2 5032 BOSSIERE",
+   "pdf": "https://www.ejustice.just.fgov.be/tsv_pdf/2017/06/23/17088735.pdf"
+  },
+  {
+   "nom": "7) JARDIN.NET SNC",
+   "date": "2015-06-02",
+   "ref": "0077265",
+   "type": "RUBRIQUE CONSTITUTION (NOUVELLE PERSONNE MORALE, OUVERTURE SUCCURSALE, ETC...)",
+   "adresse": "RUE DU MONCEAU 2 5032 BOSSIERE",
+   "pdf": "https://www.ejustice.just.fgov.be/tsv_pdf/2015/06/02/15077265.pdf"
+  }
+ ]
+}

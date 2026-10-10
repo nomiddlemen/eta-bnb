@@ -1,0 +1,398 @@
+{
+ "bce": "0408287450",
+ "total_annonce": 49,
+ "items": [
+  {
+   "nom": "1) DUPONT-DRION SPRL",
+   "date": "2021-02-05",
+   "ref": "0308455",
+   "type": "STATUTS (TRADUCTION, COORDINATION, AUTRES MODIFICATIONS, ) - MODIFICATION FORME JURIDIQUE - DEMISSIONS, NOMINATIONS",
+   "adresse": "RUE CESAR FRANCK 38 1050 IXELLES",
+   "pdf": "https://www.ejustice.just.fgov.be/tsv_pdf/2021/02/05/21308455.pdf"
+  },
+  {
+   "nom": "2) DUPONT-DRION SPRL",
+   "date": "2016-09-06",
+   "ref": "0327740",
+   "type": "ME. - COMPTES ANNUELS 31.12.2015, APP 27.05.2016, DPT 31.08.2016 16569-0343-029",
+   "adresse": "RUE CESAR FRANCK 38 1050 BRUXELLES",
+   "pdf": ""
+  },
+  {
+   "nom": "3) DUPONT-DRION SPRL",
+   "date": "2015-09-03",
+   "ref": "0304192",
+   "type": "ME. - COMPTES ANNUELS 31.12.2014, APP 29.05.2015, DPT 27.08.2015 15514-0042-026",
+   "adresse": "RUE CESAR FRANCK 38 1050 BRUXELLES",
+   "pdf": ""
+  },
+  {
+   "nom": "4) DUPONT-DRION SA",
+   "date": "2014-12-08",
+   "ref": "0218709",
+   "type": "DEMISSIONS, NOMINATIONS - STATUTS (TRADUCTION, COORDINATION, AUTRES MODIFICATIONS, ) - MODIFICATION FORME JURIDIQUE",
+   "adresse": "RUE CESAR FRANCK 38 1050 BRUXELLES",
+   "pdf": "https://www.ejustice.just.fgov.be/tsv_pdf/2014/12/08/14218709.pdf"
+  },
+  {
+   "nom": "5) DUPONT-DRION SA",
+   "date": "2014-09-11",
+   "ref": "0328025",
+   "type": "ME. - COMPTES ANNUELS 31.12.2013, APP 30.05.2014, DPT 29.08.2014 14564-0103-023",
+   "adresse": "RUE CESAR FRANCK 38 1050 BRUXELLES",
+   "pdf": ""
+  },
+  {
+   "nom": "6) DUPONT-DRION SA",
+   "date": "2014-01-30",
+   "ref": "0029316",
+   "type": "DEMISSIONS, NOMINATIONS",
+   "adresse": "RUE CESAR FRANCK 38 1050 BRUXELLES",
+   "pdf": "https://www.ejustice.just.fgov.be/tsv_pdf/2014/01/30/14029316.pdf"
+  },
+  {
+   "nom": "7) DUPONT-DRION SA",
+   "date": "2013-09-09",
+   "ref": "0322838",
+   "type": "ME. - COMPTES ANNUELS 31.12.2012, APP 31.05.2013, DPT 30.08.2013 13556-0213-015",
+   "adresse": "RUE CESAR FRANCK 38 1050 BRUXELLES",
+   "pdf": ""
+  },
+  {
+   "nom": "8) DUPONT-DRION SA",
+   "date": "2012-09-07",
+   "ref": "0313665",
+   "type": "ME. - COMPTES ANNUELS 31.12.2011, APP 25.05.2012, DPT 30.08.2012 12537-0312-014",
+   "adresse": "RUE CESAR FRANCK 38 1050 BRUXELLES",
+   "pdf": ""
+  },
+  {
+   "nom": "9) DUPONT-DRION SA",
+   "date": "2012-04-11",
+   "ref": "0071263",
+   "type": "DEMISSIONS, NOMINATIONS",
+   "adresse": "RUE CESAR FRANCK 38 1050 BRUXELLES",
+   "pdf": "https://www.ejustice.just.fgov.be/tsv_pdf/2012/04/11/12071263.pdf"
+  },
+  {
+   "nom": "10) DUPONT-DRION SA",
+   "date": "2012-01-10",
+   "ref": "0006910",
+   "type": "CAPITAL, ACTIONS - STATUTS (TRADUCTION, COORDINATION, AUTRES MODIFICATIONS, )",
+   "adresse": "RUE CESAR FRANCK 38 1050 BRUXELLES",
+   "pdf": "https://www.ejustice.just.fgov.be/tsv_pdf/2012/01/10/12006910.pdf"
+  },
+  {
+   "nom": "11) DUPONT-DRION SA",
+   "date": "2011-09-06",
+   "ref": "0290947",
+   "type": "ME. - COMPTES ANNUELS 31.12.2010, APP 27.05.2011, DPT 29.08.2011 11496-0353-014",
+   "adresse": "RUE CESAR FRANCK 38 1050 BRUXELLES",
+   "pdf": ""
+  },
+  {
+   "nom": "12) DUPONT-DRION SA",
+   "date": "2010-09-07",
+   "ref": "0283798",
+   "type": "ME. - COMPTES ANNUELS 31.12.2009, APP 28.05.2010, DPT 30.08.2010 10487-0486-014",
+   "adresse": "RUE CESAR FRANCK 38 1050 BRUXELLES",
+   "pdf": ""
+  },
+  {
+   "nom": "13) DUPONT-DRION SA",
+   "date": "2009-08-26",
+   "ref": "0240950",
+   "type": "ME. - COMPTES ANNUELS 31.12.2008, APP 22.05.2009, DPT 24.08.2009 09611-0333-014",
+   "adresse": "RUE CESAR FRANCK 38 1050 BRUXELLES",
+   "pdf": ""
+  },
+  {
+   "nom": "14) DUPONT-DRION SA",
+   "date": "2009-03-04",
+   "ref": "0033000",
+   "type": "DEMISSIONS, NOMINATIONS",
+   "adresse": "RUE CESAR FRANCK 38 1050 BRUXELLES",
+   "pdf": "https://www.ejustice.just.fgov.be/tsv_pdf/2009/03/04/09033000.pdf"
+  },
+  {
+   "nom": "15) DUPONT-DRION SA",
+   "date": "2008-09-02",
+   "ref": "0258899",
+   "type": "ME. - COMPTES ANNUELS 31.12.2007, APP 23.05.2008, DPT 27.08.2008 08641-0308-014",
+   "adresse": "RUE CESAR FRANCK 38 1050 BRUXELLES",
+   "pdf": ""
+  },
+  {
+   "nom": "16) DUPONT-DRION SA",
+   "date": "2007-09-06",
+   "ref": "0264422",
+   "type": "ME. - COMPTES ANNUELS 31.12.2006, APP 25.05.2007, DPT 29.08.2007 07671-0238-014",
+   "adresse": "RUE CESAR FRANCK 38 1050 BRUXELLES",
+   "pdf": ""
+  },
+  {
+   "nom": "17) DUPONT-DRION SA",
+   "date": "2006-06-26",
+   "ref": "0102029",
+   "type": "ME. - COMPTES ANNUELS 31.12.2005, APP 26.05.2006, DPT 22.06.2006 06295-3584-015",
+   "adresse": "RUE CESAR FRANCK.38 1050 BRUXELLES",
+   "pdf": ""
+  },
+  {
+   "nom": "18) DUPONT-DRION SA",
+   "date": "2005-08-23",
+   "ref": "0223534",
+   "type": "ME. - COMPTES ANNUELS 31.12.2004, APP 27.05.2005, DPT 18.08.2005 05646-2228-015",
+   "adresse": "RUE CESAR FRANCK.38 1050 BRUXELLES",
+   "pdf": ""
+  },
+  {
+   "nom": "19) DUPONT-DRION SA",
+   "date": "2004-07-14",
+   "ref": "0154847",
+   "type": "ME. - COMPTES ANNUELS 31.12.2003, APP 28.05.2004, DPT 12.07.2004 04440-0900-015",
+   "adresse": "RUE CESAR FRANCK.38 1050 BRUXELLES",
+   "pdf": ""
+  },
+  {
+   "nom": "20) DUPONT-DRION SA",
+   "date": "2003-07-03",
+   "ref": "0103768",
+   "type": "ME. - COMPTES ANNUELS 31.12.2002, APP 14.05.2003 03291-1790-015",
+   "adresse": "RUE CESAR FRANCK.38 1050 BRUXELLES",
+   "pdf": ""
+  },
+  {
+   "nom": "21) DUPONT-DRION SA",
+   "date": "2002-09-02",
+   "ref": "0174039",
+   "type": "ME. - COMPTES ANNUELS 31.12.2001, APP 15.05.2002 02500-0877-016",
+   "adresse": "RUE CESAR FRANCK.38 1050 BRUXELLES",
+   "pdf": ""
+  },
+  {
+   "nom": "22) DUPONT-DRION SA",
+   "date": "2001-11-28",
+   "ref": "0244040",
+   "type": "ME. - COMPTES ANNUELS 31.12.2000, APP 16.05.2001 01697-2982-015",
+   "adresse": "RUE CESAR FRANCK.38 1050 BRUXELLES",
+   "pdf": ""
+  },
+  {
+   "nom": "23) DUPONT-DRION SA",
+   "date": "2001-07-19",
+   "ref": "159",
+   "type": "ASSEMBLEE GENERALE - CAPITAL, ACTIONS - STATUTS (TRADUCTION, COORDINATION, AUTRES MODIFICATIONS, ) - DEMISSIONS, NOMINATIONS",
+   "adresse": "RUE CESAR FRANCK.38 1050 BRUXELLES",
+   "pdf": "https://www.ejustice.just.fgov.be/tsv_pdf/2001/07/19/2001-07-19_0159.pdf"
+  },
+  {
+   "nom": "24) DUPONT-DRION SA",
+   "date": "2000-09-16",
+   "ref": "0196343",
+   "type": "ME. - COMPTES ANNUELS 31.12.1999, APP 19.05.2000 00565-5357-015",
+   "adresse": "CHEMIN DE SOHIER.123 6924 LOMPREZ",
+   "pdf": ""
+  },
+  {
+   "nom": "25) DUPONT-DRION SA",
+   "date": "2000-06-28",
+   "ref": "312",
+   "type": "DEMISSIONS, NOMINATIONS - SIEGE SOCIAL",
+   "adresse": "CHEMIN DE SOHIER.123 6924 LOMPREZ",
+   "pdf": "https://www.ejustice.just.fgov.be/tsv_pdf/2000/06/28/2000-06-28_0312.pdf"
+  },
+  {
+   "nom": "26) DUPONT-DRION SA",
+   "date": "1999-07-20",
+   "ref": "0125086",
+   "type": "ME. - COMPTES ANNUELS 31.12.1998, APP 21.05.1999 - 99322-1182-016",
+   "adresse": "CHEMIN DE SOHIER.123 6924 LOMPREZ",
+   "pdf": ""
+  },
+  {
+   "nom": "27) DUPONT-DRION SA",
+   "date": "1999-04-02",
+   "ref": "105",
+   "type": "DEMISSIONS, NOMINATIONS",
+   "adresse": "CHEMIN DE SOHIER.123 6924 LOMPREZ",
+   "pdf": "https://www.ejustice.just.fgov.be/tsv_pdf/1999/04/02/1999-04-02_0105.pdf"
+  },
+  {
+   "nom": "28) DUPONT-DRION SA",
+   "date": "",
+   "ref": "",
+   "type": "1998 / 181582",
+   "adresse": "CHEMIN DE SOHIER 123 6924 WELLIN (LOMPREZ)",
+   "pdf": ""
+  },
+  {
+   "nom": "29) DUPONT-DRION SA",
+   "date": "1997-07-01",
+   "ref": "037",
+   "type": "DEMISSIONS, NOMINATIONS",
+   "adresse": "CHEMIN DE SOHIER 123 6924 WELLIN (LOMPREZ)",
+   "pdf": "https://www.ejustice.just.fgov.be/tsv_pdf/1997/07/01/1997-07-01_0037.pdf"
+  },
+  {
+   "nom": "30) DUPONT-DRION SA",
+   "date": "",
+   "ref": "",
+   "type": "1997 / 190534",
+   "adresse": "CHEMIN DE SOHIER 123 6924 WELLIN (LOMPREZ)",
+   "pdf": ""
+  },
+  {
+   "nom": "31) DUPONT-DRION SA",
+   "date": "",
+   "ref": "",
+   "type": "1996 / 173428",
+   "adresse": "CHEMIN DE SOHIER 123 6924 WELLIN (LOMPREZ)",
+   "pdf": ""
+  },
+  {
+   "nom": "32) DUPONT-DRION SA",
+   "date": "1995-06-03",
+   "ref": "111",
+   "type": "DEMISSIONS, NOMINATIONS",
+   "adresse": "WELLIN (LOMPREZ)",
+   "pdf": ""
+  },
+  {
+   "nom": "33) DUPONT-DRION SA",
+   "date": "",
+   "ref": "",
+   "type": "1995 / 153843",
+   "adresse": "WELLIN (LOMPREZ)",
+   "pdf": ""
+  },
+  {
+   "nom": "34) DUPONT-DRION SA",
+   "date": "1994-12-31",
+   "ref": "015",
+   "type": "SIEGE SOCIAL",
+   "adresse": "WELLIN (LOMPREZ)",
+   "pdf": ""
+  },
+  {
+   "nom": "35) DUPONT-DRION SA",
+   "date": "",
+   "ref": "",
+   "type": "1994 / 054312",
+   "adresse": "WELLIN (LOMPREZ)",
+   "pdf": ""
+  },
+  {
+   "nom": "36) DUPONT-DRION SA",
+   "date": "",
+   "ref": "",
+   "type": "1994 / 177786",
+   "adresse": "WELLIN (LOMPREZ)",
+   "pdf": ""
+  },
+  {
+   "nom": "37) DUPONT-DRION SA",
+   "date": "",
+   "ref": "",
+   "type": "1993 / 022405",
+   "adresse": "SCHAERBEEK",
+   "pdf": ""
+  },
+  {
+   "nom": "38) DUPONT-DRION SA",
+   "date": "",
+   "ref": "",
+   "type": "1993 / 022406",
+   "adresse": "SCHAERBEEK",
+   "pdf": ""
+  },
+  {
+   "nom": "39) DUPONT-DRION SA",
+   "date": "1990-01-19",
+   "ref": "224",
+   "type": "MODIFICATION FORME JURIDIQUE - STATUTS (TRADUCTION, COORDINATION, AUTRES MODIFICATIONS, ) - CAPITAL, ACTIONS - ASSEMBLEE GENERALE",
+   "adresse": "SCHAERBEEK",
+   "pdf": ""
+  },
+  {
+   "nom": "40) DUPONT-DRION SA",
+   "date": "",
+   "ref": "",
+   "type": "1990 / 058209",
+   "adresse": "SCHAERBEEK",
+   "pdf": ""
+  },
+  {
+   "nom": "41) DUPONT-DRION SA",
+   "date": "",
+   "ref": "",
+   "type": "1989 / 055504",
+   "adresse": "SCHAERBEEK",
+   "pdf": ""
+  },
+  {
+   "nom": "42) DUPONT-DRION SPRL",
+   "date": "",
+   "ref": "",
+   "type": "1988 / 074235",
+   "adresse": "SCHAERBEEK",
+   "pdf": ""
+  },
+  {
+   "nom": "43) DUPONT-DRION SPRL",
+   "date": "",
+   "ref": "",
+   "type": "1987 / 043166",
+   "adresse": "SCHAERBEEK",
+   "pdf": ""
+  },
+  {
+   "nom": "44) DUPONT-DRION SPRL",
+   "date": "1986-02-06",
+   "ref": "039",
+   "type": "SIEGE SOCIAL",
+   "adresse": "SCHAERBEEK",
+   "pdf": ""
+  },
+  {
+   "nom": "45) DUPONT-DRION SPRL",
+   "date": "",
+   "ref": "",
+   "type": "1986 / 032643",
+   "adresse": "SCHAERBEEK",
+   "pdf": ""
+  },
+  {
+   "nom": "46) DUPONT-DRION SPRL",
+   "date": "1985-03-07",
+   "ref": "047",
+   "type": "SIEGE SOCIAL",
+   "adresse": "SCHAERBEEK",
+   "pdf": ""
+  },
+  {
+   "nom": "47) DUPONT-DRION SPRL",
+   "date": "",
+   "ref": "",
+   "type": "1985 / 24913",
+   "adresse": "SCHAERBEEK",
+   "pdf": ""
+  },
+  {
+   "nom": "48) DUPONT-DRION SPRL",
+   "date": "",
+   "ref": "",
+   "type": "1984 / 61754",
+   "adresse": "SCHAERBEEK",
+   "pdf": ""
+  },
+  {
+   "nom": "49) DUPONT DRION SPRL",
+   "date": "",
+   "ref": "",
+   "type": "1983 / 81028",
+   "adresse": "ETTERBEEK",
+   "pdf": ""
+  }
+ ]
+}

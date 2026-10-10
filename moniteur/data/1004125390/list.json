@@ -1,0 +1,22 @@
+{
+ "bce": "1004125390",
+ "total_annonce": 2,
+ "items": [
+  {
+   "nom": "1) JAAPAN INVEST BV",
+   "date": "2025-07-17",
+   "ref": "0090719",
+   "type": "MAATSCHAPPELIJKE ZETEL",
+   "adresse": "PACHTHOFDREEF 81 1970 WEZEMBEEK-OPPEM",
+   "pdf": "https://www.ejustice.just.fgov.be/tsv_pdf/2025/07/17/25090719.pdf"
+  },
+  {
+   "nom": "2) JAAPAN INVEST BV",
+   "date": "2024-01-04",
+   "ref": "0305648",
+   "type": "RUBRIEK OPRICHTING (NIEUWE RECHTSPERSOON, OPENING BIJKANTOOR, ENZ...)",
+   "adresse": "PACHTHOFDREEF 81 1970 WEZEMBEEK-OPPEM",
+   "pdf": "https://www.ejustice.just.fgov.be/tsv_pdf/2024/01/04/24305648.pdf"
+  }
+ ]
+}

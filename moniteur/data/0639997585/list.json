@@ -1,0 +1,62 @@
+{
+ "bce": "0639997585",
+ "total_annonce": 7,
+ "items": [
+  {
+   "nom": "1) BASMAG SPRL",
+   "date": "2024-01-26",
+   "ref": "0343666",
+   "type": "STATUTS (TRADUCTION, COORDINATION, AUTRES MODIFICATIONS, ) - MODIFICATION FORME JURIDIQUE - DEMISSIONS, NOMINATIONS",
+   "adresse": "RUE DES TECHNOLOGIES 1 4530 VILLERS-LE BOUILLET",
+   "pdf": "https://www.ejustice.just.fgov.be/tsv_pdf/2024/01/26/24343666.pdf"
+  },
+  {
+   "nom": "2) BASMAG SPRL",
+   "date": "2022-02-11",
+   "ref": "0019214",
+   "type": "SIEGE SOCIAL",
+   "adresse": "RUE DE LA DIGUE 37 4400 FLEMALLE",
+   "pdf": "https://www.ejustice.just.fgov.be/tsv_pdf/2022/02/11/22019214.pdf"
+  },
+  {
+   "nom": "3) BASMAG SPRL",
+   "date": "2018-10-23",
+   "ref": "0155751",
+   "type": "DEMISSIONS, NOMINATIONS",
+   "adresse": "RUE DE LA DIGUE 37 4400 FLEMALLE",
+   "pdf": "https://www.ejustice.just.fgov.be/tsv_pdf/2018/10/23/18155751.pdf"
+  },
+  {
+   "nom": "4) BASMAG SPRL",
+   "date": "2017-08-02",
+   "ref": "0073385",
+   "type": "ME. - COMPTES ANNUELS 31.12.2016, APP 30.06.2017, DPT 26.07.2017 17370-0086-013",
+   "adresse": "RUE DE LA DIGUE 37 4400 FLEMALLE",
+   "pdf": ""
+  },
+  {
+   "nom": "5) BASMAG SPRL",
+   "date": "2016-02-04",
+   "ref": "0019047",
+   "type": "SIEGE SOCIAL",
+   "adresse": "AVENUE VALENTIN TONDEUR 30 1410 WATERLOO",
+   "pdf": "https://www.ejustice.just.fgov.be/tsv_pdf/2016/02/04/16019047.pdf"
+  },
+  {
+   "nom": "6) BASMAG SPRL",
+   "date": "2016-01-29",
+   "ref": "0016218",
+   "type": "DEMISSIONS, NOMINATIONS",
+   "adresse": "AVENUE VALENTIN TONDEUR 30 1410 WATERLOO",
+   "pdf": "https://www.ejustice.just.fgov.be/tsv_pdf/2016/01/29/16016218.pdf"
+  },
+  {
+   "nom": "7) BASMAG SPRL",
+   "date": "2015-10-09",
+   "ref": "0316621",
+   "type": "RUBRIQUE CONSTITUTION (NOUVELLE PERSONNE MORALE, OUVERTURE SUCCURSALE, ETC...)",
+   "adresse": "AVENUE VALENTIN TONDEUR 30 1410 WATERLOO",
+   "pdf": "https://www.ejustice.just.fgov.be/tsv_pdf/2015/10/09/15316621.pdf"
+  }
+ ]
+}

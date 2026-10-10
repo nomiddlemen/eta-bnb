@@ -1,0 +1,22 @@
+{
+ "bce": "0779486357",
+ "total_annonce": 2,
+ "items": [
+  {
+   "nom": "1) BELAUCIOUS SRL",
+   "date": "2024-02-07",
+   "ref": "0023857",
+   "type": "SIEGE SOCIAL",
+   "adresse": "EYNATTENER STRASSE 20 4730 RAEREN",
+   "pdf": "https://www.ejustice.just.fgov.be/tsv_pdf/2024/02/07/24023857.pdf"
+  },
+  {
+   "nom": "2) BELAUCIOUS GmbH",
+   "date": "2021-12-31",
+   "ref": "0380071",
+   "type": "RUBRIK GRUENDUNG (NEUE RECHTSPERSON, EROEFFNUNG FILIALE, USW)",
+   "adresse": "EYNATTENER STRAßE 20 4730 RAEREN",
+   "pdf": "https://www.ejustice.just.fgov.be/tsv_pdf/2021/12/31/21380071.pdf"
+  }
+ ]
+}

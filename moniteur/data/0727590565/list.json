@@ -1,0 +1,22 @@
+{
+ "bce": "0727590565",
+ "total_annonce": 2,
+ "items": [
+  {
+   "nom": "1) BIO PRO HOLDING SRL",
+   "date": "2020-09-04",
+   "ref": "0102419",
+   "type": "DEMISSIONS, NOMINATIONS",
+   "adresse": "RUE DES FAGOTIS 3 5380 FERNELMONT",
+   "pdf": "https://www.ejustice.just.fgov.be/tsv_pdf/2020/09/04/20102419.pdf"
+  },
+  {
+   "nom": "2) BIO PRO HOLDING SRL",
+   "date": "2019-05-31",
+   "ref": "0319479",
+   "type": "RUBRIQUE CONSTITUTION (NOUVELLE PERSONNE MORALE, OUVERTURE SUCCURSALE, ETC...)",
+   "adresse": "RUE DES FAGOTIS 3 5380 FERNELMONT",
+   "pdf": "https://www.ejustice.just.fgov.be/tsv_pdf/2019/05/31/19319479.pdf"
+  }
+ ]
+}
