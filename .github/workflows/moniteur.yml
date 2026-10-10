@@ -4,10 +4,13 @@ on:
   workflow_dispatch:
     inputs:
       mode:
-        description: "probe = save raw pages for the two test cases"
-        default: probe
+        description: "probe = raw pages for the two test cases; fetch = all targets with OCR"
+        default: fetch
         type: choice
-        options: [probe]
+        options: [probe, fetch]
+      only:
+        description: "Optional space-separated company numbers (fetch mode)"
+        required: false
 
 permissions:
   contents: write
@@ -15,7 +18,7 @@ permissions:
 jobs:
   fetch:
     runs-on: ubuntu-latest
-    timeout-minutes: 120
+    timeout-minutes: 150
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-python@v5
@@ -24,6 +27,14 @@ jobs:
       - name: Probe
         if: inputs.mode == 'probe'
         run: python moniteur/probe.py
+      - name: Install OCR
+        if: inputs.mode == 'fetch'
+        run: sudo apt-get update -qq && sudo apt-get install -y -qq tesseract-ocr tesseract-ocr-fra tesseract-ocr-nld tesseract-ocr-deu poppler-utils
+      - name: Fetch
+        if: inputs.mode == 'fetch'
+        env:
+          TIME_BUDGET: "100"
+        run: python moniteur/fetch.py ${{ inputs.only }}
       - name: Commit
         if: always()
         run: |
