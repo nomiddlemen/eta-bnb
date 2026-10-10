@@ -142,7 +142,7 @@
     "premier_acte": "2004-02-09",
     "famille_acte": "2000-03-14",
     "bce_depuis": 2019,
-    "naissance": null
+    "naissance": 1977
    },
    {
     "nom": "Frédéric Mathieu",
@@ -152,10 +152,10 @@
     "premier_acte": "2004-02-09",
     "famille_acte": "2000-03-14",
     "bce_depuis": 2011,
-    "naissance": null
+    "naissance": 1973
    }
   ],
-  "_nb_actes": 8,
+  "_nb_actes": 9,
   "_plus_ancien_pdf": "2000-03-14",
   "_actes_plus_anciens_sans_pdf": true
  },
@@ -290,14 +290,14 @@
   "nom": "L ARTISAN GOURMET",
   "premiere_nomination": "2018",
   "anciennete_ans": "8",
-  "dirigeant_principal": "Pierre-Yves Berthe",
+  "dirigeant_principal": "Pierre-Yves Berthe (né 1976)",
   "releve": "non",
   "derniere_modification_statuts": "2022-08-08",
   "actionnaires": "",
   "type_controle": "holding patrimonial",
   "societe_mere": "",
-  "verdict": "A VERIFIER (âge du dirigeant, ancienneté 8 ans hors 10-25)",
-  "sources": "première mention de Pierre-Yves Berthe : 2018-10-19 0154109 https://www.ejustice.just.fgov.be/tsv_pdf/2018/10/19/18154109.pdf | BCE : fonction depuis 2018 (https://kbopub.economie.fgov.be/kbopub/zoeknummerform.html?nummer=0885954547&actionLu=Rechercher) | statuts : 2022-08-08 0350838 https://www.ejustice.just.fgov.be/tsv_pdf/2022/08/08/22350838.pdf | BCE 0703936423 : https://kbopub.economie.fgov.be/kbopub/zoeknummerform.html?nummer=0703936423&actionLu=Rechercher",
+  "verdict": "A VERIFIER (ancienneté 8 ans hors 10-25)",
+  "sources": "première mention de Pierre-Yves Berthe : 2018-10-19 0154109 https://www.ejustice.just.fgov.be/tsv_pdf/2018/10/19/18154109.pdf | BCE : fonction depuis 2018 (https://kbopub.economie.fgov.be/kbopub/zoeknummerform.html?nummer=0885954547&actionLu=Rechercher) | naissance 1976 : « NE A MONTEGNEE LE 16 MAI 1976 » (2018-09-14 0328002) | statuts : 2022-08-08 0350838 https://www.ejustice.just.fgov.be/tsv_pdf/2022/08/08/22350838.pdf | BCE 0703936423 : https://kbopub.economie.fgov.be/kbopub/zoeknummerform.html?nummer=0703936423&actionLu=Rechercher",
   "_signaux": [
    "administrateur personne morale PhunQ (0703936423, Société à responsabilité limitée) — dirigée par Pierre-Yves Berthe, Quentin Mariage [même famille]"
   ],
@@ -310,7 +310,7 @@
     "premier_acte": "2018-10-19",
     "famille_acte": "2018-10-19",
     "bce_depuis": 2018,
-    "naissance": null
+    "naissance": 1976
    }
   ],
   "_nb_actes": 7,
@@ -329,7 +329,7 @@
   "type_controle": "holding patrimonial",
   "societe_mere": "",
   "verdict": "SURVEILLER",
-  "sources": "première mention de Diederik Van den Driessche : 2021-05-05 0054122 https://www.ejustice.just.fgov.be/tsv_pdf/2021/05/05/21054122.pdf | BCE : fonction depuis 2020 (https://kbopub.economie.fgov.be/kbopub/zoeknummerform.html?nummer=0402223465&actionLu=Rechercher) | statuts : 2005-01-10 0003610 https://www.ejustice.just.fgov.be/tsv_pdf/2005/01/10/05003610.pdf | BCE 0897739948 : https://kbopub.economie.fgov.be/kbopub/zoeknummerform.html?nummer=0897739948&actionLu=Rechercher",
+  "sources": "première mention de Diederik Van den Driessche : 2020-09-03 0101904 https://www.ejustice.just.fgov.be/tsv_pdf/2020/09/03/20101904.pdf | BCE : fonction depuis 2020 (https://kbopub.economie.fgov.be/kbopub/zoeknummerform.html?nummer=0402223465&actionLu=Rechercher) | statuts : 2005-01-10 0003610 https://www.ejustice.just.fgov.be/tsv_pdf/2005/01/10/05003610.pdf | BCE 0897739948 : https://kbopub.economie.fgov.be/kbopub/zoeknummerform.html?nummer=0897739948&actionLu=Rechercher",
   "_signaux": [
    "administrateur personne morale PRIME TIME SWEETS (0897739948, Société privée à responsabilité limitée) — dirigée par Wouter Van den Driessche, Diederik Van den Driessche [même famille]"
   ],
@@ -339,7 +339,7 @@
     "roles": [
      "Administrateur"
     ],
-    "premier_acte": "2021-05-05",
+    "premier_acte": "2020-09-03",
     "famille_acte": "2000-01-25",
     "bce_depuis": 2020,
     "naissance": null
@@ -355,7 +355,7 @@
     "naissance": null
    }
   ],
-  "_nb_actes": 7,
+  "_nb_actes": 8,
   "_plus_ancien_pdf": "2000-01-25",
   "_actes_plus_anciens_sans_pdf": true
  },
@@ -1339,14 +1339,14 @@
   "nom": "QUATRIEME DIMENSION",
   "premiere_nomination": "1998",
   "anciennete_ans": "28",
-  "dirigeant_principal": "François Bersez",
+  "dirigeant_principal": "François Bersez (né 1968)",
   "releve": "non",
   "derniere_modification_statuts": "2024-01-24",
   "actionnaires": "",
   "type_controle": "holding patrimonial",
   "societe_mere": "",
-  "verdict": "A VERIFIER (âge du dirigeant, ancienneté 28 ans hors 10-25)",
-  "sources": "première mention de François Bersez : 1998-03-03 020 https://www.ejustice.just.fgov.be/tsv_pdf/1998/03/03/1998-03-03_0020.pdf (page multi-sociétés d'avant 2003, à confirmer) | BCE : fonction depuis 2023 (https://kbopub.economie.fgov.be/kbopub/zoeknummerform.html?nummer=0462696037&actionLu=Rechercher) | statuts : 2024-01-24 0015362 https://www.ejustice.just.fgov.be/tsv_pdf/2024/01/24/24015362.pdf | BCE 0821019084 : https://kbopub.economie.fgov.be/kbopub/zoeknummerform.html?nummer=0821019084&actionLu=Rechercher",
+  "verdict": "A VERIFIER (ancienneté 28 ans hors 10-25)",
+  "sources": "première mention de François Bersez : 1998-03-03 020 https://www.ejustice.just.fgov.be/tsv_pdf/1998/03/03/1998-03-03_0020.pdf (page multi-sociétés d'avant 2003, à confirmer) | BCE : fonction depuis 2023 (https://kbopub.economie.fgov.be/kbopub/zoeknummerform.html?nummer=0462696037&actionLu=Rechercher) | naissance 1968 : n° registre national 680925 235 21 (2009-12-03 0305124) | statuts : 2024-01-24 0015362 https://www.ejustice.just.fgov.be/tsv_pdf/2024/01/24/24015362.pdf | BCE 0821019084 : https://kbopub.economie.fgov.be/kbopub/zoeknummerform.html?nummer=0821019084&actionLu=Rechercher",
   "_signaux": [
    "administrateur personne morale ALIXILA (0821019084, Société à responsabilité limitée) — dirigée par François Bersez [même famille]"
   ],
@@ -1359,7 +1359,7 @@
     "premier_acte": "1998-03-03",
     "famille_acte": "1998-03-03",
     "bce_depuis": 2023,
-    "naissance": null
+    "naissance": 1968
    }
   ],
   "_nb_actes": 13,
@@ -1501,12 +1501,12 @@
   "premiere_nomination": "≤2007",
   "anciennete_ans": "≥19",
   "dirigeant_principal": "Monique Pinckaers",
-  "releve": "incertain : Michèle Stassen nommé 2024-04-23 (âge inconnu)",
+  "releve": "oui : Michèle Stassen (même nom, 2024-04-23); Marine Stassen (même nom, 2024-04-23)",
   "derniere_modification_statuts": "2024-10-14",
   "actionnaires": "",
   "type_controle": "holding patrimonial",
   "societe_mere": "",
-  "verdict": "A VERIFIER (âge du dirigeant, âge des nouveaux administrateurs)",
+  "verdict": "SURVEILLER",
   "sources": "première mention de Monique Pinckaers : 2007-03-08 0037192 https://www.ejustice.just.fgov.be/tsv_pdf/2007/03/08/07037192.pdf | BCE : fonction depuis 2023 (https://kbopub.economie.fgov.be/kbopub/zoeknummerform.html?nummer=0887579494&actionLu=Rechercher) | statuts : 2024-10-14 0436203 https://www.ejustice.just.fgov.be/tsv_pdf/2024/10/14/24436203.pdf | BCE 1003424517 : https://kbopub.economie.fgov.be/kbopub/zoeknummerform.html?nummer=1003424517&actionLu=Rechercher | BCE 1004558823 : https://kbopub.economie.fgov.be/kbopub/zoeknummerform.html?nummer=1004558823&actionLu=Rechercher",
   "_signaux": [
    "administrateur personne morale STASSEN MANAGEMENT (1003424517, Société à responsabilité limitée) — dirigée par Monique Pinckaers, Michèle Stassen [même famille]",
@@ -1688,7 +1688,7 @@
     "premier_acte": "2023-11-22",
     "famille_acte": "2023-11-22",
     "bce_depuis": 2024,
-    "naissance": null
+    "naissance": 1972
    }
   ],
   "_nb_actes": 20,
@@ -1943,7 +1943,7 @@
     "premier_acte": "2022-06-28",
     "famille_acte": "2022-06-28",
     "bce_depuis": 2026,
-    "naissance": null
+    "naissance": 1961
    },
    {
     "nom": "Quentin Herbinaux",
@@ -1986,12 +1986,12 @@
   "premiere_nomination": "2016",
   "anciennete_ans": "10",
   "dirigeant_principal": "Bernard Leduc",
-  "releve": "incertain : Vincent Bayer nommé 2020-10-22 (âge inconnu)",
+  "releve": "non",
   "derniere_modification_statuts": "2024-02-23",
   "actionnaires": "",
   "type_controle": "inconnu",
   "societe_mere": "",
-  "verdict": "A VERIFIER (âge du dirigeant, actionnariat, âge des nouveaux administrateurs)",
+  "verdict": "A VERIFIER (âge du dirigeant, actionnariat)",
   "sources": "première mention de Bernard Leduc : 2016-07-25 0103608 https://www.ejustice.just.fgov.be/tsv_pdf/2016/07/25/16103608.pdf | BCE : fonction depuis 2020 (https://kbopub.economie.fgov.be/kbopub/zoeknummerform.html?nummer=0403086171&actionLu=Rechercher) | statuts : 2024-02-23 0365765 https://www.ejustice.just.fgov.be/tsv_pdf/2024/02/23/24365765.pdf",
   "_signaux": [],
   "_personnes": [
@@ -2000,8 +2000,8 @@
     "roles": [
      "Administrateur"
     ],
-    "premier_acte": "2020-10-22",
-    "famille_acte": "2020-10-22",
+    "premier_acte": "2014-07-23",
+    "famille_acte": "2014-07-23",
     "bce_depuis": 2020,
     "naissance": null
    },
@@ -2037,7 +2037,7 @@
     "naissance": null
    }
   ],
-  "_nb_actes": 9,
+  "_nb_actes": 10,
   "_plus_ancien_pdf": "2002-02-12",
   "_actes_plus_anciens_sans_pdf": true
  },
@@ -2340,12 +2340,12 @@
   "premiere_nomination": "2019",
   "anciennete_ans": "7",
   "dirigeant_principal": "Philippe Closon",
-  "releve": "incertain : Cédric Maertens nommé 2019-02-11 (âge inconnu)",
+  "releve": "oui : Cédric Maertens nommé 2019-02-11 (âge inconnu); Quentin Hansenne (né en 1982, 2019-02-11)",
   "derniere_modification_statuts": "2020-06-25",
   "actionnaires": "",
   "type_controle": "inconnu",
   "societe_mere": "",
-  "verdict": "A VERIFIER (âge du dirigeant, actionnariat, âge des nouveaux administrateurs, ancienneté 7 ans hors 10-25)",
+  "verdict": "SURVEILLER",
   "sources": "première mention de Philippe Closon : 2019-02-11 0021427 https://www.ejustice.just.fgov.be/tsv_pdf/2019/02/11/19021427.pdf | BCE : fonction depuis 2019 (https://kbopub.economie.fgov.be/kbopub/zoeknummerform.html?nummer=0402294434&actionLu=Rechercher) | statuts : 2020-06-25 0328310 https://www.ejustice.just.fgov.be/tsv_pdf/2020/06/25/20328310.pdf | BCE 0537614382 : https://kbopub.economie.fgov.be/kbopub/zoeknummerform.html?nummer=0537614382&actionLu=Rechercher | BCE 0637747581 : https://kbopub.economie.fgov.be/kbopub/zoeknummerform.html?nummer=0637747581&actionLu=Rechercher",
   "_signaux": [
    "administrateur personne morale QHAM (0537614382, Société à responsabilité limitée) — dirigée par Quentin Hansenne",
@@ -2390,7 +2390,7 @@
     "premier_acte": "2019-02-11",
     "famille_acte": "2019-02-11",
     "bce_depuis": 2019,
-    "naissance": null
+    "naissance": 1982
    },
    {
     "nom": "Thomas Fraipont",
@@ -2400,7 +2400,7 @@
     "premier_acte": "2019-02-11",
     "famille_acte": "2019-02-11",
     "bce_depuis": 2019,
-    "naissance": null
+    "naissance": 1980
    }
   ],
   "_nb_actes": 15,
@@ -2453,12 +2453,12 @@
   "premiere_nomination": "≤2006",
   "anciennete_ans": "≥20",
   "dirigeant_principal": "Catherine Van de Merckt (né 1960)",
-  "releve": "incertain : Adrien Detollenaere nommé 2025-03-24 (âge inconnu)",
+  "releve": "oui : Adrien Detollenaere (même nom, 2025-03-24)",
   "derniere_modification_statuts": "2023-09-13",
   "actionnaires": "",
   "type_controle": "inconnu",
   "societe_mere": "",
-  "verdict": "A VERIFIER (actionnariat, âge des nouveaux administrateurs)",
+  "verdict": "SURVEILLER",
   "sources": "première mention de Catherine Van de Merckt : 2006-03-07 0045688 https://www.ejustice.just.fgov.be/tsv_pdf/2006/03/07/06045688.pdf | BCE : fonction depuis 2023 (https://kbopub.economie.fgov.be/kbopub/zoeknummerform.html?nummer=0879569175&actionLu=Rechercher) | naissance 1960 : n° registre national 600526 25071 (2006-03-07 0045688) | statuts : 2023-09-13 0390944 https://www.ejustice.just.fgov.be/tsv_pdf/2023/09/13/23390944.pdf | BCE 1015360762 : https://kbopub.economie.fgov.be/kbopub/zoeknummerform.html?nummer=1015360762&actionLu=Rechercher | BCE 1017444777 : https://kbopub.economie.fgov.be/kbopub/zoeknummerform.html?nummer=1017444777&actionLu=Rechercher",
   "_signaux": [
    "administrateur personne morale ADT Consult (1015360762, Société à responsabilité limitée) — dirigée par Adrien Detollenaere",
@@ -2493,7 +2493,7 @@
     "premier_acte": "2025-03-24",
     "famille_acte": "2006-03-07",
     "bce_depuis": 2024,
-    "naissance": null
+    "naissance": 1993
    }
   ],
   "_nb_actes": 15,
@@ -2556,7 +2556,7 @@
     "naissance": null
    }
   ],
-  "_nb_actes": 10,
+  "_nb_actes": 11,
   "_plus_ancien_pdf": "1998-12-31",
   "_actes_plus_anciens_sans_pdf": true
  },
@@ -2973,7 +2973,7 @@
     "premier_acte": "2025-07-07",
     "famille_acte": "2020-10-05",
     "bce_depuis": 2025,
-    "naissance": null
+    "naissance": 1960
    },
    {
     "nom": "Anthony Tanghe",
@@ -2986,8 +2986,8 @@
     "naissance": null
    }
   ],
-  "_nb_actes": 5,
-  "_plus_ancien_pdf": "2018-08-03",
+  "_nb_actes": 6,
+  "_plus_ancien_pdf": "2017-02-15",
   "_actes_plus_anciens_sans_pdf": false
  },
  {
@@ -3245,14 +3245,14 @@
   "nom": "Outillage de Précision Ateliers Fernand Vanwers",
   "premiere_nomination": "2003",
   "anciennete_ans": "23",
-  "dirigeant_principal": "Geoffrey Bouillon",
+  "dirigeant_principal": "Geoffrey Bouillon (né 1980)",
   "releve": "incertain : Julie Jodogne nommé 2023-08-07 (âge inconnu)",
   "derniere_modification_statuts": "2023-08-07",
   "actionnaires": "",
   "type_controle": "holding patrimonial",
   "societe_mere": "",
-  "verdict": "A VERIFIER (âge du dirigeant, âge des nouveaux administrateurs)",
-  "sources": "première mention de Geoffrey Bouillon : 2003-03-26 0035355 https://www.ejustice.just.fgov.be/tsv_pdf/2003/03/26/03035355.pdf | BCE : fonction depuis 2023 (https://kbopub.economie.fgov.be/kbopub/zoeknummerform.html?nummer=0412586926&actionLu=Rechercher) | statuts : 2023-08-07 0378994 https://www.ejustice.just.fgov.be/tsv_pdf/2023/08/07/23378994.pdf | BCE 0803428729 : https://kbopub.economie.fgov.be/kbopub/zoeknummerform.html?nummer=0803428729&actionLu=Rechercher",
+  "verdict": "A VERIFIER (âge des nouveaux administrateurs)",
+  "sources": "première mention de Geoffrey Bouillon : 2003-03-26 0035355 https://www.ejustice.just.fgov.be/tsv_pdf/2003/03/26/03035355.pdf | BCE : fonction depuis 2023 (https://kbopub.economie.fgov.be/kbopub/zoeknummerform.html?nummer=0412586926&actionLu=Rechercher) | naissance 1980 : « NE A LIEGE  LE 4                                                                                       MARS 1980 » (2023-07-04 0365708) | statuts : 2023-08-07 0378994 https://www.ejustice.just.fgov.be/tsv_pdf/2023/08/07/23378994.pdf | BCE 0803428729 : https://kbopub.economie.fgov.be/kbopub/zoeknummerform.html?nummer=0803428729&actionLu=Rechercher",
   "_signaux": [
    "administrateur personne morale GRB (0803428729, Société à responsabilité limitée) — dirigée par Geoffrey Bouillon [même famille]"
   ],
@@ -3265,7 +3265,7 @@
     "premier_acte": "2023-08-07",
     "famille_acte": "2023-08-07",
     "bce_depuis": 2023,
-    "naissance": null
+    "naissance": 1981
    },
    {
     "nom": "Geoffrey Bouillon",
@@ -3275,7 +3275,7 @@
     "premier_acte": "2003-03-26",
     "famille_acte": "2002-03-05",
     "bce_depuis": 2023,
-    "naissance": null
+    "naissance": 1980
    }
   ],
   "_nb_actes": 11,
@@ -3479,12 +3479,12 @@
   "premiere_nomination": "≤2000",
   "anciennete_ans": "≥26",
   "dirigeant_principal": "Claudine Raggai",
-  "releve": "incertain : Romano Berti nommé 2023-11-27 (âge inconnu)",
+  "releve": "oui : Romano Berti (même nom, 2023-11-27)",
   "derniere_modification_statuts": "2023-11-27",
   "actionnaires": "",
   "type_controle": "inconnu",
   "societe_mere": "",
-  "verdict": "A VERIFIER (âge du dirigeant, actionnariat, âge des nouveaux administrateurs, ancienneté 26 ans hors 10-25)",
+  "verdict": "SURVEILLER",
   "sources": "première mention de Claudine Raggai : 2000-10-17 002 https://www.ejustice.just.fgov.be/tsv_pdf/2000/10/17/2000-10-17_0002.pdf (page multi-sociétés d'avant 2003, à confirmer) | BCE : fonction depuis 2004 (https://kbopub.economie.fgov.be/kbopub/zoeknummerform.html?nummer=0472965466&actionLu=Rechercher) | statuts : 2023-11-27 0436733 https://www.ejustice.just.fgov.be/tsv_pdf/2023/11/27/23436733.pdf",
   "_signaux": [],
   "_personnes": [
@@ -4054,7 +4054,7 @@
     "premier_acte": "2024-04-10",
     "famille_acte": "1997-10-10",
     "bce_depuis": 2023,
-    "naissance": null
+    "naissance": 1961
    },
    {
     "nom": "Laura de Spirlet",
@@ -5131,7 +5131,7 @@
     "naissance": 1976
    }
   ],
-  "_nb_actes": 12,
+  "_nb_actes": 13,
   "_plus_ancien_pdf": "2000-04-06",
   "_actes_plus_anciens_sans_pdf": false
  },
@@ -5224,7 +5224,7 @@
   "premiere_nomination": "≤2004",
   "anciennete_ans": "≥22",
   "dirigeant_principal": "Dominique Lesage (né 1970)",
-  "releve": "oui : Tom Scutenaire (né en 1997, 2026-02-05)",
+  "releve": "oui : Tom Scutenaire (même nom, 2026-02-05)",
   "derniere_modification_statuts": "2024-01-22",
   "actionnaires": "",
   "type_controle": "inconnu",
@@ -5385,7 +5385,7 @@
     "premier_acte": "2016-09-21",
     "famille_acte": "2016-09-21",
     "bce_depuis": 2021,
-    "naissance": null
+    "naissance": 1976
    },
    {
     "nom": "Olivier Fabry",
@@ -5395,7 +5395,7 @@
     "premier_acte": "2016-09-21",
     "famille_acte": "2016-09-21",
     "bce_depuis": 2021,
-    "naissance": null
+    "naissance": 1974
    }
   ],
   "_nb_actes": 21,
@@ -5919,14 +5919,14 @@
   "nom": "MULTITRA LOGISTICS",
   "premiere_nomination": "≤2014",
   "anciennete_ans": "≥12",
-  "dirigeant_principal": "Daniel Plunus",
+  "dirigeant_principal": "Daniel Plunus (né 1965)",
   "releve": "incertain : Pascal Delhalle nommé 2025-01-08 (âge inconnu)",
   "derniere_modification_statuts": "2021-12-31",
   "actionnaires": "",
   "type_controle": "holding patrimonial",
   "societe_mere": "",
-  "verdict": "A VERIFIER (âge du dirigeant, âge des nouveaux administrateurs)",
-  "sources": "première mention de Daniel Plunus : 2014-07-28 0144547 https://www.ejustice.just.fgov.be/tsv_pdf/2014/07/28/14144547.pdf | BCE : fonction depuis 2024 (https://kbopub.economie.fgov.be/kbopub/zoeknummerform.html?nummer=0556654591&actionLu=Rechercher) | statuts : 2021-12-31 0380414 https://www.ejustice.just.fgov.be/tsv_pdf/2021/12/31/21380414.pdf | BCE 0820439856 : https://kbopub.economie.fgov.be/kbopub/zoeknummerform.html?nummer=0820439856&actionLu=Rechercher | BCE 1008522559 : https://kbopub.economie.fgov.be/kbopub/zoeknummerform.html?nummer=1008522559&actionLu=Rechercher | BCE 1015302463 : https://kbopub.economie.fgov.be/kbopub/zoeknummerform.html?nummer=1015302463&actionLu=Rechercher | BCE 1016938102 : https://kbopub.economie.fgov.be/kbopub/zoeknummerform.html?nummer=1016938102&actionLu=Rechercher",
+  "verdict": "A VERIFIER (âge des nouveaux administrateurs)",
+  "sources": "première mention de Daniel Plunus : 2014-07-28 0144547 https://www.ejustice.just.fgov.be/tsv_pdf/2014/07/28/14144547.pdf | BCE : fonction depuis 2024 (https://kbopub.economie.fgov.be/kbopub/zoeknummerform.html?nummer=0556654591&actionLu=Rechercher) | naissance 1965 : « NE A VERVIERS LE 1 DECEMBRE 1965 » (2024-12-06 0448857) | statuts : 2021-12-31 0380414 https://www.ejustice.just.fgov.be/tsv_pdf/2021/12/31/21380414.pdf | BCE 0820439856 : https://kbopub.economie.fgov.be/kbopub/zoeknummerform.html?nummer=0820439856&actionLu=Rechercher | BCE 1008522559 : https://kbopub.economie.fgov.be/kbopub/zoeknummerform.html?nummer=1008522559&actionLu=Rechercher | BCE 1015302463 : https://kbopub.economie.fgov.be/kbopub/zoeknummerform.html?nummer=1015302463&actionLu=Rechercher | BCE 1016938102 : https://kbopub.economie.fgov.be/kbopub/zoeknummerform.html?nummer=1016938102&actionLu=Rechercher",
   "_signaux": [
    "administrateur personne morale DELHALLE BUSINESS MANAGEMENT (0820439856, Société à responsabilité limitée) — dirigée par Pascal Delhalle, Pascal Delhalle",
    "administrateur personne morale DALAMARO (1008522559, Société à responsabilité limitée) — dirigée par Daniel Plunus [même famille]",
@@ -5942,7 +5942,7 @@
     "premier_acte": "2025-01-08",
     "famille_acte": "2025-01-08",
     "bce_depuis": 2024,
-    "naissance": null
+    "naissance": 1969
    },
    {
     "nom": "Daniel Plunus",
@@ -5952,7 +5952,7 @@
     "premier_acte": "2014-07-28",
     "famille_acte": "2014-07-28",
     "bce_depuis": 2024,
-    "naissance": null
+    "naissance": 1965
    },
    {
     "nom": "Fabrice Lemmens",

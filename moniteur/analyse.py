@@ -258,8 +258,9 @@ def analyse(row):
         (e["premier_acte"] and e["premier_acte"]["date"] >= "2018") or
         (not e["premier_acte"] and (e["kbo_min"] or 0) >= 2018))]
     releve, releve_why = "non", []
+    incumbents = {norm(e["nom"]) for e in people.values() if e not in newcomers}
     for e in newcomers:
-        same = main and norm(e["nom"]) == norm(main["nom"])
+        same = norm(e["nom"]) in incumbents
         young = e["naissance"] and TODAY.year - e["naissance"] < 45
         if same or young:
             releve = "oui"

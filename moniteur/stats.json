@@ -1,0 +1,81 @@
+{
+ "verdicts": {
+  "A VERIFIER": 86,
+  "SURVEILLER": 21,
+  "ECARTER": 6,
+  "GARDER": 8
+ },
+ "a_verifier_motifs": [
+  [
+   "âge du dirigeant",
+   56
+  ],
+  [
+   "âge des nouveaux administrateurs",
+   27
+  ],
+  [
+   "actionnariat",
+   25
+  ],
+  [
+   "ancienneté 27 ans hors 10-25",
+   5
+  ],
+  [
+   "ancienneté 26 ans hors 10-25",
+   4
+  ],
+  [
+   "ancienneté 3 ans hors 10-25",
+   4
+  ],
+  [
+   "ancienneté 8 ans hors 10-25",
+   3
+  ],
+  [
+   "ancienneté 6 ans hors 10-25",
+   3
+  ],
+  [
+   "ancienneté 2 ans hors 10-25",
+   2
+  ],
+  [
+   "ancienneté 29 ans hors 10-25",
+   2
+  ],
+  [
+   "ancienneté 1 ans hors 10-25",
+   2
+  ],
+  [
+   "ancienneté 5 ans hors 10-25",
+   2
+  ],
+  [
+   "ancienneté 30 ans hors 10-25",
+   1
+  ],
+  [
+   "administrateur provisoire désigné par le tribunal",
+   1
+  ],
+  [
+   "ancienneté 28 ans hors 10-25",
+   1
+  ],
+  [
+   "ancienneté 9 ans hors 10-25",
+   1
+  ],
+  [
+   "ancienneté 7 ans hors 10-25",
+   1
+  ]
+ ],
+ "n": 121,
+ "avec_age": 47,
+ "borne": 61
+}
