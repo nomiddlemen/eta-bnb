@@ -19,10 +19,10 @@
 
 ## 0416050024 Concassage, Forage, Criblage — A VERIFIER
 - principal : Jean Mathieu (né 1949) ; 1re nomination ≤2004 (≥22 ans) ; relève : non ; statuts 2004-02-09
-- contrôle : holding patrimonial  ; actes OCR 8 (plus ancien 2000-03-14, plus anciens sans PDF : True)
+- contrôle : holding patrimonial  ; actes OCR 9 (plus ancien 2000-03-14, plus anciens sans PDF : True)
   - Jean Mathieu ['Administrateur'] acte 2004-02-09 famille 2000-03-14 BCE 2023 né 1949
-  - Caroline Mathieu ['Représentant permanent'] acte 2004-02-09 famille 2000-03-14 BCE 2019 né None
-  - Frédéric Mathieu ['Représentant permanent'] acte 2004-02-09 famille 2000-03-14 BCE 2011 né None
+  - Caroline Mathieu ['Représentant permanent'] acte 2004-02-09 famille 2000-03-14 BCE 2019 né 1977
+  - Frédéric Mathieu ['Représentant permanent'] acte 2004-02-09 famille 2000-03-14 BCE 2011 né 1973
   - ⚑ administrateur personne morale MCA MANAGEMENT (0808634461, Société à responsabilité limitée) — dirigée par Caroline Mathieu, Jean Mathieu [même famille]
   - ⚑ administrateur personne morale MATHIEU HOLDING (0832672942, Société anonyme) — dirigée par Jean Mathieu, Caroline Mathieu, Frédéric Mathieu [même famille]
 
@@ -47,18 +47,18 @@
   - Evelien Renier ['Représentant permanent'] acte 2008-02-15 famille 1998-07-11 BCE 2013 né 1978
   - ⚑ administrateur personne morale PAMOEK (0885218535, Société à responsabilité limitée) — dirigée par Evelien Renier, Stijn Renier [même famille]
 
-## 0885954547 L ARTISAN GOURMET — A VERIFIER (âge du dirigeant, ancienneté 8 ans hors 10-25)
-- principal : Pierre-Yves Berthe ; 1re nomination 2018 (8 ans) ; relève : non ; statuts 2022-08-08
+## 0885954547 L ARTISAN GOURMET — A VERIFIER (ancienneté 8 ans hors 10-25)
+- principal : Pierre-Yves Berthe (né 1976) ; 1re nomination 2018 (8 ans) ; relève : non ; statuts 2022-08-08
 - contrôle : holding patrimonial  ; actes OCR 7 (plus ancien 2007-01-08, plus anciens sans PDF : False)
-  - Pierre-Yves Berthe ['Représentant permanent'] acte 2018-10-19 famille 2018-10-19 BCE 2018 né None
+  - Pierre-Yves Berthe ['Représentant permanent'] acte 2018-10-19 famille 2018-10-19 BCE 2018 né 1976
   - ⚑ administrateur personne morale PhunQ (0703936423, Société à responsabilité limitée) — dirigée par Pierre-Yves Berthe, Quentin Mariage [même famille]
 
 ## 0402223465 Suikerbakkerij Joris — SURVEILLER
 - principal : Diederik Van den Driessche ; 1re nomination 2020 (6 ans) ; relève : oui : Wouter Van den Driessche (même nom, 2021-05-05) ; statuts 2005-01-10
-- contrôle : holding patrimonial  ; actes OCR 7 (plus ancien 2000-01-25, plus anciens sans PDF : True)
-  - Diederik Van den Driessche ['Administrateur'] acte 2021-05-05 famille 2000-01-25 BCE 2020 né None
+- contrôle : holding patrimonial  ; actes OCR 8 (plus ancien 2000-01-25, plus anciens sans PDF : True)
+  - Diederik Van den Driessche ['Administrateur'] acte 2020-09-03 famille 2000-01-25 BCE 2020 né None
   - Wouter Van den Driessche ['Représentant permanent'] acte 2021-05-05 famille 2000-01-25 BCE 2020 né None
-  - ⚑ administrateur personne morale PRIME TIME SWEETS (0897739948, Société privée à responsabilité limitée) — dirigée par Wouter Van den Driessche, Diederik (2) Van den Driessche [même famille]
+  - ⚑ administrateur personne morale PRIME TIME SWEETS (0897739948, Société privée à responsabilité limitée) — dirigée par Wouter Van den Driessche, Diederik Van den Driessche [même famille]
 
 ## 0425846331 MADAREST — A VERIFIER
 - principal : Silvio Luise (né 1988) ; 1re nomination 2012 (14 ans) ; relève : non ; statuts 1990-09-11
@@ -67,9 +67,9 @@
   - ⚑ tous les dirigeants portent le même nom (indice, pas preuve de détention)
 
 ## 0457989161 FROMAGERIE DES ARDENNES — A VERIFIER (âge du dirigeant, ancienneté 30 ans hors 10-25)
-- principal : Marc (2) Rosen ; 1re nomination 1996 (30 ans) ; relève : non ; statuts 2014-06-04
+- principal : Marc Rosen ; 1re nomination 1996 (30 ans) ; relève : non ; statuts 2014-06-04
 - contrôle : personne physique  ; actes OCR 2 (plus ancien 1998-11-25, plus anciens sans PDF : True)
-  - Marc (2) Rosen ['Gérant'] acte None famille None BCE 1996 né None
+  - Marc Rosen ['Gérant'] acte 1998-11-25 famille 1998-11-25 BCE 1996 né None
   - ⚑ tous les dirigeants portent le même nom (indice, pas preuve de détention)
 
 ## 0515972791 Ô BEL GAUFRE — A VERIFIER (âge du dirigeant)
@@ -87,7 +87,6 @@
   - Marcel Peters ['Représentant permanent'] acte 2001-05-05 famille 1999-11-10 BCE 2007 né None
   - ⚑ administrateur personne morale ENTWICKLUNGS- UND BETEILIGUNGSGESELLSCHAFT OSTBELGIENS (0437216117, Société anonyme) — dirigée par André Britz, Norbert Heukemes, Philippe Neumann, Wilfried Niessen, Doris Schaus, Margit Veithen, Kelly Zimmermann, Christoph Recker, Gaëtan Servais, Lisa Faymonville, Ronny Eicher, Karl-Heinz Huppertz, Dirk Kirschvink, Isabel Schlembach, Margit Veithen
   - ⚑ administrateur personne morale PEMA INVEST (0473967239, Société en commandite simple) — dirigée par Marcel Peters, Marcel Peters [même famille]
-  - ⚑ mention OSTBELGIENINVEST
 
 ## 0899966790 PATISSERIE JEANPIERRE — SURVEILLER
 - principal : Joseph Jeanpierre (né 1946) ; 1re nomination ≤2008 (≥18 ans) ; relève : oui : Marie Jeanpierre (même nom, 2024-10-22) ; statuts 2011-06-28
@@ -96,11 +95,11 @@
   - Joseph Jeanpierre ['Représentant permanent'] acte 2008-09-03 famille 2008-09-03 BCE 2014 né 1946
   - ⚑ administrateur personne morale JEANPIERRE HOLDING (0836907387, Société à responsabilité limitée) — dirigée par Rachel Cravotto, Joseph Jeanpierre, Joseph Jeanpierre [même famille]
 
-## 0897587619 L'ARTISAN — A VERIFIER (âge du dirigeant, actionnariat)
-- principal : Lionel (2) Gaussin ; 1re nomination 2008 (18 ans) ; relève : non ; statuts 2010-03-29
+## 0897587619 L'ARTISAN — A VERIFIER (actionnariat)
+- principal : Lionel Gaussin (né 1979) ; 1re nomination 2008 (18 ans) ; relève : non ; statuts 2010-03-29
 - contrôle : inconnu  ; actes OCR 3 (plus ancien 2008-05-08, plus anciens sans PDF : False)
-  - Lionel (2) Gaussin ['Gérant'] acte None famille None BCE 2008 né None
-  - Nadège (2) Servais ['Gérant'] acte None famille None BCE 2009 né None
+  - Lionel Gaussin ['Gérant'] acte 2008-05-08 famille 2008-05-08 BCE 2008 né 1979
+  - Nadège Servais ['Gérant'] acte 2009-11-09 famille 2008-05-08 BCE 2009 né 1984
 
 ## 0753979812 Salaisons des Ardennes — A VERIFIER (âge des nouveaux administrateurs, ancienneté 6 ans hors 10-25)
 - principal : Jo Pauwels (né 1966) ; 1re nomination ≤2020 (≥6 ans) ; relève : incertain : Demi Van Haecke nommé 2026-08-21 (âge inconnu) ; statuts 2024-09-13
@@ -121,12 +120,11 @@
   - Philippe Renson ['Représentant permanent'] acte 2000-07-19 famille 2000-07-19 BCE 2022 né 1958
   - Elvira Schumacher ['Représentant permanent'] acte 2022-05-11 famille 2022-05-11 BCE 2022 né 1956
   - ⚑ administrateur personne morale ENTWICKLUNGS- UND BETEILIGUNGSGESELLSCHAFT OSTBELGIENS (0437216117, Société anonyme) — dirigée par André Britz, Norbert Heukemes, Philippe Neumann, Wilfried Niessen, Doris Schaus, Margit Veithen, Kelly Zimmermann, Christoph Recker, Gaëtan Servais, Lisa Faymonville, Ronny Eicher, Karl-Heinz Huppertz, Dirk Kirschvink, Isabel Schlembach, Margit Veithen
-  - ⚑ administrateur personne morale CARGEPAR (0543995794, Société privée à responsabilité limitée) — dirigée par Chantal Clavareau, Philippe (3) Nadobny
+  - ⚑ administrateur personne morale CARGEPAR (0543995794, Société privée à responsabilité limitée) — dirigée par Chantal Clavareau, Philippe Nadobny
   - ⚑ administrateur personne morale BELAUCIOUS (0779486357, Société à responsabilité limitée) — dirigée par Laurent Renson [même famille]
   - ⚑ administrateur personne morale SVASTI (0779486654, Société à responsabilité limitée) — dirigée par Raphael Renson [même famille]
   - ⚑ administrateur personne morale FOODIEST (0779486852, Société à responsabilité limitée) — dirigée par Rachel Renson [même famille]
   - ⚑ administrateur personne morale FOOD DEVELOPMENT INTERNATIONAL (0861690887, Société anonyme) — dirigée par Philippe Renson, Elvira Schumacher [même famille]
-  - ⚑ mention OSTBELGIENINVEST
 
 ## 0872715829 DESTINE André — A VERIFIER (ancienneté 2 ans hors 10-25)
 - principal : Bastien Destiné (né 1992) ; 1re nomination 2024 (2 ans) ; relève : non ; statuts 2023-11-28
@@ -148,13 +146,12 @@
   - ⚑ tous les dirigeants portent le même nom (indice, pas preuve de détention)
 
 ## 0542523671 LEE CHI KO — SURVEILLER
-- principal : Albert (1) Lee ; 1re nomination 2013 (13 ans) ; relève : oui : Steven Lee (né en 1997, 2023-04-25) ; statuts 2023-07-24
+- principal : Albert Lee ; 1re nomination ≤2013 (≥13 ans) ; relève : oui : Steven Lee (même nom, 2023-04-25) ; statuts 2023-07-24
 - contrôle : inconnu  ; actes OCR 3 (plus ancien 2013-11-29, plus anciens sans PDF : False)
-  - Albert Lee ['Administrateur'] acte 2013-11-29 famille 2013-11-29 BCE 2023 né None
+  - Albert Lee ['Administrateur', 'Gérant'] acte 2013-11-29 famille 2013-11-29 BCE 2013 né None
   - Chi Lee ['Administrateur'] acte 2013-11-29 famille 2013-11-29 BCE 2023 né None
   - Steven Lee ['Administrateur'] acte 2023-04-25 famille 2013-11-29 BCE 2023 né 1997
   - Xiaofang Liu ['Administrateur'] acte 2013-11-29 famille 2013-11-29 BCE 2023 né None
-  - Albert (1) Lee ['Gérant'] acte None famille None BCE 2013 né None
 
 ## 0760343408 The Fine Lab S.A. — A VERIFIER (âge du dirigeant, actionnariat, âge des nouveaux administrateurs, ancienneté 3 ans hors 10-25)
 - principal : Christophe Neumann ; 1re nomination 2023 (3 ans) ; relève : incertain : Gabriele Caponcello nommé 2024-11-07 (âge inconnu) ; statuts 2022-11-24
@@ -163,14 +160,14 @@
   - Alberto Cavalleris ['Administrateur'] acte 2024-12-20 famille 2024-12-20 BCE 2023 né None
   - Christophe Neumann ['Administrateur'] acte 2023-03-31 famille 2023-03-31 BCE 2023 né None
 
-## 0454775986 BOULANGERIE KEMPINAIRE — A VERIFIER (actionnariat, âge des nouveaux administrateurs)
+## 0454775986 BOULANGERIE KEMPINAIRE — A VERIFIER (administrateur provisoire désigné par le tribunal)
 - principal : Arlette Kempinaire (né 1949) ; 1re nomination ≤2014 (≥12 ans) ; relève : incertain : Benoît Cassart nommé 2023-01-03 (âge inconnu) ; statuts 2017-07-26
 - contrôle : inconnu  ; actes OCR 4 (plus ancien 2014-05-05, plus anciens sans PDF : True)
-  - Arlette Montrez les titulaires des fonctions . Il y a 7 titulaires de fonctions légales pour cette entité. Masquez les titulaires de fonctions . Administrateur Kempinaire ['Il y a 7 titulaires de fonctions légales pour cette entité.'] acte None famille None BCE 2017 né None
+  - Arlette Kempinaire ['Administrateur', 'Personne déléguée à la gestion journalière'] acte 2014-05-05 famille 2014-05-05 BCE 2017 né 1949
   - Fernand Kempinaire ['Administrateur', 'Personne déléguée à la gestion journalière'] acte 2017-07-26 famille 2014-05-05 BCE 2017 né 1953
   - Guy Kempinaire ['Administrateur', 'Personne déléguée à la gestion journalière'] acte 2017-07-26 famille 2014-05-05 BCE 2017 né 1951
-  - Arlette Kempinaire ['Personne déléguée à la gestion journalière'] acte 2014-05-05 famille 2014-05-05 BCE 2017 né 1949
   - Benoît Cassart ['Administrateur provisoire (désignation par tribunaux)'] acte 2023-01-03 famille 2023-01-03 BCE 2022 né None
+  - ⚑ ALERTE : Administrateur provisoire (désignation par tribunaux) — Cassart , Benoît depuis 11 février 2022 (gestion sous contrôle judiciaire, litige probable)
 
 ## 0466473592 KEMPINAIRE F. — A VERIFIER (âge du dirigeant, ancienneté 27 ans hors 10-25)
 - principal : Fernand Kempinaire ; 1re nomination ≤1999 (≥27 ans) ; relève : non ; statuts 1999-07-20
@@ -191,7 +188,7 @@
   - Frédéric Ponsar ['Administrateur'] acte 2009-03-04 famille 2009-03-04 BCE 2009 né None
   - Françoise Blaise ['Représentant permanent'] acte 2001-07-13 famille 2001-07-13 BCE 2009 né None
   - Marie-France Blaise ['Représentant permanent'] acte 2001-07-13 famille 2001-07-13 BCE 2009 né 1953
-  - ⚑ administrateur personne morale DISTRI-IMMO SA (0462719395, Société anonyme) — dirigée par Françoise Montrez les titulaires des fonctions . Il y a 6 titulaires de fonctions légales pour cette entité. Masquez les titulaires de fonctions . Administrateur Blaise, Marie-France Blaise, Stéphanie Fontenoy, Frédéric Ponsar, Françoise Blaise, Marie-France Blaise [même famille]
+  - ⚑ administrateur personne morale DISTRI-IMMO SA (0462719395, Société anonyme) — dirigée par Françoise Blaise, Marie-France Blaise, Stéphanie Fontenoy, Frédéric Ponsar, Françoise Blaise, Marie-France Blaise [même famille]
 
 ## 0597845147 SCHMIDT culina — SURVEILLER
 - principal : Kurt Schmidt ; 1re nomination 2015 (11 ans) ; relève : oui : Tobias Schleck nommé 2024-11-06 (âge inconnu); Esther Schmidt (même nom, 2023-11-22) ; statuts 2020-12-17
@@ -212,21 +209,21 @@
   - Magali Van Roy Cantillon ['Administrateur'] acte None famille None BCE 2023 né None
   - Jean Van Roy ['Administrateur'] acte 2001-09-12 famille 2001-09-12 BCE 2023 né 1942
 
-## 0500936407 BRASSERIE 3 F L'ANGELUS — ECARTER
+## 0500936407 BRASSERIE 3 F L'ANGELUS — SURVEILLER
 - principal : Patrick D'Aubreby ; 1re nomination 2015 (11 ans) ; relève : oui : Pierre Dessy nommé 2021-09-01 (âge inconnu); Rémy D'Aubreby (même nom, 2021-09-01) ; statuts 2024-06-21
-- contrôle : invest public  ; actes OCR 8 (plus ancien 2012-11-22, plus anciens sans PDF : False)
+- contrôle : holding patrimonial ceres deesse des moissons (entité étrangère, pays à préciser) ; actes OCR 8 (plus ancien 2012-11-22, plus anciens sans PDF : False)
   - Pierre Dessy ['Représentant permanent'] acte 2021-09-01 famille 2021-09-01 BCE 2021 né None
   - Patrick D'Aubreby ['Représentant permanent'] acte 2015-03-24 famille 2015-03-24 BCE 2020 né None
   - Rémy D'Aubreby ['Représentant permanent'] acte 2021-09-01 famille 2015-03-24 BCE 2021 né None
-  - ⚑ administrateur personne morale Pierre Alain Dessy (0716693705, Société privée à responsabilité limitée) — dirigée par Pierre (2) Dessy
+  - ⚑ administrateur personne morale Pierre Alain Dessy (0716693705, Société privée à responsabilité limitée) — dirigée par Pierre Dessy
   - ⚑ administrateur personne morale ceres deesse des moissons (0749773079, Entité étrangère) — dirigée par ?
   - ⚑ administrateur personne morale VIRGO DEVELOPPEMENT (0768260190, Société à responsabilité limitée) — dirigée par Patrick D'Aubreby, Rémy D'Aubreby [même famille]
-  - ⚑ mention SPI
+  - ⚑ administrateur inscrit comme entité étrangère : ceres deesse des moissons (0749773079)
 
-## 0462696037 QUATRIEME DIMENSION — A VERIFIER (âge du dirigeant, ancienneté 28 ans hors 10-25)
-- principal : François Bersez ; 1re nomination 1998 (28 ans) ; relève : non ; statuts 2024-01-24
+## 0462696037 QUATRIEME DIMENSION — A VERIFIER (ancienneté 28 ans hors 10-25)
+- principal : François Bersez (né 1968) ; 1re nomination 1998 (28 ans) ; relève : non ; statuts 2024-01-24
 - contrôle : holding patrimonial  ; actes OCR 13 (plus ancien 1998-03-03, plus anciens sans PDF : False)
-  - François Bersez ['Représentant permanent'] acte 1998-03-03 famille 1998-03-03 BCE 2023 né None
+  - François Bersez ['Représentant permanent'] acte 1998-03-03 famille 1998-03-03 BCE 2023 né 1968
   - ⚑ administrateur personne morale ALIXILA (0821019084, Société à responsabilité limitée) — dirigée par François Bersez [même famille]
 
 ## 0866298486 TEILLAGE MARCHANDISSE & FILS — A VERIFIER (âge du dirigeant, âge des nouveaux administrateurs)
@@ -237,7 +234,7 @@
   - Jérôme Haubruge ['Représentant permanent'] acte 2024-01-25 famille 2024-01-25 BCE 2023 né None
   - Thibault Marchandisse ['Représentant permanent'] acte 2004-07-22 famille 2004-07-22 BCE 2023 né None
   - Christian Balduyck ['Représentant permanent'] acte 2020-06-02 famille 2020-06-02 BCE 2020 né None
-  - ⚑ administrateur personne morale SOCIETE COOPERATIVE AGRICOLE DE LA MEUSE (0401370063, Société coopérative) — dirigée par Bruno Montrez les titulaires des fonctions . Il y a 9 titulaires de fonctions légales pour cette entité. Masquez les titulaires de fonctions . Administrateur De Wulf, François Dumonceau, Fabrice Flamend, Adrien Paquet, Gauthier Petit, Daniel Richir, Jean-Yves Vancompernolle, Olivier Debehogne, Olivier Debehogne
+  - ⚑ administrateur personne morale SOCIETE COOPERATIVE AGRICOLE DE LA MEUSE (0401370063, Société coopérative) — dirigée par Bruno De Wulf, François Dumonceau, Fabrice Flamend, Adrien Paquet, Gauthier Petit, Daniel Richir, Jean-Yves Vancompernolle, Olivier Debehogne, Olivier Debehogne
   - ⚑ administrateur personne morale MARCHANDISSE ET FILS (0430650108, Société privée à responsabilité limitée) — dirigée par Gilles Marchandisse, Pol Marchandisse, Thibault Marchandisse, Jacqueline Reginster [même famille]
   - ⚑ administrateur personne morale TRANSCAM-Seilles (0460092873, Société à responsabilité limitée) — dirigée par Olivier Debehogne, Fabrice Flamend, Adrien Paquet, Olivier Debehogne, Fabrice Flamend
 
@@ -249,8 +246,8 @@
   - Viktor Vereenooghe ['Administrateur'] acte 2020-01-29 famille 2001-06-27 BCE 2019 né None
   - ⚑ tous les dirigeants portent le même nom (indice, pas preuve de détention)
 
-## 0887579494 ALL PALLETS — A VERIFIER (âge du dirigeant, âge des nouveaux administrateurs)
-- principal : Monique Pinckaers ; 1re nomination ≤2007 (≥19 ans) ; relève : incertain : Michèle Stassen nommé 2024-04-23 (âge inconnu) ; statuts 2024-10-14
+## 0887579494 ALL PALLETS — SURVEILLER
+- principal : Monique Pinckaers ; 1re nomination ≤2007 (≥19 ans) ; relève : oui : Michèle Stassen (même nom, 2024-04-23); Marine Stassen (même nom, 2024-04-23) ; statuts 2024-10-14
 - contrôle : holding patrimonial  ; actes OCR 10 (plus ancien 2007-03-08, plus anciens sans PDF : False)
   - Monique Pinckaers ['Administrateur', 'Administrateur délégué'] acte 2007-03-08 famille 2007-03-08 BCE 2023 né None
   - Georges Stassen ['Administrateur', 'Administrateur délégué'] acte 2007-03-08 famille 2007-03-08 BCE 2023 né None
@@ -277,25 +274,24 @@
 - principal : Pierre Macharis (né 1962) ; 1re nomination ≤2015 (≥11 ans) ; relève : incertain : Jan Willaert nommé 2023-11-22 (âge inconnu) ; statuts 2021-02-12
 - contrôle : inconnu  ; actes OCR 20 (plus ancien 2015-04-03, plus anciens sans PDF : False)
   - Pierre Macharis ['Administrateur', 'Personne déléguée à la gestion journalière'] acte 2015-04-03 famille 2015-04-03 BCE 2024 né 1962
-  - Jan Willaert ['Représentant permanent'] acte 2023-11-22 famille 2023-11-22 BCE 2024 né None
+  - Jan Willaert ['Représentant permanent'] acte 2023-11-22 famille 2023-11-22 BCE 2024 né 1972
   - ⚑ administrateur personne morale WILCO (0822480816, Société à responsabilité limitée) — dirigée par Katrien Heirwegh, Jan Willaert
 
-## 0431667519 IMPRITEX — A VERIFIER (âge du dirigeant, âge des nouveaux administrateurs)
-- principal : Diane Grandjean ; 1re nomination 2007 (19 ans) ; relève : incertain : Alain Montrez les titulaires des fonctions . Il y a 6 titulaires de fonctions légales pour cette entité. Masquez les titulaires de fonctions . Administrateur Grandjean nommé 2024 (âge inconnu) ; statuts 2001-07-11
+## 0431667519 IMPRITEX — A VERIFIER (âge du dirigeant, âge des nouveaux administrateurs, ancienneté 29 ans hors 10-25)
+- principal : Alain Grandjean ; 1re nomination ≤1997 (≥29 ans) ; relève : incertain : Matthias Lambrecht nommé 2024-12-04 (âge inconnu) ; statuts 2001-07-11
 - contrôle : holding patrimonial  ; actes OCR 12 (plus ancien 1997-11-27, plus anciens sans PDF : True)
-  - Alain Montrez les titulaires des fonctions . Il y a 6 titulaires de fonctions légales pour cette entité. Masquez les titulaires de fonctions . Administrateur Grandjean ['Il y a 6 titulaires de fonctions légales pour cette entité.'] acte None famille None BCE 2024 né None
+  - Alain Grandjean ['Administrateur'] acte 1997-11-27 famille 1997-11-27 BCE 2024 né None
   - Diane Grandjean ['Administrateur'] acte 2007-09-10 famille 1997-11-27 BCE 2007 né None
   - Matthias Lambrecht ['Représentant permanent'] acte 2024-12-04 famille 2024-12-04 BCE 2024 né None
   - Antoine Grandjean ['Représentant permanent'] acte 2010-09-14 famille 1997-11-27 BCE 2024 né None
   - ⚑ administrateur personne morale L SOLUTIONS (1001283488, Société à responsabilité limitée) — dirigée par Matthias Lambrecht
   - ⚑ administrateur personne morale Jaapan Invest (1004125390, Société à responsabilité limitée) — dirigée par Antoine Grandjean [même famille]
 
-## 0893340207 CPB — ECARTER
+## 0893340207 CPB — A VERIFIER (âge du dirigeant, actionnariat, âge des nouveaux administrateurs)
 - principal : Anton SPITALER ; 1re nomination 2007 (19 ans) ; relève : incertain : Heiko SEIBERT nommé 2023-03-31 (âge inconnu) ; statuts 2024-01-22
-- contrôle : invest public  ; actes OCR 10 (plus ancien 2007-11-21, plus anciens sans PDF : False)
+- contrôle : inconnu  ; actes OCR 10 (plus ancien 2007-11-21, plus anciens sans PDF : False)
   - Heiko SEIBERT ['Administrateur', 'Administrateur délégué'] acte 2023-03-31 famille 2023-03-31 BCE 2023 né None
   - Anton SPITALER ['Administrateur', 'Administrateur délégué'] acte 2007-11-21 famille 2007-11-21 BCE 2007 né None
-  - ⚑ mention SPI
 
 ## 0473547466 API F & I — A VERIFIER (ancienneté 26 ans hors 10-25)
 - principal : Francis Ramboux (né 1948) ; 1re nomination ≤2000 (≥26 ans) ; relève : non ; statuts 2024-03-04
@@ -305,9 +301,9 @@
   - ⚑ tous les dirigeants portent le même nom (indice, pas preuve de détention)
 
 ## 0890892342 PANORAMA EVENEMENTS — A VERIFIER (âge du dirigeant)
-- principal : Stéphane (3) Leemans ; 1re nomination 2007 (19 ans) ; relève : non ; statuts 2007-07-25
+- principal : Stéphane Leemans ; 1re nomination ≤2007 (≥19 ans) ; relève : non ; statuts 2007-07-25
 - contrôle : personne physique  ; actes OCR 2 (plus ancien 2007-07-25, plus anciens sans PDF : False)
-  - Stéphane (3) Leemans ['Gérant'] acte None famille None BCE 2007 né None
+  - Stéphane Leemans ['Gérant'] acte 2007-07-25 famille 2007-07-25 BCE 2007 né None
   - ⚑ tous les dirigeants portent le même nom (indice, pas preuve de détention)
 
 ## 0887086279 DEQUENNE CHIMIE — SURVEILLER
@@ -317,7 +313,7 @@
   - Anne-Catherine Dequenne ['Administrateur'] acte 2019-06-19 famille 2007-02-16 BCE 2022 né None
   - Jean-Christophe Dequenne ['Administrateur'] acte 2010-06-24 famille 2007-02-16 BCE 2024 né 1969
   - Xavier Dequenne ['Administrateur'] acte 2018-09-13 famille 2007-02-16 BCE 2022 né 1970
-  - André Petitjean ['Représentant permanent'] acte 2022-06-28 famille 2022-06-28 BCE 2026 né None
+  - André Petitjean ['Représentant permanent'] acte 2022-06-28 famille 2022-06-28 BCE 2026 né 1961
   - Quentin Herbinaux ['Représentant permanent'] acte 2018-10-23 famille 2018-10-23 BCE 2022 né None
   - Florence Humblet ['Représentant permanent'] acte 2026-07-01 famille 2026-07-01 BCE 2026 né 1969
   - Hugues Dequenne ['Représentant permanent'] acte 2008-04-02 famille 2007-02-16 BCE 2022 né 1968
@@ -326,18 +322,18 @@
   - ⚑ administrateur personne morale HEAD MANAGEMENT (0895504097, Société à responsabilité limitée) — dirigée par Hugues Dequenne [même famille]
   - ⚑ administrateur personne morale 0685755455 (0685755455, ?) — dirigée par ?
 
-## 0403086171 PUGH & CO INTERNATIONAL — A VERIFIER (âge du dirigeant, actionnariat, âge des nouveaux administrateurs)
-- principal : Bernard Leduc ; 1re nomination 2016 (10 ans) ; relève : incertain : Vincent Bayer nommé 2020-10-22 (âge inconnu) ; statuts 2024-02-23
-- contrôle : inconnu  ; actes OCR 9 (plus ancien 2002-02-12, plus anciens sans PDF : True)
-  - Vincent Bayer ['Administrateur'] acte 2020-10-22 famille 2020-10-22 BCE 2020 né None
+## 0403086171 PUGH & CO INTERNATIONAL — A VERIFIER (âge du dirigeant, actionnariat)
+- principal : Bernard Leduc ; 1re nomination 2016 (10 ans) ; relève : non ; statuts 2024-02-23
+- contrôle : inconnu  ; actes OCR 10 (plus ancien 2002-02-12, plus anciens sans PDF : True)
+  - Vincent Bayer ['Administrateur'] acte 2014-07-23 famille 2014-07-23 BCE 2020 né None
   - Bernard Leduc ['Administrateur', 'Personne déléguée à la gestion journalière'] acte 2016-07-25 famille 2016-07-25 BCE 2020 né None
   - Julie Peemans ['Administrateur'] acte 2013-06-19 famille 2002-06-22 BCE 2020 né None
   - Roland Peemans ['Administrateur'] acte 2007-06-27 famille 2002-06-22 BCE 2020 né None
 
 ## 0474694343 ESPACE CHASSART — SURVEILLER
-- principal : Guibert Dumont de Chassart ; 1re nomination ≤2001 (≥25 ans) ; relève : oui : Raphaël Montrez les titulaires des fonctions . Il y a 10 titulaires de fonctions légales pour cette entité. Masquez les titulaires de fonctions . Administrateur della Faille de Leverghem nommé 2020 (âge inconnu); Etienne Dumont de Chassart (même nom, 2018-01-18); Gauthier Dumont de Chassart (même nom, 2021-04-15); Marie-Alice Dumont de Chassart (même nom, 2018-12-07); Michaël Dumont de Chassart (même nom, 2018-01-18); Sébastien Dumont de Chassart (même nom, 2021-04-15); Werner Dumont de Chassart (même nom, 2025-05-16) ; statuts 2023-04-07
+- principal : Guibert Dumont de Chassart ; 1re nomination ≤2001 (≥25 ans) ; relève : oui : Raphaël della Faille de Leverghem nommé 2020 (âge inconnu); Etienne Dumont de Chassart (même nom, 2018-01-18); Gauthier Dumont de Chassart (même nom, 2021-04-15); Marie-Alice Dumont de Chassart (même nom, 2018-12-07); Michaël Dumont de Chassart (même nom, 2018-01-18); Sébastien Dumont de Chassart (même nom, 2021-04-15); Werner Dumont de Chassart (même nom, 2025-05-16) ; statuts 2023-04-07
 - contrôle : inconnu  ; actes OCR 18 (plus ancien 2001-05-09, plus anciens sans PDF : False)
-  - Raphaël Montrez les titulaires des fonctions . Il y a 10 titulaires de fonctions légales pour cette entité. Masquez les titulaires de fonctions . Administrateur della Faille de Leverghem ['Il y a 10 titulaires de fonctions légales pour cette entité.'] acte None famille None BCE 2020 né None
+  - Raphaël della Faille de Leverghem ['Administrateur'] acte None famille 2018-01-18 BCE 2020 né None
   - Etienne Dumont de Chassart ['Administrateur'] acte 2018-01-18 famille 2001-05-09 BCE 2024 né None
   - Gauthier Dumont de Chassart ['Administrateur'] acte 2021-04-15 famille 2001-05-09 BCE 2020 né None
   - Guibert Dumont de Chassart ['Administrateur'] acte 2001-05-09 famille 2001-05-09 BCE 2020 né None
@@ -369,7 +365,7 @@
   - Bertrand Herry ['Représentant permanent'] acte 2015-12-15 famille 2015-12-15 BCE 2015 né None
   - Roger Cocle ['Représentant permanent'] acte 2015-12-15 famille 2015-12-15 BCE 2015 né None
   - ⚑ administrateur personne morale TIMTECH (0437821277, Société à responsabilité limitée) — dirigée par Michel Tilmant [même famille]
-  - ⚑ administrateur personne morale JANSSEN ENGINEERING (0442593182, Société anonyme) — dirigée par Marie-Blanche Montrez les titulaires des fonctions . Il y a 6 titulaires de fonctions légales pour cette entité. Masquez les titulaires de fonctions . Administrateur Cerfontaine, Annick Janssen, Guy Janssen, Sébastien Janssen, Marie-Blanche Cerfontaine, Guy Janssen
+  - ⚑ administrateur personne morale JANSSEN ENGINEERING (0442593182, Société anonyme) — dirigée par Marie-Blanche Cerfontaine, Annick Janssen, Guy Janssen, Sébastien Janssen, Marie-Blanche Cerfontaine, Guy Janssen
   - ⚑ administrateur personne morale SPARAXIS (0452116307, Société anonyme) — dirigée par Olivier Bouchat, Sébastien Durieux, Eric Poncin, Olivier Vanderijst
   - ⚑ administrateur personne morale 0471925091 (0471925091, ?) — dirigée par ?
   - ⚑ administrateur personne morale BASMAG (0639997585, Société à responsabilité limitée) — dirigée par Bertrand Herry
@@ -381,14 +377,14 @@
   - David Waelkens ['Représentant permanent'] acte 2026-03-12 famille 2026-03-12 BCE 2025 né None
   - ⚑ administrateur personne morale A-20 (1031681508, Société à responsabilité limitée) — dirigée par David Waelkens [même famille]
 
-## 0402294434 X - PACK — A VERIFIER (âge du dirigeant, actionnariat, âge des nouveaux administrateurs, ancienneté 7 ans hors 10-25)
-- principal : Philippe Closon ; 1re nomination 2019 (7 ans) ; relève : incertain : Cédric Maertens nommé 2019-02-11 (âge inconnu) ; statuts 2020-06-25
+## 0402294434 X - PACK — SURVEILLER
+- principal : Philippe Closon ; 1re nomination 2019 (7 ans) ; relève : oui : Cédric Maertens nommé 2019-02-11 (âge inconnu); Quentin Hansenne (né en 1982, 2019-02-11) ; statuts 2020-06-25
 - contrôle : inconnu  ; actes OCR 15 (plus ancien 1997-09-04, plus anciens sans PDF : True)
   - Philippe Closon ['Administrateur'] acte 2019-02-11 famille 2019-02-11 BCE 2019 né None
   - Cédric Maertens ['Administrateur'] acte 2019-02-11 famille 2019-02-11 BCE 2019 né None
   - Sébastien Peutat ['Administrateur'] acte 2024-04-11 famille 2024-04-11 BCE 2023 né None
-  - Quentin Hansenne ['Représentant permanent'] acte 2019-02-11 famille 2019-02-11 BCE 2019 né None
-  - Thomas Fraipont ['Représentant permanent'] acte 2019-02-11 famille 2019-02-11 BCE 2019 né None
+  - Quentin Hansenne ['Représentant permanent'] acte 2019-02-11 famille 2019-02-11 BCE 2019 né 1982
+  - Thomas Fraipont ['Représentant permanent'] acte 2019-02-11 famille 2019-02-11 BCE 2019 né 1980
   - ⚑ administrateur personne morale QHAM (0537614382, Société à responsabilité limitée) — dirigée par Quentin Hansenne
   - ⚑ administrateur personne morale TFR Solutions (0637747581, Société à responsabilité limitée) — dirigée par Thomas Fraipont
 
@@ -398,18 +394,18 @@
   - Cédric Bouille ['Administrateur'] acte 2024-10-02 famille 2024-10-02 BCE 2024 né 1977
   - Mickaël Leonardi ['Administrateur'] acte 2024-10-02 famille 2024-10-02 BCE 2024 né 1984
 
-## 0879569175 MERY CHASSIS — A VERIFIER (actionnariat, âge des nouveaux administrateurs)
-- principal : Catherine Van de Merckt (né 1960) ; 1re nomination ≤2006 (≥20 ans) ; relève : incertain : Adrien Detollenaere nommé 2025-03-24 (âge inconnu) ; statuts 2023-09-13
+## 0879569175 MERY CHASSIS — SURVEILLER
+- principal : Catherine Van de Merckt (né 1960) ; 1re nomination ≤2006 (≥20 ans) ; relève : oui : Adrien Detollenaere (même nom, 2025-03-24) ; statuts 2023-09-13
 - contrôle : inconnu  ; actes OCR 15 (plus ancien 2006-03-07, plus anciens sans PDF : False)
   - Catherine Van de Merckt ['Administrateur'] acte 2006-03-07 famille 2006-03-07 BCE 2023 né 1960
   - Guillaume Detollenaere ['Représentant permanent'] acte 2016-10-17 famille 2006-03-07 BCE 2017 né 1991
-  - Adrien Detollenaere ['Représentant permanent'] acte 2025-03-24 famille 2006-03-07 BCE 2024 né None
+  - Adrien Detollenaere ['Représentant permanent'] acte 2025-03-24 famille 2006-03-07 BCE 2024 né 1993
   - ⚑ administrateur personne morale ADT Consult (1015360762, Société à responsabilité limitée) — dirigée par Adrien Detollenaere
   - ⚑ administrateur personne morale DETOLL INVEST (1017444777, Société à responsabilité limitée) — dirigée par Adrien Detollenaere, Guillaume Detollenaere
 
 ## 0459403381 L.W.Z. - Casa de la Pietra — A VERIFIER (âge du dirigeant, actionnariat)
 - principal : Kurt Wiesen ; 1re nomination 2003 (23 ans) ; relève : non ; statuts 2024-03-29
-- contrôle : inconnu  ; actes OCR 10 (plus ancien 1998-12-31, plus anciens sans PDF : True)
+- contrôle : inconnu  ; actes OCR 11 (plus ancien 1998-12-31, plus anciens sans PDF : True)
   - Alexa Maraite ['Administrateur'] acte 2010-08-19 famille 2010-08-19 BCE 2024 né None
   - Andreas Wiesen ['Administrateur'] acte 2010-08-19 famille 2003-10-22 BCE 2024 né 1987
   - Michaël Wiesen ['Administrateur'] acte 2010-08-19 famille 2003-10-22 BCE 2024 né 1984
@@ -417,14 +413,15 @@
 
 ## 0459578278 ARDENNE BETON — A VERIFIER (âge du dirigeant, ancienneté 5 ans hors 10-25)
 - principal : Claude Wagner ; 1re nomination 2021 (5 ans) ; relève : non ; statuts 2024-03-12
-- contrôle : holding patrimonial  ; actes OCR 11 (plus ancien 1997-01-16, plus anciens sans PDF : False)
+- contrôle : holding patrimonial C.W.A. (entité étrangère, pays à préciser) ; actes OCR 11 (plus ancien 1997-01-16, plus anciens sans PDF : False)
   - Claude Wagner ['Représentant permanent'] acte 2021-03-24 famille 2021-03-24 BCE 2024 né None
   - ⚑ administrateur personne morale C.W.A. (0765272590, Entité étrangère) — dirigée par Claude Wagner [même famille]
+  - ⚑ administrateur inscrit comme entité étrangère : C.W.A. (0765272590)
 
 ## 0413941857 LES MATERIAUX ENROBES DU TOURNAISIS — A VERIFIER (âge du dirigeant, actionnariat, âge des nouveaux administrateurs)
 - principal : CHRISTOPHE MINIER ; 1re nomination ≤2016 (≥10 ans) ; relève : incertain : Jean-François Depret nommé 2023-02-14 (âge inconnu) ; statuts 2023-12-28
 - contrôle : inconnu  ; actes OCR 33 (plus ancien 1997-01-03, plus anciens sans PDF : True)
-  - LAHBIB Montrez les titulaires des fonctions . Il y a 6 titulaires de fonctions légales pour cette entité. Masquez les titulaires de fonctions . Administrateur BOUARFA ['Il y a 6 titulaires de fonctions légales pour cette entité.'] acte None famille None BCE 2015 né None
+  - LAHBIB BOUARFA ['Administrateur'] acte 2015-12-15 famille 2015-12-15 BCE 2015 né None
   - PASCAL CARDON ['Administrateur'] acte 2016-03-02 famille 2016-03-02 BCE 2014 né None
   - Jean-François Depret ['Administrateur'] acte 2023-02-14 famille 2023-02-14 BCE 2021 né None
   - CHRISTOPHE MINIER ['Administrateur', 'Administrateur délégué'] acte 2016-06-06 famille 2016-06-06 BCE 2016 né None
@@ -460,7 +457,7 @@
   - Florence Piront ['Administrateur'] acte 2025-01-07 famille 2001-12-22 BCE 2025 né None
   - Martina Piront ['Administrateur'] acte 2008-07-01 famille 2001-12-22 BCE 2025 né None
   - Alexander Piront ['Représentant permanent'] acte 2025-01-07 famille 2001-12-22 BCE 2024 né None
-  - ⚑ administrateur personne morale VVH PIRONT (0807280817, Société anonyme) — dirigée par Jennifer Montrez les titulaires des fonctions . Il y a 6 titulaires de fonctions légales pour cette entité. Masquez les titulaires de fonctions . Administrateur Otten, Pascal Otten, Alexander Piront, Andreas Piront, Florence Piront, Alexander Piront [même famille]
+  - ⚑ administrateur personne morale VVH PIRONT (0807280817, Société anonyme) — dirigée par Jennifer Otten, Pascal Otten, Alexander Piront, Andreas Piront, Florence Piront, Alexander Piront [même famille]
 
 ## 0452299122 D.G. DECOUPES — A VERIFIER (âge du dirigeant, actionnariat, âge des nouveaux administrateurs)
 - principal : Martin de Cartier de Marchienne ; 1re nomination 2026 (0 ans) ; relève : incertain : Philippe Vaxelaire nommé 2026-07-03 (âge inconnu) ; statuts 2001-06-07
@@ -476,8 +473,8 @@
 
 ## 0671456467 TAROS — SURVEILLER
 - principal : Anthony Tanghe ; 1re nomination 2020 (6 ans) ; relève : oui : Olivier Tanghe (même nom, 2025-07-07) ; statuts 2020-10-08
-- contrôle : holding patrimonial  ; actes OCR 5 (plus ancien 2018-08-03, plus anciens sans PDF : False)
-  - Olivier Tanghe ['Représentant permanent'] acte 2025-07-07 famille 2020-10-05 BCE 2025 né None
+- contrôle : holding patrimonial  ; actes OCR 6 (plus ancien 2017-02-15, plus anciens sans PDF : False)
+  - Olivier Tanghe ['Représentant permanent'] acte 2025-07-07 famille 2020-10-05 BCE 2025 né 1960
   - Anthony Tanghe ['Représentant permanent'] acte 2020-10-05 famille 2020-10-05 BCE 2020 né None
   - ⚑ administrateur personne morale PAOLI (0450436623, Société à responsabilité limitée) — dirigée par Patricia Dejans, Olivier Tanghe, Olivier Tanghe [même famille]
   - ⚑ administrateur personne morale ATACO (0750765449, Société à responsabilité limitée) — dirigée par Anthony Tanghe [même famille]
@@ -521,17 +518,17 @@
   - Grégory Rosen ['Administrateur'] acte 2008-10-07 famille 1999-02-02 BCE 2025 né None
   - ⚑ tous les dirigeants portent le même nom (indice, pas preuve de détention)
 
-## 0412586926 Outillage de Précision Ateliers Fernand Vanwers — A VERIFIER (âge du dirigeant, âge des nouveaux administrateurs)
-- principal : Geoffrey Bouillon ; 1re nomination 2003 (23 ans) ; relève : incertain : Julie Jodogne nommé 2023-08-07 (âge inconnu) ; statuts 2023-08-07
+## 0412586926 Outillage de Précision Ateliers Fernand Vanwers — A VERIFIER (âge des nouveaux administrateurs)
+- principal : Geoffrey Bouillon (né 1980) ; 1re nomination 2003 (23 ans) ; relève : incertain : Julie Jodogne nommé 2023-08-07 (âge inconnu) ; statuts 2023-08-07
 - contrôle : holding patrimonial  ; actes OCR 11 (plus ancien 2001-09-22, plus anciens sans PDF : True)
-  - Julie Jodogne ['Représentant permanent suppléant'] acte 2023-08-07 famille 2023-08-07 BCE 2023 né None
-  - Geoffrey Bouillon ['Représentant permanent'] acte 2003-03-26 famille 2002-03-05 BCE 2023 né None
+  - Julie Jodogne ['Représentant permanent suppléant'] acte 2023-08-07 famille 2023-08-07 BCE 2023 né 1981
+  - Geoffrey Bouillon ['Représentant permanent'] acte 2003-03-26 famille 2002-03-05 BCE 2023 né 1980
   - ⚑ administrateur personne morale GRB (0803428729, Société à responsabilité limitée) — dirigée par Geoffrey Bouillon [même famille]
 
-## 0892659227 mecanic systems — A VERIFIER (actionnariat, âge des nouveaux administrateurs)
-- principal : Jean Devos (né 1938) ; 1re nomination ≤2007 (≥19 ans) ; relève : incertain : Jean Montrez les titulaires des fonctions . Il y a 7 titulaires de fonctions légales pour cette entité. Masquez les titulaires de fonctions . Administrateur Debras nommé 2023 (âge inconnu) ; statuts 2007-10-16
+## 0892659227 mecanic systems — A VERIFIER (actionnariat)
+- principal : Jean Devos (né 1938) ; 1re nomination ≤2007 (≥19 ans) ; relève : non ; statuts 2007-10-16
 - contrôle : inconnu  ; actes OCR 6 (plus ancien 2007-10-16, plus anciens sans PDF : False)
-  - Jean Montrez les titulaires des fonctions . Il y a 7 titulaires de fonctions légales pour cette entité. Masquez les titulaires de fonctions . Administrateur Debras ['Il y a 7 titulaires de fonctions légales pour cette entité.'] acte None famille None BCE 2023 né None
+  - Jean Debras ['Administrateur'] acte 2007-10-16 famille 2007-10-16 BCE 2023 né 1943
   - Alain Devos ['Administrateur', 'Administrateur délégué', 'Personne déléguée à la gestion journalière'] acte 2013-01-07 famille 2007-10-16 BCE 2023 né 1968
   - Jean Devos ['Administrateur', 'Administrateur délégué', 'Personne déléguée à la gestion journalière'] acte 2007-10-16 famille 2007-10-16 BCE 2023 né 1938
 
@@ -558,13 +555,12 @@
   - Jean-Philippe Thomas ['Représentant permanent'] acte 2002-08-02 famille 2002-08-02 BCE 2023 né None
   - ⚑ administrateur personne morale Calycé (0780933241, Société à responsabilité limitée) — dirigée par Jean-Philippe Thomas
 
-## 0472965466 MAINTENANCE, MECANIQUE ET SERVICES INDUSTRIELS — A VERIFIER (âge du dirigeant, actionnariat, âge des nouveaux administrateurs)
-- principal : Claudine (1) Raggai ; 1re nomination 2004 (22 ans) ; relève : incertain : Romano Berti nommé 2023-11-27 (âge inconnu) ; statuts 2023-11-27
+## 0472965466 MAINTENANCE, MECANIQUE ET SERVICES INDUSTRIELS — SURVEILLER
+- principal : Claudine Raggai ; 1re nomination ≤2000 (≥26 ans) ; relève : oui : Romano Berti (même nom, 2023-11-27) ; statuts 2023-11-27
 - contrôle : inconnu  ; actes OCR 6 (plus ancien 2000-10-17, plus anciens sans PDF : False)
   - Loanna Berti ['Administrateur'] acte 2000-10-17 famille 2000-10-17 BCE 2023 né None
   - Romano Berti ['Administrateur'] acte 2023-11-27 famille 2000-10-17 BCE 2023 né None
-  - Claudine Raggai ['Administrateur'] acte 2000-10-17 famille 2000-10-17 BCE 2023 né None
-  - Claudine (1) Raggai ['Gérant'] acte None famille None BCE 2004 né None
+  - Claudine Raggai ['Administrateur', 'Gérant'] acte 2000-10-17 famille 2000-10-17 BCE 2004 né None
 
 ## 0664681612 Mahieu Sablage Peinture — A VERIFIER (âge du dirigeant)
 - principal : Ghislain Mahieu ; 1re nomination ≤2016 (≥10 ans) ; relève : non ; statuts 2020-07-13
@@ -572,10 +568,10 @@
   - Ghislain Mahieu ['Administrateur'] acte 2016-10-19 famille 2016-10-19 BCE 2020 né None
   - ⚑ tous les dirigeants portent le même nom (indice, pas preuve de détention)
 
-## 0669597235 POMMEE — A VERIFIER (âge du dirigeant, ancienneté 9 ans hors 10-25)
-- principal : Gregory (2) Stöcklin ; 1re nomination 2017 (9 ans) ; relève : non ; statuts 2022-12-15
+## 0669597235 POMMEE — A VERIFIER (ancienneté 9 ans hors 10-25)
+- principal : Gregory Stöcklin (né 1980) ; 1re nomination 2017 (9 ans) ; relève : non ; statuts 2022-12-15
 - contrôle : personne physique  ; actes OCR 3 (plus ancien 2017-01-27, plus anciens sans PDF : False)
-  - Gregory (2) Stöcklin ['Gérant'] acte None famille None BCE 2017 né None
+  - Gregory Stöcklin ['Gérant'] acte 2017-01-27 famille 2017-01-27 BCE 2017 né 1980
   - ⚑ tous les dirigeants portent le même nom (indice, pas preuve de détention)
 
 ## 0415500983 Menuiserie CORNET — A VERIFIER
@@ -649,14 +645,13 @@
   - Michaël Godfroid ['Administrateur'] acte 2006-09-04 famille 2006-09-04 BCE 2023 né 1979
   - ⚑ tous les dirigeants portent le même nom (indice, pas preuve de détention)
 
-## 0447921155 BIO - PROTECT — ECARTER
+## 0447921155 BIO - PROTECT — A VERIFIER (âge du dirigeant, âge des nouveaux administrateurs, ancienneté 7 ans hors 10-25)
 - principal : Sophie D'Hondt ; 1re nomination 2019 (7 ans) ; relève : incertain : Laurent de Spirlet nommé 2024-04-10 (âge inconnu) ; statuts 2006-03-23
-- contrôle : invest public  ; actes OCR 16 (plus ancien 1997-10-10, plus anciens sans PDF : True)
+- contrôle : holding patrimonial  ; actes OCR 16 (plus ancien 1997-10-10, plus anciens sans PDF : True)
   - Sophie D'Hondt ['Administrateur'] acte 2019-09-03 famille 2019-09-03 BCE 2023 né None
-  - Laurent de Spirlet ['Administrateur'] acte 2024-04-10 famille 1997-10-10 BCE 2023 né None
+  - Laurent de Spirlet ['Administrateur'] acte 2024-04-10 famille 1997-10-10 BCE 2023 né 1961
   - Laura de Spirlet ['Représentant permanent'] acte 2020-09-04 famille 1997-10-10 BCE 2023 né None
   - ⚑ administrateur personne morale BIO PRO Holding (0727590565, Société à responsabilité limitée) — dirigée par Sophie D'Hondt, Laura de Spirlet [même famille]
-  - ⚑ mention SPI
 
 ## 0463719782 RENAULD - COLLARD ET FILS — A VERIFIER (âge du dirigeant)
 - principal : Gauthier Renauld ; 1re nomination 2003 (23 ans) ; relève : non ; statuts 2002-01-22
@@ -692,9 +687,9 @@
   - ⚑ tous les dirigeants portent le même nom (indice, pas preuve de détention)
 
 ## 0201400110 Association Intercommunale des Eaux du Condroz — ECARTER
-- principal : Olivier Monfort ; 1re nomination 2019 (7 ans) ; relève : incertain : Ruddy Montrez les titulaires des fonctions . Il y a 12 titulaires de fonctions légales pour cette entité. Masquez les titulaires de fonctions . Administrateur Borsu nommé 2025 (âge inconnu) ; statuts 2025-05-30
+- principal : Olivier Monfort ; 1re nomination 2019 (7 ans) ; relève : incertain : Ruddy Borsu nommé 2026-05-12 (âge inconnu) ; statuts 2025-05-30
 - contrôle : invest public  ; actes OCR 16 (plus ancien 1998-04-22, plus anciens sans PDF : True)
-  - Ruddy Montrez les titulaires des fonctions . Il y a 12 titulaires de fonctions légales pour cette entité. Masquez les titulaires de fonctions . Administrateur Borsu ['Il y a 12 titulaires de fonctions légales pour cette entité.'] acte None famille None BCE 2025 né None
+  - Ruddy Borsu ['Administrateur'] acte 2026-05-12 famille 2026-05-12 BCE 2025 né None
   - Alexandre Borsus ['Administrateur'] acte 2026-05-12 famille 2004-10-21 BCE 2024 né None
   - Frédéric Deville ['Administrateur'] acte 2026-05-12 famille 2026-05-12 BCE 2025 né None
   - David Jadot-Monbaillieu ['Administrateur'] acte None famille None BCE 2024 né None
@@ -708,18 +703,18 @@
   - Olivier Monfort ['Personne déléguée à la gestion journalière'] acte 2026-05-12 famille 2026-05-12 BCE 2019 né None
   - ⚑ intercommunale / coopérative publique
 
-## 0446707071 ENTREPRISES PIRLOT JACQUES — A VERIFIER (âge du dirigeant, actionnariat, âge des nouveaux administrateurs)
-- principal : Jacques Pirlot ; 1re nomination ≤2001 (≥25 ans) ; relève : incertain : Jacques Montrez les titulaires des fonctions . Il y a 6 titulaires de fonctions légales pour cette entité. Masquez les titulaires de fonctions . Administrateur Pirlot nommé 2022 (âge inconnu) ; statuts 2022-12-16
-- contrôle : inconnu  ; actes OCR 12 (plus ancien 2000-02-18, plus anciens sans PDF : True)
-  - Jacques Montrez les titulaires des fonctions . Il y a 6 titulaires de fonctions légales pour cette entité. Masquez les titulaires de fonctions . Administrateur Pirlot ['Il y a 6 titulaires de fonctions légales pour cette entité.'] acte None famille None BCE 2022 né None
+## 0446707071 ENTREPRISES PIRLOT JACQUES — A VERIFIER (âge du dirigeant)
+- principal : Jacques Pirlot ; 1re nomination ≤2001 (≥25 ans) ; relève : non ; statuts 2022-12-16
+- contrôle : famille  ; actes OCR 12 (plus ancien 2000-02-18, plus anciens sans PDF : True)
+  - Jacques Pirlot ['Administrateur', 'Administrateur délégué'] acte 2001-08-29 famille 2001-08-29 BCE 2022 né None
   - Jean-Léon Pirlot ['Administrateur', 'Administrateur délégué'] acte 2006-05-04 famille 2001-08-29 BCE 2022 né None
   - Magali Pirlot ['Administrateur', 'Administrateur délégué'] acte 2005-11-10 famille 2001-08-29 BCE 2022 né None
-  - Jacques Pirlot ['Administrateur délégué'] acte 2001-08-29 famille 2001-08-29 BCE 2022 né None
+  - ⚑ tous les dirigeants portent le même nom (indice, pas preuve de détention)
 
 ## 0202554608 Association Intercommunale des Eaux de la Molignée — ECARTER
 - principal : Bernard Gaillard (né 1961) ; 1re nomination 2006 (20 ans) ; relève : oui : Marc Buchet nommé 2025-10-30 (âge inconnu); Adrien Jacqmain (né en 2001, 2025-10-30); Emilie Pindeville (né en 1994, 2025-10-30); Damien Roland (né en 1998, 2025-10-30) ; statuts 2024-08-02
 - contrôle : invest public  ; actes OCR 36 (plus ancien 1998-02-27, plus anciens sans PDF : True)
-  - Guy Montrez les titulaires des fonctions . Il y a 16 titulaires de fonctions légales pour cette entité. Masquez les titulaires de fonctions . Administrateur Benis ['Il y a 16 titulaires de fonctions légales pour cette entité.'] acte None famille None BCE 2001 né None
+  - Guy Benis ['Administrateur'] acte 2005-05-23 famille 2001-08-23 BCE 2001 né None
   - Etienne Binon ['Administrateur'] acte 2007-11-14 famille 2007-11-14 BCE 2007 né None
   - Marc Buchet ['Administrateur'] acte 2025-10-30 famille 2001-08-23 BCE 2025 né 1963
   - Bjorn Colot ['Administrateur'] acte 2025-10-30 famille 2025-10-30 BCE 2025 né 1980
@@ -777,11 +772,11 @@
   - Benoît Remacle ['Représentant permanent'] acte 2015-06-23 famille 1997-04-05 BCE 2022 né None
   - Karen De Boeck ['Représentant permanent'] acte 2026-07-29 famille 2026-07-29 BCE 2026 né None
   - Brice Barigand ['Représentant permanent'] acte 2025-09-25 famille 2025-09-25 BCE 2025 né None
-  - ⚑ administrateur personne morale TIBI (0201543234, Société coopérative de droit public) — dirigée par Françoise Montrez les titulaires des fonctions . Il y a 23 titulaires de fonctions légales pour cette entité. Masquez les titulaires de fonctions . Administrateur Daspremont, Laetitia Dehan, Anne-Laure Desmit, Denis Ducarme, Laurence Durieux, Mohamed Fekrioui, Perrine Fiévet, Dominique Grenier, Jean-Claude Grolaux, Julien Herman, Nicolas Kindermans, Thomas Lemaire, Marc Minneboo, Cathy Mont, Samuel Orru, Hadrien Polain, Boris Puccini, Mourad Sahli, Loïc Sartieaux, Amandine Sautier, Emmanuel Brison, Grégory Souvereyns, Philippe Teller
+  - ⚑ administrateur personne morale TIBI (0201543234, Société coopérative de droit public) — dirigée par Françoise Daspremont, Laetitia Dehan, Anne-Laure Desmit, Denis Ducarme, Laurence Durieux, Mohamed Fekrioui, Perrine Fiévet, Dominique Grenier, Jean-Claude Grolaux, Julien Herman, Nicolas Kindermans, Thomas Lemaire, Marc Minneboo, Cathy Mont, Samuel Orru, Hadrien Polain, Boris Puccini, Mourad Sahli, Loïc Sartieaux, Amandine Sautier, Emmanuel Brison, Grégory Souvereyns, Philippe Teller
   - ⚑ administrateur personne morale Entreprises Koeckelberg (0401544861, Société anonyme) — dirigée par Norbert Koeckelberg
   - ⚑ administrateur personne morale Veolia Environmental Services Belux (0403316397, Société anonyme) — dirigée par Franck Arlen, RICHARD KIRKMAN, Philippe Tychon
   - ⚑ administrateur personne morale Veolia Treatment & Recycling BE (0459711605, Société anonyme) — dirigée par Marc Das, Philippe Tychon, Jérôme Waterkeyn
-  - ⚑ administrateur personne morale HYGEA (0839927651, Société coopérative) — dirigée par Luciano Montrez les titulaires des fonctions . Il y a 38 titulaires de fonctions légales pour cette entité. Masquez les titulaires de fonctions . Administrateur D'Antonio, Jacques De Moortel, Caroline Decamps, Benoit Deghorain, Jean-Charles Deneufbourg, Jean-Paul Deplus, Carlo Di Antonio, Axelle Dinant, Daniel Dorsimont, Laurent Drousie, Xavier Dupont, François Duveiller, Jean-François Escarmelle, Jacques Fauconnier, Catherine Houdart, Jean-Pierre Jaumot, Damien Jenart, Aziza Laaidi, Jacques Lermusiaux, Stéphane Leroy, Vincent Libois, Isabelle Marcq, Florence Monier, Guy Nita, JACQUES PETRY, Gaëlle Pistone, Dimitri Planque, Bruno Pozzoni, Julie Roisin, Bruno Rossi, Annie Sabbatini, Guiseppe Scinta, Philippe Scutnaire, Manuella Senecaut, Pierre Tachenion, Jean-Pierre Viseur, David Volant, Jacques De Moortel
+  - ⚑ administrateur personne morale HYGEA (0839927651, Société coopérative) — dirigée par Luciano D'Antonio, Jacques De Moortel, Caroline Decamps, Benoit Deghorain, Jean-Charles Deneufbourg, Jean-Paul Deplus, Carlo Di Antonio, Axelle Dinant, Daniel Dorsimont, Laurent Drousie, Xavier Dupont, François Duveiller, Jean-François Escarmelle, Jacques Fauconnier, Catherine Houdart, Jean-Pierre Jaumot, Damien Jenart, Aziza Laaidi, Jacques Lermusiaux, Stéphane Leroy, Vincent Libois, Isabelle Marcq, Florence Monier, Guy Nita, JACQUES PETRY, Gaëlle Pistone, Dimitri Planque, Bruno Pozzoni, Julie Roisin, Bruno Rossi, Annie Sabbatini, Guiseppe Scinta, Philippe Scutnaire, Manuella Senecaut, Pierre Tachenion, Jean-Pierre Viseur, David Volant, Jacques De Moortel
 
 ## 0890299157 CENTRIBEL RECYCLAGE — GARDER
 - principal : Christian Belleflamme (né 1958) ; 1re nomination ≤2007 (≥19 ans) ; relève : non ; statuts 2021-01-06
@@ -803,14 +798,13 @@
   - Katleen Gruwier ['Administrateur'] acte 2023-12-19 famille 2023-12-19 BCE 2023 né None
   - Alain Louwyck ['Administrateur'] acte None famille None BCE 2023 né None
 
-## 0471539863 ENTREPRISES COLLEAUX — A VERIFIER (âge du dirigeant, actionnariat, âge des nouveaux administrateurs, ancienneté 26 ans hors 10-25)
-- principal : Frédéric Colleaux ; 1re nomination ≤2000 (≥26 ans) ; relève : incertain : Benjamin Montrez les titulaires des fonctions . Il y a 7 titulaires de fonctions légales pour cette entité. Masquez les titulaires de fonctions . Administrateur Colleaux nommé 2023 (âge inconnu) ; statuts 2023-12-07
-- contrôle : inconnu  ; actes OCR 12 (plus ancien 2000-04-06, plus anciens sans PDF : False)
-  - Benjamin Montrez les titulaires des fonctions . Il y a 7 titulaires de fonctions légales pour cette entité. Masquez les titulaires de fonctions . Administrateur Colleaux ['Il y a 7 titulaires de fonctions légales pour cette entité.'] acte None famille None BCE 2023 né None
+## 0471539863 ENTREPRISES COLLEAUX — A VERIFIER (âge du dirigeant, actionnariat, ancienneté 26 ans hors 10-25)
+- principal : Frédéric Colleaux ; 1re nomination ≤2000 (≥26 ans) ; relève : non ; statuts 2023-12-07
+- contrôle : inconnu  ; actes OCR 13 (plus ancien 2000-04-06, plus anciens sans PDF : False)
+  - Benjamin Colleaux ['Administrateur', 'Personne déléguée à la gestion journalière'] acte 2014-10-15 famille 2000-04-06 BCE 2023 né None
   - Frédéric Colleaux ['Administrateur', 'Personne déléguée à la gestion journalière'] acte 2000-04-06 famille 2000-04-06 BCE 2023 né None
   - Stéphanie Colleaux ['Administrateur', 'Personne déléguée à la gestion journalière'] acte 2015-10-28 famille 2000-04-06 BCE 2023 né None
   - Gauthier Henin ['Administrateur'] acte 2014-06-27 famille 2014-06-27 BCE 2023 né 1976
-  - Benjamin Colleaux ['Personne déléguée à la gestion journalière'] acte 2014-10-15 famille 2000-04-06 BCE 2023 né None
 
 ## 0463866569 BC-BETON — A VERIFIER (âge du dirigeant, ancienneté 1 ans hors 10-25)
 - principal : Benoit Carpentier de Give ; 1re nomination 2025 (1 ans) ; relève : non ; statuts 2025-05-21
@@ -826,12 +820,11 @@
   - Anne Druart ['Administrateur'] acte 2010-03-01 famille 2010-03-01 BCE 2024 né None
 
 ## 0863038593 TRANSTONE — SURVEILLER
-- principal : Olivier Scutenaire ; 1re nomination ≤2004 (≥22 ans) ; relève : oui : Dominique Montrez les titulaires des fonctions . Il y a 7 titulaires de fonctions légales pour cette entité. Masquez les titulaires de fonctions . Administrateur Lesage nommé 2023 (âge inconnu); Tom Scutenaire (même nom, 2026-02-05) ; statuts 2024-01-22
+- principal : Dominique Lesage (né 1970) ; 1re nomination ≤2004 (≥22 ans) ; relève : oui : Tom Scutenaire (même nom, 2026-02-05) ; statuts 2024-01-22
 - contrôle : inconnu  ; actes OCR 10 (plus ancien 2004-02-04, plus anciens sans PDF : False)
-  - Dominique Montrez les titulaires des fonctions . Il y a 7 titulaires de fonctions légales pour cette entité. Masquez les titulaires de fonctions . Administrateur Lesage ['Il y a 7 titulaires de fonctions légales pour cette entité.'] acte None famille None BCE 2023 né None
+  - Dominique Lesage ['Administrateur', 'Administrateur délégué', 'Personne déléguée à la gestion journalière'] acte 2004-02-04 famille 2004-02-04 BCE 2023 né 1970
   - Olivier Scutenaire ['Administrateur', 'Administrateur délégué', 'Personne déléguée à la gestion journalière'] acte 2004-02-04 famille 2004-02-04 BCE 2023 né None
   - Tom Scutenaire ['Administrateur'] acte 2026-02-05 famille 2004-02-04 BCE 2026 né 1997
-  - Dominique Lesage ['Administrateur délégué', 'Personne déléguée à la gestion journalière'] acte 2004-02-04 famille 2004-02-04 BCE 2023 né 1970
 
 ## 0791193960 RIGAssistance — SURVEILLER
 - principal : Alain Riga (né 1970) ; 1re nomination 2022 (4 ans) ; relève : oui : Benjamin Riga (même nom, 2026-05-06); Naomi Riga (même nom, 2022-09-23) ; statuts 2022-09-23
@@ -847,8 +840,8 @@
   - Pierre Joly ['Représentant permanent'] acte 2016-09-21 famille 2016-09-21 BCE 2021 né None
   - Hervé Frère ['Représentant permanent'] acte 2021-10-12 famille 2021-10-12 BCE 2021 né None
   - Pascal Delhez ['Représentant permanent'] acte 2021-10-12 famille 2021-10-12 BCE 2021 né None
-  - Bertrand Tallieu ['Représentant permanent'] acte 2016-09-21 famille 2016-09-21 BCE 2021 né None
-  - Olivier Fabry ['Représentant permanent'] acte 2016-09-21 famille 2016-09-21 BCE 2021 né None
+  - Bertrand Tallieu ['Représentant permanent'] acte 2016-09-21 famille 2016-09-21 BCE 2021 né 1976
+  - Olivier Fabry ['Représentant permanent'] acte 2016-09-21 famille 2016-09-21 BCE 2021 né 1974
   - ⚑ administrateur personne morale JOLY SA (0464849536, Société anonyme) — dirigée par Pierre Joly, Pascal Delhez, Bertrand Tallieu, Olivier Fabry, Pierre Joly [même famille]
   - ⚑ administrateur personne morale C&M FRERE CONSTRUCT (0770626594, Société à responsabilité limitée) — dirigée par Hervé Frère
   - ⚑ administrateur personne morale DelGest (0771766048, Société à responsabilité limitée) — dirigée par Pascal Delhez, Marie-Pierre Liègeois
@@ -863,10 +856,10 @@
   - ⚑ tous les dirigeants portent le même nom (indice, pas preuve de détention)
 
 ## 0808488367 TANGUY CALUWAERTS — A VERIFIER (âge du dirigeant, actionnariat)
-- principal : Corinne (1) Detiège ; 1re nomination 2008 (18 ans) ; relève : non ; statuts 2024-03-12
+- principal : Corinne Detiège ; 1re nomination ≤2008 (≥18 ans) ; relève : non ; statuts 2024-03-12
 - contrôle : inconnu  ; actes OCR 3 (plus ancien 2008-12-30, plus anciens sans PDF : False)
   - Tanguy Caluwaerts ['Administrateur'] acte 2008-12-30 famille 2008-12-30 BCE 2023 né None
-  - Corinne (1) Detiège ['Gérant'] acte None famille None BCE 2008 né None
+  - Corinne Detiège ['Gérant'] acte 2008-12-30 famille 2008-12-30 BCE 2008 né None
 
 ## 0845832377 TD Pierre Gilloteaux — A VERIFIER (âge du dirigeant)
 - principal : Pierre Gilloteaux ; 1re nomination ≤2012 (≥14 ans) ; relève : non ; statuts 2024-01-02
@@ -880,13 +873,12 @@
   - Ibrahim Ünlüsoy ['Administrateur'] acte 2016-10-13 famille 2016-06-30 BCE 2023 né None
   - ⚑ tous les dirigeants portent le même nom (indice, pas preuve de détention)
 
-## 0467064995 TERRAPLANT — A VERIFIER (âge du dirigeant, actionnariat, ancienneté 27 ans hors 10-25)
-- principal : Hubert (1) Voss ; 1re nomination 1999 (27 ans) ; relève : non ; statuts 2013-03-20
-- contrôle : inconnu  ; actes OCR 4 (plus ancien 1999-10-23, plus anciens sans PDF : False)
-  - Hubert Voss ['Administrateur'] acte 1999-10-23 famille 1999-10-23 BCE 2023 né None
-  - Michaël Voss ['Administrateur'] acte 1999-10-23 famille 1999-10-23 BCE 2023 né None
-  - Hubert (1) Voss ['Gérant'] acte None famille None BCE 1999 né None
-  - Michaël (1) Voss ['Gérant'] acte None famille None BCE 1999 né None
+## 0467064995 TERRAPLANT — A VERIFIER (âge du dirigeant, ancienneté 27 ans hors 10-25)
+- principal : Hubert Voss ; 1re nomination ≤1999 (≥27 ans) ; relève : non ; statuts 2013-03-20
+- contrôle : famille  ; actes OCR 4 (plus ancien 1999-10-23, plus anciens sans PDF : False)
+  - Hubert Voss ['Administrateur', 'Gérant'] acte 1999-10-23 famille 1999-10-23 BCE 1999 né None
+  - Michaël Voss ['Administrateur', 'Gérant'] acte 1999-10-23 famille 1999-10-23 BCE 1999 né None
+  - ⚑ tous les dirigeants portent le même nom (indice, pas preuve de détention)
 
 ## 0413070441 DECUBEL — A VERIFIER (âge des nouveaux administrateurs, ancienneté 5 ans hors 10-25)
 - principal : Kevin Dutrieux (né 1986) ; 1re nomination ≤2021 (≥5 ans) ; relève : incertain : Alexandre Plissart nommé 2024-05-22 (âge inconnu) ; statuts 2024-05-22
@@ -903,11 +895,10 @@
   - Catherine Vincent ['Administrateur'] acte 2015-03-05 famille 2015-03-05 BCE 2020 né None
 
 ## 0454257631 FEYEN  S.A. — A VERIFIER (âge du dirigeant, actionnariat, âge des nouveaux administrateurs, ancienneté 26 ans hors 10-25)
-- principal : Anita Feyen ; 1re nomination ≤2000 (≥26 ans) ; relève : incertain : Céline Montrez les titulaires des fonctions . Il y a 6 titulaires de fonctions légales pour cette entité. Masquez les titulaires de fonctions . Administrateur Mertens nommé 2019 (âge inconnu) ; statuts 2023-05-15
+- principal : Anita Feyen ; 1re nomination ≤2000 (≥26 ans) ; relève : incertain : Céline Mertens nommé 2019-03-25 (âge inconnu) ; statuts 2023-05-15
 - contrôle : inconnu  ; actes OCR 12 (plus ancien 1999-04-16, plus anciens sans PDF : True)
-  - Céline Montrez les titulaires des fonctions . Il y a 6 titulaires de fonctions légales pour cette entité. Masquez les titulaires de fonctions . Administrateur Mertens ['Il y a 6 titulaires de fonctions légales pour cette entité.'] acte None famille None BCE 2019 né None
+  - Céline Mertens ['Administrateur', 'Représentant permanent'] acte 2019-03-25 famille 1999-04-16 BCE 2019 né None
   - Stéphanie Mertens ['Administrateur', 'Représentant permanent'] acte 2018-07-30 famille 1999-04-16 BCE 2018 né None
-  - Céline Mertens ['Représentant permanent'] acte 2019-03-25 famille 1999-04-16 BCE 2019 né None
   - Anita Feyen ['Personne déléguée à la gestion journalière'] acte 2000-09-22 famille 1999-04-16 BCE 2000 né None
   - ⚑ administrateur personne morale 0716767246 (0716767246, ?) — dirigée par ?
 
@@ -940,14 +931,14 @@
   - Renaud Wilkin ['Administrateur'] acte 2015-10-26 famille 2015-10-26 BCE 2021 né None
   - Denis Robin ['Personne déléguée à la gestion journalière'] acte 2016-10-25 famille 2016-10-25 BCE 2016 né None
 
-## 0556654591 MULTITRA LOGISTICS — A VERIFIER (âge du dirigeant, âge des nouveaux administrateurs)
-- principal : Daniel Plunus ; 1re nomination ≤2014 (≥12 ans) ; relève : incertain : Pascal Delhalle nommé 2025-01-08 (âge inconnu) ; statuts 2021-12-31
+## 0556654591 MULTITRA LOGISTICS — A VERIFIER (âge des nouveaux administrateurs)
+- principal : Daniel Plunus (né 1965) ; 1re nomination ≤2014 (≥12 ans) ; relève : incertain : Pascal Delhalle nommé 2025-01-08 (âge inconnu) ; statuts 2021-12-31
 - contrôle : holding patrimonial  ; actes OCR 6 (plus ancien 2014-07-28, plus anciens sans PDF : False)
-  - Pascal Delhalle ['Représentant permanent'] acte 2025-01-08 famille 2025-01-08 BCE 2024 né None
-  - Daniel Plunus ['Représentant permanent'] acte 2014-07-28 famille 2014-07-28 BCE 2024 né None
+  - Pascal Delhalle ['Représentant permanent'] acte 2025-01-08 famille 2025-01-08 BCE 2024 né 1969
+  - Daniel Plunus ['Représentant permanent'] acte 2014-07-28 famille 2014-07-28 BCE 2024 né 1965
   - Fabrice Lemmens ['Représentant permanent'] acte 2014-07-28 famille 2014-07-28 BCE 2024 né None
   - Frédéric Van Doosselaere ['Représentant permanent'] acte 2025-01-08 famille 2025-01-08 BCE 2024 né None
-  - ⚑ administrateur personne morale DELHALLE BUSINESS MANAGEMENT (0820439856, Société à responsabilité limitée) — dirigée par Pascal Delhalle, Pascal (1) Delhalle
+  - ⚑ administrateur personne morale DELHALLE BUSINESS MANAGEMENT (0820439856, Société à responsabilité limitée) — dirigée par Pascal Delhalle, Pascal Delhalle
   - ⚑ administrateur personne morale DALAMARO (1008522559, Société à responsabilité limitée) — dirigée par Daniel Plunus [même famille]
   - ⚑ administrateur personne morale LJMC (1015302463, Société à responsabilité limitée) — dirigée par Fabrice Lemmens
   - ⚑ administrateur personne morale MULTITRA HOLDING (1016938102, Société anonyme) — dirigée par Thomas Van der Linden, Frédéric Van Doosselaere, Pascal Delhalle, Daniel Plunus, Fabrice Lemmens [même famille]
@@ -961,13 +952,13 @@
   - Didier Michel ['Représentant permanent'] acte 2000-10-18 famille 2000-10-18 BCE 2023 né 1956
   - ⚑ administrateur personne morale MICHEL MANAGEMENT (0870611721, Société à responsabilité limitée) — dirigée par Didier Michel, Béatrice Vaeremans [même famille]
 
-## 0474025637 CASSART DEPANNAGE — A VERIFIER (âge du dirigeant, actionnariat)
-- principal : Etienne Cassart ; 1re nomination ≤2001 (≥25 ans) ; relève : non ; statuts 2001-02-20
-- contrôle : inconnu  ; actes OCR 6 (plus ancien 2001-02-20, plus anciens sans PDF : False)
-  - Carine Montrez les titulaires des fonctions . Il y a 6 titulaires de fonctions légales pour cette entité. Masquez les titulaires de fonctions . Administrateur Cassart ['Il y a 6 titulaires de fonctions légales pour cette entité.'] acte None famille None BCE 2010 né None
+## 0474025637 CASSART DEPANNAGE — A VERIFIER (âge du dirigeant)
+- principal : Carine Cassart ; 1re nomination ≤2001 (≥25 ans) ; relève : non ; statuts 2001-02-20
+- contrôle : famille  ; actes OCR 6 (plus ancien 2001-02-20, plus anciens sans PDF : False)
+  - Carine Cassart ['Administrateur', 'Administrateur délégué'] acte 2001-02-20 famille 2001-02-20 BCE 2010 né None
   - Etienne Cassart ['Administrateur', 'Administrateur délégué'] acte 2001-02-20 famille 2001-02-20 BCE 2010 né None
   - Nicolas Cassart ['Administrateur', 'Administrateur délégué'] acte 2017-08-16 famille 2001-02-20 BCE 2016 né None
-  - Carine Cassart ['Administrateur délégué'] acte 2001-02-20 famille 2001-02-20 BCE 2010 né None
+  - ⚑ tous les dirigeants portent le même nom (indice, pas preuve de détention)
 
 ## 0423132212 FIRST EUROFLAT HOTEL — A VERIFIER (âge du dirigeant, actionnariat, âge des nouveaux administrateurs)
 - principal : LEA COHEN LEVY ; 1re nomination 2015 (11 ans) ; relève : incertain : Leslie Benarroch Cohen nommé 2026-03-18 (âge inconnu) ; statuts 2004-06-28

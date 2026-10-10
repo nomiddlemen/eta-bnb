@@ -24,7 +24,7 @@ MONTHS = {m: i + 1 for i, m in enumerate(
 MONTHS.update({m: i + 1 for i, m in enumerate(
     "januari februari maart april mei juni juli augustus september oktober november december".split())})
 
-PUBLIC_INVEST = ["OSTBELGIENINVEST", "SRIW", "WALLONIE ENTREPRENDRE", "SOWALFIN", "SOGEPA", "NOSHAQ",
+PUBLIC_INVEST = ["OSTBELGIENINVEST", "BETEILIGUNGSGESELLSCHAFT OSTBELGIENS", "SRIW", "WALLONIE ENTREPRENDRE", "SOWALFIN", "SOGEPA", "NOSHAQ",
                  "MEUSINVEST", "SAMBRINVEST", "IMBC", "INVEST MONS BORINAGE", "SOCAMUT", "SOFINEX",
                  "FINANCE.BRUSSELS", "FINANCE&INVEST", "SRIB", "SFPI", "FPIM", "INVESTSUD", "NAMUR INVEST",
                  "INVEST DEVELOPPEMENT", "LUXEMBOURG DEVELOPPEMENT", "IDELUX", "SOFIPOLE", "W.ALTER",
@@ -56,7 +56,17 @@ def acts(bce, company=""):
     return out
 
 
+JUNK = re.compile(r"Montrez les titulaires.*?Masquez les titulaires de fonctions\s*\.?\s*(?:\w+(?: \w+)*?\s)?|\(\d+\)")
+
+
+def clean_kbo_name(q):
+    q = re.sub(r"^.*Masquez les titulaires de fonctions\s*\.\s*(Administrateur délégué|Administrateur|Gérant|Président|"
+               r"Représentant permanent|Personne déléguée à la gestion journalière)?\s*", "", q)
+    return re.sub(r"\s*\(\d+\)", "", q).strip()
+
+
 def person_from_kbo(q):
+    q = clean_kbo_name(q)
     if "," in q:
         last, first = [x.strip() for x in q.split(",", 1)]
         return {"nom": last, "prenom": first}
@@ -142,7 +152,22 @@ def analyse(row):
     lst = load(os.path.join(DATA, bce, "list.json"), {"items": []})
     A = acts(bce, row["nom"])
     srcs = []
-    funcs = kbo.get("fonctions", [])
+    funcs = []
+    for f in kbo.get("fonctions", []):
+        f = dict(f)
+        if f.get("role", "").startswith(("Il y a", "Montrez", "Masquez")):
+            # collapsed list on the KBO page: the real role and name are at the end of 'qui'
+            if f.get("qui", "").isdigit():
+                f["role"] = "Administrateur"
+                funcs.append(f)
+                continue
+            rest = re.sub(r"^.*Masquez les titulaires de fonctions\s*\.\s*", "", f.get("qui", ""))
+            m = re.match(r"((?:Administrateur|Gérant|Président|Représentant permanent|Personne déléguée|Délégué|"
+                         r"Membre|Liquidateur|Commissaire|Associé)[^,\d]*?)\s+(\d{10}|\S[^,]*,.*)$", rest)
+            if not m:
+                continue
+            f["role"], f["qui"] = m.group(1), m.group(2)
+        funcs.append(f)
     kbo_url = f"https://kbopub.economie.fgov.be/kbopub/zoeknummerform.html?nummer={bce}&actionLu=Rechercher"
 
     # current people: natural persons directly, or permanent representatives of legal persons
@@ -233,8 +258,9 @@ def analyse(row):
         (e["premier_acte"] and e["premier_acte"]["date"] >= "2018") or
         (not e["premier_acte"] and (e["kbo_min"] or 0) >= 2018))]
     releve, releve_why = "non", []
+    incumbents = {norm(e["nom"]) for e in people.values() if e not in newcomers}
     for e in newcomers:
-        same = main and norm(e["nom"]) == norm(main["nom"])
+        same = norm(e["nom"]) in incumbents
         young = e["naissance"] and TODAY.year - e["naissance"] < 45
         if same or young:
             releve = "oui"
@@ -251,7 +277,8 @@ def analyse(row):
 
     # control signals
     signals, ctrl, mere = [], "inconnu", ""
-    blob = norm(row["administrateurs_bnb"] + " " + " ".join(kbo.get("texte", [])[:200]))
+    bnb_names = {re.sub(r"\D", "", num).zfill(10): name.strip() for name, num in
+                 re.findall(r"([^|()]+?)\s*\((\d{4}\.?\d{3}\.?\d{3})\)", row["administrateurs_bnb"])}
     for c, info in corporate.items():
         ck = load(os.path.join(DATA, c, "kbo.json"), {})
         nm = ck.get("denomination", "") or c
@@ -262,7 +289,7 @@ def analyse(row):
                        f"dirigée par {', '.join(p['prenom'] + ' ' + p['nom'] for p in sub) or '?'}"
                        + (" [même famille]" if fam else ""))
         srcs.append(f"BCE {c} : https://kbopub.economie.fgov.be/kbopub/zoeknummerform.html?nummer={c}&actionLu=Rechercher")
-        N = norm(nm)
+        N = norm(nm + " " + bnb_names.get(c, ""))
         if any(norm(x) in N for x in PUBLIC_INVEST):
             ctrl = "invest public"
         elif any(norm(x) in N for x in INDUSTRIAL):
@@ -271,9 +298,11 @@ def analyse(row):
             ctrl = "fonds" if ctrl == "inconnu" else ctrl
         elif fam and ctrl == "inconnu":
             ctrl = "holding patrimonial"
-    for x in PUBLIC_INVEST:
-        if norm(x) in blob and ctrl in ("inconnu", "holding patrimonial", "famille"):
-            ctrl, _ = "invest public", signals.append(f"mention {x}")
+    for c in corporate:
+        ck = load(os.path.join(DATA, c, "kbo.json"), {})
+        if "étrangère" in ck.get("forme", "").lower():
+            signals.append(f"administrateur inscrit comme entité étrangère : {ck.get('denomination', c)} ({c})")
+            mere = mere or f"{ck.get('denomination', c)} (entité étrangère, pays à préciser)"
     foreign = re.findall(r"\b(DE|LU|NL|FR)\d{6,}\b", row["administrateurs_bnb"])
     if foreign:
         signals.append(f"administrateur étranger ({', '.join(foreign)})")
@@ -287,9 +316,15 @@ def analyse(row):
         ctrl = "famille" if len(people) > 1 else "personne physique"
         signals.append("tous les dirigeants portent le même nom (indice, pas preuve de détention)")
 
+    for f in funcs:
+        if "provisoire" in f.get("role", "").lower() or "tribunal" in f.get("role", "").lower():
+            signals.append(f"ALERTE : {f['role']} — {clean_kbo_name(f.get('qui', ''))} depuis {f.get('depuis')} "
+                           f"(gestion sous contrôle judiciaire, litige probable)")
     anc = TODAY.year - first_year if first_year else None
     age = TODAY.year - main["naissance"] if main and main["naissance"] else None
-    if ctrl in ("fonds", "invest public") or (ctrl == "groupe industriel" and foreign):
+    if any(x.startswith("ALERTE") for x in signals):
+        verdict = "A VERIFIER (administrateur provisoire désigné par le tribunal)"
+    elif ctrl in ("fonds", "invest public") or (ctrl == "groupe industriel" and foreign):
         verdict = "ECARTER"
     elif releve == "oui":
         verdict = "SURVEILLER"
