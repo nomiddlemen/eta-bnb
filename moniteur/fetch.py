@@ -183,7 +183,11 @@ def save(path, obj):
     os.replace(tmp, path)
 
 
-def collect(bce, with_ocr, pool, pending, langs="fra+nld"):
+def is_constitution(item):
+    return re.search(r"CONSTITUTION|OPRICHTING|GRÜNDUNG|NOUVELLE PERSONNE MORALE|NIEUWE RECHTSPERSOON", item["type"].upper())
+
+
+def collect(bce, with_ocr, pool, pending, langs="fra+nld", only_constitution=False):
     d = os.path.join(DATA, bce)
     lp, kp = os.path.join(d, "list.json"), os.path.join(d, "kbo.json")
     if not os.path.exists(lp):
@@ -194,13 +198,13 @@ def collect(bce, with_ocr, pool, pending, langs="fra+nld"):
         k = get_kbo(bce)
         if k is not None:
             save(kp, k)
-    if not with_ocr or not os.path.exists(lp):
+    if not (with_ocr or only_constitution) or not os.path.exists(lp):
         return
     lst = json.load(open(lp, encoding="utf-8"))
     for it in lst["items"]:
         if out_of_time():
             return
-        if not it["pdf"] or is_accounts(it):
+        if not it["pdf"] or is_accounts(it) or (only_constitution and not is_constitution(it)):
             continue
         tp = os.path.join(d, "ocr", f"{it['date']}_{it['ref']}.txt")
         if os.path.exists(tp):
@@ -254,7 +258,8 @@ def main():
         for bce in sorted(corporate):
             if out_of_time():
                 break
-            collect(bce.zfill(10), False, pool, pending)
+            # constitution deeds of directors' own companies give the founders' birth dates
+            collect(bce.zfill(10), False, pool, pending, only_constitution=True)
         for f in pending:
             f.result()
     n_ocr = sum(len(os.listdir(os.path.join(DATA, b, "ocr"))) for b in os.listdir(DATA)
