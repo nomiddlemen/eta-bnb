@@ -1,0 +1,46 @@
+{
+ "bce": "0650650264",
+ "total_annonce": 5,
+ "items": [
+  {
+   "nom": "1) LE NUMERO 1 SRL",
+   "date": "2026-05-04",
+   "ref": "0051801",
+   "type": "SIEGE SOCIAL - DEMISSIONS, NOMINATIONS",
+   "adresse": "AVENUE DE L'ARMISTICE 20 1420 BRAINE-L'ALLEUD",
+   "pdf": "https://www.ejustice.just.fgov.be/tsv_pdf/2026/05/04/26051801.pdf"
+  },
+  {
+   "nom": "2) LE NUMERO 1 SPRL",
+   "date": "2021-12-29",
+   "ref": "0379497",
+   "type": "STATUTS (TRADUCTION, COORDINATION, AUTRES MODIFICATIONS, ) - MODIFICATION FORME JURIDIQUE - DEMISSIONS, NOMINATIONS",
+   "adresse": "AVENUE DE L'ARMISTICE 20 1420 BRAINE-L'ALLEUD",
+   "pdf": "https://www.ejustice.just.fgov.be/tsv_pdf/2021/12/29/21379497.pdf"
+  },
+  {
+   "nom": "3) LE NUMERO 1 SPRL",
+   "date": "2018-12-28",
+   "ref": "0342909",
+   "type": "STATUTS (TRADUCTION, COORDINATION, AUTRES MODIFICATIONS, ) - DEMISSIONS, NOMINATIONS",
+   "adresse": "AVENUE DE L'ARMISTICE 20 1420 BRAINE-L'ALLEUD",
+   "pdf": "https://www.ejustice.just.fgov.be/tsv_pdf/2018/12/28/18342909.pdf"
+  },
+  {
+   "nom": "4) LE NUMERO 1 SPRL",
+   "date": "2016-12-15",
+   "ref": "0171737",
+   "type": "CAPITAL, ACTIONS - STATUTS (TRADUCTION, COORDINATION, AUTRES MODIFICATIONS, )",
+   "adresse": "AVENUE DE L'ARMISTICE 20 1420 BRAINE-L'ALLEUD",
+   "pdf": "https://www.ejustice.just.fgov.be/tsv_pdf/2016/12/15/16171737.pdf"
+  },
+  {
+   "nom": "5) LE NUMERO 1 SPRL",
+   "date": "2016-03-24",
+   "ref": "0306604",
+   "type": "RUBRIQUE CONSTITUTION (NOUVELLE PERSONNE MORALE, OUVERTURE SUCCURSALE, ETC...)",
+   "adresse": "AVENUE DE L'ARMISTICE 20 1420 BRAINE-L'ALLEUD",
+   "pdf": "https://www.ejustice.just.fgov.be/tsv_pdf/2016/03/24/16306604.pdf"
+  }
+ ]
+}

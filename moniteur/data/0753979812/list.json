@@ -1,0 +1,70 @@
+{
+ "bce": "0753979812",
+ "total_annonce": 8,
+ "items": [
+  {
+   "nom": "1) SALAISONS DES ARDENNES SA",
+   "date": "2026-08-21",
+   "ref": "0107372",
+   "type": "DEMISSIONS, NOMINATIONS",
+   "adresse": "RUE DE SAINT-HUBERT 18 6800 RECOGNE",
+   "pdf": "https://www.ejustice.just.fgov.be/tsv_pdf/2026/08/21/26107372.pdf"
+  },
+  {
+   "nom": "2) SALAISONS DES ARDENNES SA",
+   "date": "2024-12-18",
+   "ref": "0452347",
+   "type": "DIVERS - DEMISSIONS, NOMINATIONS",
+   "adresse": "RUE DE SAINT-HUBERT 18 6800 RECOGNE",
+   "pdf": "https://www.ejustice.just.fgov.be/tsv_pdf/2024/12/18/24452347.pdf"
+  },
+  {
+   "nom": "3) SALAISONS DES ARDENNES SA",
+   "date": "2024-09-13",
+   "ref": "0428362",
+   "type": "STATUTS (TRADUCTION, COORDINATION, AUTRES MODIFICATIONS, ) - CAPITAL, ACTIONS",
+   "adresse": "RUE DE SAINT-HUBERT 18 6800 RECOGNE",
+   "pdf": "https://www.ejustice.just.fgov.be/tsv_pdf/2024/09/13/24428362.pdf"
+  },
+  {
+   "nom": "4) SALAISONS DES ARDENNES SA",
+   "date": "2023-01-09",
+   "ref": "0004523",
+   "type": "DEMISSIONS, NOMINATIONS",
+   "adresse": "RUE DE SAINT-HUBERT 18 6800 RECOGNE",
+   "pdf": "https://www.ejustice.just.fgov.be/tsv_pdf/2023/01/09/23004523.pdf"
+  },
+  {
+   "nom": "5) SALAISONS DES ARDENNES SA",
+   "date": "2020-11-20",
+   "ref": "0356030",
+   "type": "SIEGE SOCIAL",
+   "adresse": "AVENUE ALBERT-ELISABETH 66, BTE 10 1200 WOLUWE-SAINT-LAMBERT",
+   "pdf": "https://www.ejustice.just.fgov.be/tsv_pdf/2020/11/20/20356030.pdf"
+  },
+  {
+   "nom": "6) SALAISONS DES ARDENNES SA",
+   "date": "2020-11-19",
+   "ref": "0136281",
+   "type": "CAPITAL, ACTIONS - STATUTS (TRADUCTION, COORDINATION, AUTRES MODIFICATIONS, )",
+   "adresse": "RUE DE SAINT-HUBERT 18 6800 RECOGNE",
+   "pdf": "https://www.ejustice.just.fgov.be/tsv_pdf/2020/11/19/20136281.pdf"
+  },
+  {
+   "nom": "7) SALAISONS DES ARDENNES SA",
+   "date": "2020-09-25",
+   "ref": "0111292",
+   "type": "CAPITAL, ACTIONS - DIVERS",
+   "adresse": "AVENUE ALBERT-ELISABETH 66, BTE 10 1200 WOLUWE-SAINT-LAMBERT",
+   "pdf": "https://www.ejustice.just.fgov.be/tsv_pdf/2020/09/25/20111292.pdf"
+  },
+  {
+   "nom": "8) SALAISONS DES ARDENNES SA",
+   "date": "2020-09-15",
+   "ref": "0342371",
+   "type": "RUBRIQUE CONSTITUTION (NOUVELLE PERSONNE MORALE, OUVERTURE SUCCURSALE, ETC...)",
+   "adresse": "AVENUE ALBERT-ELISABETH 66, BTE 10 1200 WOLUWE-SAINT-LAMBERT",
+   "pdf": "https://www.ejustice.just.fgov.be/tsv_pdf/2020/09/15/20342371.pdf"
+  }
+ ]
+}

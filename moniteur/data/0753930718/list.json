@@ -1,0 +1,22 @@
+{
+ "bce": "0753930718",
+ "total_annonce": 2,
+ "items": [
+  {
+   "nom": "1) BOULANGERIE LE TORDOIR SRL",
+   "date": "2024-04-24",
+   "ref": "0066184",
+   "type": "DEMISSIONS, NOMINATIONS",
+   "adresse": "AVENUE EMILE HERMAN 231 7170 FAYT-LEZ-MANAGE",
+   "pdf": "https://www.ejustice.just.fgov.be/tsv_pdf/2024/04/24/24066184.pdf"
+  },
+  {
+   "nom": "2) BOULANGERIE LE TORDOIR SRL",
+   "date": "2020-09-14",
+   "ref": "0342224",
+   "type": "RUBRIQUE CONSTITUTION (NOUVELLE PERSONNE MORALE, OUVERTURE SUCCURSALE, ETC...)",
+   "adresse": "AVENUE EMILE HERMAN 231 7170 FAYT-LEZ-MANAGE",
+   "pdf": "https://www.ejustice.just.fgov.be/tsv_pdf/2020/09/14/20342224.pdf"
+  }
+ ]
+}

@@ -1,0 +1,182 @@
+{
+ "bce": "0468205835",
+ "total_annonce": 22,
+ "items": [
+  {
+   "nom": "1) JF BAT SPRL",
+   "date": "2023-12-05",
+   "ref": "0445351",
+   "type": "MODIFICATION FORME JURIDIQUE - DEMISSIONS, NOMINATIONS",
+   "adresse": "RUE DE ROCHEFORT 202 5570 BEAURAING",
+   "pdf": "https://www.ejustice.just.fgov.be/tsv_pdf/2023/12/05/23445351.pdf"
+  },
+  {
+   "nom": "2) JF BAT SPRL",
+   "date": "2019-01-22",
+   "ref": "0303639",
+   "type": "CAPITAL, ACTIONS",
+   "adresse": "RUE DE ROCHEFORT 202 5570 BEAURAING",
+   "pdf": "https://www.ejustice.just.fgov.be/tsv_pdf/2019/01/22/19303639.pdf"
+  },
+  {
+   "nom": "3) CM-MULTISERV SPRL",
+   "date": "2018-06-29",
+   "ref": "0319481",
+   "type": "DENOMINATION - SIEGE SOCIAL - DEMISSIONS, NOMINATIONS - ASSEMBLEE GENERALE - ANNEE COMPTABLE",
+   "adresse": "RUE GRANDE 17 5575 VENCIMONT",
+   "pdf": "https://www.ejustice.just.fgov.be/tsv_pdf/2018/06/29/18319481.pdf"
+  },
+  {
+   "nom": "4) CM-MULTISERV SPRL",
+   "date": "2016-11-25",
+   "ref": "0395880",
+   "type": "ME. - COMPTES ANNUELS 30.06.2016, APP 02.11.2016, DPT 16.11.2016 16682-0166-014",
+   "adresse": "RUE GRANDE 17 5575 VENCIMONT",
+   "pdf": ""
+  },
+  {
+   "nom": "5) CM-MULTISERV SPRL",
+   "date": "2015-12-18",
+   "ref": "0399105",
+   "type": "ME. - COMPTES ANNUELS 30.06.2015, APP 28.10.2015, DPT 07.12.2015 15687-0152-011",
+   "adresse": "RUE GRANDE 17 5575 VENCIMONT",
+   "pdf": ""
+  },
+  {
+   "nom": "6) CM-MULTISERV SPRL",
+   "date": "2014-12-10",
+   "ref": "0397130",
+   "type": "ME. - COMPTES ANNUELS 30.06.2014, APP 28.11.2014, DPT 01.12.2014 14683-0349-011",
+   "adresse": "RUE GRANDE 17 5575 VENCIMONT",
+   "pdf": ""
+  },
+  {
+   "nom": "7) CM-MULTISERV SPRL",
+   "date": "2013-12-18",
+   "ref": "0397751",
+   "type": "ME. - COMPTES ANNUELS 30.06.2013, APP 27.11.2013, DPT 10.12.2013 13683-0190-011",
+   "adresse": "RUE GRANDE 17 5575 VENCIMONT",
+   "pdf": ""
+  },
+  {
+   "nom": "8) CM-MULTISERV SPRL",
+   "date": "2012-12-28",
+   "ref": "0394018",
+   "type": "ME. - COMPTES ANNUELS 30.06.2012, APP 28.11.2012, DPT 19.12.2012 12674-0248-011",
+   "adresse": "RUE GRANDE 17 5575 VENCIMONT",
+   "pdf": ""
+  },
+  {
+   "nom": "9) CM-MULTISERV SPRL",
+   "date": "2011-12-30",
+   "ref": "0377793",
+   "type": "ME. - COMPTES ANNUELS 30.06.2011, APP 23.11.2011, DPT 22.12.2011 11649-0368-011",
+   "adresse": "RUE GRANDE 17 5575 VENCIMONT",
+   "pdf": ""
+  },
+  {
+   "nom": "10) CM-MULTISERV SPRL",
+   "date": "2011-01-17",
+   "ref": "0006539",
+   "type": "ME. - COMPTES ANNUELS 30.06.2010, APP 26.11.2010, DPT 04.01.2011 11006-0001-011",
+   "adresse": "RUE GRANDE 17 5575 VENCIMONT",
+   "pdf": ""
+  },
+  {
+   "nom": "11) CM-MULTISERV SPRL",
+   "date": "2010-07-23",
+   "ref": "0109896",
+   "type": "DEMISSIONS, NOMINATIONS",
+   "adresse": "RUE GRANDE 17 5575 VENCIMONT",
+   "pdf": "https://www.ejustice.just.fgov.be/tsv_pdf/2010/07/23/10109896.pdf"
+  },
+  {
+   "nom": "12) CM-MULTISERV SPRL",
+   "date": "2010-01-25",
+   "ref": "0005722",
+   "type": "ME. - COMPTES ANNUELS 30.06.2009, APP 25.11.2009, DPT 08.01.2010 10013-0005-011",
+   "adresse": "RUE GRANDE 17 5575 VENCIMONT",
+   "pdf": ""
+  },
+  {
+   "nom": "13) CM-MULTISERV SPRL",
+   "date": "2009-01-22",
+   "ref": "0009770",
+   "type": "ME. - COMPTES ANNUELS 30.06.2008, APP 26.11.2008, DPT 16.01.2009 09014-0252-011",
+   "adresse": "RUE GRANDE 17 5575 VENCIMONT",
+   "pdf": ""
+  },
+  {
+   "nom": "14) CM-MULTISERV SPRL",
+   "date": "2008-01-28",
+   "ref": "0011678",
+   "type": "ME. - COMPTES ANNUELS 30.06.2007, APP 28.11.2007, DPT 22.01.2008 08021-0100-011",
+   "adresse": "RUE GRANDE 17 5575 VENCIMONT",
+   "pdf": ""
+  },
+  {
+   "nom": "15) CM-MULTISERV SPRL",
+   "date": "2007-01-09",
+   "ref": "0005416",
+   "type": "ME. - COMPTES ANNUELS 30.06.2006, APP 24.11.2006, DPT 28.12.2006 06940-3796-012",
+   "adresse": "RUE GRANDE 17 5575 VENCIMONT",
+   "pdf": ""
+  },
+  {
+   "nom": "16) CM-MULTISERV SPRL",
+   "date": "2006-01-27",
+   "ref": "0012571",
+   "type": "ME. - COMPTES ANNUELS 30.06.2005, APP 25.11.2005, DPT 24.01.2006 06026-2023-012",
+   "adresse": "RUE GRANDE.17 5575 VENCIMONT",
+   "pdf": ""
+  },
+  {
+   "nom": "17) CM-MULTISERV SPRL",
+   "date": "2004-12-27",
+   "ref": "0306801",
+   "type": "ME. - COMPTES ANNUELS 30.06.2004, APP 26.11.2004, DPT 21.12.2004 04867-2098-012",
+   "adresse": "RUE GRANDE.17 5575 VENCIMONT",
+   "pdf": ""
+  },
+  {
+   "nom": "18) CM-MULTISERV SPRL",
+   "date": "2003-12-29",
+   "ref": "0295943",
+   "type": "ME. - COMPTES ANNUELS 30.06.2003, APP 28.11.2003 03843-4945-012",
+   "adresse": "RUE GRANDE.17 5575 VENCIMONT",
+   "pdf": ""
+  },
+  {
+   "nom": "19) CM-MULTISERV SPRL",
+   "date": "2003-03-01",
+   "ref": "0029401",
+   "type": "ME. - COMPTES ANNUELS 30.06.2002, APP 27.11.2002 03058-1079-013",
+   "adresse": "RUE GRANDE.17 5575 VENCIMONT",
+   "pdf": ""
+  },
+  {
+   "nom": "20) CM-MULTISERV SPRL",
+   "date": "2003-01-16",
+   "ref": "0007179",
+   "type": "SIEGE SOCIAL",
+   "adresse": "RUE GRANDE.17 5575 VENCIMONT",
+   "pdf": "https://www.ejustice.just.fgov.be/tsv_pdf/2003/01/16/03007179.pdf"
+  },
+  {
+   "nom": "21) CM-MULTISERV SPRL",
+   "date": "2002-05-08",
+   "ref": "0048098",
+   "type": "ME. - COMPTES ANNUELS 30.06.2001, APP 28.11.2001 02114-0619-013",
+   "adresse": "RUE GRANDE.17 5575 VENCIMONT",
+   "pdf": ""
+  },
+  {
+   "nom": "22) CM-MULTISERV SPRL",
+   "date": "1999-12-22",
+   "ref": "069",
+   "type": "RUBRIQUE CONSTITUTION (NOUVELLE PERSONNE MORALE, OUVERTURE SUCCURSALE, ETC...)",
+   "adresse": "CHEMIN DES LOGES.14 5575 VENCIMONT",
+   "pdf": "https://www.ejustice.just.fgov.be/tsv_pdf/1999/12/22/1999-12-22_0069.pdf"
+  }
+ ]
+}
