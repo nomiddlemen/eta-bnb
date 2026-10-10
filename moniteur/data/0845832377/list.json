@@ -1,0 +1,78 @@
+{
+ "bce": "0845832377",
+ "total_annonce": 9,
+ "items": [
+  {
+   "nom": "1) TD PIERRE GILLOTEAUX SRL",
+   "date": "2024-01-02",
+   "ref": "0301804",
+   "type": "STATUTS (TRADUCTION, COORDINATION, AUTRES MODIFICATIONS, ) - MODIFICATION FORME JURIDIQUE - DIVERS - DEMISSIONS, NOMINATIONS",
+   "adresse": "RUE DU PETIT GRANIT 9 5580 ROCHEFORT",
+   "pdf": "https://www.ejustice.just.fgov.be/tsv_pdf/2024/01/02/24301804.pdf"
+  },
+  {
+   "nom": "2) TD PIERRE GILLOTEAUX SPRL",
+   "date": "2021-02-01",
+   "ref": "0013833",
+   "type": "SIEGE SOCIAL - MODIFICATION FORME JURIDIQUE",
+   "adresse": "ROUTE DE BASTOGNE 110 6900 MARCHE-EN-FAMENNE",
+   "pdf": "https://www.ejustice.just.fgov.be/tsv_pdf/2021/02/01/21013833.pdf"
+  },
+  {
+   "nom": "3) TD PIERRE GILLOTEAUX SPRL",
+   "date": "2016-11-09",
+   "ref": "0390134",
+   "type": "ME. - COMPTES ANNUELS 31.03.2016, APP 23.09.2016, DPT 03.11.2016 16673-0174-017",
+   "adresse": "ROUTE DE BASTOGNE 110 6900 MARCHE-EN-FAMENNE",
+   "pdf": ""
+  },
+  {
+   "nom": "4) TD PIERRE GILLOTEAUX SPRL",
+   "date": "2016-06-28",
+   "ref": "0088325",
+   "type": "SIEGE SOCIAL",
+   "adresse": "RUE DES SAVOYARDS 12 6900 MARCHE-EN-FAMENNE",
+   "pdf": "https://www.ejustice.just.fgov.be/tsv_pdf/2016/06/28/16088325.pdf"
+  },
+  {
+   "nom": "5) TD PIERRE GILLOTEAUX SPRL",
+   "date": "2015-11-03",
+   "ref": "0383107",
+   "type": "ME. - COMPTES ANNUELS 31.03.2015, APP 25.09.2015, DPT 30.10.2015 15659-0310-017",
+   "adresse": "RUE DES SAVOYARDS 12 6900 MARCHE-EN-FAMENNE",
+   "pdf": ""
+  },
+  {
+   "nom": "6) TD PIERRE GILLOTEAUX SPRL",
+   "date": "2014-11-04",
+   "ref": "0384416",
+   "type": "ME. - COMPTES ANNUELS 31.03.2014, APP 26.09.2014, DPT 31.10.2014 14661-0396-016",
+   "adresse": "RUE DES SAVOYARDS 12 6900 MARCHE-EN-FAMENNE",
+   "pdf": ""
+  },
+  {
+   "nom": "7) TD PIERRE GILLOTEAUX SPRL",
+   "date": "2014-02-17",
+   "ref": "0044183",
+   "type": "SIEGE SOCIAL",
+   "adresse": "ALLEE DES MOINEAUX 8 6900 ON",
+   "pdf": "https://www.ejustice.just.fgov.be/tsv_pdf/2014/02/17/14044183.pdf"
+  },
+  {
+   "nom": "8) TD PIERRE GILLOTEAUX SPRL",
+   "date": "2013-12-24",
+   "ref": "0401471",
+   "type": "ME. - COMPTES ANNUELS 31.03.2013, APP 27.09.2013, DPT 19.12.2013 13691-0480-014",
+   "adresse": "ALLEE DES MOINEAUX 8 6900 ON",
+   "pdf": ""
+  },
+  {
+   "nom": "9) TD PIERRE GILLOTEAUX SPRL",
+   "date": "2012-05-11",
+   "ref": "0302638",
+   "type": "RUBRIQUE CONSTITUTION (NOUVELLE PERSONNE MORALE, OUVERTURE SUCCURSALE, ETC...)",
+   "adresse": "ALLEE DES MOINEAUX 8 6900 ON",
+   "pdf": "https://www.ejustice.just.fgov.be/tsv_pdf/2012/05/11/12302638.pdf"
+  }
+ ]
+}

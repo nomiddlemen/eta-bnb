@@ -1,0 +1,374 @@
+{
+ "bce": "0419426812",
+ "total_annonce": 46,
+ "items": [
+  {
+   "nom": "1) ALUTEC SRL",
+   "date": "2026-07-27",
+   "ref": "0096638",
+   "type": "DEMISSIONS, NOMINATIONS",
+   "adresse": "RUE DES DIZEAUX 3 1360 PERWEZ",
+   "pdf": "https://www.ejustice.just.fgov.be/tsv_pdf/2026/07/27/26096638.pdf"
+  },
+  {
+   "nom": "2) ALUTEC SPRL",
+   "date": "2023-01-30",
+   "ref": "0309203",
+   "type": "MODIFICATION FORME JURIDIQUE - OBJET - DEMISSIONS, NOMINATIONS",
+   "adresse": "RUE DES DIZEAUX 3 1360 PERWEZ",
+   "pdf": "https://www.ejustice.just.fgov.be/tsv_pdf/2023/01/30/23309203.pdf"
+  },
+  {
+   "nom": "3) ALUTEC SPRL",
+   "date": "2019-09-13",
+   "ref": "0122300",
+   "type": "DEMISSIONS, NOMINATIONS",
+   "adresse": "RUE DES DIZEAUX 3 1360 PERWEZ",
+   "pdf": "https://www.ejustice.just.fgov.be/tsv_pdf/2019/09/13/19122300.pdf"
+  },
+  {
+   "nom": "4) ALUTEC SPRL",
+   "date": "2018-05-04",
+   "ref": "0072572",
+   "type": "SIEGE SOCIAL",
+   "adresse": "ZONIG INDUSTRIEL S/N 1360 PERWEZ",
+   "pdf": "https://www.ejustice.just.fgov.be/tsv_pdf/2018/05/04/18072572.pdf"
+  },
+  {
+   "nom": "5) ALUTEC SPRL",
+   "date": "2017-09-05",
+   "ref": "0127172",
+   "type": "DEMISSIONS, NOMINATIONS",
+   "adresse": "ZONIG INDUSTRIEL S/N 1360 PERWEZ",
+   "pdf": "https://www.ejustice.just.fgov.be/tsv_pdf/2017/09/05/17127172.pdf"
+  },
+  {
+   "nom": "6) ALUTEC SPRL",
+   "date": "2016-08-29",
+   "ref": "0268981",
+   "type": "ME. - COMPTES ANNUELS 31.12.2015, APP 30.06.2016, DPT 25.08.2016 16462-0353-017",
+   "adresse": "ZONIG INDUSTRIEL S/N 1360 PERWEZ",
+   "pdf": ""
+  },
+  {
+   "nom": "7) ALUTEC SPRL",
+   "date": "2015-07-09",
+   "ref": "0157433",
+   "type": "ME. - COMPTES ANNUELS 31.12.2014, APP 23.05.2015, DPT 08.07.2015 15272-0227-018",
+   "adresse": "ZONIG INDUSTRIEL S/N 1360 PERWEZ",
+   "pdf": ""
+  },
+  {
+   "nom": "8) ALUTEC SPRL",
+   "date": "2014-06-18",
+   "ref": "0101811",
+   "type": "ME. - COMPTES ANNUELS 31.12.2013, APP 14.06.2014, DPT 17.06.2014 14173-0491-018",
+   "adresse": "ZONIG INDUSTRIEL S/N 1360 PERWEZ",
+   "pdf": ""
+  },
+  {
+   "nom": "9) ALUTEC SPRL",
+   "date": "2013-08-27",
+   "ref": "0260236",
+   "type": "ME. - COMPTES ANNUELS 31.12.2012, APP 25.05.2013, DPT 25.08.2013 13448-0225-018",
+   "adresse": "ZONIG INDUSTRIEL S/N 1360 PERWEZ",
+   "pdf": ""
+  },
+  {
+   "nom": "10) ALUTEC SPRL",
+   "date": "2012-08-21",
+   "ref": "0240899",
+   "type": "ME. - COMPTES ANNUELS 31.12.2011, APP 26.05.2012, DPT 19.08.2012 12412-0292-017",
+   "adresse": "ZONIG INDUSTRIEL S/N 1360 PERWEZ",
+   "pdf": ""
+  },
+  {
+   "nom": "11) ALUTEC SPRL",
+   "date": "2011-06-24",
+   "ref": "0108546",
+   "type": "ME. - COMPTES ANNUELS 31.12.2010, APP 28.05.2011, DPT 23.06.2011 11185-0109-018",
+   "adresse": "ZONIG INDUSTRIEL S/N 1360 PERWEZ",
+   "pdf": ""
+  },
+  {
+   "nom": "12) ALUTEC SPRL",
+   "date": "2010-07-06",
+   "ref": "0142706",
+   "type": "ME. - COMPTES ANNUELS 31.12.2009, APP 22.05.2010, DPT 02.07.2010 10251-0187-017",
+   "adresse": "ZONIG INDUSTRIEL S/N 1360 PERWEZ",
+   "pdf": ""
+  },
+  {
+   "nom": "13) ALUTEC SPRL",
+   "date": "2009-07-14",
+   "ref": "0156086",
+   "type": "ME. - COMPTES ANNUELS 31.12.2008, APP 23.05.2009, DPT 13.07.2009 09390-0272-017",
+   "adresse": "ZONIG INDUSTRIEL S/N 1360 PERWEZ",
+   "pdf": ""
+  },
+  {
+   "nom": "14) ALUTEC SPRL",
+   "date": "2008-06-18",
+   "ref": "0090080",
+   "type": "ME. - COMPTES ANNUELS 31.12.2007, APP 24.05.2008, DPT 16.06.2008 08218-0035-017",
+   "adresse": "ZONIG INDUSTRIEL S/N 1360 PERWEZ",
+   "pdf": ""
+  },
+  {
+   "nom": "15) ALUTEC SPRL",
+   "date": "2007-08-16",
+   "ref": "0215995",
+   "type": "ME. - COMPTES ANNUELS 31.12.2006, APP 25.06.2007, DPT 13.08.2007 07551-0114-017",
+   "adresse": "ZONIG INDUSTRIEL S/N 1360 PERWEZ",
+   "pdf": ""
+  },
+  {
+   "nom": "16) ALUTEC SPRL",
+   "date": "2006-08-31",
+   "ref": "0136777",
+   "type": "SIEGE SOCIAL",
+   "adresse": "RUE DU WITLOOF.75 1130 HAEREN (BRUXELLES)",
+   "pdf": "https://www.ejustice.just.fgov.be/tsv_pdf/2006/08/31/06136777.pdf"
+  },
+  {
+   "nom": "17) ALUTEC SPRL",
+   "date": "2006-07-11",
+   "ref": "0145839",
+   "type": "ME. - COMPTES ANNUELS 31.12.2005, APP 27.05.2006, DPT 07.07.2006 06430-1859-016",
+   "adresse": "RUE DU WITLOOF.75 1130 HAEREN (BRUXELLES)",
+   "pdf": ""
+  },
+  {
+   "nom": "18) ALUTEC SPRL",
+   "date": "2005-08-08",
+   "ref": "0216544",
+   "type": "ME. - COMPTES ANNUELS 31.12.2004, APP 28.05.2005, DPT 04.08.2005 05630-3580-015",
+   "adresse": "RUE DU WITLOOF.75 1130 HAEREN (BRUXELLES)",
+   "pdf": ""
+  },
+  {
+   "nom": "19) ALUTEC SPRL",
+   "date": "2004-06-15",
+   "ref": "0086847",
+   "type": "ME. - COMPTES ANNUELS 31.12.2003, APP 22.05.2004, DPT 14.06.2004 04240-1530-016",
+   "adresse": "RUE DU WITLOOF.75 1130 HAEREN (BRUXELLES)",
+   "pdf": ""
+  },
+  {
+   "nom": "20) ALUTEC SPRL",
+   "date": "2003-07-22",
+   "ref": "0152737",
+   "type": "ME. - COMPTES ANNUELS 31.12.2002, APP 24.05.2003 03437-3207-016",
+   "adresse": "RUE DU WITLOOF.75 1130 HAEREN (BRUXELLES)",
+   "pdf": ""
+  },
+  {
+   "nom": "21) ALUTEC SPRL",
+   "date": "2002-07-05",
+   "ref": "0113955",
+   "type": "ME. - COMPTES ANNUELS 31.12.2001, APP 25.05.2002 02325-4167-016",
+   "adresse": "RUE DU WITLOOF.75 1130 HAEREN (BRUXELLES)",
+   "pdf": ""
+  },
+  {
+   "nom": "22) ALUTEC SPRL",
+   "date": "2001-08-08",
+   "ref": "0171143",
+   "type": "ME. - COMPTES ANNUELS 31.12.2000, APP 26.05.2001 01490-1821-016",
+   "adresse": "RUE DU WITLOOF.75 1130 HAEREN (BRUXELLES)",
+   "pdf": ""
+  },
+  {
+   "nom": "23) ALUTEC SPRL",
+   "date": "2001-03-24",
+   "ref": "048",
+   "type": "DEMISSIONS, NOMINATIONS",
+   "adresse": "RUE DU WITLOOF.75 1130 HAEREN (BRUXELLES)",
+   "pdf": "https://www.ejustice.just.fgov.be/tsv_pdf/2001/03/24/2001-03-24_0048.pdf"
+  },
+  {
+   "nom": "24) ALUTEC SPRL",
+   "date": "2000-07-11",
+   "ref": "0108851",
+   "type": "ME. - COMPTES ANNUELS 31.12.1999, APP 27.05.2000 00320-0854-018",
+   "adresse": "RUE DU WITLOOF.75",
+   "pdf": ""
+  },
+  {
+   "nom": "25) ALUTEC SPRL",
+   "date": "1999-06-29",
+   "ref": "0080749",
+   "type": "ME. - COMPTES ANNUELS 31.12.1998, APP 22.05.1999 - 99202-1534-016",
+   "adresse": "RUE DU WITLOOF.75",
+   "pdf": ""
+  },
+  {
+   "nom": "26) ALUTEC SPRL",
+   "date": "",
+   "ref": "",
+   "type": "1998 / 070814",
+   "adresse": "RUE DU WITLOOF 75 1130 BRUXELLES",
+   "pdf": ""
+  },
+  {
+   "nom": "27) ALUTEC SPRL",
+   "date": "",
+   "ref": "",
+   "type": "1997 / 108533",
+   "adresse": "RUE DU WITLOOF 75 1130 BRUXELLES",
+   "pdf": ""
+  },
+  {
+   "nom": "28) ALUTEC SPRL",
+   "date": "",
+   "ref": "",
+   "type": "1996 / 077040",
+   "adresse": "RUE DU WITLOOF 75 1130 BRUXELLES",
+   "pdf": ""
+  },
+  {
+   "nom": "29) ALUTEC SPRL",
+   "date": "1995-11-21",
+   "ref": "011",
+   "type": "DEMISSIONS, NOMINATIONS",
+   "adresse": "BRUXELLES",
+   "pdf": ""
+  },
+  {
+   "nom": "30) ALUTEC SPRL",
+   "date": "1995-05-30",
+   "ref": "295",
+   "type": "SIEGE SOCIAL",
+   "adresse": "BRUXELLES",
+   "pdf": ""
+  },
+  {
+   "nom": "31) ALUTEC SPRL",
+   "date": "",
+   "ref": "",
+   "type": "1995 / 090384",
+   "adresse": "BRUXELLES",
+   "pdf": ""
+  },
+  {
+   "nom": "32) ALUTEC SPRL",
+   "date": "",
+   "ref": "",
+   "type": "1994 / 092065",
+   "adresse": "MOLENBEEK-SAINT-JEAN",
+   "pdf": ""
+  },
+  {
+   "nom": "33) ALUTEC SPRL",
+   "date": "",
+   "ref": "",
+   "type": "1993 / 068020",
+   "adresse": "MOLENBEEK-SAINT-JEAN",
+   "pdf": ""
+  },
+  {
+   "nom": "34) ALUTEC SPRL",
+   "date": "",
+   "ref": "",
+   "type": "1992 / 069018",
+   "adresse": "RUE DU WITLOOF 75 1130 MOLENBEEK-SAINT-JEAN",
+   "pdf": ""
+  },
+  {
+   "nom": "35) ALUTEC SPRL",
+   "date": "",
+   "ref": "",
+   "type": "1991 / 043043",
+   "adresse": "MOLENBEEK-SAINT-JEAN",
+   "pdf": ""
+  },
+  {
+   "nom": "36) ALUTEC SPRL",
+   "date": "1990-04-03",
+   "ref": "316",
+   "type": "DEMISSIONS, NOMINATIONS",
+   "adresse": "MOLENBEEK-SAINT-JEAN",
+   "pdf": ""
+  },
+  {
+   "nom": "37) ALUTEC SPRL",
+   "date": "",
+   "ref": "",
+   "type": "1990 / 105405",
+   "adresse": "MOLENBEEK-SAINT-JEAN",
+   "pdf": ""
+  },
+  {
+   "nom": "38) ALUTEC SPRL",
+   "date": "",
+   "ref": "",
+   "type": "1989 / 034691",
+   "adresse": "MOLENBEEK-SAINT-JEAN",
+   "pdf": ""
+  },
+  {
+   "nom": "39) ALUTEC SPRL",
+   "date": "",
+   "ref": "",
+   "type": "1988 / 045445",
+   "adresse": "MOLENBEEK-SAINT-JEAN",
+   "pdf": ""
+  },
+  {
+   "nom": "40) ALUTEC SPRL",
+   "date": "1987-07-28",
+   "ref": "001",
+   "type": "MODIFICATION FORME JURIDIQUE - CAPITAL, ACTIONS - ASSEMBLEE GENERALE - STATUTS (TRADUCTION, COORDINATION, AUTRES MODIFICATIONS, )",
+   "adresse": "MOLENBEEK-SAINT-JEAN",
+   "pdf": ""
+  },
+  {
+   "nom": "41) ALUTEC SPRL",
+   "date": "",
+   "ref": "",
+   "type": "1987 / 006048",
+   "adresse": "MOLENBEEK-SAINT-JEAN",
+   "pdf": ""
+  },
+  {
+   "nom": "42) ALUTEC SPRL",
+   "date": "",
+   "ref": "",
+   "type": "1987 / 074036",
+   "adresse": "MOLENBEEK-SAINT-JEAN",
+   "pdf": ""
+  },
+  {
+   "nom": "43) ALUTEC SPRL",
+   "date": "",
+   "ref": "",
+   "type": "1985 / 77223",
+   "adresse": "MOLENBEEK-SAINT-JEAN",
+   "pdf": ""
+  },
+  {
+   "nom": "44) ALUTEC SPRL",
+   "date": "",
+   "ref": "",
+   "type": "1984 / 79112",
+   "adresse": "MOLENBEEK-SAINT-JEAN",
+   "pdf": ""
+  },
+  {
+   "nom": "45) ALUTEC SPRL",
+   "date": "1983-01-01",
+   "ref": "2016-06",
+   "type": "SIEGE SOCIAL",
+   "adresse": "MOLENBEEK-SAINT-JEAN",
+   "pdf": ""
+  },
+  {
+   "nom": "46) ALUTEC SPRL",
+   "date": "",
+   "ref": "",
+   "type": "1983 / 60103",
+   "adresse": "MOLENBEEK-SAINT-JEAN",
+   "pdf": ""
+  }
+ ]
+}

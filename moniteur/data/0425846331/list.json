@@ -1,0 +1,302 @@
+{
+ "bce": "0425846331",
+ "total_annonce": 37,
+ "items": [
+  {
+   "nom": "1) MADAREST SRL",
+   "date": "2023-12-22",
+   "ref": "0473139",
+   "type": "DEMISSIONS, NOMINATIONS",
+   "adresse": "RUE JOSEPH WAUTERS 145 6150 ANDERLUES",
+   "pdf": "https://www.ejustice.just.fgov.be/tsv_pdf/2023/12/22/23473139.pdf"
+  },
+  {
+   "nom": "2) MADAREST SPRL",
+   "date": "2021-04-15",
+   "ref": "0324072",
+   "type": "MODIFICATION FORME JURIDIQUE - DEMISSIONS, NOMINATIONS",
+   "adresse": "RUE JOSEPH WAUTERS 145 6150 ANDERLUES",
+   "pdf": "https://www.ejustice.just.fgov.be/tsv_pdf/2021/04/15/21324072.pdf"
+  },
+  {
+   "nom": "3) MADAREST SPRL",
+   "date": "2017-03-20",
+   "ref": "0041334",
+   "type": "SIEGE SOCIAL",
+   "adresse": "CHEMIN DE FONTAINE 4 6150 ANDERLUES",
+   "pdf": "https://www.ejustice.just.fgov.be/tsv_pdf/2017/03/20/17041334.pdf"
+  },
+  {
+   "nom": "4) MADAREST SPRL",
+   "date": "2016-07-01",
+   "ref": "0134298",
+   "type": "ME. - COMPTES ANNUELS 31.12.2015, APP 24.06.2016, DPT 27.06.2016 16234-0433-015",
+   "adresse": "CHEMIN DE FONTAINE 4 6150 ANDERLUES",
+   "pdf": ""
+  },
+  {
+   "nom": "5) MADAREST SPRL",
+   "date": "2015-08-31",
+   "ref": "0279632",
+   "type": "ME. - COMPTES ANNUELS 31.12.2014, APP 26.06.2015, DPT 26.08.2015 15480-0380-015",
+   "adresse": "CHEMIN DE FONTAINE 4 6150 ANDERLUES",
+   "pdf": ""
+  },
+  {
+   "nom": "6) MADAREST SPRL",
+   "date": "2014-10-06",
+   "ref": "0365915",
+   "type": "ME. - COMPTES ANNUELS 31.12.2013, APP 27.06.2014, DPT 30.09.2014 14625-0391-014",
+   "adresse": "CHEMIN DE FONTAINE 4 6150 ANDERLUES",
+   "pdf": ""
+  },
+  {
+   "nom": "7) MADAREST SPRL",
+   "date": "2013-11-29",
+   "ref": "0387294",
+   "type": "ME. - COMPTES ANNUELS 31.12.2012, APP 28.06.2013, DPT 21.11.2013 13666-0301-014",
+   "adresse": "CHEMIN DE FONTAINE 4 6150 ANDERLUES",
+   "pdf": ""
+  },
+  {
+   "nom": "8) MADAREST SPRL",
+   "date": "2013-07-29",
+   "ref": "0197202",
+   "type": "ME. - COMPTES ANNUELS 31.12.2011, APP 30.06.2012, DPT 23.07.2013 13338-0325-011",
+   "adresse": "CHEMIN DE FONTAINE 4 6150 ANDERLUES",
+   "pdf": ""
+  },
+  {
+   "nom": "9) MADAREST SPRL",
+   "date": "2013-07-03",
+   "ref": "0101256",
+   "type": "SIEGE SOCIAL",
+   "adresse": "CHEMIN DE FONTAINE 6 6150 ANDERLUES",
+   "pdf": "https://www.ejustice.just.fgov.be/tsv_pdf/2013/07/03/13101256.pdf"
+  },
+  {
+   "nom": "10) MADAREST SPRL",
+   "date": "2012-10-17",
+   "ref": "0171280",
+   "type": "SIEGE SOCIAL - DEMISSIONS, NOMINATIONS",
+   "adresse": "RUE JULES DESTREE 147 6150 ANDERLUES",
+   "pdf": "https://www.ejustice.just.fgov.be/tsv_pdf/2012/10/17/12171280.pdf"
+  },
+  {
+   "nom": "11) MADAREST SPRL",
+   "date": "2012-01-05",
+   "ref": "0003199",
+   "type": "DEMISSIONS, NOMINATIONS",
+   "adresse": "RUE JULES DESTREE 147 6150 ANDERLUES",
+   "pdf": "https://www.ejustice.just.fgov.be/tsv_pdf/2012/01/05/12003199.pdf"
+  },
+  {
+   "nom": "12) MADAREST SPRL",
+   "date": "2011-10-03",
+   "ref": "0324931",
+   "type": "ME. - COMPTES ANNUELS 31.12.2010, APP 24.06.2011, DPT 30.09.2011 11543-0105-010",
+   "adresse": "RUE JULES DESTREE 147 6150 ANDERLUES",
+   "pdf": ""
+  },
+  {
+   "nom": "13) MADAREST SPRL",
+   "date": "2010-10-05",
+   "ref": "0321624",
+   "type": "ME. - COMPTES ANNUELS 31.12.2009, APP 24.06.2010, DPT 30.09.2010 10548-0070-011",
+   "adresse": "RUE JULES DESTREE 147 6150 ANDERLUES",
+   "pdf": ""
+  },
+  {
+   "nom": "14) MADAREST SPRL",
+   "date": "2009-09-09",
+   "ref": "0291600",
+   "type": "ME. - COMPTES ANNUELS 31.12.2008, APP 26.06.2009, DPT 28.08.2009 09599-0377-011",
+   "adresse": "RUE JULES DESTREE 147 6150 ANDERLUES",
+   "pdf": ""
+  },
+  {
+   "nom": "15) MADAREST SPRL",
+   "date": "2008-08-14",
+   "ref": "0219148",
+   "type": "ME. - COMPTES ANNUELS 31.12.2007, APP 27.06.2008, DPT 11.08.2008 08539-0300-011",
+   "adresse": "RUE JULES DESTREE 147 6150 ANDERLUES",
+   "pdf": ""
+  },
+  {
+   "nom": "16) MADAREST SPRL",
+   "date": "2007-10-01",
+   "ref": "0287018",
+   "type": "ME. - COMPTES ANNUELS 31.12.2006, APP 25.08.2007, DPT 24.09.2007 07726-0329-014",
+   "adresse": "RUE JULES DESTREE 147 6150 ANDERLUES",
+   "pdf": ""
+  },
+  {
+   "nom": "17) MADAREST SPRL",
+   "date": "2006-08-08",
+   "ref": "0209483",
+   "type": "ME. - COMPTES ANNUELS 31.12.2005, APP 30.06.2006, DPT 01.08.2006 06575-0048-015",
+   "adresse": "RUE JULES DESTREE.147 6150 ANDERLUES",
+   "pdf": ""
+  },
+  {
+   "nom": "18) MADAREST SPRL",
+   "date": "2005-10-20",
+   "ref": "0286342",
+   "type": "ME. - COMPTES ANNUELS 31.12.2004, APP 30.08.2005, DPT 03.10.2005 05758-0163-015",
+   "adresse": "RUE JULES DESTREE.147 6150 ANDERLUES",
+   "pdf": ""
+  },
+  {
+   "nom": "19) MADAREST SPRL",
+   "date": "2004-12-23",
+   "ref": "0302623",
+   "type": "ME. - COMPTES ANNUELS 31.12.2003, APP 18.08.2004, DPT 15.12.2004 04848-0267-015",
+   "adresse": "RUE JULES DESTREE.147 6150 ANDERLUES",
+   "pdf": ""
+  },
+  {
+   "nom": "20) MADAREST SPRL",
+   "date": "2003-10-10",
+   "ref": "0257653",
+   "type": "ME. - COMPTES ANNUELS 31.12.2002, APP 28.07.2003 03704-0095-015",
+   "adresse": "RUE JULES DESTREE.147 6150 ANDERLUES",
+   "pdf": ""
+  },
+  {
+   "nom": "21) MADAREST SPRL",
+   "date": "2002-12-24",
+   "ref": "0271968",
+   "type": "ME. - COMPTES ANNUELS 31.12.2001, APP 27.07.2002 02763-0186-012",
+   "adresse": "RUE JULES DESTREE.147 6150 ANDERLUES",
+   "pdf": ""
+  },
+  {
+   "nom": "22) MADAREST SPRL",
+   "date": "2001-09-08",
+   "ref": "0187534",
+   "type": "ME. - COMPTES ANNUELS 31.12.2000, APP 29.06.2001 01526-0081-012",
+   "adresse": "RUE JULES DESTREE.147 6150 ANDERLUES",
+   "pdf": ""
+  },
+  {
+   "nom": "23) MADAREST SPRL",
+   "date": "2000-09-09",
+   "ref": "0191683",
+   "type": "ME. - COMPTES ANNUELS 31.12.1999, APP 30.06.2000 00544-0074-012",
+   "adresse": "RUE JULES DESTREE.147 6150 ANDERLUES",
+   "pdf": ""
+  },
+  {
+   "nom": "24) MADAREST SPRL",
+   "date": "2000-06-20",
+   "ref": "0073324",
+   "type": "ME. - COMPTES ANNUELS 31.12.1998, APP 25.06.1999 00187-0226-013",
+   "adresse": "RUE JULES DESTREE.147 6150 ANDERLUES",
+   "pdf": ""
+  },
+  {
+   "nom": "25) MADAREST SPRL",
+   "date": "2000-06-20",
+   "ref": "0073325",
+   "type": "ME. - COMPTES ANNUELS 31.12.1996, APP 26.06.1997 00187-0227-015",
+   "adresse": "RUE JULES DESTREE.147 6150 ANDERLUES",
+   "pdf": ""
+  },
+  {
+   "nom": "26) MADAREST SPRL",
+   "date": "1999-08-12",
+   "ref": "0153480",
+   "type": "ME. - COMPTES ANNUELS 31.12.1997, APP 25.06.1998 - 99393-5311-015",
+   "adresse": "RUE JULES DESTREE.147 6150 ANDERLUES",
+   "pdf": ""
+  },
+  {
+   "nom": "27) MADAREST SPRL",
+   "date": "",
+   "ref": "",
+   "type": "1997 / 040376",
+   "adresse": "RUE JULES DESTREE 147 6150 ANDERLUES",
+   "pdf": ""
+  },
+  {
+   "nom": "28) MADAREST SPRL",
+   "date": "1995-11-11",
+   "ref": "354",
+   "type": "SIEGE SOCIAL",
+   "adresse": "ANDERLUES",
+   "pdf": ""
+  },
+  {
+   "nom": "29) MADAREST SPRL",
+   "date": "",
+   "ref": "",
+   "type": "1995 / 172899",
+   "adresse": "ANDERLUES",
+   "pdf": ""
+  },
+  {
+   "nom": "30) MADAREST SPRL",
+   "date": "",
+   "ref": "",
+   "type": "1995 / 172900",
+   "adresse": "ANDERLUES",
+   "pdf": ""
+  },
+  {
+   "nom": "31) MADAREST SPRL",
+   "date": "",
+   "ref": "",
+   "type": "1994 / 035712",
+   "adresse": "COURCELLES (TRAZEGNIES)",
+   "pdf": ""
+  },
+  {
+   "nom": "32) MADAREST SPRL",
+   "date": "",
+   "ref": "",
+   "type": "1992 / 139864",
+   "adresse": "RUE JULES DESTREE 147 6150 COURCELLES (TRAZEGNIES)",
+   "pdf": ""
+  },
+  {
+   "nom": "33) MADAREST SPRL",
+   "date": "1990-09-11",
+   "ref": "356",
+   "type": "MODIFICATION FORME JURIDIQUE - CAPITAL, ACTIONS - ASSEMBLEE GENERALE - STATUTS (TRADUCTION, COORDINATION, AUTRES MODIFICATIONS, )",
+   "adresse": "COURCELLES (TRAZEGNIES)",
+   "pdf": ""
+  },
+  {
+   "nom": "34) MADAREST SPRL",
+   "date": "",
+   "ref": "",
+   "type": "1987 / 079534",
+   "adresse": "COURCELLES (TRAZEGNIES)",
+   "pdf": ""
+  },
+  {
+   "nom": "35) MADAREST SPRL",
+   "date": "",
+   "ref": "",
+   "type": "1986 / 072914",
+   "adresse": "COURCELLES (TRAZEGNIES)",
+   "pdf": ""
+  },
+  {
+   "nom": "36) MADAREST SPRL",
+   "date": "1984-01-01",
+   "ref": "2107-03",
+   "type": "RUBRIQUE CONSTITUTION (NOUVELLE PERSONNE MORALE, OUVERTURE SUCCURSALE, ETC...)",
+   "adresse": "COURCELLES (TRAZEGNIES)",
+   "pdf": ""
+  },
+  {
+   "nom": "37) MADAREST SPRL",
+   "date": "1984-01-01",
+   "ref": "2107-04",
+   "type": "DIVERS",
+   "adresse": "COURCELLES (TRAZEGNIES)",
+   "pdf": ""
+  }
+ ]
+}

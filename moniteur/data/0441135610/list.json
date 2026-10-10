@@ -1,0 +1,342 @@
+{
+ "bce": "0441135610",
+ "total_annonce": 42,
+ "items": [
+  {
+   "nom": "1) ETABLISSEMENTS DE SIMONE SA",
+   "date": "2025-08-01",
+   "ref": "0098417",
+   "type": "DEMISSIONS, NOMINATIONS",
+   "adresse": "RUE DE FONTENELLE 18 6240 FARCIENNES",
+   "pdf": "https://www.ejustice.just.fgov.be/tsv_pdf/2025/08/01/25098417.pdf"
+  },
+  {
+   "nom": "2) ETABLISSEMENTS DE SIMONE SA",
+   "date": "2021-12-16",
+   "ref": "0146759",
+   "type": "DEMISSIONS, NOMINATIONS",
+   "adresse": "RUE DE FONTENELLE 18 6240 FARCIENNES",
+   "pdf": "https://www.ejustice.just.fgov.be/tsv_pdf/2021/12/16/21146759.pdf"
+  },
+  {
+   "nom": "3) ETABLISSEMENTS DE SIMONE SA",
+   "date": "2019-07-18",
+   "ref": "0097064",
+   "type": "DEMISSIONS, NOMINATIONS",
+   "adresse": "RUE DE FONTENELLE 18 6240 FARCIENNES",
+   "pdf": "https://www.ejustice.just.fgov.be/tsv_pdf/2019/07/18/19097064.pdf"
+  },
+  {
+   "nom": "4) ETABLISSEMENTS DE SIMONE SA",
+   "date": "2016-07-29",
+   "ref": "0107031",
+   "type": "DEMISSIONS, NOMINATIONS",
+   "adresse": "RUE DE FONTENELLE 18 6240 FARCIENNES",
+   "pdf": "https://www.ejustice.just.fgov.be/tsv_pdf/2016/07/29/16107031.pdf"
+  },
+  {
+   "nom": "5) ETABLISSEMENTS DE SIMONE SA",
+   "date": "2016-07-14",
+   "ref": "0171228",
+   "type": "ME. - COMPTES ANNUELS 31.12.2015, APP 14.06.2016, DPT 08.07.2016 16296-0394-016",
+   "adresse": "RUE DE FONTENELLE 18 6240 FARCIENNES",
+   "pdf": ""
+  },
+  {
+   "nom": "6) ETABLISSEMENTS DE SIMONE SA",
+   "date": "2015-07-29",
+   "ref": "0197981",
+   "type": "ME. - COMPTES ANNUELS 31.12.2014, APP 09.06.2015, DPT 24.07.2015 15345-0279-017",
+   "adresse": "RUE DE FONTENELLE 18 6240 FARCIENNES",
+   "pdf": ""
+  },
+  {
+   "nom": "7) ETABLISSEMENTS DE SIMONE SA",
+   "date": "2014-07-14",
+   "ref": "0164722",
+   "type": "ME. - COMPTES ANNUELS 31.12.2013, APP 10.06.2014, DPT 04.07.2014 14285-0359-016",
+   "adresse": "RUE DE FONTENELLE 18 6240 FARCIENNES",
+   "pdf": ""
+  },
+  {
+   "nom": "8) ETABLISSEMENTS DE SIMONE SA",
+   "date": "2013-07-17",
+   "ref": "0173584",
+   "type": "ME. - COMPTES ANNUELS 31.12.2012, APP 11.06.2013, DPT 12.07.2013 13300-0482-016",
+   "adresse": "RUE DE FONTENELLE 18 6240 FARCIENNES",
+   "pdf": ""
+  },
+  {
+   "nom": "9) ETABLISSEMENTS DE SIMONE SA",
+   "date": "2012-09-10",
+   "ref": "0323691",
+   "type": "ME. - COMPTES ANNUELS 31.12.2011, APP 12.06.2012, DPT 31.08.2012 12554-0251-016",
+   "adresse": "RUE DE FONTENELLE 18 6240 FARCIENNES",
+   "pdf": ""
+  },
+  {
+   "nom": "10) ETABLISSEMENTS DE SIMONE SA",
+   "date": "2011-08-24",
+   "ref": "0240409",
+   "type": "ME. - COMPTES ANNUELS 31.12.2010, APP 14.06.2011, DPT 18.08.2011 11412-0519-017",
+   "adresse": "RUE DE FONTENELLE 18 6240 FARCIENNES",
+   "pdf": ""
+  },
+  {
+   "nom": "11) ETABLISSEMENTS DE SIMONE SA",
+   "date": "2011-07-22",
+   "ref": "0112444",
+   "type": "DEMISSIONS, NOMINATIONS",
+   "adresse": "RUE DE FONTENELLE 18 6240 FARCIENNES",
+   "pdf": "https://www.ejustice.just.fgov.be/tsv_pdf/2011/07/22/11112444.pdf"
+  },
+  {
+   "nom": "12) ETABLISSEMENTS DE SIMONE SA",
+   "date": "2010-07-28",
+   "ref": "0189785",
+   "type": "ME. - COMPTES ANNUELS 31.12.2009, APP 08.06.2010, DPT 20.07.2010 10337-0480-017",
+   "adresse": "RUE DE FONTENELLE 18 6240 FARCIENNES",
+   "pdf": ""
+  },
+  {
+   "nom": "13) ETABLISSEMENTS DE SIMONE SA",
+   "date": "2009-08-10",
+   "ref": "0215232",
+   "type": "ME. - COMPTES ANNUELS 31.12.2008, APP 09.06.2009, DPT 31.07.2009 09543-0292-017",
+   "adresse": "RUE DE FONTENELLE 18 6240 FARCIENNES",
+   "pdf": ""
+  },
+  {
+   "nom": "14) ETABLISSEMENTS DE SIMONE SA",
+   "date": "2008-12-09",
+   "ref": "0190145",
+   "type": "SIEGE SOCIAL",
+   "adresse": "RUE DE FONTENELLE 4 6240 FARCIENNES",
+   "pdf": "https://www.ejustice.just.fgov.be/tsv_pdf/2008/12/09/08190145.pdf"
+  },
+  {
+   "nom": "15) ETABLISSEMENTS DE SIMONE SA",
+   "date": "2008-07-11",
+   "ref": "0150176",
+   "type": "ME. - COMPTES ANNUELS 31.12.2007, APP 10.06.2008, DPT 09.07.2008 08379-0296-016",
+   "adresse": "RUE DE FONTENELLE 4 6240 FARCIENNES",
+   "pdf": ""
+  },
+  {
+   "nom": "16) ETABLISSEMENTS DE SIMONE SA",
+   "date": "2007-07-09",
+   "ref": "0132707",
+   "type": "ME. - COMPTES ANNUELS 31.12.2006, APP 12.06.2007, DPT 28.06.2007 07338-0319-016",
+   "adresse": "RUE DE FONTENELLE 4 6240 FARCIENNES",
+   "pdf": ""
+  },
+  {
+   "nom": "17) ETABLISSEMENTS DE SIMONE SA",
+   "date": "2007-06-20",
+   "ref": "0087255",
+   "type": "ASSEMBLEE GENERALE - CAPITAL, ACTIONS - STATUTS (TRADUCTION, COORDINATION, AUTRES MODIFICATIONS, )",
+   "adresse": "RUE DE FONTENELLE 4 6240 FARCIENNES",
+   "pdf": "https://www.ejustice.just.fgov.be/tsv_pdf/2007/06/20/07087255.pdf"
+  },
+  {
+   "nom": "18) ETABLISSEMENTS DE SIMONE SA",
+   "date": "2007-02-13",
+   "ref": "0025392",
+   "type": "DEMISSIONS, NOMINATIONS",
+   "adresse": "RUE DE FONTENELLE 4 6240 FARCIENNES",
+   "pdf": "https://www.ejustice.just.fgov.be/tsv_pdf/2007/02/13/07025392.pdf"
+  },
+  {
+   "nom": "19) ETABLISSEMENTS DE SIMONE SA",
+   "date": "2006-07-19",
+   "ref": "0164812",
+   "type": "ME. - COMPTES ANNUELS 31.12.2005, APP 13.06.2006, DPT 13.07.2006 06475-1762-015",
+   "adresse": "RUE DE FONTENELLE.4 6240 FARCIENNES",
+   "pdf": ""
+  },
+  {
+   "nom": "20) ETABLISSEMENTS DE SIMONE SA",
+   "date": "2005-07-18",
+   "ref": "0169050",
+   "type": "ME. - COMPTES ANNUELS 31.12.2004, APP 14.06.2005, DPT 13.07.2005 05491-4669-015",
+   "adresse": "RUE DE FONTENELLE.4 6240 FARCIENNES",
+   "pdf": ""
+  },
+  {
+   "nom": "21) ETABLISSEMENTS DE SIMONE SA",
+   "date": "2005-05-31",
+   "ref": "0076176",
+   "type": "DEMISSIONS, NOMINATIONS",
+   "adresse": "RUE DE FONTENELLE.4 6240 FARCIENNES",
+   "pdf": "https://www.ejustice.just.fgov.be/tsv_pdf/2005/05/31/05076176.pdf"
+  },
+  {
+   "nom": "22) ETABLISSEMENTS DE SIMONE SA",
+   "date": "2004-06-17",
+   "ref": "0093041",
+   "type": "ME. - COMPTES ANNUELS 31.12.2003, APP 08.06.2004, DPT 14.06.2004 04252-3156-015",
+   "adresse": "RUE DE FONTENELLE.4 6240 FARCIENNES",
+   "pdf": ""
+  },
+  {
+   "nom": "23) ETABLISSEMENTS DE SIMONE SA",
+   "date": "2004-03-03",
+   "ref": "0037033",
+   "type": "DEMISSIONS, NOMINATIONS",
+   "adresse": "RUE DE FONTENELLE.4 6240 FARCIENNES",
+   "pdf": "https://www.ejustice.just.fgov.be/tsv_pdf/2004/03/03/04037033.pdf"
+  },
+  {
+   "nom": "24) ETABLISSEMENTS DE SIMONE SA",
+   "date": "2003-07-24",
+   "ref": "0156808",
+   "type": "ME. - COMPTES ANNUELS 31.12.2002, APP 10.06.2003 03440-0289-015",
+   "adresse": "RUE DE FONTENELLE.4 6240 FARCIENNES",
+   "pdf": ""
+  },
+  {
+   "nom": "25) ETABLISSEMENTS DE SIMONE SA",
+   "date": "2002-05-07",
+   "ref": "636",
+   "type": "DEMISSIONS, NOMINATIONS",
+   "adresse": "RUE DE FONTENELLE.4 6240 FARCIENNES",
+   "pdf": "https://www.ejustice.just.fgov.be/tsv_pdf/2002/05/07/2002-05-07_0636.pdf"
+  },
+  {
+   "nom": "26) ETABLISSEMENTS DE SIMONE SA",
+   "date": "2002-04-30",
+   "ref": "0045122",
+   "type": "ME. - COMPTES ANNUELS 31.12.2001, APP 28.03.2002 02106-4630-016",
+   "adresse": "RUE DE FONTENELLE.4 6240 FARCIENNES",
+   "pdf": ""
+  },
+  {
+   "nom": "27) ETABLISSEMENTS DE SIMONE SA",
+   "date": "2001-08-03",
+   "ref": "458",
+   "type": "CAPITAL, ACTIONS",
+   "adresse": "RUE DE FONTENELLE.4 6240 FARCIENNES",
+   "pdf": "https://www.ejustice.just.fgov.be/tsv_pdf/2001/08/03/2001-08-03_0458.pdf"
+  },
+  {
+   "nom": "28) ETABLISSEMENTS DE SIMONE SA",
+   "date": "2001-07-12",
+   "ref": "0127963",
+   "type": "ME. - COMPTES ANNUELS 31.12.2000, APP 12.06.2001 01358-4095-016",
+   "adresse": "RUE DE FONTENELLE.4 6240 FARCIENNES",
+   "pdf": ""
+  },
+  {
+   "nom": "29) ETABLISSEMENTS DE SIMONE SA",
+   "date": "2000-07-21",
+   "ref": "0142179",
+   "type": "ME. - COMPTES ANNUELS 31.12.1999, APP 13.06.2000 00412-2232-016",
+   "adresse": "RUE DE FONTENELLE.4 6240 FARCIENNES",
+   "pdf": ""
+  },
+  {
+   "nom": "30) ETABLISSEMENTS DE SIMONE SA",
+   "date": "1999-07-13",
+   "ref": "565",
+   "type": "DEMISSIONS, NOMINATIONS",
+   "adresse": "RUE DE FONTENELLE.4 6240 FARCIENNES",
+   "pdf": "https://www.ejustice.just.fgov.be/tsv_pdf/1999/07/13/1999-07-13_0565.pdf"
+  },
+  {
+   "nom": "31) ETABLISSEMENTS DE SIMONE SA",
+   "date": "1999-07-09",
+   "ref": "0102930",
+   "type": "ME. - COMPTES ANNUELS 31.12.1998, APP 08.06.1999 - 99253-4618-016",
+   "adresse": "RUE DE FONTENELLE.4 6240 FARCIENNES",
+   "pdf": ""
+  },
+  {
+   "nom": "32) ETABLISSEMENTS DE SIMONE SA",
+   "date": "",
+   "ref": "",
+   "type": "1998 / 083942",
+   "adresse": "RUE DE FONTENELLE 4 6240 FARCIENNES",
+   "pdf": ""
+  },
+  {
+   "nom": "33) ETABLISSEMENTS DE SIMONE SA",
+   "date": "",
+   "ref": "",
+   "type": "1997 / 081231",
+   "adresse": "RUE DE FONTENELLE 4 6240 FARCIENNES",
+   "pdf": ""
+  },
+  {
+   "nom": "34) ETABLISSEMENTS DE SIMONE SA",
+   "date": "",
+   "ref": "",
+   "type": "1996 / 099014",
+   "adresse": "RUE DE FONTENELLE 4 6240 FARCIENNES",
+   "pdf": ""
+  },
+  {
+   "nom": "35) ETABLISSEMENTS DE SIMONE SA",
+   "date": "1995-07-06",
+   "ref": "293",
+   "type": "DEMISSIONS, NOMINATIONS",
+   "adresse": "FARCIENNES",
+   "pdf": ""
+  },
+  {
+   "nom": "36) ETABLISSEMENTS DE SIMONE SA",
+   "date": "",
+   "ref": "",
+   "type": "1995 / 076505",
+   "adresse": "FARCIENNES",
+   "pdf": ""
+  },
+  {
+   "nom": "37) ETABLISSEMENTS DE SIMONE SA",
+   "date": "",
+   "ref": "",
+   "type": "1994 / 071810",
+   "adresse": "FARCIENNES",
+   "pdf": ""
+  },
+  {
+   "nom": "38) ETABLISSEMENTS DE SIMONE SA",
+   "date": "",
+   "ref": "",
+   "type": "1993 / 053328",
+   "adresse": "FARCIENNES",
+   "pdf": ""
+  },
+  {
+   "nom": "39) ETABLISSEMENTS DE SIMONE SA",
+   "date": "1992-07-09",
+   "ref": "531",
+   "type": "SIEGE SOCIAL",
+   "adresse": "RUE DE FONTENELLE 4 6240 FARCIENNES",
+   "pdf": ""
+  },
+  {
+   "nom": "40) ETABLISSEMENTS DE SIMONE SA",
+   "date": "",
+   "ref": "",
+   "type": "1992 / 069257",
+   "adresse": "RUE DE FONTENELLE 4 6240 FARCIENNES",
+   "pdf": ""
+  },
+  {
+   "nom": "41) ETABLISSEMENTS DE SIMONE SA",
+   "date": "",
+   "ref": "",
+   "type": "1991 / 059443",
+   "adresse": "FLEURUS (LAMBUSART)",
+   "pdf": ""
+  },
+  {
+   "nom": "42) ETABLISSEMENTS DE SIMONE SA",
+   "date": "1990-08-18",
+   "ref": "404",
+   "type": "RUBRIQUE CONSTITUTION (NOUVELLE PERSONNE MORALE, OUVERTURE SUCCURSALE, ETC...)",
+   "adresse": "FLEURUS (LAMBUSART)",
+   "pdf": ""
+  }
+ ]
+}

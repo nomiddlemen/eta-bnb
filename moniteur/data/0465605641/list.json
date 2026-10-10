@@ -1,0 +1,182 @@
+{
+ "bce": "0465605641",
+ "total_annonce": 22,
+ "items": [
+  {
+   "nom": "1) MG POSE SPRL",
+   "date": "2022-12-08",
+   "ref": "0379919",
+   "type": "MODIFICATION FORME JURIDIQUE - DEMISSIONS, NOMINATIONS",
+   "adresse": "RUE BARTHELEMY MOLET 129C 5060 TAMINES",
+   "pdf": "https://www.ejustice.just.fgov.be/tsv_pdf/2022/12/08/22379919.pdf"
+  },
+  {
+   "nom": "2) MG POSE SPRL",
+   "date": "2018-05-16",
+   "ref": "0077662",
+   "type": "CAPITAL, ACTIONS",
+   "adresse": "RUE BARTHELEMY 129C 5060 TAMINES",
+   "pdf": "https://www.ejustice.just.fgov.be/tsv_pdf/2018/05/16/18077662.pdf"
+  },
+  {
+   "nom": "3) MG POSE SPRL",
+   "date": "2016-07-14",
+   "ref": "0167866",
+   "type": "ME. - COMPTES ANNUELS 31.12.2015, APP 26.05.2016, DPT 12.07.2016 16298-0127-014",
+   "adresse": "RUE BARTHELEMY 129C 5060 TAMINES",
+   "pdf": ""
+  },
+  {
+   "nom": "4) MG POSE SPRL",
+   "date": "2015-06-02",
+   "ref": "0076691",
+   "type": "ME. - COMPTES ANNUELS 31.12.2014, APP 28.05.2015, DPT 29.05.2015 15133-0456-014",
+   "adresse": "RUE BARTHELEMY 129C 5060 TAMINES",
+   "pdf": ""
+  },
+  {
+   "nom": "5) MG POSE SPRL",
+   "date": "2014-07-15",
+   "ref": "0168858",
+   "type": "ME. - COMPTES ANNUELS 31.12.2013, APP 22.05.2014, DPT 14.07.2014 14294-0298-014",
+   "adresse": "RUE BARTHELEMY 129C 5060 TAMINES",
+   "pdf": ""
+  },
+  {
+   "nom": "6) MG POSE SPRL",
+   "date": "2014-01-20",
+   "ref": "0019012",
+   "type": "CAPITAL, ACTIONS - ASSEMBLEE GENERALE",
+   "adresse": "RUE BARTHELEMY 129C 5060 TAMINES",
+   "pdf": "https://www.ejustice.just.fgov.be/tsv_pdf/2014/01/20/14019012.pdf"
+  },
+  {
+   "nom": "7) MG POSE SPRL",
+   "date": "2013-08-13",
+   "ref": "0236954",
+   "type": "ME. - COMPTES ANNUELS 31.12.2012, APP 23.05.2013, DPT 12.08.2013 13407-0260-014",
+   "adresse": "RUE BARTHELEMY 129C 5060 TAMINES",
+   "pdf": ""
+  },
+  {
+   "nom": "8) MG POSE SPRL",
+   "date": "2012-08-10",
+   "ref": "0227598",
+   "type": "ME. - COMPTES ANNUELS 31.12.2011, APP 24.05.2012, DPT 09.08.2012 12393-0128-014",
+   "adresse": "RUE BARTHELEMY 129C 5060 TAMINES",
+   "pdf": ""
+  },
+  {
+   "nom": "9) MG POSE SPRL",
+   "date": "2011-07-08",
+   "ref": "0150354",
+   "type": "ME. - COMPTES ANNUELS 31.12.2010, APP 26.05.2011, DPT 07.07.2011 11262-0551-014",
+   "adresse": "RUE BARTHELEMY 129C 5060 TAMINES",
+   "pdf": ""
+  },
+  {
+   "nom": "10) MG POSE SPRL",
+   "date": "2010-08-10",
+   "ref": "0222019",
+   "type": "ME. - COMPTES ANNUELS 31.12.2009, APP 27.05.2010, DPT 09.08.2010 10392-0251-014",
+   "adresse": "RUE BARTHELEMY 129C 5060 TAMINES",
+   "pdf": ""
+  },
+  {
+   "nom": "11) MG POSE SPRL",
+   "date": "2009-08-14",
+   "ref": "0223253",
+   "type": "ME. - COMPTES ANNUELS 31.12.2008, APP 28.05.2009, DPT 13.08.2009 09565-0337-014",
+   "adresse": "RUE BARTHELEMY 129C 5060 TAMINES",
+   "pdf": ""
+  },
+  {
+   "nom": "12) MG POSE SPRL",
+   "date": "2008-07-02",
+   "ref": "0123271",
+   "type": "ME. - COMPTES ANNUELS 31.12.2007, APP 22.05.2008, DPT 01.07.2008 08315-0172-014",
+   "adresse": "RUE BARTHELEMY 129C 5060 TAMINES",
+   "pdf": ""
+  },
+  {
+   "nom": "13) MG POSE SPRL",
+   "date": "2007-07-10",
+   "ref": "0139436",
+   "type": "ME. - COMPTES ANNUELS 31.12.2006, APP 24.05.2007, DPT 06.07.2007 07363-0013-015",
+   "adresse": "RUE BARTHELEMY 129C 5060 TAMINES",
+   "pdf": ""
+  },
+  {
+   "nom": "14) MG POSE SPRL",
+   "date": "2006-06-19",
+   "ref": "0089507",
+   "type": "ME. - COMPTES ANNUELS 31.12.2005, APP 26.05.2006, DPT 16.06.2006 06247-3167-016",
+   "adresse": "RUE BARTHELEMY.129C 5060 TAMINES",
+   "pdf": ""
+  },
+  {
+   "nom": "15) MG POSE SPRL",
+   "date": "2005-07-18",
+   "ref": "0171916",
+   "type": "ME. - COMPTES ANNUELS 31.12.2004, APP 26.05.2005, DPT 15.07.2005 05497-3460-015",
+   "adresse": "RUE BARTHELEMY.129C 5060 TAMINES",
+   "pdf": ""
+  },
+  {
+   "nom": "16) MG POSE SPRL",
+   "date": "2004-07-15",
+   "ref": "0159476",
+   "type": "ME. - COMPTES ANNUELS 31.12.2003, APP 27.05.2004, DPT 13.07.2004 04448-3172-015",
+   "adresse": "RUE BARTHELEMY.129C 5060 TAMINES",
+   "pdf": ""
+  },
+  {
+   "nom": "17) MG POSE SPRL",
+   "date": "2003-07-09",
+   "ref": "0123063",
+   "type": "ME. - COMPTES ANNUELS 31.12.2002, APP 22.05.2003 03345-0664-014",
+   "adresse": "RUE BARTHELEMY.129C 5060 TAMINES",
+   "pdf": ""
+  },
+  {
+   "nom": "18) MG POSE SPRL",
+   "date": "2002-06-29",
+   "ref": "0099186",
+   "type": "ME. - COMPTES ANNUELS 31.12.2001, APP 23.05.2002 02276-2211-015",
+   "adresse": "RUE BARTHELEMY.129C 5060 TAMINES",
+   "pdf": ""
+  },
+  {
+   "nom": "19) MG POSE SPRL",
+   "date": "2002-01-08",
+   "ref": "460",
+   "type": "CAPITAL, ACTIONS",
+   "adresse": "RUE BARTHELEMY.129C 5060 TAMINES",
+   "pdf": "https://www.ejustice.just.fgov.be/tsv_pdf/2002/01/08/2002-01-08_0460.pdf"
+  },
+  {
+   "nom": "20) MG POSE SPRL",
+   "date": "2001-07-04",
+   "ref": "0103847",
+   "type": "ME. - COMPTES ANNUELS 31.12.2000, APP 25.05.2001 01287-0958-014",
+   "adresse": "RUE BARTHELEMY.129C 5060 TAMINES",
+   "pdf": ""
+  },
+  {
+   "nom": "21) MG POSE SPRL",
+   "date": "2000-07-13",
+   "ref": "0120543",
+   "type": "ME. - COMPTES ANNUELS 31.12.1999, APP 18.05.2000 00352-2459-014",
+   "adresse": "RUE BARTHELEMY.129C 5060 TAMINES",
+   "pdf": ""
+  },
+  {
+   "nom": "22) MG POSE SPRL",
+   "date": "1999-03-31",
+   "ref": "348",
+   "type": "RUBRIQUE CONSTITUTION (NOUVELLE PERSONNE MORALE, OUVERTURE SUCCURSALE, ETC...)",
+   "adresse": "RUE BARTHELEMY.129C 5060 TAMINES",
+   "pdf": "https://www.ejustice.just.fgov.be/tsv_pdf/1999/03/31/1999-03-31_0348.pdf"
+  }
+ ]
+}

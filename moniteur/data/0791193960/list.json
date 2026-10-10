@@ -1,0 +1,30 @@
+{
+ "bce": "0791193960",
+ "total_annonce": 3,
+ "items": [
+  {
+   "nom": "1) RIGASSISTANCE SRL",
+   "date": "2026-05-06",
+   "ref": "0055862",
+   "type": "DEMISSIONS, NOMINATIONS",
+   "adresse": "FONTAINES 123 4480 ENGIS",
+   "pdf": "https://www.ejustice.just.fgov.be/tsv_pdf/2026/05/06/26055862.pdf"
+  },
+  {
+   "nom": "2) RIGASSISTANCE SRL",
+   "date": "2023-12-19",
+   "ref": "0162433",
+   "type": "DEMISSIONS, NOMINATIONS",
+   "adresse": "FONTAINES 123 4480 ENGIS",
+   "pdf": "https://www.ejustice.just.fgov.be/tsv_pdf/2023/12/19/23162433.pdf"
+  },
+  {
+   "nom": "3) RIGASSISTANCE SRL",
+   "date": "2022-09-23",
+   "ref": "0359595",
+   "type": "RUBRIQUE CONSTITUTION (NOUVELLE PERSONNE MORALE, OUVERTURE SUCCURSALE, ETC...)",
+   "adresse": "FONTAINES 123 4480 ENGIS",
+   "pdf": "https://www.ejustice.just.fgov.be/tsv_pdf/2022/09/23/22359595.pdf"
+  }
+ ]
+}
