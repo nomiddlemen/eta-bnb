@@ -1,8 +1,8 @@
-# Résumé — 2026-10-13 14:26 UTC
+# Résumé — 2026-10-13 14:46 UTC
 
 - Population : 36100
-- Lues (dépôt exploitable) : 27436 (76.0 %)
-- Sans dépôt exploitable : 7961 (22.1 %)
+- Lues (dépôt exploitable) : 27437 (76.0 %)
+- Sans dépôt exploitable : 7960 (22.0 %)
 - Dernier dépôt antérieur à 2023 (ne déposent plus, contenu non servi par Authentic Data) : 703
 - En erreur (à retenter) : 0
 - Jamais interrogées : 0
@@ -14,7 +14,7 @@
 | Division | Retenues | Lues | Population |
 | --- | ---: | ---: | ---: |
 | 49 | 516 | 5273 | 7151 |
-| 52 | 370 | 2296 | 2903 |
+| 52 | 370 | 2297 | 2903 |
 | 25 | 271 | 2012 | 2553 |
 | 10 | 238 | 1995 | 2614 |
 | 46 | 201 | 1339 | 1669 |
@@ -69,7 +69,7 @@
 
 | Forme | Population | Lues | Sans dépôt | Taux sans dépôt |
 | --- | ---: | ---: | ---: | ---: |
-| 610 | 24461 | 21099 | 3110 | 13 % |
+| 610 | 24461 | 21100 | 3109 | 13 % |
 | 014 | 4520 | 4372 | 75 | 2 % |
 | 612 | 2206 | 24 | 2155 | 99 % |
 | 015 | 2050 | 1743 | 15 | 1 % |
@@ -98,26 +98,26 @@
 | 2015-2021 | 6425 | 1738 | 21 % |
 | 2022 | 1613 | 418 | 21 % |
 | 2023 | 1809 | 479 | 21 % |
-| 2024 | 1620 | 727 | 31 % |
+| 2024 | 1621 | 726 | 31 % |
 | 2025 | 789 | 1608 | 67 % |
 | 2026 | 2 | 1350 | 100 % |
 | < 2000 | 7255 | 446 | 6 % |
 
 ## Motifs « sans dépôt »
 
-- 7861 × 404 sur /references
+- 7860 × 404 sur /references
+- 1 × 50 dépôt(s) inexploitable(s): 2025-00260474:404 [m02-f-p/Ini
+- 1 × 1 dépôt(s) inexploitable(s): 2026-00299651:404 [m01-f-p/Init
+- 1 × 36 dépôt(s) inexploitable(s): 2026-00540148:404 [m230-f-p/In
+- 1 × 28 dépôt(s) inexploitable(s): 2026-00106862:404 [m02-f-p/Ini
 - 1 × 9 dépôt(s) inexploitable(s): 2026-00206228:404 [m01-f-p/Init
-- 1 × 22 dépôt(s) inexploitable(s): 2026-00247173:404 [m02-f-p/Ini
+- 1 × 77 dépôt(s) inexploitable(s): 2026-00135210:404 [m02-f-p/Ini
 - 1 × 35 dépôt(s) inexploitable(s): 2026-00048876:404 [m02-f-p/Ini
-- 1 × 22 dépôt(s) inexploitable(s): 2026-00180681:404 [m82-f-p/Ini
-- 1 × 9 dépôt(s) inexploitable(s): 2026-00264534:404 [m01-f-p/Init
-- 1 × 20 dépôt(s) inexploitable(s): 2026-00189002:404 [m82-f-p/Ini
-- 1 × 18 dépôt(s) inexploitable(s): 2026-00206008:404 [m01-f-p/Ini
 
 ## Qualité des données (sur les sociétés lues)
 
 - 630 absent : 2849
-- exercice ≠ 12 mois : 1996
+- exercice ≠ 12 mois : 1997
 - variation N/N-1 extrême : 1801
 - EBITDA dans la bande sans personnel déclaré : 633
 - exercice ancien : 564
@@ -127,8 +127,8 @@
 - devise USD : 13
 - EBITDA aberrant (> 1 Md) : 1
 
-Exercice le plus récent disponible, par année de clôture : 2020: 2, 2021: 13, 2022: 19, 2023: 530, 2024: 2426, 2025: 23922, 2026: 524
+Exercice le plus récent disponible, par année de clôture : 2020: 2, 2021: 13, 2022: 19, 2023: 530, 2024: 2426, 2025: 23923, 2026: 524
 
-Schémas : m87-f: 15471, m81-f: 5409, m01-f: 2423, m07-f: 1786, m02-f: 1666, m82-f: 524, m87-a: 42, m81-a: 29, m04-f: 23, m05-f: 21, m01-a: 18, m08-f: 16, m07-a: 7, m81-o: 1
+Schémas : m87-f: 15471, m81-f: 5410, m01-f: 2423, m07-f: 1786, m02-f: 1666, m82-f: 524, m87-a: 42, m81-a: 29, m04-f: 23, m05-f: 21, m01-a: 18, m08-f: 16, m07-a: 7, m81-o: 1
 
 Détail ligne à ligne : `state/anomalies.csv`.
