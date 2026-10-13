@@ -1,0 +1,1 @@
+2026-10-13T13:23:45Z durée=290min lues=22729 retenues_total=2764 sans_depot=3685 depot_ancien=657 erreurs=0 bridages=18 (429/5xx=18 vides_corrigés=0) appels=50759 (175/min, 429=0, rythme fin=8.00/s) | cumul lues=22729 sans_depot=3685 restant=92032
