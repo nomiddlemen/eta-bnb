@@ -46,6 +46,7 @@ TIME_BUDGET = float(os.environ.get("TIME_BUDGET", "290")) * 60
 WORKERS = max(1, min(6, int(os.environ.get("WORKERS", "6"))))
 POPULATION = os.environ.get("POPULATION", "data/bce_industrie.csv.gz")
 STATE = os.environ.get("STATE_DIR", "state")
+PREFIX = os.environ.get("OUT_PREFIX", "")  # e.g. "fl_" for the Flanders pass
 LIMIT = int(os.environ.get("LIMIT", "0"))
 RATE = float(os.environ.get("RATE", "4"))          # starting calls/s, all workers together
 RATE_MAX = float(os.environ.get("RATE_MAX", "8"))  # never exceed this
@@ -84,6 +85,8 @@ RUBRICS = {
 }
 
 TOUT_COLS = ["bce", "nom", "division", "commune", "exercice", "ebitda", "bilan"]
+# Population files built with EXTRA_DIVISIONS carry this flag; it is appended to both outputs.
+FLAG_COL = "hors_sections_industrielles"
 RETENUES_COLS = [
     "bce", "nom", "division", "commune", "nace", "exercice", "schema", "ebitda",
     "ebitda_n1", "marge_brute", "amortissements", "bilan", "immo_corp", "terrains",
@@ -473,6 +476,7 @@ def extract(company, ref, doc):
         "division": company["division"],
         "commune": company["commune"],
         "nace": company["nace"],
+        FLAG_COL: company.get(FLAG_COL, ""),
         "forme": company["forme"],
         "reference": ci(ref, "ReferenceNumber") or "",
         "depot": str(ci(ref, "DepositDate") or "")[:10],
@@ -573,6 +577,7 @@ def load_population():
             "nace": r.get("nace_principal", ""),
             "forme": r.get("forme", ""),
             "creation": r.get("creation", ""),
+            FLAG_COL: r.get(FLAG_COL, ""),
         }
     return out
 
@@ -631,17 +636,21 @@ def in_band(r):
 def write_outputs(population, lues, last_attempt):
     rows = sorted(lues.values(), key=lambda r: r["bce"])
     retenues = sorted((r for r in rows if in_band(r)), key=lambda r: -r["ebitda"])
-    write_atomic(os.path.join(STATE, "tout.csv"), to_csv(rows, TOUT_COLS))
-    write_atomic(os.path.join(STATE, "retenues.csv"), to_csv(retenues, RETENUES_COLS))
+    flag = [FLAG_COL] if any(c.get(FLAG_COL) for c in population.values()) else []
+    if flag:  # records read before the flag existed take it from the population
+        for r in rows:
+            r[FLAG_COL] = population.get(r["bce"], {}).get(FLAG_COL, "")
+    write_atomic(os.path.join(STATE, PREFIX + "tout.csv"), to_csv(rows, TOUT_COLS + flag))
+    write_atomic(os.path.join(STATE, PREFIX + "retenues.csv"), to_csv(retenues, RETENUES_COLS + flag))
     sans = sorted(b for b, t in last_attempt.items() if t["status"] == "sans_depot")
-    write_atomic(os.path.join(STATE, "sans_depot.txt"), "".join(b + "\n" for b in sans))
-    write_atomic(os.path.join(STATE, "depot_ancien.csv"), to_csv(
+    write_atomic(os.path.join(STATE, PREFIX + "sans_depot.txt"), "".join(b + "\n" for b in sans))
+    write_atomic(os.path.join(STATE, PREFIX + "depot_ancien.csv"), to_csv(
         [{**population.get(b, {"bce": b}), "dernier": t["detail"]} for b, t in sorted(last_attempt.items())
          if t["status"] == "ancien"], ["bce", "nom", "division", "forme", "creation", "dernier"]))
     anomalies = [r for r in rows if r.get("alertes")]
-    write_atomic(os.path.join(STATE, "anomalies.csv"), to_csv(
+    write_atomic(os.path.join(STATE, PREFIX + "anomalies.csv"), to_csv(
         anomalies, ["bce", "nom", "exercice", "schema", "ebitda", "bilan", "etp", "alertes"]))
-    write_atomic(os.path.join(STATE, "resume.md"), summary(population, lues, last_attempt))
+    write_atomic(os.path.join(STATE, PREFIX + "resume.md"), summary(population, lues, last_attempt))
     return retenues, sans
 
 
@@ -664,7 +673,13 @@ def summary(population, lues, last_attempt):
     L.append(f"- Jamais interrogées : {untouched}")
     L.append(f"- Retenues ({BAND_LOW:,} € ≤ EBITDA ≤ {BAND_HIGH:,} €) : {len(retenues)}".replace(",", " "))
     L.append(f"  - dont dans la bande stricte 400 k€–1,2 M€ : "
-             f"{sum(1 for r in retenues if 400_000 <= r['ebitda'] <= 1_200_000)}\n")
+             f"{sum(1 for r in retenues if 400_000 <= r['ebitda'] <= 1_200_000)}")
+    if any(c.get(FLAG_COL) for c in population.values()):
+        hp = sum(1 for c in population.values() if c.get(FLAG_COL) == "oui")
+        hl = sum(1 for r in rows if population.get(r["bce"], {}).get(FLAG_COL) == "oui")
+        hr = sum(1 for r in retenues if population.get(r["bce"], {}).get(FLAG_COL) == "oui")
+        L.append(f"  - hors sections industrielles (divisions 43/46/47 seules) : population {hp}, lues {hl}, retenues {hr}")
+    L.append("")
 
     L.append("## Retenues par division NACE\n")
     L.append("| Division | Retenues | Lues | Population |")
@@ -799,7 +814,7 @@ def run():
         n = sum(counts[k] for k in ("ok", "sans_depot", "erreur", "ancien"))
         speed = n / el if el > 0 else 0
         eta = (total_queue - n) / speed if speed else 0
-        write_atomic(os.path.join(STATE, "progres.md"), (
+        write_atomic(os.path.join(STATE, PREFIX + "progres.md"), (
             f"# Progression — passe {pass_id}{' (terminée)' if final else ''}\n\n"
             f"- mis à jour : {datetime.now(timezone.utc):%Y-%m-%d %H:%M:%S} UTC, {el:.0f} min écoulées\n"
             f"- traitées : {n} / {total_queue} de cette passe ({speed:.0f}/min, reste ≈ {eta:.0f} min)\n"
@@ -871,7 +886,7 @@ def run():
         f"erreurs réseau : {client.stats['erreurs_reseau']}\n"
         f"- codes HTTP : {dict(client.status_codes)}\n"
         f"- en-têtes de quota vus : {client.limit_headers or 'aucun'}\n")
-    with open(os.path.join(STATE, "debit.md"), "a", encoding="utf-8") as f:
+    with open(os.path.join(STATE, PREFIX + "debit.md"), "a", encoding="utf-8") as f:
         f.write(rate_report + "\n")
     line = (f"{datetime.now(timezone.utc):%Y-%m-%dT%H:%M:%SZ} "
             f"durée={(time.monotonic() - t0) / 60:.0f}min "
@@ -884,7 +899,7 @@ def run():
             f"| cumul lues={len(lues)} sans_depot={len(sans)} "
             f"restant={len(population) - len(lues)}"
             + (f" | ARRÊT: {fatal[:200]}" if fatal else ""))
-    with open(os.path.join(STATE, "journal.txt"), "a", encoding="utf-8") as f:
+    with open(os.path.join(STATE, PREFIX + "journal.txt"), "a", encoding="utf-8") as f:
         f.write(line + "\n")
     print(line, flush=True)
     if fatal:
@@ -916,7 +931,7 @@ def finish(population, lues, last_attempt):
            f"retenues={len(retenues)} sans_depot_definitifs={len(sans)}\n")
     if not os.path.exists(TERMINE):
         write_atomic(TERMINE, msg)
-        with open(os.path.join(STATE, "journal.txt"), "a", encoding="utf-8") as f:
+        with open(os.path.join(STATE, PREFIX + "journal.txt"), "a", encoding="utf-8") as f:
             f.write(msg)
     print(msg, end="", flush=True)
 
@@ -1052,7 +1067,7 @@ def main():
         population = load_population()
         lues, last_attempt = load_state()
         write_outputs(population, lues, last_attempt)
-        print(open(os.path.join(STATE, "resume.md"), encoding="utf-8").read())
+        print(open(os.path.join(STATE, PREFIX + "resume.md"), encoding="utf-8").read())
     elif len(sys.argv) > 1 and sys.argv[1] == "probe":
         probe()
     else:

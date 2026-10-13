@@ -13,6 +13,15 @@ on:
       time_budget:
         description: "Minutes of work before stopping"
         default: "290"
+      population:
+        description: "Population file"
+        default: data/bce_industrie.csv.gz
+      state_dir:
+        description: "State/output directory"
+        default: state
+      prefix:
+        description: "Output file prefix (e.g. fl_)"
+        default: ""
 
 permissions:
   contents: write
@@ -29,6 +38,9 @@ jobs:
     env:
       NBB_KEY: ${{ secrets.NBB_KEY }}
       MODE: ${{ inputs.mode || 'run' }}
+      POPULATION: ${{ inputs.population || 'data/bce_industrie.csv.gz' }}
+      STATE_DIR: ${{ inputs.state_dir || 'state' }}
+      OUT_PREFIX: ${{ inputs.prefix || '' }}
     steps:
       - uses: actions/checkout@v4
 
@@ -47,9 +59,9 @@ jobs:
         id: check
         if: env.MODE == 'run'
         run: |
-          if [ -f state/TERMINE ]; then echo "Already finished:"; cat state/TERMINE; echo "go=false" >> "$GITHUB_OUTPUT"; exit 0; fi
-          test -f data/bce_industrie.csv.gz || {
-            echo "::error::data/bce_industrie.csv.gz missing. Run the 'population' workflow or commit it.";
+          if [ -f "$STATE_DIR/TERMINE" ]; then echo "Already finished:"; cat "$STATE_DIR/TERMINE"; echo "go=false" >> "$GITHUB_OUTPUT"; exit 0; fi
+          test -f "$POPULATION" || {
+            echo "::error::$POPULATION missing. Run the 'population' workflow or commit it.";
             exit 1; }
           echo "go=true" >> "$GITHUB_OUTPUT"
 
@@ -66,13 +78,13 @@ jobs:
           git worktree add -q --detach "$RUNNER_TEMP/progress" HEAD
           (
             while sleep 600; do
-              [ -f state/progres.md ] || continue
+              [ -f "$STATE_DIR/${OUT_PREFIX}progres.md" ] || continue
               (
                 cd "$RUNNER_TEMP/progress" &&
                 git fetch -q origin "${GITHUB_REF_NAME}" &&
                 git reset -q --hard FETCH_HEAD &&
-                mkdir -p state && cp "$GITHUB_WORKSPACE/state/progres.md" state/ &&
-                git add state/progres.md &&
+                mkdir -p "$STATE_DIR" && cp "$GITHUB_WORKSPACE/$STATE_DIR/${OUT_PREFIX}progres.md" "$STATE_DIR/" &&
+                git add "$STATE_DIR/${OUT_PREFIX}progres.md" &&
                 git commit -qm "bnb: progrès $(date -u +%H:%MZ)" &&
                 git push -q origin "HEAD:${GITHUB_REF_NAME}"
               ) || echo "progress push failed"
@@ -85,9 +97,9 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add state/ 2>/dev/null || exit 0
+          git add "$STATE_DIR/" 2>/dev/null || exit 0
           git diff --cached --quiet && exit 0
-          git commit -m "bnb: ${MODE} $(date -u +%Y-%m-%dT%H:%MZ)"
+          git commit -m "bnb: ${MODE} ${STATE_DIR} $(date -u +%Y-%m-%dT%H:%MZ)"
           for i in 1 2 3 4; do
             git pull --rebase -X theirs origin "${GITHUB_REF_NAME}" && git push origin "HEAD:${GITHUB_REF_NAME}" && exit 0
             sleep $((2 ** i))
@@ -100,5 +112,6 @@ jobs:
           GH_TOKEN: ${{ github.token }}
         run: |
           git pull -q origin "${GITHUB_REF_NAME}" || true
-          if [ -f state/TERMINE ]; then echo "Finished, not chaining."; exit 0; fi
-          gh workflow run bnb.yml --ref "${GITHUB_REF_NAME}" -f mode=run
+          if [ -f "$STATE_DIR/TERMINE" ]; then echo "Finished, not chaining."; exit 0; fi
+          gh workflow run bnb.yml --ref "${GITHUB_REF_NAME}" -f mode=run \
+            -f population="$POPULATION" -f state_dir="$STATE_DIR" -f prefix="$OUT_PREFIX"

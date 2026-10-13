@@ -9,6 +9,18 @@ on:
       release_tag:
         description: "Tag of a release of this repo carrying KboOpenData_*_Full.zip as an asset"
         required: false
+      zones:
+        description: "Postcode ranges"
+        default: "1000-1499,4000-7999"
+      extra_divisions:
+        description: "Extra NACE divisions kept but flagged (e.g. 43,46,47)"
+        default: ""
+      name_lang:
+        description: "Preferred name language (fr or nl)"
+        default: fr
+      output:
+        description: "Output file"
+        default: data/bce_industrie.csv.gz
 
 permissions:
   contents: write
@@ -42,12 +54,16 @@ jobs:
           ZIP_URL: ${{ inputs.zip_url }}
         run: python fetch_kbo.py kbo.zip
       - name: Build population
-        run: python build_population.py kbo.zip data/bce_industrie.csv.gz
+        env:
+          ZONES: ${{ inputs.zones }}
+          EXTRA_DIVISIONS: ${{ inputs.extra_divisions }}
+          NAME_LANG: ${{ inputs.name_lang }}
+        run: python build_population.py kbo.zip "${{ inputs.output }}"
       - name: Commit
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add data/bce_industrie.csv.gz
+          git add "${{ inputs.output }}"
           git diff --cached --quiet && exit 0
           git commit -m "population: rebuild from KBO open data"
           git pull --rebase origin "${GITHUB_REF_NAME}" && git push origin "HEAD:${GITHUB_REF_NAME}"
