@@ -22,3 +22,11 @@
 - codes HTTP : {404: 8582, 200: 102}
 - en-têtes de quota vus : aucun
 
+# Débit et limites — passe 20261013T144647
+
+- appels : 4344 en 10 min (422 appels/min)
+- rythme autorisé : départ 4.0/s, fin 8.00/s, plus bas 4.00/s, plafond 8.0/s
+- HTTP 429 : 0, 5xx/429 total : 0, réponses vides corrigées en relance : 0, erreurs réseau : 0
+- codes HTTP : {404: 4332, 200: 12}
+- en-têtes de quota vus : aucun
+

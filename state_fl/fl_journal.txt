@@ -1,3 +1,5 @@
 2026-10-13T13:23:45Z durée=290min lues=22729 retenues_total=2764 sans_depot=3685 depot_ancien=657 erreurs=0 bridages=18 (429/5xx=18 vides_corrigés=0) appels=50759 (175/min, 429=0, rythme fin=8.00/s) | cumul lues=22729 sans_depot=3685 restant=92032
 2026-10-13T14:26:10Z durée=62min lues=4707 retenues_total=3007 sans_depot=7961 depot_ancien=46 erreurs=0 bridages=4 (429/5xx=4 vides_corrigés=0) appels=18157 (293/min, 429=0, rythme fin=8.00/s) | cumul lues=27436 sans_depot=7961 restant=8664
 2026-10-13T14:46:19Z durée=20min lues=1 retenues_total=3007 sans_depot=7960 depot_ancien=0 erreurs=0 bridages=0 (429/5xx=0 vides_corrigés=0) appels=8684 (441/min, 429=0, rythme fin=8.00/s) | cumul lues=27437 sans_depot=7960 restant=8663
+2026-10-13T14:57:06Z durée=10min lues=0 retenues_total=3007 sans_depot=4275 depot_ancien=0 erreurs=0 bridages=0 (429/5xx=0 vides_corrigés=0) appels=4344 (422/min, 429=0, rythme fin=8.00/s) | cumul lues=27437 sans_depot=7960 restant=8663
+2026-10-13T14:57:06Z terminé: lues=27437 retenues=3007 sans_depot_definitifs=7960

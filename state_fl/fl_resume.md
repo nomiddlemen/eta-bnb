@@ -1,4 +1,4 @@
-# Résumé — 2026-10-13 14:46 UTC
+# Résumé — 2026-10-13 14:57 UTC
 
 - Population : 36100
 - Lues (dépôt exploitable) : 27437 (76.0 %)
@@ -106,13 +106,13 @@
 ## Motifs « sans dépôt »
 
 - 7860 × 404 sur /references
-- 1 × 50 dépôt(s) inexploitable(s): 2025-00260474:404 [m02-f-p/Ini
-- 1 × 1 dépôt(s) inexploitable(s): 2026-00299651:404 [m01-f-p/Init
-- 1 × 36 dépôt(s) inexploitable(s): 2026-00540148:404 [m230-f-p/In
-- 1 × 28 dépôt(s) inexploitable(s): 2026-00106862:404 [m02-f-p/Ini
-- 1 × 9 dépôt(s) inexploitable(s): 2026-00206228:404 [m01-f-p/Init
-- 1 × 77 dépôt(s) inexploitable(s): 2026-00135210:404 [m02-f-p/Ini
-- 1 × 35 dépôt(s) inexploitable(s): 2026-00048876:404 [m02-f-p/Ini
+- 1 × 50 dépôt(s) inexploitable(s): 2026-00084996:404 [m82-f-p/Ini
+- 1 × 17 dépôt(s) inexploitable(s): 2026-00302101:404 [m02-f-p/Ini
+- 1 × 49 dépôt(s) inexploitable(s): 2026-00311837:404 [m02-f-p/Ini
+- 1 × 21 dépôt(s) inexploitable(s): 2026-00175299:404 [m05-f-p/Ini
+- 1 × 26 dépôt(s) inexploitable(s): 2026-00150438:404 [m82-f-p/Ini
+- 1 × 1 dépôt(s) inexploitable(s): 2026-00209212:404 [m81-f-p/Init
+- 1 × 2 dépôt(s) inexploitable(s): 2026-00463904:404 [m87-a-p/Init
 
 ## Qualité des données (sur les sociétés lues)
 
