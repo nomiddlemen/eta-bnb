@@ -760,7 +760,9 @@ def run():
     # Never-tried first, then previous errors, then previous "no deposit".
     rank = {"erreur": 1, "sans_depot": 2}
     queue = pending(population, lues, last_attempt)
-    queue.sort(key=lambda b: (rank.get(last_attempt.get(b, {}).get("status"), 0), b))
+    # flagged (non-industrial) companies come after the core population
+    queue.sort(key=lambda b: (rank.get(last_attempt.get(b, {}).get("status"), 0),
+                              population[b].get(FLAG_COL) == "oui", b))
     if LIMIT:
         queue = queue[:LIMIT]
     print(f"population={len(population)} déjà lues={len(lues)} à traiter={len(queue)}", flush=True)
