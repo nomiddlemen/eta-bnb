@@ -1,11 +1,11 @@
 # Progression — passe 20261013T083332
 
-- mis à jour : 2026-10-13 09:01:55 UTC, 28 min écoulées
-- traitées : 1218 / 114761 de cette passe (43/min, reste ≈ 2646 min)
-- lues : 1111, sans dépôt : 89, dépôt ancien : 18, erreurs : 0
-- cumul lues (toutes passes) : 1111 / 114761
-- retenues jusqu'ici : 280
-- appels : 2566 (90/min), HTTP 429 : 0, 5xx/429 : 0, vides corrigés : 0, réseau : 0
+- mis à jour : 2026-10-13 09:11:58 UTC, 38 min écoulées
+- traitées : 1623 / 114761 de cette passe (42/min, reste ≈ 2680 min)
+- lues : 1504, sans dépôt : 95, dépôt ancien : 24, erreurs : 0
+- cumul lues (toutes passes) : 1504 / 114761
+- retenues jusqu'ici : 377
+- appels : 3397 (88/min), HTTP 429 : 0, 5xx/429 : 0, vides corrigés : 0, réseau : 0
 - rythme : 8.00/s (plus bas 4.00/s)
-- codes HTTP : {404: 300, 200: 2261}
+- codes HTTP : {404: 335, 200: 3057}
 - en-têtes de quota : aucun
