@@ -1,0 +1,1267 @@
+version;classe;libelle
+Nace2008;01.11;Culture de céréales (à l'exception du riz), de légumineuses et de graines oléagineuses
+Nace2008;01.12;Culture du riz
+Nace2008;01.13;Culture de légumes, de melons, de racines et de tubercules
+Nace2008;01.14;Culture de la canne à sucre
+Nace2008;01.15;Culture du tabac
+Nace2008;01.16;Culture de plantes à fibres
+Nace2008;01.19;Autres cultures non permanentes
+Nace2008;01.21;Culture de la vigne
+Nace2008;01.22;Culture de fruits tropicaux et subtropicaux
+Nace2008;01.23;Culture d'agrumes
+Nace2008;01.24;Culture de fruits à pépins et à noyau
+Nace2008;01.25;Culture d'autres fruits d'arbres ou d'arbustes et de fruits à coque
+Nace2008;01.26;Culture de fruits oléagineux
+Nace2008;01.27;Culture de plantes à boissons
+Nace2008;01.28;Culture de plantes à épices, aromatiques, médicinales et pharmaceutiques
+Nace2008;01.29;Autres cultures permanentes
+Nace2008;01.30;Reproduction de plantes
+Nace2008;01.41;Élevage de vaches laitières
+Nace2008;01.42;Élevage d'autres bovins et de buffles
+Nace2008;01.43;Élevage de chevaux et d'autres équidés
+Nace2008;01.44;Élevage de chameaux et d'autres camélidés
+Nace2008;01.45;Élevage d'ovins et de caprins
+Nace2008;01.46;Élevage de porcins
+Nace2008;01.47;Élevage de volailles
+Nace2008;01.49;Élevage d'autres animaux
+Nace2008;01.50;Culture et élevage associés
+Nace2008;01.61;Activités de soutien aux cultures
+Nace2008;01.62;Activités de soutien à la production animale
+Nace2008;01.63;Traitement primaire des récoltes
+Nace2008;01.64;Traitement des semences
+Nace2008;01.70;Chasse, piégeage et services annexes
+Nace2008;02.10;Sylviculture et autres activités forestières
+Nace2008;02.20;Exploitation forestière
+Nace2008;02.30;Récolte de produits forestiers non ligneux poussant à l'état sauvage
+Nace2008;02.40;Services de soutien à l'exploitation forestière
+Nace2008;03.11;Pêche en mer
+Nace2008;03.12;Pêche en eau douce
+Nace2008;03.21;Aquaculture en mer
+Nace2008;03.22;Aquaculture en eau douce
+Nace2008;05.10;Extraction de houille
+Nace2008;05.20;Extraction de lignite
+Nace2008;06.10;Extraction de pétrole brut
+Nace2008;06.20;Extraction de gaz naturel
+Nace2008;07.10;Extraction de minerais de fer
+Nace2008;07.21;Extraction de minerais d'uranium et de thorium
+Nace2008;07.29;Extraction d'autres minerais de métaux non ferreux
+Nace2008;08.11;Extraction de pierres ornementales et de construction, de pierres calcaires, de gypse, de craie et d'ardoise
+Nace2008;08.12;Exploitation de gravières et de sablières, extraction d'argiles et de kaolin
+Nace2008;08.91;Extraction des minéraux chimiques et d'engrais minéraux
+Nace2008;08.92;Extraction de tourbe
+Nace2008;08.93;Production de sel
+Nace2008;08.99;Autres activités extractives n.c.a.
+Nace2008;09.10;Activités de soutien à l'extraction d'hydrocarbures
+Nace2008;09.90;Activités de soutien aux autres industries extractives
+Nace2008;10.11;Transformation et conservation de la viande de boucherie, à l'exclusion de la viande de volaille
+Nace2008;10.12;Transformation et conservation de la viande de volaille
+Nace2008;10.13;Préparation de produits à base de viande ou de viande de volaille
+Nace2008;10.20;Transformation et conservation de poisson, de crustacés et de mollusques
+Nace2008;10.31;Transformation et conservation de pommes de terre
+Nace2008;10.32;Préparation de jus de fruits et de légumes
+Nace2008;10.39;Autre transformation et conservation de fruits et de légumes
+Nace2008;10.41;Fabrication d'huiles et de graisses
+Nace2008;10.42;Fabrication de margarine et de graisses comestibles similaires
+Nace2008;10.51;Exploitation de laiteries et fabrication de fromage
+Nace2008;10.52;Fabrication de glaces de consommation
+Nace2008;10.61;Travail des grains
+Nace2008;10.62;Fabrication de produits amylacés
+Nace2008;10.71;Fabrication de pain et de pâtisserie fraîche
+Nace2008;10.72;Fabrication de biscuits, de biscottes et de pâtisseries de conservation
+Nace2008;10.73;Fabrication de pâtes alimentaires
+Nace2008;10.81;Fabrication de sucre
+Nace2008;10.82;Fabrication de cacao, de chocolat et de produits de confiserie
+Nace2008;10.83;Transformation du thé et du café
+Nace2008;10.84;Fabrication de condiments et d'assaisonnements
+Nace2008;10.85;Fabrication de plats préparés
+Nace2008;10.86;Fabrication d'aliments homogénéisés et diététiques
+Nace2008;10.89;Fabrication d'autres produits alimentaires n.c.a.
+Nace2008;10.91;Fabrication d'aliments pour animaux de ferme
+Nace2008;10.92;Fabrication d'aliments pour animaux de compagnie
+Nace2008;11.01;Production de boissons alcooliques distillées
+Nace2008;11.02;Production de vin (de raisin)
+Nace2008;11.03;Fabrication de cidre et de vins d'autres fruits
+Nace2008;11.04;Production d'autres boissons fermentées non distillées
+Nace2008;11.05;Fabrication de bière
+Nace2008;11.06;Fabrication de malt
+Nace2008;11.07;Industrie des eaux minérales et autres eaux embouteillées et des boissons rafraîchissantes
+Nace2008;12.00;Fabrication de produits à base de tabac
+Nace2008;13.10;Préparation de fibres textiles et filature
+Nace2008;13.20;Tissage
+Nace2008;13.30;Ennoblissement textile
+Nace2008;13.91;Fabrication d'étoffes à mailles
+Nace2008;13.92;Fabrication d'articles textiles confectionnés, sauf habillement
+Nace2008;13.93;Fabrication de tapis et de moquettes
+Nace2008;13.94;Fabrication de ficelles, de cordes et de filets
+Nace2008;13.95;Fabrication de non-tissés, sauf habillement
+Nace2008;13.96;Fabrication d'autres textiles techniques et industriels
+Nace2008;13.99;Fabrication d'autres textiles n.c.a.
+Nace2008;14.11;Fabrication de vêtements en cuir
+Nace2008;14.12;Fabrication de vêtements de travail
+Nace2008;14.13;Fabrication d'autres vêtements de dessus
+Nace2008;14.14;Fabrication de vêtements de dessous
+Nace2008;14.19;Fabrication d'autres vêtements et accessoires
+Nace2008;14.20;Fabrication d'articles en fourrure
+Nace2008;14.31;Fabrication d'articles chaussants à mailles
+Nace2008;14.39;Fabrication d'autres articles à mailles
+Nace2008;15.11;"Apprêt et tannage des cuirs; préparation et teinture des fourrures"
+Nace2008;15.12;Fabrication d'articles de voyage, de maroquinerie et de sellerie
+Nace2008;15.20;Fabrication de chaussures
+Nace2008;16.10;Sciage et rabotage du bois
+Nace2008;16.21;Fabrication de placage et de panneaux de bois
+Nace2008;16.22;Fabrication de parquets assemblés
+Nace2008;16.23;Fabrication de charpentes et d'autres menuiseries
+Nace2008;16.24;Fabrication d'emballages en bois
+Nace2008;16.29;"Fabrication d'objets divers en bois; fabrication d'objets en liège, vannerie et sparterie"
+Nace2008;17.11;Fabrication de pâte à papier
+Nace2008;17.12;Fabrication de papier et de carton
+Nace2008;17.21;Fabrication de papier et de carton ondulés et d'emballages en papier ou en carton
+Nace2008;17.22;Fabrication d'articles en papier à usage sanitaire ou domestique
+Nace2008;17.23;Fabrication d'articles de papeterie
+Nace2008;17.24;Fabrication de papiers peints
+Nace2008;17.29;Fabrication d'autres articles en papier ou en carton
+Nace2008;18.11;Imprimerie de journaux
+Nace2008;18.12;Autre imprimerie (labeur)
+Nace2008;18.13;Activités de prépresse
+Nace2008;18.14;Reliure et activités annexes
+Nace2008;18.20;Reproduction d'enregistrements
+Nace2008;19.10;Cokéfaction
+Nace2008;19.20;Raffinage du pétrole
+Nace2008;20.11;Fabrication de gaz industriels
+Nace2008;20.12;Fabrication de colorants et de pigments
+Nace2008;20.13;Fabrication d'autres produits chimiques inorganiques de base
+Nace2008;20.14;Fabrication d'autres produits chimiques organiques de base
+Nace2008;20.15;Fabrication de produits azotés et d'engrais
+Nace2008;20.16;Fabrication de matières plastiques de base
+Nace2008;20.17;Fabrication de caoutchouc synthétique
+Nace2008;20.20;Fabrication de pesticides et d'autres produits agrochimiques
+Nace2008;20.30;Fabrication de peintures, de vernis, d'encres et de mastics
+Nace2008;20.41;Fabrication de savons, de détergents et de produits d'entretien
+Nace2008;20.42;Fabrication de parfums et de produits de toilette
+Nace2008;20.51;Fabrication de produits explosifs
+Nace2008;20.52;Fabrication de colles
+Nace2008;20.53;Fabrication d'huiles essentielles
+Nace2008;20.59;Fabrication d'autres produits chimiques n.c.a.
+Nace2008;20.60;Fabrication de fibres artificielles ou synthétiques
+Nace2008;21.10;Fabrication de produits pharmaceutiques de base
+Nace2008;21.20;Fabrication de préparations pharmaceutiques
+Nace2008;22.11;Fabrication et rechapage de pneumatiques
+Nace2008;22.19;Fabrication d'autres articles en caoutchouc
+Nace2008;22.21;Fabrication de plaques, feuilles, tubes et profilés en matières plastiques
+Nace2008;22.22;Fabrication d'emballages en matières plastiques
+Nace2008;22.23;Fabrication d'éléments en matières plastiques pour la construction
+Nace2008;22.29;Fabrication d'autres articles en matières plastiques
+Nace2008;23.11;Fabrication de verre plat
+Nace2008;23.12;Façonnage et transformation du verre plat
+Nace2008;23.13;Fabrication de verre creux
+Nace2008;23.14;Fabrication de fibres de verre
+Nace2008;23.19;Fabrication et façonnage d'autres articles en verre, y compris verre technique
+Nace2008;23.20;Fabrication de produits réfractaires
+Nace2008;23.31;Fabrication de carreaux en céramique
+Nace2008;23.32;Fabrication de briques, de tuiles et de produits de construction en terre cuite
+Nace2008;23.41;Fabrication d'articles céramiques à usage domestique ou ornemental
+Nace2008;23.42;Fabrication d'appareils sanitaires en céramique
+Nace2008;23.43;Fabrication d'isolateurs et de pièces isolantes en céramique
+Nace2008;23.44;Fabrication d'autres produits céramiques à usage technique
+Nace2008;23.49;Fabrication d'autres produits céramiques
+Nace2008;23.51;Fabrication de ciment
+Nace2008;23.52;Fabrication de chaux et de plâtre
+Nace2008;23.61;Fabrication d'éléments en béton pour la construction
+Nace2008;23.62;Fabrication d'éléments en plâtre pour la construction
+Nace2008;23.63;Fabrication de béton prêt à l'emploi
+Nace2008;23.64;Fabrication de mortiers et de bétons secs
+Nace2008;23.65;Fabrication d'ouvrages en fibre-ciment
+Nace2008;23.69;Fabrication d'autres ouvrages en béton, en ciment ou en plâtre
+Nace2008;23.70;Taille, façonnage et finissage de pierres
+Nace2008;23.91;Fabrication de produits abrasifs
+Nace2008;23.99;Fabrication d'autres produits minéraux non métalliques n.c.a.
+Nace2008;24.10;Sidérurgie
+Nace2008;24.20;Fabrication de tubes, de tuyaux, de profilés creux et d'accessoires correspondants en acier
+Nace2008;24.31;Étirage à froid de barres
+Nace2008;24.32;Laminage à froid de feuillards
+Nace2008;24.33;Profilage à froid par formage ou pliage
+Nace2008;24.34;Tréfilage à froid
+Nace2008;24.41;Production de métaux précieux
+Nace2008;24.42;Métallurgie de l'aluminium
+Nace2008;24.43;Métallurgie du plomb, du zinc ou de l'étain
+Nace2008;24.44;Métallurgie du cuivre
+Nace2008;24.45;Métallurgie des autres métaux non ferreux
+Nace2008;24.46;Élaboration et transformation de matières nucléaires
+Nace2008;24.51;Fonderie de fonte
+Nace2008;24.52;Fonderie d'acier
+Nace2008;24.53;Fonderie de métaux légers
+Nace2008;24.54;Fonderie d'autres métaux non ferreux
+Nace2008;25.11;Fabrication de structures métalliques et de parties de structures
+Nace2008;25.12;Fabrication de portes et de fenêtres en métal
+Nace2008;25.21;Fabrication de radiateurs et de chaudières pour le chauffage central
+Nace2008;25.29;Fabrication d'autres réservoirs, citernes et conteneurs métalliques
+Nace2008;25.30;Fabrication de générateurs de vapeur, à l'exception des chaudières pour le chauffage central
+Nace2008;25.40;Fabrication d'armes et de munitions
+Nace2008;25.50;"Forge, emboutissage, estampage des métaux; métallurgie des poudres"
+Nace2008;25.61;Traitement et revêtement des métaux
+Nace2008;25.62;Usinage
+Nace2008;25.71;Fabrication de coutellerie
+Nace2008;25.72;Fabrication de serrures et de ferrures
+Nace2008;25.73;Fabrication d'outillage
+Nace2008;25.91;Fabrication de fûts et d'emballages métalliques similaires
+Nace2008;25.92;Fabrication d'emballages métalliques légers
+Nace2008;25.93;Fabrication d'articles en fils métalliques, de chaînes et de ressorts
+Nace2008;25.94;Fabrication de vis et de boulons
+Nace2008;25.99;Fabrication d'autres produits métalliques n.c.a.
+Nace2008;26.11;Fabrication de composants électroniques
+Nace2008;26.12;Fabrication de cartes électroniques assemblées
+Nace2008;26.20;Fabrication d'ordinateurs et d'équipements périphériques
+Nace2008;26.30;Fabrication d'équipements de communication
+Nace2008;26.40;Fabrication de produits électroniques grand public
+Nace2008;26.51;Fabrication d'instruments et d'appareils de mesure, d'essai et de navigation
+Nace2008;26.52;Horlogerie
+Nace2008;26.60;Fabrication d'équipements d'irradiation médicale, d'équipements électromédicaux et électrothérapeutiques
+Nace2008;26.70;Fabrication de matériels optiques et photographiques
+Nace2008;26.80;Fabrication de supports magnétiques et optiques
+Nace2008;27.11;Fabrication de moteurs, de génératrices et de transformateurs électriques
+Nace2008;27.12;Fabrication de matériel de distribution et de commande électrique
+Nace2008;27.20;Fabrication de piles et d'accumulateurs électriques
+Nace2008;27.31;Fabrication de câbles de fibres optiques
+Nace2008;27.32;Fabrication d'autres fils et de câbles électroniques ou électriques
+Nace2008;27.33;Fabrication de matériel d'installation électrique
+Nace2008;27.40;Fabrication de lampes et d'appareils d'éclairage électrique
+Nace2008;27.51;Fabrication d'appareils électroménagers
+Nace2008;27.52;Fabrication d'appareils ménagers non électriques
+Nace2008;27.90;Fabrication d'autres matériels électriques
+Nace2008;28.11;Fabrication de moteurs et de turbines, à l'exception des moteurs d'avions, de véhicules automobiles et de motocycles
+Nace2008;28.12;Fabrication d'équipements hydrauliques et pneumatiques
+Nace2008;28.13;Fabrication d'autres pompes et de compresseurs
+Nace2008;28.14;Fabrication d'autres articles de robinetterie
+Nace2008;28.15;Fabrication d'engrenages et d'organes mécaniques de transmission
+Nace2008;28.21;Fabrication de fours et de brûleurs
+Nace2008;28.22;Fabrication de matériel de levage et de manutention
+Nace2008;28.23;Fabrication de machines et d'équipements de bureau (à l'exception des ordinateurs et des équipements périphériques)
+Nace2008;28.24;Fabrication d'outillage portatif à moteur incorporé
+Nace2008;28.25;Fabrication d'équipements aérauliques et frigorifiques industriels
+Nace2008;28.29;Fabrication de machines diverses d'usage général
+Nace2008;28.30;Fabrication de machines agricoles et forestières
+Nace2008;28.41;Fabrication de machines de formage des métaux
+Nace2008;28.49;Fabrication d'autres machines-outils
+Nace2008;28.91;Fabrication de machines pour la métallurgie
+Nace2008;28.92;Fabrication de machines pour l'extraction ou la construction
+Nace2008;28.93;Fabrication de machines pour l'industrie agro-alimentaire
+Nace2008;28.94;Fabrication de machines pour les industries textiles
+Nace2008;28.95;Fabrication de machines pour les industries du papier et du carton
+Nace2008;28.96;Fabrication de machines pour le travail du caoutchouc ou des plastiques
+Nace2008;28.99;Fabrication d'autres machines d'usage spécifique n.c.a.
+Nace2008;29.10;Construction et assemblage de véhicules automobiles
+Nace2008;29.20;"Fabrication de carrosseries de véhicules automobiles; fabrication de remorques et de semi-remorques"
+Nace2008;29.31;Fabrication d'équipements électriques et électroniques pour véhicules automobiles
+Nace2008;29.32;Fabrication d'autres équipements pour véhicules automobiles
+Nace2008;30.11;Construction de navires et de structures flottantes
+Nace2008;30.12;Construction de bateaux de plaisance
+Nace2008;30.20;Construction de locomotives et d'autre matériel ferroviaire roulant
+Nace2008;30.30;Construction aéronautique et spatiale
+Nace2008;30.40;Construction de véhicules militaires de combat
+Nace2008;30.91;Fabrication de motocycles
+Nace2008;30.92;Fabrication de bicyclettes et de véhicules pour invalides
+Nace2008;30.99;Fabrication d'autres équipements de transport n.c.a.
+Nace2008;31.01;Fabrication de meubles de bureau et de magasin
+Nace2008;31.02;Fabrication de meubles de cuisine
+Nace2008;31.03;Fabrication de matelas
+Nace2008;31.09;Fabrication d'autres meubles
+Nace2008;32.11;Frappe de monnaie
+Nace2008;32.12;"Travail des pierres précieuses; fabrication d'articles de joaillerie et de bijouterie"
+Nace2008;32.13;Fabrication d'articles de bijouterie de fantaisie et d'articles similaires
+Nace2008;32.20;Fabrication d'instruments de musique
+Nace2008;32.30;Fabrication d'articles de sport
+Nace2008;32.40;Fabrication de jeux et de jouets
+Nace2008;32.50;Fabrication d'instruments et de fournitures à usage médical et dentaire
+Nace2008;32.91;Fabrication d'articles de brosserie
+Nace2008;32.99;Autres activités manufacturières n.c.a.
+Nace2008;33.11;Réparation d'ouvrages en métaux
+Nace2008;33.12;Réparation de machines
+Nace2008;33.13;Réparation de matériels électroniques et optiques
+Nace2008;33.14;Réparation d'équipements électriques
+Nace2008;33.15;Réparation et maintenance navale
+Nace2008;33.16;Réparation et maintenance d'aéronefs et d'engins spatiaux
+Nace2008;33.17;Réparation et maintenance d'autres équipements de transport
+Nace2008;33.19;Réparation d'autres équipements
+Nace2008;33.20;Installation de machines et d'équipements industriels
+Nace2008;35.11;Production d'électricité
+Nace2008;35.12;Transport d'électricité
+Nace2008;35.13;Distribution d'électricité
+Nace2008;35.14;Commerce d'électricité
+Nace2008;35.21;Production de combustibles gazeux
+Nace2008;35.22;Distribution de combustibles gazeux par conduites
+Nace2008;35.23;Commerce de combustibles gazeux par conduites
+Nace2008;35.30;Production et distribution de vapeur et d'air conditionné
+Nace2008;36.00;Captage, traitement et distribution d'eau
+Nace2008;37.00;Collecte et traitement des eaux usées
+Nace2008;38.11;Collecte des déchets non dangereux
+Nace2008;38.12;Collecte des déchets dangereux
+Nace2008;38.21;Traitement et élimination des déchets non dangereux
+Nace2008;38.22;Traitement et élimination des déchets dangereux
+Nace2008;38.31;Démantèlement d'épaves
+Nace2008;38.32;Récupération de déchets triés
+Nace2008;39.00;Dépollution et autres services de gestion des déchets
+Nace2008;41.10;Promotion immobilière
+Nace2008;41.20;Construction de bâtiments résidentiels et non résidentiels
+Nace2008;42.11;Construction de routes et d'autoroutes
+Nace2008;42.12;Construction de voies ferrées de surface et souterraines
+Nace2008;42.13;Construction de ponts et de tunnels
+Nace2008;42.21;Construction de réseaux pour fluides
+Nace2008;42.22;Construction de réseaux électriques et de télécommunications
+Nace2008;42.91;Construction d'ouvrages maritimes et fluviaux
+Nace2008;42.99;Construction d'autres ouvrages de génie civil n.c.a.
+Nace2008;43.11;Travaux de démolition
+Nace2008;43.12;Travaux de préparation des sites
+Nace2008;43.13;Forages d'essai et sondages
+Nace2008;43.21;Installation électrique
+Nace2008;43.22;Travaux de plomberie et installation de chauffage et de conditionnement d'air
+Nace2008;43.29;Autres travaux d'installation
+Nace2008;43.31;Travaux de plâtrerie
+Nace2008;43.32;Travaux de menuiserie
+Nace2008;43.33;Travaux de revêtement des sols et des murs
+Nace2008;43.34;Travaux de peinture et vitrerie
+Nace2008;43.39;Autres travaux de finition
+Nace2008;43.91;Travaux de couverture
+Nace2008;43.99;Autres travaux de construction spécialisés n.c.a.
+Nace2008;45.11;Commerce d'automobiles et d'autres véhicules automobiles légers  ( = 3,5 tonnes )
+Nace2008;45.19;Commerce d'autres véhicules automobiles
+Nace2008;45.20;Entretien et réparation de véhicules automobiles
+Nace2008;45.31;Commerce de gros d'équipements de véhicules automobiles
+Nace2008;45.32;Commerce de détail d'équipements de véhicules automobiles
+Nace2008;45.40;Commerce, entretien et réparation de motocycles et de pièces et accessoires de motocycles
+Nace2008;46.11;Intermédiaires du commerce en matières premières agricoles, animaux vivants, matières premières textiles et produits semi-finis
+Nace2008;46.12;Intermédiaires du commerce en combustibles, métaux, minéraux et produits chimiques
+Nace2008;46.13;Intermédiaires du commerce en bois et matériaux de construction
+Nace2008;46.14;Intermédiaires du commerce en machines, équipements industriels, navires et avions
+Nace2008;46.15;Intermédiaires du commerce en meubles, articles de ménage et quincaillerie
+Nace2008;46.16;Intermédiaires du commerce en textiles, habillement, fourrures, chaussures et articles en cuir
+Nace2008;46.17;Intermédiaires du commerce en denrées, boissons et tabac
+Nace2008;46.18;Intermédiaires spécialisés dans le commerce d'autres produits spécifiques
+Nace2008;46.19;Intermédiaires du commerce en produits divers
+Nace2008;46.21;Commerce de gros de céréales, de tabac non manufacturé, de semences et d'aliments pour le bétail
+Nace2008;46.22;Commerce de gros de fleurs et de plantes
+Nace2008;46.23;Commerce de gros d'animaux vivants
+Nace2008;46.24;Commerce de gros de cuirs et de peaux
+Nace2008;46.31;Commerce de gros de fruits et de légumes
+Nace2008;46.32;Commerce de gros de viandes et de produits à base de viande
+Nace2008;46.33;Commerce de gros de produits laitiers, oeufs, huiles et matières grasses comestibles
+Nace2008;46.34;Commerce de gros de boissons
+Nace2008;46.35;Commerce de gros de produits à base de tabac
+Nace2008;46.36;Commerce de gros de sucre, de chocolat et de confiserie
+Nace2008;46.37;Commerce de gros de café, de thé, de cacao et d'épices
+Nace2008;46.38;Commerce de gros d'autres produits alimentaires, y compris poissons, crustacés et mollusques
+Nace2008;46.39;Commerce de gros non spécialisé de denrées, boissons et tabac
+Nace2008;46.41;Commerce de gros de textiles
+Nace2008;46.42;Commerce de gros d'habillement et de chaussures
+Nace2008;46.43;Commerce de gros d'appareils électroménagers
+Nace2008;46.44;Commerce de gros de porcelaine, de verrerie et de produits d'entretien
+Nace2008;46.45;Commerce de gros de parfumerie et de produits de beauté
+Nace2008;46.46;Commerce de gros de produits pharmaceutiques
+Nace2008;46.47;Commerce de gros de mobilier domestique, de tapis et d'appareils d'éclairage
+Nace2008;46.48;Commerce de gros d'articles d'horlogerie et de bijouterie
+Nace2008;46.49;Commerce de gros d'autres biens domestiques
+Nace2008;46.51;Commerce de gros d'ordinateurs, d'équipements informatiques périphériques et de logiciels
+Nace2008;46.52;Commerce de gros de composants et d'équipements électroniques et de télécommunication
+Nace2008;46.61;Commerce de gros de matériel agricole
+Nace2008;46.62;Commerce de gros de machines-outils
+Nace2008;46.63;Commerce de gros de machines pour l'extraction, la construction et le génie civil
+Nace2008;46.64;Commerce de gros de machines pour l'industrie textile et l'habillement
+Nace2008;46.65;Commerce de gros de mobilier de bureau
+Nace2008;46.66;Commerce de gros d'autres machines et équipements de bureau
+Nace2008;46.69;Commerce de gros d'autres machines et équipements
+Nace2008;46.71;Commerce de gros de combustibles solides, liquides et gazeux et de produits annexes
+Nace2008;46.72;Commerce de gros de minerais et de métaux
+Nace2008;46.73;Commerce de gros de bois, de matériaux de construction et d'appareils sanitaires
+Nace2008;46.74;Commerce de gros de quincaillerie et de fournitures pour plomberie et chauffage
+Nace2008;46.75;Commerce de gros de produits chimiques
+Nace2008;46.76;Commerce de gros d'autres produits intermédiaires
+Nace2008;46.77;Commerce de gros de déchets et de débris
+Nace2008;46.90;Commerce de gros non spécialisé
+Nace2008;47.11;Commerce de détail en magasin non spécialisé à prédominance alimentaire
+Nace2008;47.19;Autres commerces de détail en magasin non spécialisé
+Nace2008;47.21;Commerce de détail de fruits et de légumes en magasin spécialisé
+Nace2008;47.22;Commerce de détail de viandes et de produits à base de viande en magasin spécialisé
+Nace2008;47.23;Commerce de détail de poissons, crustacés et mollusques en magasin spécialisé
+Nace2008;47.24;Commerce de détail de pain, de pâtisserie et de confiserie en magasin spécialisé
+Nace2008;47.25;Commerce de détail de boissons en magasin spécialisé
+Nace2008;47.26;Commerce de détail de produits à base de tabac en magasin spécialisé
+Nace2008;47.29;Autres commerces de détail alimentaires en magasin spécialisé
+Nace2008;47.30;Commerce de détail de carburants automobiles en magasin spécialisé
+Nace2008;47.41;Commerce de détail d'ordinateurs, d'unités périphériques et de logiciels en magasin spécialisé
+Nace2008;47.42;Commerce de détail de matériels de télécommunication en magasin spécialisé
+Nace2008;47.43;Commerce de détail de matériels audio-vidéo en magasin spécialisé
+Nace2008;47.51;Commerce de détail de textiles en magasin spécialisé
+Nace2008;47.52;Commerce de détail de quincaillerie, de peintures et de verres en magasin spécialisé
+Nace2008;47.53;Commerce de détail de tapis, de moquettes et de revêtements de murs et de sols en magasin spécialisé
+Nace2008;47.54;Commerce de détail d'appareils électroménagers en magasin spécialisé
+Nace2008;47.59;Commerce de détail de meubles, d'appareils d'éclairage et d'autres articles de ménage en magasin spécialisé
+Nace2008;47.61;Commerce de détail de livres en magasin spécialisé
+Nace2008;47.62;Commerce de détail de journaux et de papeterie en magasin spécialisé
+Nace2008;47.63;Commerce de détail d'enregistrements musicaux et vidéo en magasin spécialisé
+Nace2008;47.64;Commerce de détail d'articles de sport en magasin spécialisé
+Nace2008;47.65;Commerce de détail de jeux et de jouets en magasin spécialisé
+Nace2008;47.71;Commerce de détail d'habillement en magasin spécialisé
+Nace2008;47.72;Commerce de détail de chaussures et d'articles en cuir en magasin spécialisé
+Nace2008;47.73;Commerce de détail de produits pharmaceutiques en magasin spécialisé
+Nace2008;47.74;Commerce de détail d'articles médicaux et orthopédiques en magasin spécialisé
+Nace2008;47.75;Commerce de détail de parfumerie et de produits de beauté en magasin spécialisé
+Nace2008;47.76;Commerce de détail de fleurs, de plantes, de graines, d'engrais, d'animaux de compagnie et d'aliments pour ces animaux en magasin spécialisé
+Nace2008;47.77;Commerce de détail d'articles d'horlogerie et de bijouterie en magasin spécialisé
+Nace2008;47.78;Autres commerces de détail de biens neufs en magasin spécialisé
+Nace2008;47.79;Commerce de détail d'antiquités et de biens d'occasion en magasin
+Nace2008;47.81;Commerce de détail alimentaire sur éventaires et marchés
+Nace2008;47.82;Commerce de détail de textiles, d'habillement et de chaussures sur éventaires et marchés
+Nace2008;47.89;Autres commerces de détail sur éventaires et marchés
+Nace2008;47.91;Vente à distance
+Nace2008;47.99;Autres commerces de détail hors magasin, éventaires ou marchés
+Nace2008;49.10;Transport ferroviaire de voyageurs autre qu'urbain et suburbain
+Nace2008;49.20;Transports ferroviaires de fret
+Nace2008;49.31;Transports urbains et suburbains de voyageurs
+Nace2008;49.32;Transports de voyageurs par taxis
+Nace2008;49.39;Autres transports terrestres de voyageurs n.c.a.
+Nace2008;49.41;Transports routiers de fret
+Nace2008;49.42;Services de déménagement
+Nace2008;49.50;Transports par conduites
+Nace2008;50.10;Transports maritimes et côtiers de passagers
+Nace2008;50.20;Transports maritimes et côtiers de fret
+Nace2008;50.30;Transports fluviaux de passagers
+Nace2008;50.40;Transports fluviaux de fret
+Nace2008;51.10;Transports aériens de passagers
+Nace2008;51.21;Transports aériens de fret
+Nace2008;51.22;Transports spatiaux
+Nace2008;52.10;Entreposage et stockage
+Nace2008;52.21;Services auxiliaires des transports terrestres
+Nace2008;52.22;Services auxiliaires des transports par eau
+Nace2008;52.23;Services auxiliaires des transports aériens
+Nace2008;52.24;Manutention
+Nace2008;52.29;Autres services auxiliaires des transports
+Nace2008;53.10;Activités de poste dans le cadre d'une obligation de service universel
+Nace2008;53.20;Autres activités de poste et de courrier
+Nace2008;55.10;Hôtels et hébergement similaire
+Nace2008;55.20;Hébergement touristique et autre hébergement de courte durée
+Nace2008;55.30;Terrains de camping et parcs pour caravanes ou véhicules de loisirs
+Nace2008;55.90;Autres hébergements
+Nace2008;56.10;Restaurants et services de restauration mobile
+Nace2008;56.21;Services des traiteurs
+Nace2008;56.29;Autres services de restauration
+Nace2008;56.30;Débits de boissons
+Nace2008;58.11;Édition de livres
+Nace2008;58.12;Édition de répertoires et de fichiers d'adresses
+Nace2008;58.13;Édition de journaux
+Nace2008;58.14;Édition de revues et de périodiques
+Nace2008;58.19;Autres activités d'édition
+Nace2008;58.21;Édition de jeux électroniques
+Nace2008;58.29;Édition d'autres logiciels
+Nace2008;59.11;Production de films cinématographiques, de vidéo et de programmes de télévision
+Nace2008;59.12;Post-production de films cinématographiques, de vidéo et de programmes de télévision
+Nace2008;59.13;Distribution de films cinématographiques, de vidéo et de programmes de télévision
+Nace2008;59.14;Projection de films cinématographiques
+Nace2008;59.20;Enregistrement sonore et édition musicale
+Nace2008;60.10;Diffusion de programmes radio
+Nace2008;60.20;Programmation de télévision et télédiffusion
+Nace2008;61.10;Télécommunications filaires
+Nace2008;61.20;Télécommunications sans fil
+Nace2008;61.30;Télécommunications par satellite
+Nace2008;61.90;Autres activités de télécommunication
+Nace2008;62.01;Programmation informatique
+Nace2008;62.02;Conseil informatique
+Nace2008;62.03;Gestion d'installations informatiques
+Nace2008;62.09;Autres activités informatiques
+Nace2008;63.11;Traitement de données, hébergement et activités connexes
+Nace2008;63.12;Portails Internet
+Nace2008;63.91;Activités des agences de presse
+Nace2008;63.99;Autres services d'information n.c.a.
+Nace2008;64.11;Activités de banque centrale
+Nace2008;64.19;Autres intermédiations monétaires
+Nace2008;64.20;Activités des sociétés holding
+Nace2008;64.30;Fonds de placement et entités financières similaires
+Nace2008;64.91;Crédit-bail
+Nace2008;64.92;Autre distribution de crédit
+Nace2008;64.99;Autres activités des services financiers, hors assurance et caisses de retraite n.c.a.
+Nace2008;65.11;Assurance vie
+Nace2008;65.12;Assurance non-vie
+Nace2008;65.20;Réassurance
+Nace2008;65.30;Caisses de retraite
+Nace2008;66.11;Administration de marchés financiers
+Nace2008;66.12;Courtage de valeurs mobilières et de marchandises
+Nace2008;66.19;Autres activités auxiliaires de services financiers, hors assurance et caisses de retraite
+Nace2008;66.21;Évaluation des risques et dommages
+Nace2008;66.22;Activités des agents et courtiers d'assurances
+Nace2008;66.29;Autres activités auxiliaires d'assurance et de caisses de retraite
+Nace2008;66.30;Gestion de fonds
+Nace2008;68.10;Activités des marchands de biens immobiliers
+Nace2008;68.20;Location et exploitation de biens immobiliers propres ou loués
+Nace2008;68.31;Agences immobilières
+Nace2008;68.32;Administration de biens immobiliers pour compte de tiers
+Nace2008;69.10;Activités juridiques
+Nace2008;69.20;Activités comptables
+Nace2008;70.10;Activités des sièges sociaux
+Nace2008;70.21;Conseil en relations publiques et en communication
+Nace2008;70.22;Conseil pour les affaires et autres conseils de gestion
+Nace2008;71.11;Activités d'architecture
+Nace2008;71.12;Activités d'ingénierie et de conseils techniques
+Nace2008;71.20;Activités de contrôle et analyses techniques
+Nace2008;72.11;Recherche-développement en biotechnologie
+Nace2008;72.19;Recherche-développement en autres sciences physiques et naturelles
+Nace2008;72.20;Recherche-développement en sciences humaines et sociales
+Nace2008;73.11;Activités des agences de publicité
+Nace2008;73.12;Régie publicitaire de médias
+Nace2008;73.20;Études de marché et sondages d'opinion
+Nace2008;74.10;Activités spécialisées de design
+Nace2008;74.20;Activités photographiques
+Nace2008;74.30;Traduction et interprétation
+Nace2008;74.90;Autres activités spécialisées, scientifiques et techniques n.c.a.
+Nace2008;75.00;Activités vétérinaires
+Nace2008;77.11;Location et location-bail d'automobiles et d'autres véhicules automobiles légers (< 3,5 tonnes)
+Nace2008;77.12;Location et location-bail de camions et d'autres véhicules automobiles lourds (> 3,5 ton)
+Nace2008;77.21;Location et location-bail d'articles de loisirs et de sport
+Nace2008;77.22;Location de vidéocassettes et de disques vidéo
+Nace2008;77.29;Location et location-bail d'autres biens personnels et domestiques
+Nace2008;77.31;Location et location-bail de machines et d'équipements agricoles
+Nace2008;77.32;Location et location-bail de machines et d'équipements pour la construction
+Nace2008;77.33;Location et location-bail de machines de bureau et de matériel informatique
+Nace2008;77.34;Location et location-bail de matériels de transport par eau
+Nace2008;77.35;Location et location-bail de matériels de transport aérien
+Nace2008;77.39;Location et location-bail d'autres machines, équipements et biens matériels n.c.a.
+Nace2008;77.40;Location-bail de propriété intellectuelle et de produits similaires, à l'exception des oeuvres soumises au droit d'auteur
+Nace2008;78.10;Activités des agences de placement de main-d'oeuvre
+Nace2008;78.20;Activités des agences de travail temporaire
+Nace2008;78.30;Autre mise à disposition de ressources humaines
+Nace2008;79.11;Activités des agences de voyage
+Nace2008;79.12;Activités des voyagistes
+Nace2008;79.90;Autres services de réservation et activités connexes
+Nace2008;80.10;Activités de sécurité privée
+Nace2008;80.20;Activités liées aux systèmes de sécurité
+Nace2008;80.30;Activités d'enquête
+Nace2008;81.10;Activités combinées de soutien lié aux bâtiments
+Nace2008;81.21;Nettoyage courant des bâtiments
+Nace2008;81.22;"Autres activités de nettoyage des bâtiments; nettoyage industriel"
+Nace2008;81.29;Autres activités de nettoyage
+Nace2008;81.30;Services d'aménagement paysager
+Nace2008;82.11;Services administratifs combinés de bureau
+Nace2008;82.19;Photocopie, préparation de documents et autres activités spécialisées de soutien de bureau
+Nace2008;82.20;Activités des centres d'appels
+Nace2008;82.30;Organisation de salons professionnels et de congrès
+Nace2008;82.91;Activités des agences de recouvrement de factures et des sociétés d'information financière sur la clientèle
+Nace2008;82.92;Activités de conditionnement
+Nace2008;82.99;Autres activités de soutien aux entreprises n.c.a.
+Nace2008;84.11;Administration publique générale
+Nace2008;84.12;Administration publique (tutelle) de la santé, de la formation, de la culture et des autres services sociaux, à l'exclusion de la sécurité sociale
+Nace2008;84.13;Administration publique (tutelle) des activités économiques
+Nace2008;84.21;Affaires étrangères
+Nace2008;84.22;Défense
+Nace2008;84.23;Justice
+Nace2008;84.24;Activités d'ordre public et de sécurité civile
+Nace2008;84.25;Services du feu
+Nace2008;84.30;Sécurité sociale obligatoire
+Nace2008;85.10;Enseignement maternel
+Nace2008;85.20;Enseignement primaire
+Nace2008;85.31;Enseignement secondaire général
+Nace2008;85.32;Enseignement secondaire technique, professionnel et spécialisé
+Nace2008;85.41;Enseignement post-secondaire non supérieur
+Nace2008;85.42;Enseignement supérieur
+Nace2008;85.51;Enseignement de disciplines sportives et d'activités de loisirs
+Nace2008;85.52;Enseignement culturel
+Nace2008;85.53;Enseignement de la conduite
+Nace2008;85.59;Enseignements divers
+Nace2008;85.60;Activités de soutien à l'enseignement
+Nace2008;86.10;Activités hospitalières
+Nace2008;86.21;Activités des médecins généralistes
+Nace2008;86.22;Activités des médecins spécialistes
+Nace2008;86.23;Pratique dentaire
+Nace2008;86.90;Autres activités pour la santé humaine
+Nace2008;87.10;Activités de soins infirmiers résidentiels
+Nace2008;87.20;Activités de soins résidentiels pour personnes avec un handicap mental, un problème psychiatrique ou toxicodépendantes
+Nace2008;87.30;Activités de soins résidentiels pour personnes âgées ou avec un handicap moteur
+Nace2008;87.90;Autres activités sociales avec hébergement
+Nace2008;88.10;Action sociale sans hébergement pour personnes âgées et pour personnes avec un handicap moteur
+Nace2008;88.91;Action sociale sans hébergement pour jeunes enfants
+Nace2008;88.99;Autre action sociale sans hébergement n.c.a.
+Nace2008;90.01;Arts du spectacle vivant
+Nace2008;90.02;Activités de soutien au spectacle vivant
+Nace2008;90.03;Création artistique
+Nace2008;90.04;Gestion de salles de spectacles
+Nace2008;91.01;Gestion des bibliothèques et des archives
+Nace2008;91.02;Gestion des musées
+Nace2008;91.03;Gestion des sites et monuments historiques et des attractions touristiques similaires
+Nace2008;91.04;Gestion des jardins botaniques et zoologiques et des réserves naturelles
+Nace2008;92.00;Organisation de jeux de hasard et d'argent
+Nace2008;93.11;Gestion d'installations sportives
+Nace2008;93.12;Activités de clubs de sports
+Nace2008;93.13;Activités des centres de culture physique
+Nace2008;93.19;Autres activités liées au sport
+Nace2008;93.21;Activités foraines, des parcs d'attractions et des parcs à thèmes
+Nace2008;93.29;Autres activités récréatives et de loisirs
+Nace2008;94.11;Activités des organisations patronales et économiques
+Nace2008;94.12;Activités des organisations professionnelles
+Nace2008;94.20;Activités des syndicats de salariés
+Nace2008;94.91;Activités des organisations religieuses et philosophiques
+Nace2008;94.92;Activités des organisations politiques
+Nace2008;94.99;Activités des organisations associatives n.c.a.
+Nace2008;95.11;Réparation d'ordinateurs et d'équipements périphériques
+Nace2008;95.12;Réparation d'équipements de communication
+Nace2008;95.21;Réparation de produits électroniques grand public
+Nace2008;95.22;Réparation d'appareils électroménagers et d'équipements pour la maison et le jardin
+Nace2008;95.23;Réparation de chaussures et d'articles en cuir
+Nace2008;95.24;Réparation de meubles et d'équipements du foyer
+Nace2008;95.25;Réparation d'articles d'horlogerie et de bijouterie
+Nace2008;95.29;Réparation d'autres biens personnels et domestiques
+Nace2008;96.01;Blanchisserie-teinturerie
+Nace2008;96.02;Coiffure et soins de beauté
+Nace2008;96.03;Services funéraires
+Nace2008;96.04;Entretien corporel
+Nace2008;96.09;Autres services personnels n.c.a.
+Nace2008;97.00;Activités des ménages en tant qu'employeurs de personnel domestique
+Nace2008;98.10;Activités indifférenciées des ménages en tant que producteurs de biens pour usage propre
+Nace2008;98.20;Activités indifférenciées des ménages en tant que producteurs de services pour usage propre
+Nace2008;99.00;Activités des organisations et organismes extraterritoriaux
+Nace2025;01.11;Culture de céréales, à l’exception du riz, et de légumineuses et de graines oléagineuses
+Nace2025;01.12;Culture du riz
+Nace2025;01.13;Culture de légumes, de melons, de racines et de tubercules
+Nace2025;01.14;Culture de la canne à sucre
+Nace2025;01.15;Culture du tabac
+Nace2025;01.16;Culture de plantes à fibres
+Nace2025;01.19;Autres cultures non permanentes
+Nace2025;01.21;Culture de la vigne
+Nace2025;01.22;Culture de fruits tropicaux et subtropicaux
+Nace2025;01.23;Culture d’agrumes
+Nace2025;01.24;Culture de fruits à pépins et à noyau
+Nace2025;01.25;Culture d’autres fruits d’arbres ou d’arbustes et de fruits à coque
+Nace2025;01.26;Culture de fruits oléagineux
+Nace2025;01.27;Culture de plantes à boissons
+Nace2025;01.28;Culture de plantes à épices, aromatiques, médicinales et pharmaceutiques
+Nace2025;01.29;Autres cultures permanentes
+Nace2025;01.30;Reproduction de plantes
+Nace2025;01.41;Élevage de vaches laitières
+Nace2025;01.42;Élevage d’autres bovins et de buffles
+Nace2025;01.43;Élevage de chevaux et d’autres équidés
+Nace2025;01.44;Élevage de chameaux et d’autres camélidés
+Nace2025;01.45;Élevage d’ovins et de caprins
+Nace2025;01.46;Élevage de porcins
+Nace2025;01.47;Élevage de volailles
+Nace2025;01.48;Élevage d'autres animaux
+Nace2025;01.50;Culture et élevage associés
+Nace2025;01.61;Activités de soutien aux cultures
+Nace2025;01.62;Activités de soutien à la production animale
+Nace2025;01.63;Traitement primaire des récoltes et traitement des semences
+Nace2025;01.70;Chasse, piégeage et activités de service connexes
+Nace2025;02.10;Sylviculture et autres activités forestières
+Nace2025;02.20;Exploitation forestière
+Nace2025;02.30;Récolte de produits forestiers non ligneux poussant à l’état sauvage
+Nace2025;02.40;Activités de soutien à l’exploitation forestière
+Nace2025;03.11;Pêche en mer
+Nace2025;03.12;Pêche en eau douce
+Nace2025;03.21;Aquaculture en mer
+Nace2025;03.22;Aquaculture en eau douce
+Nace2025;03.30;Activités de soutien à la pêche et l’aquaculture
+Nace2025;05.10;Extraction de houille
+Nace2025;05.20;Extraction de lignite
+Nace2025;06.10;Extraction de pétrole brut
+Nace2025;06.20;Extraction de gaz naturel
+Nace2025;07.10;Extraction de minerais de fer
+Nace2025;07.21;Extraction de minerais d’uranium et de thorium
+Nace2025;07.29;Extraction d’autres minerais de métaux non ferreux
+Nace2025;08.11;Extraction de pierres ornementales, de calcaire industriel, de gypse, d’ardoise et d’autres pierres
+Nace2025;08.12;Exploitation de gravières et sablières, extraction d’argiles et de kaolin
+Nace2025;08.91;Extraction de minéraux chimiques et d’engrais minéraux
+Nace2025;08.92;Extraction de tourbe
+Nace2025;08.93;Production de sel
+Nace2025;08.99;Autres activités extractives nca
+Nace2025;09.10;Activités de soutien à l’extraction d’hydrocarbures
+Nace2025;09.90;Activités de soutien aux autres industries extractives
+Nace2025;10.11;Transformation et conservation de la viande, à l’exception de la viande de volaille
+Nace2025;10.12;Transformation et conservation de la viande de volaille
+Nace2025;10.13;Préparation de produits à base de viande et viande de volaille
+Nace2025;10.20;Transformation et conservation de poisson, de crustacés et de mollusques
+Nace2025;10.31;Transformation et conservation de pommes de terre
+Nace2025;10.32;Préparation de jus de fruits et légumes
+Nace2025;10.39;Autre transformation et conservation de fruits et légumes
+Nace2025;10.41;Fabrication d’huiles et graisses
+Nace2025;10.42;Fabrication de margarine et graisses comestibles similaires
+Nace2025;10.51;Fabrication de produits laitiers
+Nace2025;10.52;Fabrication de crèmes glacées et autres glaces alimentaires
+Nace2025;10.61;Travail des grains
+Nace2025;10.62;Fabrication de produits amylacés
+Nace2025;10.71;"Fabrication de pain; fabrication de pâtisserie fraîche"
+Nace2025;10.72;Fabrication de biscuits, biscottes et pâtisseries de conservation
+Nace2025;10.73;Fabrication de pâtes alimentaires
+Nace2025;10.81;Fabrication de sucre
+Nace2025;10.82;Fabrication de cacao, de chocolat et de produits de confiserie
+Nace2025;10.83;Transformation du thé et du café
+Nace2025;10.84;Fabrication de condiments et assaisonnements
+Nace2025;10.85;Fabrication de plats préparés
+Nace2025;10.86;Fabrication d’aliments homogénéisés et diététiques
+Nace2025;10.89;Fabrication d’autres produits alimentaires nca
+Nace2025;10.91;Fabrication d’aliments pour animaux de ferme
+Nace2025;10.92;Fabrication d’aliments pour animaux de compagnie
+Nace2025;11.01;Fabrication de boissons distillées, par distillation, rectification et mélange
+Nace2025;11.02;Production de vin (de raisin)
+Nace2025;11.03;Fabrication de cidre et autres boissons fermentées à base de fruits
+Nace2025;11.04;Production d’autres boissons fermentées non distillées
+Nace2025;11.05;Fabrication de bière
+Nace2025;11.06;Fabrication de malt
+Nace2025;11.07;Fabrication de boissons non alcoolisées et d’eaux embouteillées
+Nace2025;12.00;Fabrication de produits à base de tabac
+Nace2025;13.10;Préparation de fibres textiles et filature
+Nace2025;13.20;Tissage
+Nace2025;13.30;Ennoblissement textile
+Nace2025;13.91;Fabrication d'étoffes à mailles
+Nace2025;13.92;Fabrication de textiles ménagers et d'articles d’ameublement confectionnés
+Nace2025;13.93;Fabrication de tapis et moquettes
+Nace2025;13.94;Fabrication de ficelles, cordes, cordages et filets
+Nace2025;13.95;Fabrication de textiles non-tissés et articles non-tissés
+Nace2025;13.96;Fabrication d'autres textiles techniques et industriels
+Nace2025;13.99;Fabrication d'autres textiles nca
+Nace2025;14.10;Fabrication d'articles à mailles
+Nace2025;14.21;Fabrication de vêtements de dessus
+Nace2025;14.22;Fabrication de vêtements de dessous
+Nace2025;14.23;Fabrication de vêtements de travail
+Nace2025;14.24;Fabrication de vêtements en cuir et en fourrure
+Nace2025;14.29;Fabrication d’autres articles d’habillement et accessoires nca
+Nace2025;15.11;Tannage, apprêt et teinture des cuirs et des fourrures
+Nace2025;15.12;Fabrication de bagages, de maroquinerie, sellerie et bourrellerie, en toutes matières
+Nace2025;15.20;Fabrication de chaussures
+Nace2025;16.11;Sciage et rabotage du bois
+Nace2025;16.12;Façonnage et finition du bois
+Nace2025;16.21;Fabrication de placage et de panneaux de bois
+Nace2025;16.22;Fabrication de parquets assemblés
+Nace2025;16.23;Fabrication de charpentes et d’autres menuiseries
+Nace2025;16.24;Fabrication d’emballages en bois
+Nace2025;16.25;Fabrication de portes et fenêtres en bois
+Nace2025;16.26;Fabrication de combustibles solides à partir de biomasse végétale
+Nace2025;16.27;Finition de produits en bois
+Nace2025;16.28;Fabrication d'objets divers en bois, d’objets en liège, vannerie et sparterie
+Nace2025;17.11;Fabrication de pâte à papier
+Nace2025;17.12;Fabrication de papier et de carton
+Nace2025;17.21;Fabrication de papier et carton ondulés et d’emballages en papier ou en carton
+Nace2025;17.22;Fabrication d’articles en papier à usage sanitaire ou domestique
+Nace2025;17.23;Fabrication d’articles de papeterie
+Nace2025;17.24;Fabrication de papiers peints
+Nace2025;17.25;Fabrication d’autres articles en papier ou en carton
+Nace2025;18.11;Imprimerie de journaux
+Nace2025;18.12;Autres activités d’imprimerie
+Nace2025;18.13;Activités de pré-presse
+Nace2025;18.14;Reliure et activités connexes
+Nace2025;18.20;Reproduction d’enregistrements
+Nace2025;19.10;Cokéfaction
+Nace2025;19.20;Raffinage du pétrole et fabrication de produits à base de combustibles fossiles
+Nace2025;20.11;Fabrication de gaz industriels
+Nace2025;20.12;Fabrication de colorants et de pigments
+Nace2025;20.13;Fabrication d’autres produits chimiques inorganiques de base
+Nace2025;20.14;Fabrication d’autres produits chimiques organiques de base
+Nace2025;20.15;Fabrication de produits azotés et d’engrais
+Nace2025;20.16;Fabrication de matières plastiques de base
+Nace2025;20.17;Fabrication de caoutchouc synthétique
+Nace2025;20.20;Fabrication de pesticides, de désinfectants et d’autres produits agrochimiques
+Nace2025;20.30;Fabrication de peintures, vernis, encres et mastics
+Nace2025;20.41;Fabrication de savons, détergents et produits d’entretien
+Nace2025;20.42;Fabrication de parfums et de produits pour la toilette
+Nace2025;20.51;Fabrication de biocarburants liquides
+Nace2025;20.59;Fabrication d’autres produits chimiques nca
+Nace2025;20.60;Fabrication de fibres artificielles ou synthétiques
+Nace2025;21.10;Fabrication de produits pharmaceutiques de base
+Nace2025;21.20;Fabrication de préparations pharmaceutiques
+Nace2025;22.11;Fabrication et rechapage de pneus en caoutchouc et fabrication de chambres à air
+Nace2025;22.12;Fabrication d’autres articles en caoutchouc
+Nace2025;22.21;Fabrication de plaques, feuilles, tubes et profilés en matières plastiques
+Nace2025;22.22;Fabrication d’emballages en matières plastiques
+Nace2025;22.23;Fabrication de portes et fenêtres en matières plastiques
+Nace2025;22.24;Fabrication d’éléments en matières plastiques pour la construction
+Nace2025;22.25;Façonnage et finition de produits en matières plastiques
+Nace2025;22.26;Fabrication d’autres articles en matières plastiques
+Nace2025;23.11;Fabrication de verre plat
+Nace2025;23.12;Façonnage et transformation du verre plat
+Nace2025;23.13;Fabrication de verre creux
+Nace2025;23.14;Fabrication de fibres de verre
+Nace2025;23.15;Fabrication et façonnage d’autres articles en verre, y compris verre technique
+Nace2025;23.20;Fabrication de produits réfractaires
+Nace2025;23.31;Fabrication de carreaux en céramique
+Nace2025;23.32;Fabrication de briques, tuiles et produits de construction, en terre cuite
+Nace2025;23.41;Fabrication d’articles céramiques à usage domestique ou ornemental
+Nace2025;23.42;Fabrication d’appareils sanitaires en céramique
+Nace2025;23.43;Fabrication d’isolateurs et pièces isolantes en céramique
+Nace2025;23.44;Fabrication d’autres produits céramiques à usage technique
+Nace2025;23.45;Fabrication d’autres produits céramiques
+Nace2025;23.51;Fabrication de ciment
+Nace2025;23.52;Fabrication de chaux et plâtre
+Nace2025;23.61;Fabrication d’éléments en béton pour la construction
+Nace2025;23.62;Fabrication d’éléments en plâtre pour la construction
+Nace2025;23.63;Fabrication de béton prêt à l’emploi
+Nace2025;23.64;Fabrication de mortiers
+Nace2025;23.65;Fabrication d’ouvrages en fibre-ciment
+Nace2025;23.66;Fabrication d’autres ouvrages en béton, en ciment ou en plâtre
+Nace2025;23.70;Taille, façonnage et finissage de pierres
+Nace2025;23.91;Fabrication de produits abrasifs
+Nace2025;23.99;Fabrication d’autres produits minéraux non métalliques nca
+Nace2025;24.10;Sidérurgie
+Nace2025;24.20;Fabrication de tubes, tuyaux, profilés creux et accessoires correspondants en acier
+Nace2025;24.31;Étirage à froid de barres
+Nace2025;24.32;Laminage à froid de feuillards
+Nace2025;24.33;Profilage à froid par formage ou pliage
+Nace2025;24.34;Tréfilage à froid
+Nace2025;24.41;Production de métaux précieux
+Nace2025;24.42;Métallurgie de l’aluminium
+Nace2025;24.43;Métallurgie du plomb, du zinc ou de l’étain
+Nace2025;24.44;Métallurgie du cuivre
+Nace2025;24.45;Métallurgie des autres métaux non ferreux
+Nace2025;24.46;Élaboration et transformation de matières nucléaires
+Nace2025;24.51;Fonderie de fonte
+Nace2025;24.52;Fonderie d’acier
+Nace2025;24.53;Fonderie de métaux légers
+Nace2025;24.54;Fonderie d’autres métaux non ferreux
+Nace2025;25.11;Fabrication de structures métalliques et de parties de structures
+Nace2025;25.12;Fabrication de portes et fenêtres en métal
+Nace2025;25.21;Fabrication de radiateurs, de générateurs de vapeur et de chaudières pour le chauffage central
+Nace2025;25.22;Fabrication d’autres réservoirs, citernes et conteneurs métalliques
+Nace2025;25.30;Fabrication d’armes et de munitions
+Nace2025;25.40;"Forgeage et façonnage de métal; métallurgie des poudres"
+Nace2025;25.51;Revêtement des métaux
+Nace2025;25.52;Traitement thermique des métaux
+Nace2025;25.53;Usinage des métaux
+Nace2025;25.61;Fabrication de coutellerie
+Nace2025;25.62;Fabrication de serrures et de ferrures
+Nace2025;25.63;Fabrication d’outillage
+Nace2025;25.91;Fabrication de fûts et emballages métalliques similaires
+Nace2025;25.92;Fabrication d’emballages métalliques légers
+Nace2025;25.93;Fabrication d’articles en fils métalliques, de chaînes et de ressorts
+Nace2025;25.94;Fabrication de vis, de boulons et d'écrous
+Nace2025;25.99;Fabrication d’autres produits métalliques nca
+Nace2025;26.11;Fabrication de composants électroniques
+Nace2025;26.12;Fabrication de cartes électroniques assemblées
+Nace2025;26.20;Fabrication d’ordinateurs et d’équipements périphériques
+Nace2025;26.30;Fabrication d’équipements de communication
+Nace2025;26.40;Fabrication de produits électroniques grand public
+Nace2025;26.51;Fabrication d’instruments et d’appareils de mesure, d’essai et de navigation
+Nace2025;26.52;Fabrication d'horloges et de montres
+Nace2025;26.60;Fabrication d’équipements d’irradiation médicale, d’équipements électromédicaux et électrothérapeutiques
+Nace2025;26.70;Fabrication de matériels optique et photographique et de supports magnétiques et optiques
+Nace2025;27.11;Fabrication de moteurs, génératrices et transformateurs électriques
+Nace2025;27.12;Fabrication de matériel de distribution et de commande électrique
+Nace2025;27.20;Fabrication de piles et d’accumulateurs électriques
+Nace2025;27.31;Fabrication de câbles de fibres optiques
+Nace2025;27.32;Fabrication d’autres fils et câbles électroniques ou électriques
+Nace2025;27.33;Fabrication de matériel d’installation électrique
+Nace2025;27.40;Fabrication d’appareils d’éclairage
+Nace2025;27.51;Fabrication d’appareils électroménagers
+Nace2025;27.52;Fabrication d’appareils ménagers non électriques
+Nace2025;27.90;Fabrication d’autres matériels électriques
+Nace2025;28.11;Fabrication de moteurs et turbines, à l’exception des moteurs d’avions, de véhicules automobiles et de cyclomoteurs
+Nace2025;28.12;Fabrication d’équipements de transmission de puissance hydrauliques et pneumatiques
+Nace2025;28.13;Fabrication d’autres pompes et compresseurs
+Nace2025;28.14;Fabrication d’autres articles de robinetterie
+Nace2025;28.15;Fabrication de roulements et de transmissions mécaniques
+Nace2025;28.21;Fabrication de fours et brûleurs et d’équipements fixes de chauffage domestique
+Nace2025;28.22;Fabrication de matériel de levage et de manutention
+Nace2025;28.23;Fabrication de machines et d’équipements de bureau (à l’exception des ordinateurs et équipements périphériques)
+Nace2025;28.24;Fabrication d’outillage portatif à moteur incorporé
+Nace2025;28.25;Fabrication de machines et d'appareils conditionnement d’air pour usage non domestique
+Nace2025;28.29;Fabrication de machines diverses d’usage général
+Nace2025;28.30;Fabrication de machines agricoles et forestières
+Nace2025;28.41;Fabrication de machines et machines-outils pour le formage et le travail des métaux
+Nace2025;28.42;Fabrication d’autres machines-outils
+Nace2025;28.91;Fabrication de machines pour la métallurgie
+Nace2025;28.92;Fabrication de machines pour l’extraction ou la construction
+Nace2025;28.93;Fabrication de machines pour l’industrie agroalimentaire et la transformation du tabac
+Nace2025;28.94;Fabrication de machines pour les industries textiles et du cuir
+Nace2025;28.95;Fabrication de machines pour les industries du papier et du carton
+Nace2025;28.96;Fabrication de machines pour le travail du caoutchouc ou des plastiques
+Nace2025;28.97;Fabrication de machines de fabrication additive
+Nace2025;28.99;Fabrication d’autres machines d’usage spécifique nca
+Nace2025;29.10;Construction de véhicules automobiles
+Nace2025;29.20;"Fabrication de carrosseries de véhicules automobiles; fabrication de remorques et de semi-remorques"
+Nace2025;29.31;Fabrication d’équipements électriques et électroniques pour véhicules automobiles
+Nace2025;29.32;Fabrication d'autres pièces et accessoires pour véhicules automobiles
+Nace2025;30.11;Construction de navires et de structures flottantes civiles
+Nace2025;30.12;Construction de bateaux de plaisance et de sport
+Nace2025;30.13;Construction de bateaux et navires militaires
+Nace2025;30.20;Construction de locomotives et d’autre matériel ferroviaire roulant
+Nace2025;30.31;Construction d’aéronefs et d’engins spatiaux civils et machines connexes
+Nace2025;30.32;Construction d’aéronefs et d’engins spatiaux militaires et machines connexes
+Nace2025;30.40;Construction de véhicules militaires de combat
+Nace2025;30.91;Fabrication de motocycles
+Nace2025;30.92;Fabrication de bicyclettes et de véhicules pour invalides
+Nace2025;30.99;Fabrication d’autres équipements de transport nca
+Nace2025;31.00;Fabrication de meubles
+Nace2025;32.11;Frappe de monnaie
+Nace2025;32.12;Fabrication d’articles de joaillerie et bijouterie
+Nace2025;32.13;Fabrication d’articles de bijouterie fantaisie et articles similaires
+Nace2025;32.20;Fabrication d’instruments de musique
+Nace2025;32.30;Fabrication d’articles de sport
+Nace2025;32.40;Fabrication de jeux et jouets
+Nace2025;32.50;Fabrication d’instruments et de fournitures à usage médical et dentaire
+Nace2025;32.91;Fabrication d’articles de brosserie
+Nace2025;32.99;Autres activités manufacturières nca
+Nace2025;33.11;Réparation et entretien d’ouvrages en métaux
+Nace2025;33.12;Réparation et entretien de machines
+Nace2025;33.13;Réparation et entretien de matériels électroniques et optiques
+Nace2025;33.14;Réparation et entretien d’équipements électriques
+Nace2025;33.15;Réparation et entretien de bateaux et navires civils
+Nace2025;33.16;Réparation et entretien d’aéronefs et d’engins spatiaux civils
+Nace2025;33.17;Réparation et entretien d’autres équipements de transport civils
+Nace2025;33.18;Réparation et entretien de véhicules de combat, de navires, de bateaux, d’aéronefs et d’engins spatiaux militaires
+Nace2025;33.19;Réparation et entretien d’autres équipements
+Nace2025;33.20;Installation de machines et d’équipements industriels
+Nace2025;35.11;Production d’électricité à partir de sources non renouvelables
+Nace2025;35.12;Production d’électricité à partir de sources renouvelables
+Nace2025;35.13;Transport d’électricité
+Nace2025;35.14;Distribution d’électricité
+Nace2025;35.15;Commerce d’électricité
+Nace2025;35.16;Stockage de l’électricité
+Nace2025;35.21;Production de gaz
+Nace2025;35.22;Distribution de combustibles gazeux par conduites
+Nace2025;35.23;Commerce de combustibles gazeux par conduites
+Nace2025;35.24;Stockage de gaz dans le cadre de services d’approvisionnement en réseau
+Nace2025;35.30;Production et distribution de vapeur et d’air conditionné
+Nace2025;35.40;Activités des courtiers et agents pour l’électricité et le gaz naturel
+Nace2025;36.00;Captage, traitement et distribution d’eau
+Nace2025;37.00;Collecte et traitement des eaux usées
+Nace2025;38.11;Collecte des déchets non dangereux
+Nace2025;38.12;Collecte des déchets dangereux
+Nace2025;38.21;Récupération de matériaux provenant de déchets
+Nace2025;38.22;Valorisation énergétique de déchets
+Nace2025;38.23;Autre valorisation des déchets
+Nace2025;38.31;Incinération sans récupération d’énergie
+Nace2025;38.32;Mise en décharge ou stockage permanent
+Nace2025;38.33;Autre élimination des déchets
+Nace2025;39.00;Activités de dépollution et autres activités de service de gestion des déchets
+Nace2025;41.00;Construction de bâtiments résidentiels et non résidentiels
+Nace2025;42.11;Construction de routes et autoroutes
+Nace2025;42.12;Construction de voies ferrées de surface et souterraines
+Nace2025;42.13;Construction de ponts et tunnels
+Nace2025;42.21;Construction d'ouvrages de génie civil pour les fluides
+Nace2025;42.22;Construction d'ouvrages de génie civil pour l'électricité et les télécommunications
+Nace2025;42.91;Construction d’ouvrages maritimes et fluviaux
+Nace2025;42.99;Construction d’autres ouvrages de génie civil nca
+Nace2025;43.11;Démolition
+Nace2025;43.12;Travaux de préparation des sites
+Nace2025;43.13;Forages et sondages
+Nace2025;43.21;Installation électrique
+Nace2025;43.22;Travaux de plomberie et installation de chauffage et de conditionnement d’air
+Nace2025;43.23;Mise en place de l’isolation
+Nace2025;43.24;Autres travaux d’installation
+Nace2025;43.31;Travaux de plâtrerie
+Nace2025;43.32;Travaux de menuiserie
+Nace2025;43.33;Travaux de revêtement des sols et des murs
+Nace2025;43.34;Travaux de peinture et vitrerie
+Nace2025;43.35;Autres travaux de finition
+Nace2025;43.41;Travaux de couverture
+Nace2025;43.42;Autres travaux de construction spécialisés dans la construction de bâtiments
+Nace2025;43.50;Travaux de construction spécialisés en génie civil
+Nace2025;43.60;Activités de service d’intermédiation pour des travaux de construction spécialisés
+Nace2025;43.91;Travaux de maçonnerie et de pose de briques
+Nace2025;43.99;Autres travaux de construction spécialisés nca
+Nace2025;46.11;Activités d’intermédiaire du commerce de gros en matières premières agricoles, animaux vivants, matières premières textiles et produits semi-finis
+Nace2025;46.12;Activités d’intermédiaire du commerce de gros en combustibles, minérais, métaux et produits chimiques
+Nace2025;46.13;Activités d’intermédiaire du commerce de gros en bois et matériaux de construction
+Nace2025;46.14;Activités d’intermédiaire du commerce de gros en machines, équipements industriels, navires et avions
+Nace2025;46.15;Activités d’intermédiaire du commerce de gros en meubles, biens domestiques et quincaillerie
+Nace2025;46.16;Activités d’intermédiaire du commerce de gros en textiles, habillement, fourrures, chaussures et articles en cuir
+Nace2025;46.17;Activités d’intermédiaire du commerce de gros en produits alimentaires et tabac
+Nace2025;46.18;Activités d’intermédiaire spécialisé dans le commerce de gros d’autres produits spécifiques
+Nace2025;46.19;Activités d’intermédiaire non spécialisé du commerce de gros
+Nace2025;46.21;Commerce de gros de céréales, de tabac non manufacturé, de semences et d’aliments pour animaux
+Nace2025;46.22;Commerce de gros de fleurs et de plantes
+Nace2025;46.23;Commerce de gros d’animaux vivants
+Nace2025;46.24;Commerce de gros de cuirs et de peaux
+Nace2025;46.31;Commerce de gros de fruits et légumes
+Nace2025;46.32;Commerce de gros de viande, de produits à base de viande, de poisson et de produits à base de poisson
+Nace2025;46.33;Commerce de gros de produits laitiers, œufs, huiles et matières grasses comestibles
+Nace2025;46.34;Commerce de gros de boissons
+Nace2025;46.35;Commerce de gros de produits à base de tabac
+Nace2025;46.36;Commerce de gros de sucre, chocolat et confiserie
+Nace2025;46.37;Commerce de gros de café, thé, cacao et épices
+Nace2025;46.38;Commerce de gros d’autres denrées alimentaires
+Nace2025;46.39;Commerce de gros non spécialisé de denrées, boissons et tabac
+Nace2025;46.41;Commerce de gros de textiles
+Nace2025;46.42;Commerce de gros d’habillement et de chaussures
+Nace2025;46.43;Commerce de gros d’appareils électroménagers
+Nace2025;46.44;Commerce de gros de vaisselle, verrerie et produits d’entretien
+Nace2025;46.45;Commerce de gros de parfumerie et de produits de beauté
+Nace2025;46.46;Commerce de gros de produits pharmaceutiques et médicaux
+Nace2025;46.47;Commerce de gros de meubles à usage domestique, de bureau et de magasin, de tapis et d’appareils d’éclairage
+Nace2025;46.48;Commerce de gros d’articles d’horlogerie et de bijouterie
+Nace2025;46.49;Commerce de gros d’autres biens domestiques
+Nace2025;46.50;Commerce de gros d’équipements de l’information et de la communication
+Nace2025;46.61;Commerce de gros de matériel agricole
+Nace2025;46.62;Commerce de gros de machines-outils
+Nace2025;46.63;Commerce de gros de machines pour l’extraction, la construction et le génie civil
+Nace2025;46.64;Commerce de gros d’autres machines et équipements
+Nace2025;46.71;Commerce de gros de véhicules automobiles
+Nace2025;46.72;Commerce de gros de pièces et accessoires de véhicules automobiles
+Nace2025;46.73;Commerce de gros de motocycles et de pièces et accessoires pour motocycles
+Nace2025;46.81;Commerce de gros de combustibles solides, liquides et gazeux et de produits annexes
+Nace2025;46.82;Commerce de gros de minerais métalliques et de métaux
+Nace2025;46.83;Commerce de gros de bois, de matériaux de construction et d’appareils sanitaires
+Nace2025;46.84;Commerce de gros de quincaillerie et fournitures pour plomberie et chauffage
+Nace2025;46.85;Commerce de gros de produits chimiques
+Nace2025;46.86;Commerce de gros d’autres produits intermédiaires
+Nace2025;46.87;Commerce de gros de déchets et débris
+Nace2025;46.89;Autre commerce de gros spécialisé nca
+Nace2025;46.90;Commerce de gros non spécialisé
+Nace2025;47.11;Commerce de détail non spécialisé dans lequel les produits alimentaires et le tabac prédominent
+Nace2025;47.12;Autre commerce de détail non spécialisé
+Nace2025;47.21;Commerce de détail de fruits et légumes
+Nace2025;47.22;Commerce de détail de viande et de produits à base de viande
+Nace2025;47.23;Commerce de détail de poisson, de crustacés et de mollusques
+Nace2025;47.24;Commerce de détail de pain, de pâtisserie et de confiserie
+Nace2025;47.25;Commerce de détail de boissons
+Nace2025;47.26;Commerce de détail de produits à base de tabac
+Nace2025;47.27;Commerce de détail d’autres produits alimentaires
+Nace2025;47.30;Commerce de détail de carburants
+Nace2025;47.40;Commerce de détail d’équipements de l’information et de la communication
+Nace2025;47.51;Commerce de détail de textiles
+Nace2025;47.52;Commerce de détail de quincaillerie, de matériaux de construction et de bricolage, de peinture et de verre
+Nace2025;47.53;Commerce de détail de tapis, moquettes et revêtements de murs et de sols
+Nace2025;47.54;Commerce de détail d’appareils électroménagers
+Nace2025;47.55;Commerce de détail de meubles, d’appareils d’éclairage, de vaisselle et d’autres articles de ménage biens domestiques
+Nace2025;47.61;Commerce de détail de livres
+Nace2025;47.62;Commerce de détail de journaux et autres publications périodiques et de papeterie
+Nace2025;47.63;Commerce de détail d’articles de sport
+Nace2025;47.64;Commerce de détail de jeux et jouets
+Nace2025;47.69;Commerce de détail de biens culturels et de loisirs nca
+Nace2025;47.71;Commerce de détail d’habillement
+Nace2025;47.72;Commerce de détail de chaussures et d’articles en cuir
+Nace2025;47.73;Commerce de détail de produits pharmaceutiques
+Nace2025;47.74;Commerce de détail d’articles médicaux et orthopédiques
+Nace2025;47.75;Commerce de détail de produits cosmétiques et d'articles de toilette
+Nace2025;47.76;Commerce de détail de fleurs, plantes, engrais, animaux de compagnie et aliments pour ces animaux
+Nace2025;47.77;Commerce de détail d’articles d’horlogerie et de bijouterie
+Nace2025;47.78;Commerce de détail d’autres biens neufs
+Nace2025;47.79;Commerce de détail de biens d’occasion
+Nace2025;47.81;Commerce de détail de véhicules automobiles
+Nace2025;47.82;Commerce de détail de pièces et accessoires de véhicules automobiles
+Nace2025;47.83;Commerce de détail de motocycles et de pièces et accessoires de motocycles
+Nace2025;47.91;Activités de service d’intermédiation pour le commerce de détail non spécialisé
+Nace2025;47.92;Activités de service d’intermédiation pour le commerce de détail spécialisé
+Nace2025;49.11;Transport ferroviaire lourd de voyageurs
+Nace2025;49.12;Autre transport ferroviaire de voyageurs
+Nace2025;49.20;Transport ferroviaire de fret
+Nace2025;49.31;Transport régulier de voyageurs par route
+Nace2025;49.32;Transport non régulier de voyageurs par route
+Nace2025;49.33;Activités de service de transport de voyageurs sur demande par véhicule avec chauffeur
+Nace2025;49.34;Transport de voyageurs par téléphériques et remontées mécaniques
+Nace2025;49.39;Autre transport terrestre de voyageurs nca
+Nace2025;49.41;Transport routier de fret
+Nace2025;49.42;Activités de déménagement
+Nace2025;49.50;Transport par conduites
+Nace2025;50.10;Transports maritimes et côtiers de passagers
+Nace2025;50.20;Transports maritimes et côtiers de fret
+Nace2025;50.30;Transports fluviaux de passagers
+Nace2025;50.40;Transports fluviaux de fret
+Nace2025;51.10;Transports aériens de passagers
+Nace2025;51.21;Transports aériens de fret
+Nace2025;51.22;Transports spatiaux
+Nace2025;52.10;Entreposage et stockage
+Nace2025;52.21;Services auxiliaires des transports terrestres
+Nace2025;52.22;Services auxiliaires des transports par eau
+Nace2025;52.23;Services auxiliaires des transports aériens
+Nace2025;52.24;Manutention du fret
+Nace2025;52.25;Activités de service logistique
+Nace2025;52.26;Autres activités de soutien pour les transports
+Nace2025;52.31;Activités de service d’intermédiation pour le transport de fret
+Nace2025;52.32;Activités de service d’intermédiation pour le transport de passagers
+Nace2025;53.10;Activités de poste dans le cadre d’une obligation de service universel
+Nace2025;53.20;Autres activités de poste et de courrier
+Nace2025;53.30;Activités de service d’intermédiation pour des activités de poste et de courrier
+Nace2025;55.10;Hôtels et hébergement similaire
+Nace2025;55.20;Hébergement touristique et autre hébergement de courte durée
+Nace2025;55.30;Terrains de camping et parcs pour caravanes ou véhicules de loisirs
+Nace2025;55.40;Activités de service d’intermédiation pour l’hébergement
+Nace2025;55.90;Autres hébergements
+Nace2025;56.11;Activités de restaurant
+Nace2025;56.12;Activités de service de restauration mobile
+Nace2025;56.21;Activités de traiteur événementiel
+Nace2025;56.22;Activités de service contractuel de restauration et autres activités de service de restauration
+Nace2025;56.30;Activités de débit de boissons
+Nace2025;56.40;Activités de service d’intermédiation pour des activités de service de restauration
+Nace2025;58.11;Édition de livres
+Nace2025;58.12;Édition de journaux
+Nace2025;58.13;Édition de revues et de périodiques
+Nace2025;58.19;Autres activités d’édition, à l’exception de l’édition de logiciels
+Nace2025;58.21;Édition de jeux vidéo
+Nace2025;58.29;Édition d’autres logiciels
+Nace2025;59.11;Production de films cinématographiques, de vidéos et de programmes de télévision
+Nace2025;59.12;Post-production de films cinématographiques, de vidéos et de programmes de télévision
+Nace2025;59.13;Distribution de films cinématographiques et de vidéos
+Nace2025;59.14;Projection de films cinématographiques
+Nace2025;59.20;Enregistrement sonore et édition musicale
+Nace2025;60.10;Radiodiffusion et activités de distribution de contenu audio
+Nace2025;60.20;Programmation et diffusion télévisuelle et activités de distribution de contenu vidéo
+Nace2025;60.31;Activités d’agence de presse
+Nace2025;60.39;Autres activités de distribution de contenu
+Nace2025;61.10;Activités de télécommunications filaires, sans fil et satellitaires
+Nace2025;61.20;Activités de revente de télécommunications et activités de service d’intermédiation pour les télécommunications
+Nace2025;61.90;Autres activités de télécommunications
+Nace2025;62.10;Activités de programmation informatique
+Nace2025;62.20;Activités de conseil en informatique et de gestion d’installations informatiques
+Nace2025;62.90;Autres activités de service informatique
+Nace2025;63.10;Infrastructure informatique, traitement de données, hébergement et activités connexes
+Nace2025;63.91;Activités de portail de recherche sur le web
+Nace2025;63.92;Autres activités de service d'information
+Nace2025;64.11;Activités de banque centrale
+Nace2025;64.19;Autre intermédiation monétaire
+Nace2025;64.21;Activités de société holding
+Nace2025;64.22;Activités de conduit de financement
+Nace2025;64.31;Activités de fonds d’investissement sur le marché monétaire ou non monétaire
+Nace2025;64.32;Activités de fiducie, comptes de patrimoine et d’agence
+Nace2025;64.91;Crédit-bail
+Nace2025;64.92;Autre distribution de crédit
+Nace2025;64.99;Autres activités des services financiers, hors assurance et fonds de pension, nca
+Nace2025;65.11;Assurance vie
+Nace2025;65.12;Assurances non-vie
+Nace2025;65.20;Réassurance
+Nace2025;65.30;Fonds de pension
+Nace2025;66.11;Administration de marchés financiers
+Nace2025;66.12;Courtage de valeurs mobilières et de matières premières
+Nace2025;66.19;Autres activités auxiliaires de services financiers, hors assurance et fonds de pension
+Nace2025;66.21;Évaluation des risques et dommages
+Nace2025;66.22;Activités des agents et courtiers d’assurances
+Nace2025;66.29;Activités auxiliaires d’assurance et de fonds de pension nca
+Nace2025;66.30;Activités de gestion de fonds
+Nace2025;68.11;Achat et vente de biens propres
+Nace2025;68.12;Promotion immobilière
+Nace2025;68.20;Location et exploitation de biens immobiliers propres ou loués
+Nace2025;68.31;Activités de service d’intermédiation pour les activités immobilières
+Nace2025;68.32;Autres activités immobilières pour compte de tiers
+Nace2025;69.10;Activités juridiques
+Nace2025;69.20;"Activités de comptabilité, de tenue de comptes et d’audit; conseil fiscal"
+Nace2025;70.10;Activités des sièges sociaux
+Nace2025;70.20;Activités de conseil pour les affaires et autre conseil de gestion
+Nace2025;71.11;Activités d’architecture
+Nace2025;71.12;Activités d’ingénierie et de conseil technique connexe
+Nace2025;71.20;Activités de contrôle et analyses techniques
+Nace2025;72.10;Recherche et développement en sciences physiques et naturelles
+Nace2025;72.20;Recherche et développement en sciences humaines et sociales
+Nace2025;73.11;Activités d’agence de publicité
+Nace2025;73.12;Régie publicitaire de médias
+Nace2025;73.20;Études de marché et sondages
+Nace2025;73.30;Activités de conseil en relations publiques et communication
+Nace2025;74.11;Activités de design pour la création de mode ou les produits industriels
+Nace2025;74.12;Activités de design graphique et de communication visuelle
+Nace2025;74.13;Activités de design d’intérieur
+Nace2025;74.14;Autres activités spécialisées de design
+Nace2025;74.20;Activités photographiques
+Nace2025;74.30;Activités de traduction et d’interprétation
+Nace2025;74.91;Activités d'intermédiation et commercialisation de brevets
+Nace2025;74.99;Toutes les autres activités des professions libérales et autres activités scientifiques et techniques, nca
+Nace2025;75.00;Activités vétérinaires
+Nace2025;77.11;Location et location-bail de voitures et véhicules automobiles légers
+Nace2025;77.12;Location et location-bail de camions
+Nace2025;77.21;Location et location-bail d’articles de loisirs et de sport
+Nace2025;77.22;Location et location-bail d’autres biens personnels et domestiques
+Nace2025;77.31;Location et location-bail de matériel agricole
+Nace2025;77.32;Location et location-bail de machines et équipements pour la construction et le génie civil
+Nace2025;77.33;Location et location-bail de machines et équipements de bureau et d’ordinateurs
+Nace2025;77.34;Location et location-bail de matériels de transport par eau
+Nace2025;77.35;Location et location-bail de matériels de transport aérien
+Nace2025;77.39;Location et location-bail d’autres machines, équipements et biens nca
+Nace2025;77.40;Location-bail de propriété intellectuelle et de produits similaires, à l’exception des œuvres soumises à copyright
+Nace2025;77.51;Activités de service d’intermédiation pour la location et la location-bail de voitures, camping-cars et caravanes
+Nace2025;77.52;Activités de service d’intermédiation pour la location et la location-bail d’autres biens corporels et d’immobilisations incorporelles non financières
+Nace2025;78.10;Activités des agences de placement de main-d’œuvre
+Nace2025;78.20;Activités d’agence de travail temporaire et autre mise à disposition de ressources humaines
+Nace2025;79.11;Activités d’agence de voyage
+Nace2025;79.12;Activités de voyagiste
+Nace2025;79.90;Autres activités de service de réservation et activités connexes
+Nace2025;80.01;Activités d’investigation et de sécurité privée
+Nace2025;80.09;Activités de sécurité nca
+Nace2025;81.10;Activités de soutien combinées pour les installations
+Nace2025;81.21;Nettoyage courant des bâtiments
+Nace2025;81.22;Autres activités de nettoyage des bâtiments et nettoyage industriel
+Nace2025;81.23;Autres activités de nettoyage
+Nace2025;81.30;Activités de service d’aménagement paysager
+Nace2025;82.10;Activités de service de bureau et de soutien administratif
+Nace2025;82.20;Activités de centre d’appels
+Nace2025;82.30;Organisation de salons professionnels et congrès
+Nace2025;82.40;Activités de service d’intermédiation pour des services de soutien aux entreprises nca
+Nace2025;82.91;Activités d’agence de recouvrement et de bureau de crédit
+Nace2025;82.92;Activités de conditionnement
+Nace2025;82.99;Autres activités de service de soutien aux entreprises nca
+Nace2025;84.11;Activités d’administration publique générale
+Nace2025;84.12;Administration des soins de santé, de l’enseignement, des services culturels et des autres services sociaux
+Nace2025;84.13;Administration de et contribution à l’amélioration de l’efficacité des activités économiques
+Nace2025;84.21;Affaires étrangères
+Nace2025;84.22;Défense
+Nace2025;84.23;Justice
+Nace2025;84.24;Activités d’ordre public et de sécurité civile
+Nace2025;84.25;Activités de service d’incendie et de secours
+Nace2025;84.30;Sécurité sociale obligatoire
+Nace2025;85.10;Enseignement maternel
+Nace2025;85.20;Enseignement primaire
+Nace2025;85.31;Enseignement secondaire général
+Nace2025;85.32;Enseignement secondaire technique, professionnel et spécialisé
+Nace2025;85.33;Enseignement post-secondaire non supérieur
+Nace2025;85.40;Enseignement supérieur
+Nace2025;85.51;Enseignement de disciplines sportives et d’activités de loisirs
+Nace2025;85.52;Enseignement culturel
+Nace2025;85.53;Enseignement de la conduite de véhicules à moteurs, d'aéronefs et de bateaux
+Nace2025;85.59;Autre enseignement nca
+Nace2025;85.61;Activités de service d’intermédiation dans le domaine de l’appui scolaire et du tutorat
+Nace2025;85.69;Activités de soutien à l’enseignement nca
+Nace2025;86.10;Activités hospitalières
+Nace2025;86.21;Activités de médecine générale
+Nace2025;86.22;Activités de médecine spécialisée
+Nace2025;86.23;Activités de soins dentaires
+Nace2025;86.91;Activités d’imagerie médicale et de laboratoire d’analyse médicale
+Nace2025;86.92;Transport de patients par ambulance
+Nace2025;86.93;Activités des psychologues et psychothérapeutes, à l’exception des médecins
+Nace2025;86.94;Activités de soins infirmiers et de maïeutique
+Nace2025;86.95;Activités de physiothérapie
+Nace2025;86.96;Activités de médecine traditionnelle, complémentaire et alternative
+Nace2025;86.97;Activités de service d’intermédiation pour les services médicaux, dentaires et autres services pour la santé humaine
+Nace2025;86.99;Autres activités pour la santé humaine nca
+Nace2025;87.10;Activités d'hébergement médicalisé
+Nace2025;87.20;Activités d'hébergement social pour personnes souffrant de maladie mentale ou de toxicomanie
+Nace2025;87.30;Activités d'hébergement social pour personnes âgées ou en situation de handicap physique
+Nace2025;87.91;Activités de service d’intermédiation pour des activités de soins en établissement résidentiel
+Nace2025;87.99;Autres activités d'hébergement social nca
+Nace2025;88.10;Activités d’action sociale sans hébergement pour personnes âgées ou en situation de handicap
+Nace2025;88.91;Activités de garde d’enfants
+Nace2025;88.99;Autres activités d'action sociale sans hébergement nca
+Nace2025;90.11;Activités de création littéraire et de composition musicale
+Nace2025;90.12;Activités de création en arts visuels
+Nace2025;90.13;Autres activités de création artistique
+Nace2025;90.20;Activités de spectacle
+Nace2025;90.31;Gestion de lieux d’exposition artistique et de salles de spectacles
+Nace2025;90.39;Autres activités de soutien à la création artistique et aux spectacles
+Nace2025;91.11;Activités des bibliothèques
+Nace2025;91.12;Activités des centres d’archives
+Nace2025;91.21;Activités des musées et collections
+Nace2025;91.22;Activité des sites et monuments historiques
+Nace2025;91.30;Conservation, restauration et autres activités de soutien pour la préservation du patrimoine culturel
+Nace2025;91.41;Activités de gestion de jardins botaniques et zoologiques
+Nace2025;91.42;Activités de gestion de réserves naturelles
+Nace2025;92.00;Activités de jeux d’argent et de paris
+Nace2025;93.11;Gestion d’installations sportives
+Nace2025;93.12;Activités des clubs de sports
+Nace2025;93.13;Activités des centres de fitness
+Nace2025;93.19;Activités sportives nca
+Nace2025;93.21;Activités des parcs d’attractions et parcs à thèmes
+Nace2025;93.29;Activités récréatives et de loisirs nca
+Nace2025;94.11;Activités des organisations patronales et d'entreprises
+Nace2025;94.12;Activités des organisations professionnelles
+Nace2025;94.20;Activités des syndicats de salariés
+Nace2025;94.91;Activités des organisations religieuses
+Nace2025;94.92;Activités des organisations politiques
+Nace2025;94.99;Activités des organisations associatives nca
+Nace2025;95.10;Réparation et entretien d’ordinateurs et d’équipements de communication
+Nace2025;95.21;Réparation et entretien de produits électroniques grand public
+Nace2025;95.22;Réparation et entretien d’appareils électroménagers et d’équipements pour la maison et le jardin
+Nace2025;95.23;Réparation et entretien de chaussures et d’articles en cuir
+Nace2025;95.24;Réparation et entretien de meubles et d’équipements du foyer
+Nace2025;95.25;Réparation et entretien d’articles d’horlogerie et de bijouterie
+Nace2025;95.29;Réparation et entretien d’autres biens personnels ou domestiques nca
+Nace2025;95.31;Réparation et entretien d’automobiles
+Nace2025;95.32;Réparation et entretien de motocycles
+Nace2025;95.40;Activités de service d’intermédiation pour la réparation et l’entretien d’ordinateurs, de biens personnels et domestiques et d’automobiles et motocycles
+Nace2025;96.10;Blanchisserie-teinturerie
+Nace2025;96.21;Coiffure et activités de barbier
+Nace2025;96.22;Soins esthétiques et autres activités de traitement esthétique
+Nace2025;96.23;Activités de spa de jour, de sauna et de bain de vapeur
+Nace2025;96.30;Services funéraires et activités connexes
+Nace2025;96.40;Activités de service d’intermédiation pour des services aux personnes
+Nace2025;96.91;Activités d’offre de services domestiques aux personnes
+Nace2025;96.99;Autres activités de service aux personnes nca
+Nace2025;97.00;Activités des ménages en tant qu’employeurs de personnel domestique
+Nace2025;98.10;Activités indifférenciées des ménages en tant que producteurs de biens pour usage propre
+Nace2025;98.20;Activités indifférenciées des ménages en tant que producteurs de services pour usage propre
+Nace2025;99.00;Activités des organisations et organismes extraterritoriaux
