@@ -1,104 +1,107 @@
-# Résumé — 2026-11-05 13:51 UTC
+# Résumé — 2026-11-05 16:08 UTC
 
 - Population : 47085
-- Lues (dépôt exploitable) : 24040 (51.1 %)
-- Sans dépôt exploitable : 3607 (7.7 %)
-- Dernier dépôt antérieur à 2023 (ne déposent plus, contenu non servi par Authentic Data) : 532
+- Lues (dépôt exploitable) : 36585 (77.7 %)
+- Sans dépôt exploitable : 9787 (20.8 %)
+- Dernier dépôt antérieur à 2023 (ne déposent plus, contenu non servi par Authentic Data) : 713
 - En erreur (à retenter) : 0
-- Jamais interrogées : 18906
-- Retenues (150 000 € ≤ EBITDA ≤ 1 500 000 €) : 4756
-  - dont dans la bande stricte 400 k€–1,2 M€ : 1511
-  - dont EBITDA ≥ 300 000 € (bande_stricte = oui) : 2363
+- Jamais interrogées : 0
+- Retenues (150 000 € ≤ EBITDA ≤ 1 500 000 €) : 6589
+  - dont dans la bande stricte 400 k€–1,2 M€ : 2054
+  - dont EBITDA ≥ 300 000 € (bande_stricte = oui) : 3188
 
 ## Retenues par division NACE
 
 | Division | Retenues | Lues | Population |
 | --- | ---: | ---: | ---: |
-| 68 | 3051 | 12105 | 21366 |
-| 82 | 730 | 5067 | 11134 |
-| 81 | 372 | 3614 | 7924 |
-| 46 | 272 | 836 | 1319 |
-| 71 | 183 | 1107 | 2439 |
-| 56 | 76 | 798 | 1896 |
-| 96 | 50 | 392 | 734 |
-| 01 | 17 | 64 | 182 |
-| 03 | 5 | 57 | 91 |
+| 68 | 4170 | 17553 | 21366 |
+| 82 | 1052 | 8118 | 11134 |
+| 81 | 513 | 5830 | 7924 |
+| 46 | 362 | 1122 | 1319 |
+| 71 | 269 | 1900 | 2439 |
+| 56 | 115 | 1274 | 1896 |
+| 96 | 65 | 604 | 734 |
+| 01 | 36 | 112 | 182 |
+| 03 | 7 | 72 | 91 |
 
 ## Dix plus gros EBITDA parmi les retenues
 
 | BCE | Nom | Div. | Commune | Exercice | EBITDA | ETP |
 | --- | --- | --- | --- | --- | ---: | ---: |
+| 0895004944 | TOISON D'OR | 68 | Woluwe-Saint-Lambert | 2025-12-31 | 1 497 663 |  |
+| 0860738309 | GLP Willebroek | 68 | Bruxelles | 2025-12-31 | 1 497 338 | 0 |
 | 0723541707 | IMMO TERHILLS CENTRUM FACILITEITEN | 68 | Etterbeek | 2025-12-31 | 1 496 466 |  |
 | 0778652157 | Green4You | 68 | Saint-Josse-ten-Noode | 2025-12-31 | 1 496 060 |  |
 | 0474644061 | IMMO CARTON | 68 | Jodoigne | 2025-12-31 | 1 496 039 | 0.2 |
 | 0448972220 | GRAGER | 68 | Ixelles | 2025-12-31 | 1 495 596 | 0 |
 | 0401496856 | Pullman Bus | 68 | Chaumont-Gistoux | 2025-07-31 | 1 491 562 | 46.3 |
+| 0882715935 | MP HOLDINGS | 68 | Woluwe-Saint-Lambert | 2025-12-31 | 1 491 382 | 0 |
 | 0472421375 | 3 SQUARE | 68 | Gent | 2025-12-31 | 1 490 255 | 2.4 |
 | 0403355494 | ALMAFIN REAL ESTATE | 68 | Molenbeek-Saint-Jean | 2025-12-31 | 1 488 735 |  |
-| 0420836775 | KAUFFMAN | 46 | Aywaille | 2025-12-31 | 1 486 340 | 38.4 |
-| 0465720853 | WESTFALEN | 46 | Aalst | 2025-12-31 | 1 484 833 | 20.3 |
-| 0460551347 | Immo - Prim | 68 | Ixelles | 2025-12-31 | 1 484 215 |  |
 
 ## Couverture : sans dépôt par forme juridique
 
 | Forme | Population | Lues | Sans dépôt | Taux sans dépôt |
 | --- | ---: | ---: | ---: | ---: |
-| 610 | 31763 | 17280 | 102 | 1 % |
-| 014 | 5813 | 4642 | 72 | 2 % |
-| 015 | 2622 | 1447 | 18 | 1 % |
-| 612 | 2024 | 52 | 875 | 94 % |
-| 017 | 1160 | 271 | 579 | 68 % |
-| 011 | 1104 | 31 | 542 | 95 % |
-| 003 | 892 | 0 | 609 | 100 % |
-| 012 | 512 | 19 | 340 | 95 % |
-| 721 | 464 | 0 | 304 | 100 % |
-| 706 | 218 | 144 | 3 | 2 % |
-| 008 | 98 | 70 | 1 | 1 % |
-| 030 | 67 | 0 | 27 | 100 % |
-| 006 | 50 | 4 | 20 | 83 % |
-| 418 | 48 | 17 | 0 | 0 % |
-| 125 | 48 | 20 | 12 | 38 % |
-| 411 | 32 | 1 | 29 | 97 % |
-| 412 | 22 | 0 | 20 | 100 % |
-| 029 | 17 | 5 | 4 | 44 % |
-| 013 | 14 | 8 | 0 | 0 % |
-| 026 | 14 | 0 | 7 | 100 % |
+| 610 | 31763 | 27815 | 3755 | 12 % |
+| 014 | 5813 | 5585 | 161 | 3 % |
+| 015 | 2622 | 2286 | 23 | 1 % |
+| 612 | 2024 | 83 | 1905 | 96 % |
+| 017 | 1160 | 321 | 813 | 72 % |
+| 011 | 1104 | 48 | 1026 | 96 % |
+| 003 | 892 | 0 | 891 | 100 % |
+| 012 | 512 | 22 | 468 | 96 % |
+| 721 | 464 | 0 | 464 | 100 % |
+| 706 | 218 | 199 | 19 | 9 % |
+| 008 | 98 | 87 | 1 | 1 % |
+| 030 | 67 | 1 | 62 | 98 % |
+| 006 | 50 | 6 | 39 | 87 % |
+| 418 | 48 | 42 | 6 | 12 % |
+| 125 | 48 | 24 | 22 | 48 % |
+| 411 | 32 | 1 | 31 | 97 % |
+| 412 | 22 | 0 | 22 | 100 % |
+| 029 | 17 | 10 | 7 | 41 % |
+| 013 | 14 | 13 | 0 | 0 % |
+| 026 | 14 | 5 | 9 | 64 % |
 
 ## Couverture : sans dépôt par année de création
 
 | Création | Lues | Sans dépôt | Taux |
 | --- | ---: | ---: | ---: |
-| 2000-2014 | 3862 | 509 | 12 % |
-| 2015-2021 | 9405 | 1968 | 17 % |
-| 2022 | 2425 | 419 | 15 % |
-| 2023 | 692 | 141 | 17 % |
-| < 2000 | 7656 | 570 | 7 % |
+| 2000-2014 | 10352 | 1329 | 11 % |
+| 2015-2021 | 9405 | 1969 | 17 % |
+| 2022 | 2425 | 420 | 15 % |
+| 2023 | 2425 | 525 | 18 % |
+| 2024 | 2433 | 763 | 24 % |
+| 2025 | 1427 | 1985 | 58 % |
+| 2026 | 4 | 2025 | 100 % |
+| < 2000 | 8114 | 771 | 9 % |
 
 ## Motifs « sans dépôt »
 
-- 3509 × 404 sur /references
-- 1 × 14 dépôt(s) inexploitable(s): 2026-00275923:404 [m02-f-p/Ini
-- 1 × 8 dépôt(s) inexploitable(s): 2026-00165838:404 [m211-f-p/Ini
-- 1 × 22 dépôt(s) inexploitable(s): 2026-00150981:404 [m140-f-p/In
-- 1 × 9 dépôt(s) inexploitable(s): 2026-00157080:404 [m211-f-p/Ini
-- 1 × 27 dépôt(s) inexploitable(s): 2026-00279186:404 [m211-f-p/In
-- 1 × 69 dépôt(s) inexploitable(s): 2026-00173805:404 [m120-f-p/In
-- 1 × 3 dépôt(s) inexploitable(s): 2026-00538170:404 [m01-f-p/Init
+- 9653 × 404 sur /references
+- 1 × 12 dépôt(s) inexploitable(s): 2026-00343187:404 [m211-f-p/In
+- 1 × 8 dépôt(s) inexploitable(s): 2026-00214526:404 [m211-f-p/Ini
+- 1 × 6 dépôt(s) inexploitable(s): 2026-00165818:404 [m211-f-p/Ini
+- 1 × 53 dépôt(s) inexploitable(s): 2026-00131408:404 [m02-f-p/Ini
+- 1 × 20 dépôt(s) inexploitable(s): 2026-00557485:404 [m211-f-p/In
+- 1 × 6 dépôt(s) inexploitable(s): 2026-00157714:404 [m211-f-p/Ini
+- 1 × 3 dépôt(s) inexploitable(s): 2026-00538250:404 [m01-f-p/Init
 
 ## Qualité des données (sur les sociétés lues)
 
-- EBITDA dans la bande sans personnel déclaré : 3040
-- 630 absent : 2555
-- variation N/N-1 extrême : 1843
-- exercice ancien : 434
-- EBITDA > total du bilan : 342
-- exercice ≠ 12 mois : 162
-- dépôt plus récent inexploitable : 105
-- 9901 absent : 51
+- 630 absent : 4567
+- EBITDA dans la bande sans personnel déclaré : 4309
+- variation N/N-1 extrême : 2718
+- exercice ≠ 12 mois : 2662
+- EBITDA > total du bilan : 520
+- exercice ancien : 517
+- dépôt plus récent inexploitable : 127
+- 9901 absent : 80
 - devise USD : 1
 
-Exercice le plus récent disponible, par année de clôture : 2021: 10, 2022: 7, 2023: 417, 2024: 1482, 2025: 21552, 2026: 572
+Exercice le plus récent disponible, par année de clôture : 2021: 10, 2022: 8, 2023: 499, 2024: 2085, 2025: 33091, 2026: 892
 
-Schémas : m87-f: 13297, m81-f: 3941, m01-f: 2797, m07-f: 2727, m02-f: 573, m82-f: 273, m04-f: 172, m87-a: 74, m05-f: 64, m08-f: 61, m01-a: 26, m81-a: 22, m07-a: 12, m02-a: 1
+Schémas : m87-f: 21744, m81-f: 6039, m07-f: 3611, m01-f: 3533, m02-f: 727, m82-f: 364, m04-f: 212, m87-a: 116, m05-f: 76, m08-f: 73, m81-a: 38, m01-a: 35, m07-a: 16, m02-a: 1
 
 Détail ligne à ligne : `state/anomalies.csv`.
