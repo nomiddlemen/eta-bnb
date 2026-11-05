@@ -117,5 +117,9 @@ jobs:
         run: |
           git pull -q origin "${GITHUB_REF_NAME}" || true
           if [ -f "$STATE_DIR/TERMINE" ]; then echo "Finished, not chaining."; exit 0; fi
-          gh workflow run bnb.yml --ref "${GITHUB_REF_NAME}" -f mode=run \
-            -f population="$POPULATION" -f state_dir="$STATE_DIR" -f prefix="$OUT_PREFIX" -f band_low="$BAND_LOW"
+          for i in 1 2 3 4 5; do
+            gh workflow run bnb.yml --ref "${GITHUB_REF_NAME}" -f mode=run \
+              -f population="$POPULATION" -f state_dir="$STATE_DIR" -f prefix="$OUT_PREFIX" -f band_low="$BAND_LOW" && exit 0
+            echo "dispatch failed (attempt $i), retrying"; sleep $((15 * i))
+          done
+          exit 1
