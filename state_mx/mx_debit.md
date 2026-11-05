@@ -22,3 +22,11 @@
 - codes HTTP : {404: 10490, 200: 134}
 - en-têtes de quota vus : aucun
 
+# Débit et limites — passe 20261105T165954
+
+- appels : 6339 en 16 min (397 appels/min)
+- rythme autorisé : départ 4.0/s, fin 8.00/s, plus bas 4.00/s, plafond 8.0/s
+- HTTP 429 : 0, 5xx/429 total : 11, réponses vides corrigées en relance : 0, erreurs réseau : 0
+- codes HTTP : {404: 6292, 200: 36, 500: 1, 502: 10}
+- en-têtes de quota vus : aucun
+
