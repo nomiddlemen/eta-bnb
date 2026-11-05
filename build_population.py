@@ -22,6 +22,9 @@ DIVISIONS = {f"{d:02d}" for d in [*range(5, 10), *range(10, 34), 35, *range(36, 
 EXTRA = {d.strip().zfill(2) for d in os.environ.get("EXTRA_DIVISIONS", "").split(",") if d.strip()}
 # Mission 4: a list of NACE classes (e.g. "01.63,96.01") replaces the sections B/C/D/E/H test.
 CLASSES = {c.replace(".", "").strip() for c in os.environ.get("CLASSES", "").split(",") if c.strip()}
+# The same classes in NACE-BEL 2008 numbering, for companies whose latest codes are still 2008 ones.
+CLASSES_2008 = {c.replace(".", "").strip() for c in os.environ.get("CLASSES_2008", "").split(",") if c.strip()}
+NACE_DUMP = os.environ.get("NACE_DUMP", "")  # optional: write every NACE class label (2025 and 2008) here
 # Postcode ranges, default = first pass (Brussels + Wallonia).
 ZONES = [tuple(map(int, z.split("-"))) for z in os.environ.get("ZONES", "1000-1499,4000-7999").split(",")]
 # Preferred denomination language: KBO codes 1 = FR, 2 = NL, 3 = DE.
@@ -76,7 +79,8 @@ def main(src, dst="data/bce_industrie.csv.gz"):
         ver = max(versions)  # most recent NACE version available for this entity
         codes = versions[ver]
         if CLASSES:
-            hits = [c for _, c in codes if c.replace(".", "")[:4] in CLASSES]
+            wanted = CLASSES_2008 if ver == "2008" else CLASSES
+            hits = [c for _, c in codes if c.replace(".", "")[:4] in wanted]
             extra = []
         else:
             hits = [c for _, c in codes if c[:2] in DIVISIONS]
@@ -87,7 +91,7 @@ def main(src, dst="data/bce_industrie.csv.gz"):
         main_codes = [c for cl, c in codes if cl == "MAIN"]
         if CLASSES:
             principal = next((c for c in main_codes if c in hits), hits[0])
-            classes = ",".join(sorted({c.replace(".", "")[:4] for c in hits}))
+            classes = ",".join(sorted({c.replace(".", "")[:4] + ("/2008" if ver == "2008" else "") for c in hits}))
             keep[n] = (principal, ",".join(sorted(set(c for _, c in codes))), principal[:2], classes)
             continue
         principal = next((c for c in main_codes if c[:2] in DIVISIONS),
@@ -127,10 +131,18 @@ def main(src, dst="data/bce_industrie.csv.gz"):
 def write_class_labels(zf, keep, dst):
     """Official FR labels of each target class (NACE-BEL 2025 and 2008) and how many companies matched."""
     labels = defaultdict(dict)
+    every = []
     for r in rows(zf, "code.csv"):
         cat, code = r["Category"], r["Code"].replace(".", "")
-        if cat in ("Nace2025", "Nace2008") and r["Language"] == "FR" and code in CLASSES:
+        if cat in ("Nace2025", "Nace2008") and r["Language"] == "FR":
             labels[code][cat] = r["Description"]
+            if len(code) == 4:
+                every.append((cat, f"{code[:2]}.{code[2:]}", r["Description"]))
+    if NACE_DUMP:
+        with open(NACE_DUMP, "w", encoding="utf-8", newline="") as f:
+            w = csv.writer(f, delimiter=";", lineterminator="\n")
+            w.writerow(["version", "classe", "libelle"])
+            w.writerows(sorted(every))
     count = defaultdict(int)
     for v in keep.values():
         for c in v[3].split(","):
@@ -138,12 +150,10 @@ def write_class_labels(zf, keep, dst):
     out = dst.replace(".csv.gz", "_classes.csv")
     with open(out, "w", encoding="utf-8", newline="") as f:
         w = csv.writer(f, delimiter=";", lineterminator="\n")
-        w.writerow(["classe", "libelle_nace2025", "libelle_nace2008", "societes"])
-        for c in sorted(CLASSES):
-            w.writerow([f"{c[:2]}.{c[2:]}", labels[c].get("Nace2025", "ABSENT"),
-                        labels[c].get("Nace2008", "ABSENT"), count[c]])
-            print(f"{c}: 2025={labels[c].get('Nace2025', 'ABSENT')!r} 2008={labels[c].get('Nace2008', 'ABSENT')!r} "
-                  f"n={count[c]}", file=sys.stderr)
+        w.writerow(["classe", "version", "libelle_officiel", "societes"])
+        for ver, cat, wanted, suffix in (("2025", "Nace2025", CLASSES, ""), ("2008", "Nace2008", CLASSES_2008, "/2008")):
+            for c in sorted(wanted):
+                w.writerow([f"{c[:2]}.{c[2:]}", ver, labels[c].get(cat, "ABSENT"), count[c + suffix]])
 
 
 if __name__ == "__main__":
