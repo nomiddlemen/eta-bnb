@@ -18,6 +18,9 @@ on:
       classes:
         description: "NACE classes replacing sections B/C/D/E/H (e.g. 01.63,96.01)"
         default: ""
+      classes_2008:
+        description: "Same classes in NACE-BEL 2008 numbering, for companies without 2025 codes"
+        default: ""
       name_lang:
         description: "Preferred name language (fr, nl, or auto = by postcode)"
         default: fr
@@ -62,6 +65,8 @@ jobs:
           EXTRA_DIVISIONS: ${{ inputs.extra_divisions }}
           NAME_LANG: ${{ inputs.name_lang }}
           CLASSES: ${{ inputs.classes }}
+          CLASSES_2008: ${{ inputs.classes_2008 }}
+          NACE_DUMP: data/nace_classes.csv
         run: python build_population.py kbo.zip "${{ inputs.output }}"
       - name: Commit
         run: |
@@ -70,6 +75,7 @@ jobs:
           git add "${{ inputs.output }}"
           classes_file="${{ inputs.output }}"; classes_file="${classes_file%.csv.gz}_classes.csv"
           if [ -f "$classes_file" ]; then git add "$classes_file"; fi
+          if [ -f data/nace_classes.csv ]; then git add data/nace_classes.csv; fi
           git diff --cached --quiet && exit 0
           git commit -m "population: rebuild from KBO open data"
           git pull --rebase origin "${GITHUB_REF_NAME}" && git push origin "HEAD:${GITHUB_REF_NAME}"
