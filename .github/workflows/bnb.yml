@@ -22,6 +22,9 @@ on:
       prefix:
         description: "Output file prefix (e.g. fl_)"
         default: ""
+      band_low:
+        description: "EBITDA floor in euros for retenues (default 300000)"
+        default: "300000"
 
 permissions:
   contents: write
@@ -41,6 +44,7 @@ jobs:
       POPULATION: ${{ inputs.population || 'data/bce_industrie.csv.gz' }}
       STATE_DIR: ${{ inputs.state_dir || 'state' }}
       OUT_PREFIX: ${{ inputs.prefix || '' }}
+      BAND_LOW: ${{ inputs.band_low || '300000' }}
     steps:
       - uses: actions/checkout@v4
 
@@ -114,4 +118,4 @@ jobs:
           git pull -q origin "${GITHUB_REF_NAME}" || true
           if [ -f "$STATE_DIR/TERMINE" ]; then echo "Finished, not chaining."; exit 0; fi
           gh workflow run bnb.yml --ref "${GITHUB_REF_NAME}" -f mode=run \
-            -f population="$POPULATION" -f state_dir="$STATE_DIR" -f prefix="$OUT_PREFIX"
+            -f population="$POPULATION" -f state_dir="$STATE_DIR" -f prefix="$OUT_PREFIX" -f band_low="$BAND_LOW"

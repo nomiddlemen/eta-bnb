@@ -15,8 +15,11 @@ on:
       extra_divisions:
         description: "Extra NACE divisions kept but flagged (e.g. 43,46,47)"
         default: ""
+      classes:
+        description: "NACE classes replacing sections B/C/D/E/H (e.g. 01.63,96.01)"
+        default: ""
       name_lang:
-        description: "Preferred name language (fr or nl)"
+        description: "Preferred name language (fr, nl, or auto = by postcode)"
         default: fr
       output:
         description: "Output file"
@@ -58,12 +61,15 @@ jobs:
           ZONES: ${{ inputs.zones }}
           EXTRA_DIVISIONS: ${{ inputs.extra_divisions }}
           NAME_LANG: ${{ inputs.name_lang }}
+          CLASSES: ${{ inputs.classes }}
         run: python build_population.py kbo.zip "${{ inputs.output }}"
       - name: Commit
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add "${{ inputs.output }}"
+          classes_file="${{ inputs.output }}"; classes_file="${classes_file%.csv.gz}_classes.csv"
+          if [ -f "$classes_file" ]; then git add "$classes_file"; fi
           git diff --cached --quiet && exit 0
           git commit -m "population: rebuild from KBO open data"
           git pull --rebase origin "${GITHUB_REF_NAME}" && git push origin "HEAD:${GITHUB_REF_NAME}"
