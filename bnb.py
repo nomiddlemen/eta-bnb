@@ -53,7 +53,9 @@ RATE_MAX = float(os.environ.get("RATE_MAX", "8"))  # never exceed this
 RATE_MIN = float(os.environ.get("RATE_MIN", "1"))  # never slow below this; 429 backoff still applies
 SANS_DEPOT_PASSES = 3  # a company with no deposit after this many separate passes is final
 
-BAND_LOW, BAND_HIGH = 300_000, 1_500_000
+BAND_LOW = int(os.environ.get("BAND_LOW", "300000"))  # mission 4: 150 000, flagged against the strict floor
+BAND_HIGH = 1_500_000
+STRICT_LOW = 300_000
 MAX_TRIES = 7
 EMPTY_RECHECKS = (3, 12)      # seconds to wait before re-asking an empty /references
 MAX_DEPOSITS_TRIED = 8        # fall back to older deposits if the latest is unusable
@@ -87,6 +89,7 @@ RUBRICS = {
 TOUT_COLS = ["bce", "nom", "division", "commune", "exercice", "ebitda", "bilan"]
 # Population files built with EXTRA_DIVISIONS carry this flag; it is appended to both outputs.
 FLAG_COL = "hors_sections_industrielles"
+CLASS_COL = "classes"  # target NACE classes a company matched (mission 4)
 RETENUES_COLS = [
     "bce", "nom", "division", "commune", "nace", "exercice", "schema", "ebitda",
     "ebitda_n1", "marge_brute", "amortissements", "bilan", "immo_corp", "terrains",
@@ -578,6 +581,7 @@ def load_population():
             "forme": r.get("forme", ""),
             "creation": r.get("creation", ""),
             FLAG_COL: r.get(FLAG_COL, ""),
+            CLASS_COL: r.get(CLASS_COL, ""),
         }
     return out
 
@@ -640,8 +644,18 @@ def write_outputs(population, lues, last_attempt):
     if flag:  # records read before the flag existed take it from the population
         for r in rows:
             r[FLAG_COL] = population.get(r["bce"], {}).get(FLAG_COL, "")
-    write_atomic(os.path.join(STATE, PREFIX + "tout.csv"), to_csv(rows, TOUT_COLS + flag))
-    write_atomic(os.path.join(STATE, PREFIX + "retenues.csv"), to_csv(retenues, RETENUES_COLS + flag))
+    extra = list(flag)
+    if any(c.get(CLASS_COL) for c in population.values()):
+        extra.append(CLASS_COL)
+        for r in rows:
+            r[CLASS_COL] = population.get(r["bce"], {}).get(CLASS_COL, "")
+    write_atomic(os.path.join(STATE, PREFIX + "tout.csv"), to_csv(rows, TOUT_COLS + extra))
+    strict = []
+    if BAND_LOW < STRICT_LOW:
+        strict = ["bande_stricte"]
+        for r in retenues:
+            r["bande_stricte"] = "oui" if r["ebitda"] >= STRICT_LOW else "non"
+    write_atomic(os.path.join(STATE, PREFIX + "retenues.csv"), to_csv(retenues, RETENUES_COLS + extra + strict))
     sans = sorted(b for b, t in last_attempt.items() if t["status"] == "sans_depot")
     write_atomic(os.path.join(STATE, PREFIX + "sans_depot.txt"), "".join(b + "\n" for b in sans))
     write_atomic(os.path.join(STATE, PREFIX + "depot_ancien.csv"), to_csv(
@@ -674,6 +688,9 @@ def summary(population, lues, last_attempt):
     L.append(f"- Retenues ({BAND_LOW:,} € ≤ EBITDA ≤ {BAND_HIGH:,} €) : {len(retenues)}".replace(",", " "))
     L.append(f"  - dont dans la bande stricte 400 k€–1,2 M€ : "
              f"{sum(1 for r in retenues if 400_000 <= r['ebitda'] <= 1_200_000)}")
+    if BAND_LOW < STRICT_LOW:
+        L.append(f"  - dont EBITDA ≥ 300 000 € (bande_stricte = oui) : "
+                 f"{sum(1 for r in retenues if r['ebitda'] >= STRICT_LOW)}")
     if any(c.get(FLAG_COL) for c in population.values()):
         hp = sum(1 for c in population.values() if c.get(FLAG_COL) == "oui")
         hl = sum(1 for r in rows if population.get(r["bce"], {}).get(FLAG_COL) == "oui")
